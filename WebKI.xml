@@ -1,0 +1,742 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Address property" Url="html/15ceb414-caac-5d03-68f9-19a686e08fc8.htm" />
+  <HelpKINode Title="Adequate field" Url="html/fdcc2d30-f631-5b1c-982e-c46be63c804c.htm" />
+  <HelpKINode Title="AppId property" Url="html/f7f94068-e2c1-59b0-4a5d-736816a1e75e.htm" />
+  <HelpKINode Title="ApplicationCommands property" Url="html/bbcffcbc-5226-7e50-96a9-241b6feb727d.htm" />
+  <HelpKINode Title="ApplicationLink property" Url="html/1049e72b-5c00-3734-a6d3-e28c02bb67cd.htm" />
+  <HelpKINode Title="ApplicationName property" Url="html/74ccfb59-90fb-fe69-7614-41d42414fbc6.htm" />
+  <HelpKINode Title="Appointments field" Url="html/e17fbf10-4308-d86d-7c20-5d751ccf089a.htm" />
+  <HelpKINode Title="AvailableFormats property" Url="html/c9f91d40-e64b-e438-d0db-854dd2f0f6e7.htm" />
+  <HelpKINode Title="BasicGeopositionExtensions class">
+    <HelpKINode Title="BasicGeopositionExtensions Class" Url="html/ee60e81a-28e6-9058-8649-6e2b3c1e5d4d.htm" />
+    <HelpKINode Title="about BasicGeopositionExtensions class" Url="html/ee60e81a-28e6-9058-8649-6e2b3c1e5d4d.htm" />
+    <HelpKINode Title="methods" Url="html/968f414e-cffa-3ea1-f9a5-a19ea669675c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo method" Url="html/f2e2e652-7fa0-1551-78f0-9b2cfa1541f0.htm" />
+  <HelpKINode Title="BatteryStatus class">
+    <HelpKINode Title="BatteryStatus Class" Url="html/730c5226-83ae-bcde-648c-b75302e3c07e.htm" />
+    <HelpKINode Title="about BatteryStatus class" Url="html/730c5226-83ae-bcde-648c-b75302e3c07e.htm" />
+    <HelpKINode Title="fields" Url="html/db64e0bf-8129-b56b-96eb-6f65d8df3fd8.htm" />
+    <HelpKINode Title="methods" Url="html/45547d6c-3268-9ac4-69a7-b8d1baffc98f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BatteryStatus property" Url="html/17cd42fb-b321-455f-7473-21275c80d0e6.htm" />
+  <HelpKINode Title="BatteryStatus.Charging field" Url="html/9be33d8f-1619-e2dc-91ac-4ee8e153e6d6.htm" />
+  <HelpKINode Title="BatteryStatus.Discharging field" Url="html/c999b7b9-a8d9-3c10-3950-890e44d7d090.htm" />
+  <HelpKINode Title="BatteryStatus.Idle field" Url="html/7e7fa560-7fb6-cbb8-6159-85f2568ea347.htm" />
+  <HelpKINode Title="BatteryStatus.NotPresent field" Url="html/79b1c90b-9ad3-02fe-a343-b80e6b948dde.htm" />
+  <HelpKINode Title="BatteryStatus.value__ field" Url="html/56a07419-49fb-9764-506a-65db107d8a26.htm" />
+  <HelpKINode Title="Bcc property" Url="html/92adb9a0-9065-fac8-79a4-cecc7e84c5ff.htm" />
+  <HelpKINode Title="BeginInvoke method">
+    <HelpKINode Title="DataProviderHandler.BeginInvoke Method " Url="html/3b325938-13b8-5c1e-bab9-b9006ad88fc7.htm" />
+    <HelpKINode Title="NetworkStatusChangedEventHandler.BeginInvoke Method " Url="html/06a4f851-3ce9-0876-eb07-5220de5d0867.htm" />
+    <HelpKINode Title="UICommandInvokedHandler.BeginInvoke Method " Url="html/ffe8d3d3-fadd-58e3-2198-711790491413.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Bluetooth field" Url="html/cf2c2c07-2a42-f9d2-2709-6c8eb0f38c12.htm" />
+  <HelpKINode Title="Body property">
+    <HelpKINode Title="ChatMessage.Body Property " Url="html/e9ebac5c-b8e9-5c63-cdd7-fe9dae280e24.htm" />
+    <HelpKINode Title="EmailMessage.Body Property " Url="html/dd56be0b-7edd-3f22-0caa-3035e1a75e0a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Camera field" Url="html/cfc6a068-1324-0375-0350-555aa3fedaa2.htm" />
+  <HelpKINode Title="Capabilities property" Url="html/26929291-d371-e9a5-0fce-adaabc70f6ff.htm" />
+  <HelpKINode Title="Capability class">
+    <HelpKINode Title="Capability Class" Url="html/77f01776-6017-546e-02d0-b0bc84a0a8e1.htm" />
+    <HelpKINode Title="about Capability class" Url="html/77f01776-6017-546e-02d0-b0bc84a0a8e1.htm" />
+    <HelpKINode Title="fields" Url="html/1e4f0bda-5408-a909-63ba-e028bc73095c.htm" />
+    <HelpKINode Title="methods" Url="html/464e4889-62d5-965a-5dbc-0417c4e10a14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Capability.Appointments field" Url="html/e17fbf10-4308-d86d-7c20-5d751ccf089a.htm" />
+  <HelpKINode Title="Capability.Contacts field" Url="html/71c3966d-02ef-1ebe-5761-9898097330de.htm" />
+  <HelpKINode Title="Capability.DocumentsLibrary field" Url="html/1ed0e7c6-3da6-0b38-27ae-543c0fa16aa4.htm" />
+  <HelpKINode Title="Capability.EnterpriseAuthentication field" Url="html/2b7312a4-aed8-b19b-9c61-ef358e04d11a.htm" />
+  <HelpKINode Title="Capability.Internet field" Url="html/c82f9ce8-2bc7-d62a-f625-713ceaf32adb.htm" />
+  <HelpKINode Title="Capability.Music field" Url="html/282e2f75-5551-ed1a-4fb9-7416d9de42b7.htm" />
+  <HelpKINode Title="Capability.PhoneDialer field" Url="html/3dddde4f-bed4-149d-60e3-e90b5b2c8b1d.htm" />
+  <HelpKINode Title="Capability.Pictures field" Url="html/a0a7b436-7839-dd21-07e2-dcd9eb36f70e.htm" />
+  <HelpKINode Title="Capability.PushNotification field" Url="html/60ca4c0b-d074-6fc8-b923-0ec39b11d4a5.htm" />
+  <HelpKINode Title="Capability.RemovableStorage field" Url="html/6ccb62ea-acc6-81fd-fe48-9834976988c0.htm" />
+  <HelpKINode Title="Capability.SharedUserCertificates field" Url="html/7c66ce3f-da9c-4204-4c98-b755a989c4f3.htm" />
+  <HelpKINode Title="Capability.SpeechRecognition field" Url="html/1dd1db6a-bcef-208f-a280-3b57a8a98b44.htm" />
+  <HelpKINode Title="Capability.value__ field" Url="html/26cec91f-7df2-b46d-1513-74ef81419df2.htm" />
+  <HelpKINode Title="Capability.Videos field" Url="html/9bcd295d-d355-98d9-6130-4e1a082216c5.htm" />
+  <HelpKINode Title="Capability.Voip field" Url="html/e32a02ab-5e6a-4d2b-03d3-560eeb02336f.htm" />
+  <HelpKINode Title="Capability.Wallet field" Url="html/406d2af7-237f-4aea-d134-71c56cc9aff0.htm" />
+  <HelpKINode Title="CC property" Url="html/6c7f7a1c-0fc8-06de-c09d-213dde8d294f.htm" />
+  <HelpKINode Title="Charging field" Url="html/9be33d8f-1619-e2dc-91ac-4ee8e153e6d6.htm" />
+  <HelpKINode Title="ChatMessage class">
+    <HelpKINode Title="ChatMessage Class" Url="html/cfbbeb89-7416-98d8-3e17-d959fc668020.htm" />
+    <HelpKINode Title="about ChatMessage class" Url="html/cfbbeb89-7416-98d8-3e17-d959fc668020.htm" />
+    <HelpKINode Title="constructor" Url="html/e3a763b1-476a-b240-5c9c-1243a3ef2178.htm" />
+    <HelpKINode Title="methods" Url="html/99702846-440a-2f23-eb8e-a5963fcdfd00.htm" />
+    <HelpKINode Title="properties" Url="html/114275ce-18e2-58c6-d819-7b6ce03a2936.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChatMessage.Body property" Url="html/e9ebac5c-b8e9-5c63-cdd7-fe9dae280e24.htm" />
+  <HelpKINode Title="ChatMessage.ChatMessage constructor" Url="html/e3a763b1-476a-b240-5c9c-1243a3ef2178.htm" />
+  <HelpKINode Title="ChatMessage.Recipients property" Url="html/46001be2-e66e-5b6f-ff44-9f48d3f55453.htm" />
+  <HelpKINode Title="ChatMessageManager class">
+    <HelpKINode Title="ChatMessageManager Class" Url="html/4d9dae37-9e4c-74b8-aa5e-f762b78a3da0.htm" />
+    <HelpKINode Title="about ChatMessageManager class" Url="html/4d9dae37-9e4c-74b8-aa5e-f762b78a3da0.htm" />
+    <HelpKINode Title="methods" Url="html/52064849-6a13-fc96-f87b-851c85895b9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChatMessageManager.ShowComposeSmsMessageAsync method" Url="html/410a1853-dcb2-724f-c918-5b8b5f49703e.htm" />
+  <HelpKINode Title="Clear method" Url="html/76ef146f-3d0f-1e20-b561-d2c42c589825.htm" />
+  <HelpKINode Title="Clipboard class">
+    <HelpKINode Title="Clipboard Class" Url="html/4b08e136-af70-8f29-ea28-40e56b8a65a3.htm" />
+    <HelpKINode Title="about Clipboard class" Url="html/4b08e136-af70-8f29-ea28-40e56b8a65a3.htm" />
+    <HelpKINode Title="events" Url="html/bb38eeef-076c-7195-e051-90bcfeb41c0b.htm" />
+    <HelpKINode Title="methods" Url="html/9397b38a-7cea-abd4-fc3d-518584614192.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Clipboard.Clear method" Url="html/76ef146f-3d0f-1e20-b561-d2c42c589825.htm" />
+  <HelpKINode Title="Clipboard.ContentChanged event" Url="html/c29955f1-4aa9-fbcc-3af3-a0d6ad9f87ba.htm" />
+  <HelpKINode Title="Clipboard.GetContent method" Url="html/868aaa30-485e-04ba-bd38-34c9db7858eb.htm" />
+  <HelpKINode Title="Clipboard.SetContent method" Url="html/4fa7f713-edd3-9e8f-4597-dff552f6d003.htm" />
+  <HelpKINode Title="Commands property" Url="html/fc3eaa9d-eedc-9a5b-3c6d-9090869f4361.htm" />
+  <HelpKINode Title="CommandsRequested event" Url="html/ec4516a1-f6a8-39c7-5aef-c813494de5f7.htm" />
+  <HelpKINode Title="ConnectionProfile class">
+    <HelpKINode Title="ConnectionProfile Class" Url="html/fd31c16e-f9fc-1623-a5a4-6cd5bd6959dd.htm" />
+    <HelpKINode Title="about ConnectionProfile class" Url="html/fd31c16e-f9fc-1623-a5a4-6cd5bd6959dd.htm" />
+    <HelpKINode Title="methods" Url="html/30260fe2-a3c5-8ebb-83f8-b54d51b40913.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConnectionProfile.GetNetworkConnectivityLevel method" Url="html/d8b41e06-0ffa-59dd-06f2-54524a89a3bf.htm" />
+  <HelpKINode Title="ConstrainedInternetAccess field" Url="html/3caaeeb1-4d51-b976-bc39-9edb480a51d2.htm" />
+  <HelpKINode Title="Contacts field" Url="html/71c3966d-02ef-1ebe-5761-9898097330de.htm" />
+  <HelpKINode Title="Contains method" Url="html/dc8865c4-6d08-a5b7-f43f-1380caac07bc.htm" />
+  <HelpKINode Title="Content property" Url="html/d12db0ba-0a33-5ab6-6077-d855058bf19d.htm" />
+  <HelpKINode Title="ContentChanged event" Url="html/c29955f1-4aa9-fbcc-3af3-a0d6ad9f87ba.htm" />
+  <HelpKINode Title="Current property" Url="html/2b8ca07b-dbe0-5875-0237-63bc4b0052a5.htm" />
+  <HelpKINode Title="CurrentApp class">
+    <HelpKINode Title="CurrentApp Class" Url="html/7750df0a-4638-a84c-cd93-a85ee7fa75c2.htm" />
+    <HelpKINode Title="about CurrentApp class" Url="html/7750df0a-4638-a84c-cd93-a85ee7fa75c2.htm" />
+    <HelpKINode Title="methods" Url="html/109e47fb-e976-3d0a-0a1c-d70522b77396.htm" />
+    <HelpKINode Title="properties" Url="html/d38b089e-c768-e3f7-0b8b-87f7ba5d171a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CurrentApp.AppId property" Url="html/f7f94068-e2c1-59b0-4a5d-736816a1e75e.htm" />
+  <HelpKINode Title="CurrentApp.RequestDetailsAsync method" Url="html/64bfd9fa-91f7-f32f-ee8b-3d8b7dabbbd1.htm" />
+  <HelpKINode Title="CurrentApp.RequestReviewAsync method" Url="html/97e923a4-f7a5-a8cf-1479-8fdf1aeac514.htm" />
+  <HelpKINode Title="Data property" Url="html/2e4871e0-6091-8ccf-dc41-ea006f0baf79.htm" />
+  <HelpKINode Title="DataPackage class">
+    <HelpKINode Title="DataPackage Class" Url="html/148f74fc-3d16-d2f6-b804-6735d5697322.htm" />
+    <HelpKINode Title="about DataPackage class" Url="html/148f74fc-3d16-d2f6-b804-6735d5697322.htm" />
+    <HelpKINode Title="constructor" Url="html/b36cf932-0005-05d5-4e0f-19bd907dc9cb.htm" />
+    <HelpKINode Title="methods" Url="html/ea84afcd-7e40-1d5b-233a-25cf71416520.htm" />
+    <HelpKINode Title="properties" Url="html/67a51fc2-7f48-5093-c984-ed715ce3d31d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataPackage.DataPackage constructor" Url="html/b36cf932-0005-05d5-4e0f-19bd907dc9cb.htm" />
+  <HelpKINode Title="DataPackage.GetView method" Url="html/3a798e28-e41a-3ef3-4a83-f197bd31685b.htm" />
+  <HelpKINode Title="DataPackage.Properties property" Url="html/d3abb07c-62aa-e413-561d-2a6c2feefdc5.htm" />
+  <HelpKINode Title="DataPackage.SetApplicationLink method" Url="html/7ade5f5e-9708-4e57-d0aa-c14ddc0a3599.htm" />
+  <HelpKINode Title="DataPackage.SetData method" Url="html/853f798e-11d2-a7f8-1875-3c3b4bfae2c5.htm" />
+  <HelpKINode Title="DataPackage.SetDataProvider method" Url="html/864dcfd4-262c-604d-ce05-f0bb7416508d.htm" />
+  <HelpKINode Title="DataPackage.SetText method" Url="html/f4be941e-cc6c-0cfc-8fc0-1bf28ca306c9.htm" />
+  <HelpKINode Title="DataPackage.SetWebLink method" Url="html/4d0b0125-0a66-bdd3-9771-00b9b2d0dc92.htm" />
+  <HelpKINode Title="DataPackagePropertySet class">
+    <HelpKINode Title="DataPackagePropertySet Class" Url="html/729487a5-9700-9f29-4748-2ba83487592e.htm" />
+    <HelpKINode Title="about DataPackagePropertySet class" Url="html/729487a5-9700-9f29-4748-2ba83487592e.htm" />
+    <HelpKINode Title="methods" Url="html/54135f1e-99f7-127d-9b84-390ecb8f10d3.htm" />
+    <HelpKINode Title="properties" Url="html/67986736-69c0-dc77-9218-e4769128b1e2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataPackagePropertySet.Description property" Url="html/587e5503-4109-0b0e-a5c1-e2f2fc3c5e54.htm" />
+  <HelpKINode Title="DataPackagePropertySet.Title property" Url="html/958dd37d-2602-a366-97d8-4d3e6806191a.htm" />
+  <HelpKINode Title="DataPackagePropertySetView class">
+    <HelpKINode Title="DataPackagePropertySetView Class" Url="html/e6447683-e12b-aa3d-347b-0469335cca74.htm" />
+    <HelpKINode Title="about DataPackagePropertySetView class" Url="html/e6447683-e12b-aa3d-347b-0469335cca74.htm" />
+    <HelpKINode Title="methods" Url="html/139cffb2-995e-6669-cf91-dd1f507637fa.htm" />
+    <HelpKINode Title="properties" Url="html/f45077e0-9434-cc20-5551-761683557bb1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataPackagePropertySetView.Description property" Url="html/538ae670-2573-c572-1137-07ea3054209f.htm" />
+  <HelpKINode Title="DataPackagePropertySetView.Title property" Url="html/f06d2b1b-b07e-8629-4368-56d33cb9051a.htm" />
+  <HelpKINode Title="DataPackageView class">
+    <HelpKINode Title="DataPackageView Class" Url="html/a7814782-8617-55e4-b801-b5ca4b54d182.htm" />
+    <HelpKINode Title="about DataPackageView class" Url="html/a7814782-8617-55e4-b801-b5ca4b54d182.htm" />
+    <HelpKINode Title="methods" Url="html/62a0aaf1-88bd-a6a4-71e1-57b0661b37b2.htm" />
+    <HelpKINode Title="properties" Url="html/fe1642df-9da7-0ced-e25e-02bcf8bc56fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataPackageView.AvailableFormats property" Url="html/c9f91d40-e64b-e438-d0db-854dd2f0f6e7.htm" />
+  <HelpKINode Title="DataPackageView.Contains method" Url="html/dc8865c4-6d08-a5b7-f43f-1380caac07bc.htm" />
+  <HelpKINode Title="DataPackageView.GetApplicationLinkAsync method" Url="html/d781717c-0078-67a6-78ad-9d3c72ac21bd.htm" />
+  <HelpKINode Title="DataPackageView.GetDataAsync method" Url="html/0033f68d-50d9-3ae5-0a06-63608646e935.htm" />
+  <HelpKINode Title="DataPackageView.GetTextAsync method" Url="html/944a5c7c-da0b-e1f1-80fa-a00357f8e991.htm" />
+  <HelpKINode Title="DataPackageView.GetWebLinkAsync method" Url="html/6fb522b8-e37d-7505-833c-454084a45386.htm" />
+  <HelpKINode Title="DataPackageView.Properties property" Url="html/44f01193-9a6e-7ec3-e130-313b6070ba06.htm" />
+  <HelpKINode Title="DataProviderHandler class">
+    <HelpKINode Title="DataProviderHandler Class" Url="html/9d3ae287-cd2d-a199-4010-e2cbc903b228.htm" />
+    <HelpKINode Title="about DataProviderHandler class" Url="html/9d3ae287-cd2d-a199-4010-e2cbc903b228.htm" />
+    <HelpKINode Title="constructor" Url="html/d3b9ba55-f868-a32d-a963-afdb1914c4e9.htm" />
+    <HelpKINode Title="methods" Url="html/ea6cf8c4-9317-b45d-895b-74e159ea4004.htm" />
+    <HelpKINode Title="properties" Url="html/7e75d48c-77ea-0c33-8782-62cd58cf44b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataProviderHandler.BeginInvoke method" Url="html/3b325938-13b8-5c1e-bab9-b9006ad88fc7.htm" />
+  <HelpKINode Title="DataProviderHandler.DataProviderHandler constructor" Url="html/d3b9ba55-f868-a32d-a963-afdb1914c4e9.htm" />
+  <HelpKINode Title="DataProviderHandler.EndInvoke method" Url="html/88ce994f-a25f-2e58-db7e-e7c159815a32.htm" />
+  <HelpKINode Title="DataProviderHandler.Invoke method" Url="html/25bc283f-35d8-5e02-eb65-7039462585e2.htm" />
+  <HelpKINode Title="DataProviderRequest class">
+    <HelpKINode Title="DataProviderRequest Class" Url="html/f505ff22-c58e-6ac8-6b64-e103ac9a4b5c.htm" />
+    <HelpKINode Title="about DataProviderRequest class" Url="html/f505ff22-c58e-6ac8-6b64-e103ac9a4b5c.htm" />
+    <HelpKINode Title="methods" Url="html/90b26e62-99db-e627-5558-2193dc8dd549.htm" />
+    <HelpKINode Title="properties" Url="html/7213df6c-f87d-9424-0ae3-43a9ab08dd80.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataProviderRequest.FormatId property" Url="html/d4e6c1b9-b4bf-0097-2ab8-dec78b787644.htm" />
+  <HelpKINode Title="DataProviderRequest.SetData method" Url="html/e1eb4717-e80a-3dd1-d7d3-65ead2846834.htm" />
+  <HelpKINode Title="DataRequest class">
+    <HelpKINode Title="DataRequest Class" Url="html/4be42dd2-634d-5a78-fd8b-f7d2022c82b9.htm" />
+    <HelpKINode Title="about DataRequest class" Url="html/4be42dd2-634d-5a78-fd8b-f7d2022c82b9.htm" />
+    <HelpKINode Title="methods" Url="html/501cec77-d248-8f49-a90e-2e38f35b3261.htm" />
+    <HelpKINode Title="properties" Url="html/af8baaa7-a7f0-d1ac-a28d-9896facd358e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataRequest.Data property" Url="html/2e4871e0-6091-8ccf-dc41-ea006f0baf79.htm" />
+  <HelpKINode Title="DataRequested event" Url="html/9c8851b4-b8e9-2e76-e872-5276c101769f.htm" />
+  <HelpKINode Title="DataRequestedEventArgs class">
+    <HelpKINode Title="DataRequestedEventArgs Class" Url="html/76e169c9-afa1-cdac-e8a4-636ab85d3a87.htm" />
+    <HelpKINode Title="about DataRequestedEventArgs class" Url="html/76e169c9-afa1-cdac-e8a4-636ab85d3a87.htm" />
+    <HelpKINode Title="methods" Url="html/17c49cbe-aa9f-4f0d-7f6e-7b25bfad209c.htm" />
+    <HelpKINode Title="properties" Url="html/a065186a-d97a-0d79-3024-de7818740873.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataRequestedEventArgs.Request property" Url="html/02518e24-b185-f6fb-a403-54c01a61ce89.htm" />
+  <HelpKINode Title="DataTransferManager class">
+    <HelpKINode Title="DataTransferManager Class" Url="html/a12774f7-d3cf-79e5-c13b-ccf9506e1c48.htm" />
+    <HelpKINode Title="about DataTransferManager class" Url="html/a12774f7-d3cf-79e5-c13b-ccf9506e1c48.htm" />
+    <HelpKINode Title="events" Url="html/267ea64c-c92a-9ad5-eaef-7db839e0c7da.htm" />
+    <HelpKINode Title="methods" Url="html/680394b0-affc-714f-281f-e6c49b44eb19.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataTransferManager.DataRequested event" Url="html/9c8851b4-b8e9-2e76-e872-5276c101769f.htm" />
+  <HelpKINode Title="DataTransferManager.GetForCurrentView method" Url="html/4bc09aa7-31a1-2035-7235-7e28579975cb.htm" />
+  <HelpKINode Title="DataTransferManager.ShowShareUI method" Url="html/5c6a9abe-f7da-b6d6-52db-41d75b4add8c.htm" />
+  <HelpKINode Title="DataTransferManager.TargetApplicationChosen event" Url="html/dc2f2b2f-cf58-0630-3322-ebe083b2e55a.htm" />
+  <HelpKINode Title="DefaultCommandIndex property" Url="html/542bb79d-c300-e5ba-34f3-3f2c5439a0f4.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="DataPackagePropertySet.Description Property " Url="html/587e5503-4109-0b0e-a5c1-e2f2fc3c5e54.htm" />
+    <HelpKINode Title="DataPackagePropertySetView.Description Property " Url="html/538ae670-2573-c572-1137-07ea3054209f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DesignMode class">
+    <HelpKINode Title="DesignMode Class" Url="html/78f00e4f-3767-a330-8060-8ec6399011d8.htm" />
+    <HelpKINode Title="about DesignMode class" Url="html/78f00e4f-3767-a330-8060-8ec6399011d8.htm" />
+    <HelpKINode Title="properties" Url="html/5f7feb15-dff1-055f-fa42-048cfc51359a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DesignMode.DesignModeEnabled property" Url="html/f8886241-e46f-9862-b4a3-4f07dc6cda54.htm" />
+  <HelpKINode Title="DesignModeEnabled property" Url="html/f8886241-e46f-9862-b4a3-4f07dc6cda54.htm" />
+  <HelpKINode Title="DeviceCapabilities property" Url="html/11e2282f-60ae-b98b-f96b-e2f491f519f9.htm" />
+  <HelpKINode Title="DeviceCapability class">
+    <HelpKINode Title="DeviceCapability Class" Url="html/b9a077fe-e854-a993-f745-9bf4141ab0c6.htm" />
+    <HelpKINode Title="about DeviceCapability class" Url="html/b9a077fe-e854-a993-f745-9bf4141ab0c6.htm" />
+    <HelpKINode Title="fields" Url="html/0990b446-f1ec-47d4-4d1b-7493b9ca3b9a.htm" />
+    <HelpKINode Title="methods" Url="html/3f4dd354-55ea-b11e-ad8d-9a772b253a4c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeviceCapability.Bluetooth field" Url="html/cf2c2c07-2a42-f9d2-2709-6c8eb0f38c12.htm" />
+  <HelpKINode Title="DeviceCapability.Camera field" Url="html/cfc6a068-1324-0375-0350-555aa3fedaa2.htm" />
+  <HelpKINode Title="DeviceCapability.HumanInterfaceDevice field" Url="html/ad55221d-bd67-efcf-abb6-9e2b63959a4d.htm" />
+  <HelpKINode Title="DeviceCapability.Location field" Url="html/dedd494f-ba73-03b4-ffaa-7505fb7e09b4.htm" />
+  <HelpKINode Title="DeviceCapability.Microphone field" Url="html/0d70ab5b-f8c9-e41c-27ea-aecf277c31c1.htm" />
+  <HelpKINode Title="DeviceCapability.PointOfService field" Url="html/f63796a3-3339-4805-a836-f6c72a450d3b.htm" />
+  <HelpKINode Title="DeviceCapability.Proximity field" Url="html/b9ce1357-29aa-3801-b87d-9d41a344c9e3.htm" />
+  <HelpKINode Title="DeviceCapability.Sensors field" Url="html/42c9868f-2e70-cae9-7646-480bbca618cd.htm" />
+  <HelpKINode Title="DeviceCapability.Usb field" Url="html/a4f45269-7577-7af5-ce40-615de9599ff1.htm" />
+  <HelpKINode Title="DeviceCapability.value__ field" Url="html/350a495a-4a71-91fd-5bcf-f63259377c90.htm" />
+  <HelpKINode Title="Disabled field" Url="html/f1cd3b9e-83ae-d68b-75eb-5a0aa61f0ae5.htm" />
+  <HelpKINode Title="Discharging field" Url="html/c999b7b9-a8d9-3c10-3950-890e44d7d090.htm" />
+  <HelpKINode Title="DisplayInformation class">
+    <HelpKINode Title="DisplayInformation Class" Url="html/c7e5c757-66c8-2287-fc26-c43e750c0349.htm" />
+    <HelpKINode Title="about DisplayInformation class" Url="html/c7e5c757-66c8-2287-fc26-c43e750c0349.htm" />
+    <HelpKINode Title="methods" Url="html/8fcce06f-df47-7af8-730b-ea0dca46f33f.htm" />
+    <HelpKINode Title="properties" Url="html/4c30b192-b245-4b2d-d08d-88ef832bb63f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisplayInformation.GetForCurrentView method" Url="html/62775521-4ccd-38db-a68b-35036dc891c8.htm" />
+  <HelpKINode Title="DisplayInformation.RawDpiX property" Url="html/3c1770ee-d207-b4a7-162e-44e6dec55a53.htm" />
+  <HelpKINode Title="DisplayInformation.RawDpiY property" Url="html/7cabd04a-d627-2936-8d12-5aafe83b0eef.htm" />
+  <HelpKINode Title="DisplayInformation.RawPixelsPerViewPixel property" Url="html/d5c60e62-3c1f-c778-9bc0-e8fc8ca2a099.htm" />
+  <HelpKINode Title="DisplayInformation.ResolutionScale property" Url="html/6748d9ac-1bf0-0118-c701-5808afb32f37.htm" />
+  <HelpKINode Title="DisplayName property" Url="html/72b1b43c-7909-8d91-384a-a5f4ba68d9ed.htm" />
+  <HelpKINode Title="DocumentsLibrary field" Url="html/1ed0e7c6-3da6-0b38-27ae-543c0fa16aa4.htm" />
+  <HelpKINode Title="EmailManager class">
+    <HelpKINode Title="EmailManager Class" Url="html/6a38045f-abeb-b7d1-8f3c-db4fd9fbde18.htm" />
+    <HelpKINode Title="about EmailManager class" Url="html/6a38045f-abeb-b7d1-8f3c-db4fd9fbde18.htm" />
+    <HelpKINode Title="methods" Url="html/7cbf1dfb-eab1-a261-f983-e648456b222b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailManager.ShowComposeNewEmailAsync method" Url="html/acb663cb-2d9d-f0ad-f9c4-d9336b027917.htm" />
+  <HelpKINode Title="EmailMessage class">
+    <HelpKINode Title="EmailMessage Class" Url="html/027d1169-d33e-9aec-58db-e8bfb14e16ab.htm" />
+    <HelpKINode Title="about EmailMessage class" Url="html/027d1169-d33e-9aec-58db-e8bfb14e16ab.htm" />
+    <HelpKINode Title="constructor" Url="html/f8f2a86f-8c67-31d1-df01-520a006b2f8b.htm" />
+    <HelpKINode Title="methods" Url="html/f644c5f9-9e18-18d2-3b1d-dae3744e5a7b.htm" />
+    <HelpKINode Title="properties" Url="html/81c92887-6cdb-eb85-23e6-100f4054a274.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailMessage.Bcc property" Url="html/92adb9a0-9065-fac8-79a4-cecc7e84c5ff.htm" />
+  <HelpKINode Title="EmailMessage.Body property" Url="html/dd56be0b-7edd-3f22-0caa-3035e1a75e0a.htm" />
+  <HelpKINode Title="EmailMessage.CC property" Url="html/6c7f7a1c-0fc8-06de-c09d-213dde8d294f.htm" />
+  <HelpKINode Title="EmailMessage.EmailMessage constructor" Url="html/f8f2a86f-8c67-31d1-df01-520a006b2f8b.htm" />
+  <HelpKINode Title="EmailMessage.Subject property" Url="html/6fdf6e27-9ccc-138d-b6dd-dbef1f50921d.htm" />
+  <HelpKINode Title="EmailMessage.To property" Url="html/79ab5853-48dd-9145-2993-cad4871e1919.htm" />
+  <HelpKINode Title="EmailRecipient class">
+    <HelpKINode Title="EmailRecipient Class" Url="html/07004893-9971-84b1-3622-1cbe472a3774.htm" />
+    <HelpKINode Title="about EmailRecipient class" Url="html/07004893-9971-84b1-3622-1cbe472a3774.htm" />
+    <HelpKINode Title="constructor" Url="html/9a45912a-6fa9-15f4-3f45-b06a202b1ed7.htm" />
+    <HelpKINode Title="methods" Url="html/472f354f-104d-adfa-8f32-85a8232089c9.htm" />
+    <HelpKINode Title="properties" Url="html/6f7b758b-0b6a-9876-be6d-02dfd184dc50.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailRecipient.Address property" Url="html/15ceb414-caac-5d03-68f9-19a686e08fc8.htm" />
+  <HelpKINode Title="EmailRecipient.EmailRecipient constructor" Url="html/9a45912a-6fa9-15f4-3f45-b06a202b1ed7.htm" />
+  <HelpKINode Title="EmailRecipient.Name property" Url="html/4883f70c-eab9-d05a-9982-36b0560b483f.htm" />
+  <HelpKINode Title="EndInvoke method">
+    <HelpKINode Title="DataProviderHandler.EndInvoke Method " Url="html/88ce994f-a25f-2e58-db7e-e7c159815a32.htm" />
+    <HelpKINode Title="NetworkStatusChangedEventHandler.EndInvoke Method " Url="html/a2104816-cd3c-8d7c-7604-1fe28e1f00e1.htm" />
+    <HelpKINode Title="UICommandInvokedHandler.EndInvoke Method " Url="html/b6f2ae42-acc5-d2c5-7f77-d7fa8895cd30.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnergySaverStatus class">
+    <HelpKINode Title="EnergySaverStatus Class" Url="html/475b9f3c-e2de-a584-0d20-23b0a9594149.htm" />
+    <HelpKINode Title="about EnergySaverStatus class" Url="html/475b9f3c-e2de-a584-0d20-23b0a9594149.htm" />
+    <HelpKINode Title="fields" Url="html/89dc79d8-04e8-6cda-56b4-0da162fd6544.htm" />
+    <HelpKINode Title="methods" Url="html/85ba4e94-efa5-c315-aeb7-0e158d160bde.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnergySaverStatus.Disabled field" Url="html/f1cd3b9e-83ae-d68b-75eb-5a0aa61f0ae5.htm" />
+  <HelpKINode Title="EnergySaverStatus.Off field" Url="html/7ad0b5ed-ab1b-54ac-3f0f-8d57189489d2.htm" />
+  <HelpKINode Title="EnergySaverStatus.On field" Url="html/6ba952f4-007b-30df-fc9d-b844551f7ff9.htm" />
+  <HelpKINode Title="EnergySaverStatus.value__ field" Url="html/102983d2-db51-4caf-4cd1-8e842d099697.htm" />
+  <HelpKINode Title="EnterpriseAuthentication field" Url="html/2b7312a4-aed8-b19b-9c61-ef358e04d11a.htm" />
+  <HelpKINode Title="FormatId property" Url="html/d4e6c1b9-b4bf-0097-2ab8-dec78b787644.htm" />
+  <HelpKINode Title="FullName property" Url="html/28866e59-7a99-8262-310f-3aa2556aa81a.htm" />
+  <HelpKINode Title="GeocoordinateExtensions class">
+    <HelpKINode Title="GeocoordinateExtensions Class" Url="html/475ce316-fbf1-9762-71da-82771dd399ea.htm" />
+    <HelpKINode Title="about GeocoordinateExtensions class" Url="html/475ce316-fbf1-9762-71da-82771dd399ea.htm" />
+    <HelpKINode Title="methods" Url="html/7bf2dece-80b9-c1d8-6a95-ac847e0cbef6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GeocoordinateExtensions.GetDistanceTo method" Url="html/330bf194-c7f2-b3c4-674a-fb4de889070a.htm" />
+  <HelpKINode Title="GetApplicationLinkAsync method" Url="html/d781717c-0078-67a6-78ad-9d3c72ac21bd.htm" />
+  <HelpKINode Title="GetContent method" Url="html/868aaa30-485e-04ba-bd38-34c9db7858eb.htm" />
+  <HelpKINode Title="GetDataAsync method" Url="html/0033f68d-50d9-3ae5-0a06-63608646e935.htm" />
+  <HelpKINode Title="GetDistanceTo method">
+    <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo Method " Url="html/f2e2e652-7fa0-1551-78f0-9b2cfa1541f0.htm" />
+    <HelpKINode Title="GeocoordinateExtensions.GetDistanceTo Method " Url="html/330bf194-c7f2-b3c4-674a-fb4de889070a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetFolderSizeAsync method" Url="html/6a578d31-3354-c6f3-66d4-6bb71d92478d.htm" />
+  <HelpKINode Title="GetForCurrentView method">
+    <HelpKINode Title="DataTransferManager.GetForCurrentView Method " Url="html/4bc09aa7-31a1-2035-7235-7e28579975cb.htm" />
+    <HelpKINode Title="DisplayInformation.GetForCurrentView Method " Url="html/62775521-4ccd-38db-a68b-35036dc891c8.htm" />
+    <HelpKINode Title="SettingsPane.GetForCurrentView Method " Url="html/f500d26f-c40a-012d-769e-38c4876898c8.htm" />
+    <HelpKINode Title="StatusBar.GetForCurrentView Method " Url="html/eb46a312-7001-bc8e-55b0-f6a1dddfab98.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetInternetConnectionProfile method" Url="html/f1677836-cbc1-f139-319b-00252cd85203.htm" />
+  <HelpKINode Title="GetNetworkConnectivityLevel method" Url="html/d8b41e06-0ffa-59dd-06f2-54524a89a3bf.htm" />
+  <HelpKINode Title="GetTextAsync method" Url="html/944a5c7c-da0b-e1f1-80fa-a00357f8e991.htm" />
+  <HelpKINode Title="GetView method" Url="html/3a798e28-e41a-3ef3-4a83-f197bd31685b.htm" />
+  <HelpKINode Title="GetWebLinkAsync method" Url="html/6fb522b8-e37d-7505-833c-454084a45386.htm" />
+  <HelpKINode Title="GetXamlType method" Url="html/e3a8abcc-a602-690c-9cde-d26d6e37f6b6.htm" />
+  <HelpKINode Title="GetXmlnsDefinitions method" Url="html/eec2e7f6-e7bf-cf44-39f9-805a8835e5c8.htm" />
+  <HelpKINode Title="HideAsync method" Url="html/7ca8a13f-7d2e-17fa-ce37-5a2c0ec85934.htm" />
+  <HelpKINode Title="HumanInterfaceDevice field" Url="html/ad55221d-bd67-efcf-abb6-9e2b63959a4d.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="IUICommand.Id Property " Url="html/2e3be6ca-f23a-ff37-809f-8e1667997260.htm" />
+    <HelpKINode Title="Package.Id Property " Url="html/93e674b2-ba44-6840-870c-4c4f4dec03bf.htm" />
+    <HelpKINode Title="SettingsCommand.Id Property " Url="html/f3483fed-c67f-a233-2dc7-55ea3e70da6e.htm" />
+    <HelpKINode Title="UICommand.Id Property " Url="html/571f5e38-9428-bf66-a26d-bc1a10d2d8fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Idle field" Url="html/7e7fa560-7fb6-cbb8-6159-85f2568ea347.htm" />
+  <HelpKINode Title="Inadequate field" Url="html/f1e33f23-c1d4-324a-b1cb-ceb9f056e461.htm" />
+  <HelpKINode Title="InstalledDate property" Url="html/0762a83a-5902-61b0-9c37-57d37cbdea38.htm" />
+  <HelpKINode Title="Internet field" Url="html/c82f9ce8-2bc7-d62a-f625-713ceaf32adb.htm" />
+  <HelpKINode Title="InternetAccess field" Url="html/28f449e5-bcaf-fa5d-16e7-a6bab71add0e.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel namespace" Url="html/7a507fb7-0e9c-be93-598d-716910bbed6c.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Calls namespace" Url="html/e8898bae-de6c-a7d3-a335-53d4e8277425.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Calls.PhoneCallManager class" Url="html/2794ef80-2d6a-7b02-571d-9593451364d3.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Capability class" Url="html/77f01776-6017-546e-02d0-b0bc84a0a8e1.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Chat namespace" Url="html/2f298428-44e1-f873-f23b-e0213c2d68b0.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Chat.ChatMessage class" Url="html/cfbbeb89-7416-98d8-3e17-d959fc668020.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Chat.ChatMessageManager class" Url="html/4d9dae37-9e4c-74b8-aa5e-f762b78a3da0.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer namespace" Url="html/42d733db-6b26-9a43-6575-ceaa0fce2960.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.Clipboard class" Url="html/4b08e136-af70-8f29-ea28-40e56b8a65a3.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataPackage class" Url="html/148f74fc-3d16-d2f6-b804-6735d5697322.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataPackagePropertySet class" Url="html/729487a5-9700-9f29-4748-2ba83487592e.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataPackagePropertySetView class" Url="html/e6447683-e12b-aa3d-347b-0469335cca74.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataPackageView class" Url="html/a7814782-8617-55e4-b801-b5ca4b54d182.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataProviderHandler class" Url="html/9d3ae287-cd2d-a199-4010-e2cbc903b228.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataProviderRequest class" Url="html/f505ff22-c58e-6ac8-6b64-e103ac9a4b5c.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataRequest class" Url="html/4be42dd2-634d-5a78-fd8b-f7d2022c82b9.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataRequestedEventArgs class" Url="html/76e169c9-afa1-cdac-e8a4-636ab85d3a87.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.DataTransferManager class" Url="html/a12774f7-d3cf-79e5-c13b-ccf9506e1c48.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.StandardDataFormats class" Url="html/0b80a3a8-4164-11f6-5106-09e54a94bca0.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.TargetApplicationChosenEventArgs class" Url="html/b5958f6a-74a1-abf1-41f2-37d13ea1d335.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DesignMode class" Url="html/78f00e4f-3767-a330-8060-8ec6399011d8.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.DeviceCapability class" Url="html/b9a077fe-e854-a993-f745-9bf4141ab0c6.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Email namespace" Url="html/e43a8d86-f992-c507-c925-67d8a2a051c7.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Email.EmailManager class" Url="html/6a38045f-abeb-b7d1-8f3c-db4fd9fbde18.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Email.EmailMessage class" Url="html/027d1169-d33e-9aec-58db-e8bfb14e16ab.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Email.EmailRecipient class" Url="html/07004893-9971-84b1-3622-1cbe472a3774.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Package class" Url="html/c49544ce-6ad5-3209-a2f9-0c82efb823f3.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.PackageId class" Url="html/414becce-0a5a-fb4c-366d-f80d6aa34f47.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.PackageVersionExtensions class" Url="html/55111adf-8d07-9c7b-5348-5763152c605b.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Store namespace" Url="html/cd454baf-4921-5138-97fb-3fbf50e5235f.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.Store.CurrentApp class" Url="html/7750df0a-4638-a84c-cd93-a85ee7fa75c2.htm" />
+  <HelpKINode Title="InTheHand.Devices.Geolocation namespace" Url="html/3a2843d7-bc38-bb12-156c-db65911c52a1.htm" />
+  <HelpKINode Title="InTheHand.Devices.Geolocation.BasicGeopositionExtensions class" Url="html/ee60e81a-28e6-9058-8649-6e2b3c1e5d4d.htm" />
+  <HelpKINode Title="InTheHand.Devices.Geolocation.GeocoordinateExtensions class" Url="html/475ce316-fbf1-9762-71da-82771dd399ea.htm" />
+  <HelpKINode Title="InTheHand.Graphics.Display namespace" Url="html/2b1f38b9-4119-ae28-095f-5ffc980e3fc2.htm" />
+  <HelpKINode Title="InTheHand.Graphics.Display.DisplayInformation class" Url="html/c7e5c757-66c8-2287-fc26-c43e750c0349.htm" />
+  <HelpKINode Title="InTheHand.Graphics.Display.ResolutionScale class" Url="html/ab599ca3-56fd-34ff-468b-13b963627a6a.htm" />
+  <HelpKINode Title="InTheHand.Networking.Connectivity namespace" Url="html/16305487-5c5c-384f-4730-add1ff47c3b8.htm" />
+  <HelpKINode Title="InTheHand.Networking.Connectivity.ConnectionProfile class" Url="html/fd31c16e-f9fc-1623-a5a4-6cd5bd6959dd.htm" />
+  <HelpKINode Title="InTheHand.Networking.Connectivity.NetworkConnectivityLevel class" Url="html/a743b082-1757-3a28-0b4b-6dd3af39b0bc.htm" />
+  <HelpKINode Title="InTheHand.Networking.Connectivity.NetworkInformation class" Url="html/a11d8a60-d791-e49a-6277-8f0505b4ac64.htm" />
+  <HelpKINode Title="InTheHand.Networking.Connectivity.NetworkStatusChangedEventHandler class" Url="html/9c0f4d6a-cea2-c36f-6a84-0bcc173bd1ed.htm" />
+  <HelpKINode Title="InTheHand.Storage namespace" Url="html/d497c3c6-b92f-683d-d775-88afe71f82a7.htm" />
+  <HelpKINode Title="InTheHand.Storage.StorageFolderExtensions class" Url="html/9886c493-6d92-1837-f628-cb1caf690f8f.htm" />
+  <HelpKINode Title="InTheHand.System namespace" Url="html/26fff3d7-5fe4-84d4-5a77-7b403e6b3df4.htm" />
+  <HelpKINode Title="InTheHand.System.Launcher class" Url="html/378658c3-9cc4-f12b-6d98-868bf8efcdf8.htm" />
+  <HelpKINode Title="InTheHand.System.LauncherOptions class" Url="html/ba48393f-d155-c7dc-b7b1-d95bb8c15ecf.htm" />
+  <HelpKINode Title="InTheHand.System.Power namespace" Url="html/5ebf9cae-71f0-e63e-e531-0e0c5509617d.htm" />
+  <HelpKINode Title="InTheHand.System.Power.BatteryStatus class" Url="html/730c5226-83ae-bcde-648c-b75302e3c07e.htm" />
+  <HelpKINode Title="InTheHand.System.Power.EnergySaverStatus class" Url="html/475b9f3c-e2de-a584-0d20-23b0a9594149.htm" />
+  <HelpKINode Title="InTheHand.System.Power.PowerManager class" Url="html/6d871f01-fcef-88e9-10fd-0ccb0b17868d.htm" />
+  <HelpKINode Title="InTheHand.System.Power.PowerSupplyStatus class" Url="html/3deb8178-0102-79f1-51cc-8a95ead48830.htm" />
+  <HelpKINode Title="InTheHand.UI.ApplicationSettings namespace" Url="html/09de9f74-9df2-90f1-29ad-f9665639a514.htm" />
+  <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsCommand class" Url="html/8f94dfbd-2523-541d-6f1c-8133788f568b.htm" />
+  <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsPane class" Url="html/b4b8be7b-d3bc-2bbf-d0c1-aed5878c6935.htm" />
+  <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsPaneCommandsRequest class" Url="html/7c34fedf-75bc-08b5-cdaa-7e312179e07c.htm" />
+  <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsPaneCommandsRequestedEventArgs class" Url="html/c22b398d-d7e8-cce1-e024-882b47917eb1.htm" />
+  <HelpKINode Title="InTheHand.UI.Popups namespace" Url="html/d8521dbc-32b7-0cee-8cac-366643d8ee59.htm" />
+  <HelpKINode Title="InTheHand.UI.Popups.IUICommand interface" Url="html/a08be892-2ee7-c1dd-d7dd-341b5abfd36f.htm" />
+  <HelpKINode Title="InTheHand.UI.Popups.MessageDialog class" Url="html/0346c2ad-d948-1f3c-25e3-6b44c933477f.htm" />
+  <HelpKINode Title="InTheHand.UI.Popups.UICommand class" Url="html/f3e126b0-cd02-2411-cba4-7c0f9d14cba6.htm" />
+  <HelpKINode Title="InTheHand.UI.Popups.UICommandInvokedHandler class" Url="html/d45f9baa-4b2b-0095-31dc-703ae8cf6b8b.htm" />
+  <HelpKINode Title="InTheHand.UI.ViewManagement namespace" Url="html/f9c9b641-e2dc-85a1-e715-85224952d598.htm" />
+  <HelpKINode Title="InTheHand.UI.ViewManagement.StatusBar class" Url="html/4970895c-abec-bd7b-8c2c-94229efd7c4f.htm" />
+  <HelpKINode Title="InTheHand.UI.ViewManagement.StatusBarProgressIndicator class" Url="html/1a447639-99a0-44bf-94ea-a94949983410.htm" />
+  <HelpKINode Title="InTheHandUI.InTheHand_UI_uwp10_XamlTypeInfo namespace" Url="html/eb68d6d1-5c1c-787c-d0d4-68ad8a24acb7.htm" />
+  <HelpKINode Title="InTheHandUI.InTheHand_UI_uwp10_XamlTypeInfo.XamlMetaDataProvider class" Url="html/9d07163d-6657-741c-404a-97866e96dd90.htm" />
+  <HelpKINode Title="Invalid field" Url="html/3c2b96a7-b399-3a83-04dc-5d51e123f104.htm" />
+  <HelpKINode Title="Invoke method">
+    <HelpKINode Title="DataProviderHandler.Invoke Method " Url="html/25bc283f-35d8-5e02-eb65-7039462585e2.htm" />
+    <HelpKINode Title="NetworkStatusChangedEventHandler.Invoke Method " Url="html/30ec58d0-d906-6ee4-1770-29c5ab54868d.htm" />
+    <HelpKINode Title="UICommandInvokedHandler.Invoke Method " Url="html/2a453d38-2ab3-9d41-ef4c-e1d1ea44bb3c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Invoked property">
+    <HelpKINode Title="IUICommand.Invoked Property " Url="html/fe0baa5d-74ba-eee0-c2d5-084644f4a11d.htm" />
+    <HelpKINode Title="SettingsCommand.Invoked Property " Url="html/7029e1e4-94fa-1abd-95af-9a9709c1057c.htm" />
+    <HelpKINode Title="UICommand.Invoked Property " Url="html/a25a6ccc-5f63-ec28-c314-2c2b921241cb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsDevelopmentMode property" Url="html/1633697b-2178-cdcc-d448-d36d10e68c82.htm" />
+  <HelpKINode Title="IUICommand interface">
+    <HelpKINode Title="IUICommand Interface" Url="html/a08be892-2ee7-c1dd-d7dd-341b5abfd36f.htm" />
+    <HelpKINode Title="about IUICommand interface" Url="html/a08be892-2ee7-c1dd-d7dd-341b5abfd36f.htm" />
+    <HelpKINode Title="properties" Url="html/1926c6be-eafd-a7f2-168b-78f7e7a75f37.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUICommand.Id property" Url="html/2e3be6ca-f23a-ff37-809f-8e1667997260.htm" />
+  <HelpKINode Title="IUICommand.Invoked property" Url="html/fe0baa5d-74ba-eee0-c2d5-084644f4a11d.htm" />
+  <HelpKINode Title="IUICommand.Label property" Url="html/bcacd702-93f2-a90b-f00a-117c0d2f6975.htm" />
+  <HelpKINode Title="Label property">
+    <HelpKINode Title="IUICommand.Label Property " Url="html/bcacd702-93f2-a90b-f00a-117c0d2f6975.htm" />
+    <HelpKINode Title="SettingsCommand.Label Property " Url="html/7a914cc6-9f47-e8ec-a6bf-5ac3dd74e7a1.htm" />
+    <HelpKINode Title="UICommand.Label Property " Url="html/7bb65d4e-032e-4a3d-0fba-9c4c149e957b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Launcher class">
+    <HelpKINode Title="Launcher Class" Url="html/378658c3-9cc4-f12b-6d98-868bf8efcdf8.htm" />
+    <HelpKINode Title="about Launcher class" Url="html/378658c3-9cc4-f12b-6d98-868bf8efcdf8.htm" />
+    <HelpKINode Title="methods" Url="html/d6ee47ee-cc06-d2e7-fc31-6c1035e61a6f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Launcher.LaunchUriAsync method" Url="html/045f1f0e-5f23-81da-6f24-28cc8e0de075.htm" />
+  <HelpKINode Title="LauncherOptions class">
+    <HelpKINode Title="LauncherOptions Class" Url="html/ba48393f-d155-c7dc-b7b1-d95bb8c15ecf.htm" />
+    <HelpKINode Title="about LauncherOptions class" Url="html/ba48393f-d155-c7dc-b7b1-d95bb8c15ecf.htm" />
+    <HelpKINode Title="constructor" Url="html/5650a2fd-2276-4073-4c44-8acbd7a1df68.htm" />
+    <HelpKINode Title="methods" Url="html/4187239b-a6ae-044c-831d-793f1da3acec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LauncherOptions.LauncherOptions constructor" Url="html/5650a2fd-2276-4073-4c44-8acbd7a1df68.htm" />
+  <HelpKINode Title="LaunchUriAsync method" Url="html/045f1f0e-5f23-81da-6f24-28cc8e0de075.htm" />
+  <HelpKINode Title="LocalAccess field" Url="html/e469a7b1-027e-b9da-e338-680971c9179f.htm" />
+  <HelpKINode Title="Location field" Url="html/dedd494f-ba73-03b4-ffaa-7505fb7e09b4.htm" />
+  <HelpKINode Title="Logo property" Url="html/6971c961-2c27-721c-dcb2-2137a17cc8a3.htm" />
+  <HelpKINode Title="MessageDialog class">
+    <HelpKINode Title="MessageDialog Class" Url="html/0346c2ad-d948-1f3c-25e3-6b44c933477f.htm" />
+    <HelpKINode Title="about MessageDialog class" Url="html/0346c2ad-d948-1f3c-25e3-6b44c933477f.htm" />
+    <HelpKINode Title="constructor" Url="html/b63a7b46-1faf-a8a1-5ed0-965cf4162f5a.htm" />
+    <HelpKINode Title="methods" Url="html/f9d1d131-e933-b127-efa4-b3ce0f18a1eb.htm" />
+    <HelpKINode Title="properties" Url="html/bc530ebc-084d-2a87-23be-6d07cc97b249.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageDialog.Commands property" Url="html/fc3eaa9d-eedc-9a5b-3c6d-9090869f4361.htm" />
+  <HelpKINode Title="MessageDialog.Content property" Url="html/d12db0ba-0a33-5ab6-6077-d855058bf19d.htm" />
+  <HelpKINode Title="MessageDialog.DefaultCommandIndex property" Url="html/542bb79d-c300-e5ba-34f3-3f2c5439a0f4.htm" />
+  <HelpKINode Title="MessageDialog.MessageDialog constructor" Url="html/b63a7b46-1faf-a8a1-5ed0-965cf4162f5a.htm" />
+  <HelpKINode Title="MessageDialog.ShowAsync method" Url="html/7db0dd4a-89c6-9e21-492e-4337b5215bb2.htm" />
+  <HelpKINode Title="MessageDialog.Title property" Url="html/e78c977f-bc08-a10e-2712-16bff307134c.htm" />
+  <HelpKINode Title="Microphone field" Url="html/0d70ab5b-f8c9-e41c-27ea-aecf277c31c1.htm" />
+  <HelpKINode Title="Music field" Url="html/282e2f75-5551-ed1a-4fb9-7416d9de42b7.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="EmailRecipient.Name Property " Url="html/4883f70c-eab9-d05a-9982-36b0560b483f.htm" />
+    <HelpKINode Title="PackageId.Name Property " Url="html/94fff379-21c4-3207-faae-ad15e0d250d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkConnectivityLevel class">
+    <HelpKINode Title="NetworkConnectivityLevel Class" Url="html/a743b082-1757-3a28-0b4b-6dd3af39b0bc.htm" />
+    <HelpKINode Title="about NetworkConnectivityLevel class" Url="html/a743b082-1757-3a28-0b4b-6dd3af39b0bc.htm" />
+    <HelpKINode Title="fields" Url="html/7581c505-a185-f3e8-0eb2-9bf094c751c9.htm" />
+    <HelpKINode Title="methods" Url="html/996fe72c-7500-c02d-50bb-9ac49e9ca6c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkConnectivityLevel.ConstrainedInternetAccess field" Url="html/3caaeeb1-4d51-b976-bc39-9edb480a51d2.htm" />
+  <HelpKINode Title="NetworkConnectivityLevel.InternetAccess field" Url="html/28f449e5-bcaf-fa5d-16e7-a6bab71add0e.htm" />
+  <HelpKINode Title="NetworkConnectivityLevel.LocalAccess field" Url="html/e469a7b1-027e-b9da-e338-680971c9179f.htm" />
+  <HelpKINode Title="NetworkConnectivityLevel.None field" Url="html/a825ddad-56a8-910d-635c-0d23f11197d4.htm" />
+  <HelpKINode Title="NetworkConnectivityLevel.value__ field" Url="html/091a8d84-9780-b242-23e1-6ba97ebc2cec.htm" />
+  <HelpKINode Title="NetworkInformation class">
+    <HelpKINode Title="NetworkInformation Class" Url="html/a11d8a60-d791-e49a-6277-8f0505b4ac64.htm" />
+    <HelpKINode Title="about NetworkInformation class" Url="html/a11d8a60-d791-e49a-6277-8f0505b4ac64.htm" />
+    <HelpKINode Title="events" Url="html/28b93d89-9184-30f1-2633-c2b46a7963f4.htm" />
+    <HelpKINode Title="methods" Url="html/be380485-6d45-a4d5-c3e2-101f6d02bb1a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkInformation.GetInternetConnectionProfile method" Url="html/f1677836-cbc1-f139-319b-00252cd85203.htm" />
+  <HelpKINode Title="NetworkInformation.NetworkStatusChanged event" Url="html/8d84815e-b673-427a-fe32-faeef356007a.htm" />
+  <HelpKINode Title="NetworkStatusChanged event" Url="html/8d84815e-b673-427a-fe32-faeef356007a.htm" />
+  <HelpKINode Title="NetworkStatusChangedEventHandler class">
+    <HelpKINode Title="NetworkStatusChangedEventHandler Class" Url="html/9c0f4d6a-cea2-c36f-6a84-0bcc173bd1ed.htm" />
+    <HelpKINode Title="about NetworkStatusChangedEventHandler class" Url="html/9c0f4d6a-cea2-c36f-6a84-0bcc173bd1ed.htm" />
+    <HelpKINode Title="constructor" Url="html/5dbfafd3-c05c-53bc-1ae5-a8ed0f805ab1.htm" />
+    <HelpKINode Title="methods" Url="html/4e99d6db-dd0e-ae64-e2a3-fc5d16f7e535.htm" />
+    <HelpKINode Title="properties" Url="html/052f4d20-6e8b-27a2-3900-a54e70b3f571.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkStatusChangedEventHandler.BeginInvoke method" Url="html/06a4f851-3ce9-0876-eb07-5220de5d0867.htm" />
+  <HelpKINode Title="NetworkStatusChangedEventHandler.EndInvoke method" Url="html/a2104816-cd3c-8d7c-7604-1fe28e1f00e1.htm" />
+  <HelpKINode Title="NetworkStatusChangedEventHandler.Invoke method" Url="html/30ec58d0-d906-6ee4-1770-29c5ab54868d.htm" />
+  <HelpKINode Title="NetworkStatusChangedEventHandler.NetworkStatusChangedEventHandler constructor" Url="html/5dbfafd3-c05c-53bc-1ae5-a8ed0f805ab1.htm" />
+  <HelpKINode Title="None field" Url="html/a825ddad-56a8-910d-635c-0d23f11197d4.htm" />
+  <HelpKINode Title="NotPresent field">
+    <HelpKINode Title="BatteryStatus.NotPresent Field" Url="html/79b1c90b-9ad3-02fe-a343-b80e6b948dde.htm" />
+    <HelpKINode Title="PowerSupplyStatus.NotPresent Field" Url="html/2467d119-68ec-b34b-f98f-bb3fb1cbc845.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Off field" Url="html/7ad0b5ed-ab1b-54ac-3f0f-8d57189489d2.htm" />
+  <HelpKINode Title="On field" Url="html/6ba952f4-007b-30df-fc9d-b844551f7ff9.htm" />
+  <HelpKINode Title="Package class">
+    <HelpKINode Title="Package Class" Url="html/c49544ce-6ad5-3209-a2f9-0c82efb823f3.htm" />
+    <HelpKINode Title="about Package class" Url="html/c49544ce-6ad5-3209-a2f9-0c82efb823f3.htm" />
+    <HelpKINode Title="methods" Url="html/d7d46be3-b384-2d19-40be-6306051cc6bb.htm" />
+    <HelpKINode Title="properties" Url="html/6918c692-49c3-b6d5-1466-e43366341f7d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Package.Capabilities property" Url="html/26929291-d371-e9a5-0fce-adaabc70f6ff.htm" />
+  <HelpKINode Title="Package.Current property" Url="html/2b8ca07b-dbe0-5875-0237-63bc4b0052a5.htm" />
+  <HelpKINode Title="Package.DeviceCapabilities property" Url="html/11e2282f-60ae-b98b-f96b-e2f491f519f9.htm" />
+  <HelpKINode Title="Package.DisplayName property" Url="html/72b1b43c-7909-8d91-384a-a5f4ba68d9ed.htm" />
+  <HelpKINode Title="Package.Id property" Url="html/93e674b2-ba44-6840-870c-4c4f4dec03bf.htm" />
+  <HelpKINode Title="Package.InstalledDate property" Url="html/0762a83a-5902-61b0-9c37-57d37cbdea38.htm" />
+  <HelpKINode Title="Package.IsDevelopmentMode property" Url="html/1633697b-2178-cdcc-d448-d36d10e68c82.htm" />
+  <HelpKINode Title="Package.Logo property" Url="html/6971c961-2c27-721c-dcb2-2137a17cc8a3.htm" />
+  <HelpKINode Title="Package.PublisherDisplayName property" Url="html/80c4a8d3-ece9-b889-5a8f-3937c67c6c76.htm" />
+  <HelpKINode Title="PackageId class">
+    <HelpKINode Title="PackageId Class" Url="html/414becce-0a5a-fb4c-366d-f80d6aa34f47.htm" />
+    <HelpKINode Title="about PackageId class" Url="html/414becce-0a5a-fb4c-366d-f80d6aa34f47.htm" />
+    <HelpKINode Title="methods" Url="html/5541bc71-4626-bc53-386c-472911a8393a.htm" />
+    <HelpKINode Title="properties" Url="html/df54c603-cc45-a356-9cf1-0b129968546f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PackageId.FullName property" Url="html/28866e59-7a99-8262-310f-3aa2556aa81a.htm" />
+  <HelpKINode Title="PackageId.Name property" Url="html/94fff379-21c4-3207-faae-ad15e0d250d5.htm" />
+  <HelpKINode Title="PackageId.Version property" Url="html/1e790cdf-c3af-89fc-b8c3-b1965782fd3c.htm" />
+  <HelpKINode Title="PackageVersionExtensions class">
+    <HelpKINode Title="PackageVersionExtensions Class" Url="html/55111adf-8d07-9c7b-5348-5763152c605b.htm" />
+    <HelpKINode Title="about PackageVersionExtensions class" Url="html/55111adf-8d07-9c7b-5348-5763152c605b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhoneCallManager class">
+    <HelpKINode Title="PhoneCallManager Class" Url="html/2794ef80-2d6a-7b02-571d-9593451364d3.htm" />
+    <HelpKINode Title="about PhoneCallManager class" Url="html/2794ef80-2d6a-7b02-571d-9593451364d3.htm" />
+    <HelpKINode Title="methods" Url="html/570b51f9-06d9-a2eb-fb4f-85a67b3a4f12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhoneCallManager.ShowPhoneCallUI method" Url="html/3b4ec175-bb2f-2346-e6da-1a8807867145.htm" />
+  <HelpKINode Title="PhoneDialer field" Url="html/3dddde4f-bed4-149d-60e3-e90b5b2c8b1d.htm" />
+  <HelpKINode Title="Pictures field" Url="html/a0a7b436-7839-dd21-07e2-dcd9eb36f70e.htm" />
+  <HelpKINode Title="PointOfService field" Url="html/f63796a3-3339-4805-a836-f6c72a450d3b.htm" />
+  <HelpKINode Title="PowerManager class">
+    <HelpKINode Title="PowerManager Class" Url="html/6d871f01-fcef-88e9-10fd-0ccb0b17868d.htm" />
+    <HelpKINode Title="about PowerManager class" Url="html/6d871f01-fcef-88e9-10fd-0ccb0b17868d.htm" />
+    <HelpKINode Title="events" Url="html/7d68fbf9-89f1-12d7-38db-f98bcd8ada64.htm" />
+    <HelpKINode Title="properties" Url="html/98465e6d-a287-c825-cb3f-160101206739.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PowerManager.BatteryStatus property" Url="html/17cd42fb-b321-455f-7473-21275c80d0e6.htm" />
+  <HelpKINode Title="PowerManager.RemainingChargePercent property" Url="html/bb00b355-d7fe-aca5-91ba-09eb636cae7c.htm" />
+  <HelpKINode Title="PowerManager.RemainingChargePercentChanged event" Url="html/2e0f93ee-96f3-c8a6-bbf9-702ec03592b9.htm" />
+  <HelpKINode Title="PowerSupplyStatus class">
+    <HelpKINode Title="PowerSupplyStatus Class" Url="html/3deb8178-0102-79f1-51cc-8a95ead48830.htm" />
+    <HelpKINode Title="about PowerSupplyStatus class" Url="html/3deb8178-0102-79f1-51cc-8a95ead48830.htm" />
+    <HelpKINode Title="fields" Url="html/8e7023bb-468c-b004-fbb7-428970b03714.htm" />
+    <HelpKINode Title="methods" Url="html/6574c4d8-0089-1f71-216b-ca4d2c61aacc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PowerSupplyStatus.Adequate field" Url="html/fdcc2d30-f631-5b1c-982e-c46be63c804c.htm" />
+  <HelpKINode Title="PowerSupplyStatus.Inadequate field" Url="html/f1e33f23-c1d4-324a-b1cb-ceb9f056e461.htm" />
+  <HelpKINode Title="PowerSupplyStatus.NotPresent field" Url="html/2467d119-68ec-b34b-f98f-bb3fb1cbc845.htm" />
+  <HelpKINode Title="PowerSupplyStatus.value__ field" Url="html/24b78078-222d-8dab-25b2-287d16e593e4.htm" />
+  <HelpKINode Title="ProgressIndicator property" Url="html/ffe52de6-c784-5677-ab81-a3e5744c15bf.htm" />
+  <HelpKINode Title="Properties property">
+    <HelpKINode Title="DataPackage.Properties Property " Url="html/d3abb07c-62aa-e413-561d-2a6c2feefdc5.htm" />
+    <HelpKINode Title="DataPackageView.Properties Property " Url="html/44f01193-9a6e-7ec3-e130-313b6070ba06.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Proximity field" Url="html/b9ce1357-29aa-3801-b87d-9d41a344c9e3.htm" />
+  <HelpKINode Title="PublisherDisplayName property" Url="html/80c4a8d3-ece9-b889-5a8f-3937c67c6c76.htm" />
+  <HelpKINode Title="PushNotification field" Url="html/60ca4c0b-d074-6fc8-b923-0ec39b11d4a5.htm" />
+  <HelpKINode Title="RawDpiX property" Url="html/3c1770ee-d207-b4a7-162e-44e6dec55a53.htm" />
+  <HelpKINode Title="RawDpiY property" Url="html/7cabd04a-d627-2936-8d12-5aafe83b0eef.htm" />
+  <HelpKINode Title="RawPixelsPerViewPixel property" Url="html/d5c60e62-3c1f-c778-9bc0-e8fc8ca2a099.htm" />
+  <HelpKINode Title="Recipients property" Url="html/46001be2-e66e-5b6f-ff44-9f48d3f55453.htm" />
+  <HelpKINode Title="RemainingChargePercent property" Url="html/bb00b355-d7fe-aca5-91ba-09eb636cae7c.htm" />
+  <HelpKINode Title="RemainingChargePercentChanged event" Url="html/2e0f93ee-96f3-c8a6-bbf9-702ec03592b9.htm" />
+  <HelpKINode Title="RemovableStorage field" Url="html/6ccb62ea-acc6-81fd-fe48-9834976988c0.htm" />
+  <HelpKINode Title="Request property">
+    <HelpKINode Title="DataRequestedEventArgs.Request Property " Url="html/02518e24-b185-f6fb-a403-54c01a61ce89.htm" />
+    <HelpKINode Title="SettingsPaneCommandsRequestedEventArgs.Request Property " Url="html/101a5d4d-dc34-e1e5-ba58-9cdfa42f9b70.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestDetailsAsync method" Url="html/64bfd9fa-91f7-f32f-ee8b-3d8b7dabbbd1.htm" />
+  <HelpKINode Title="RequestReviewAsync method" Url="html/97e923a4-f7a5-a8cf-1479-8fdf1aeac514.htm" />
+  <HelpKINode Title="ResolutionScale class">
+    <HelpKINode Title="ResolutionScale Class" Url="html/ab599ca3-56fd-34ff-468b-13b963627a6a.htm" />
+    <HelpKINode Title="about ResolutionScale class" Url="html/ab599ca3-56fd-34ff-468b-13b963627a6a.htm" />
+    <HelpKINode Title="fields" Url="html/8d0a35ba-123d-404b-0c8d-eecc45f124d2.htm" />
+    <HelpKINode Title="methods" Url="html/12966231-e849-6b90-7305-a6af9896253b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResolutionScale property" Url="html/6748d9ac-1bf0-0118-c701-5808afb32f37.htm" />
+  <HelpKINode Title="ResolutionScale.Invalid field" Url="html/3c2b96a7-b399-3a83-04dc-5d51e123f104.htm" />
+  <HelpKINode Title="ResolutionScale.Scale100Percent field" Url="html/4200d5a3-1284-023d-3f95-449e4e1347f6.htm" />
+  <HelpKINode Title="ResolutionScale.Scale150Percent field" Url="html/87b0e787-21e1-37bd-d20a-10aeb40b7589.htm" />
+  <HelpKINode Title="ResolutionScale.Scale160Percent field" Url="html/f1df0349-753f-2ceb-80aa-a26998b78d8b.htm" />
+  <HelpKINode Title="ResolutionScale.Scale225Percent field" Url="html/5853347d-1681-9219-4f2c-b6b6fd34f49c.htm" />
+  <HelpKINode Title="ResolutionScale.value__ field" Url="html/53dadef0-39bc-47ab-283e-adde201ba08c.htm" />
+  <HelpKINode Title="Scale100Percent field" Url="html/4200d5a3-1284-023d-3f95-449e4e1347f6.htm" />
+  <HelpKINode Title="Scale150Percent field" Url="html/87b0e787-21e1-37bd-d20a-10aeb40b7589.htm" />
+  <HelpKINode Title="Scale160Percent field" Url="html/f1df0349-753f-2ceb-80aa-a26998b78d8b.htm" />
+  <HelpKINode Title="Scale225Percent field" Url="html/5853347d-1681-9219-4f2c-b6b6fd34f49c.htm" />
+  <HelpKINode Title="Sensors field" Url="html/42c9868f-2e70-cae9-7646-480bbca618cd.htm" />
+  <HelpKINode Title="SetApplicationLink method" Url="html/7ade5f5e-9708-4e57-d0aa-c14ddc0a3599.htm" />
+  <HelpKINode Title="SetContent method" Url="html/4fa7f713-edd3-9e8f-4597-dff552f6d003.htm" />
+  <HelpKINode Title="SetData method">
+    <HelpKINode Title="DataPackage.SetData Method " Url="html/853f798e-11d2-a7f8-1875-3c3b4bfae2c5.htm" />
+    <HelpKINode Title="DataProviderRequest.SetData Method " Url="html/e1eb4717-e80a-3dd1-d7d3-65ead2846834.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetDataProvider method" Url="html/864dcfd4-262c-604d-ce05-f0bb7416508d.htm" />
+  <HelpKINode Title="SetText method" Url="html/f4be941e-cc6c-0cfc-8fc0-1bf28ca306c9.htm" />
+  <HelpKINode Title="SettingsCommand class">
+    <HelpKINode Title="SettingsCommand Class" Url="html/8f94dfbd-2523-541d-6f1c-8133788f568b.htm" />
+    <HelpKINode Title="about SettingsCommand class" Url="html/8f94dfbd-2523-541d-6f1c-8133788f568b.htm" />
+    <HelpKINode Title="constructor" Url="html/f5e1f804-9377-3076-8a94-4b9668d58495.htm" />
+    <HelpKINode Title="methods" Url="html/c47bb962-506e-8494-62de-6617e3d7da4a.htm" />
+    <HelpKINode Title="properties" Url="html/86f5ccfc-6307-17d1-3ad7-40483b8d426a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsCommand.Id property" Url="html/f3483fed-c67f-a233-2dc7-55ea3e70da6e.htm" />
+  <HelpKINode Title="SettingsCommand.Invoked property" Url="html/7029e1e4-94fa-1abd-95af-9a9709c1057c.htm" />
+  <HelpKINode Title="SettingsCommand.Label property" Url="html/7a914cc6-9f47-e8ec-a6bf-5ac3dd74e7a1.htm" />
+  <HelpKINode Title="SettingsCommand.SettingsCommand constructor" Url="html/f5e1f804-9377-3076-8a94-4b9668d58495.htm" />
+  <HelpKINode Title="SettingsPane class">
+    <HelpKINode Title="SettingsPane Class" Url="html/b4b8be7b-d3bc-2bbf-d0c1-aed5878c6935.htm" />
+    <HelpKINode Title="about SettingsPane class" Url="html/b4b8be7b-d3bc-2bbf-d0c1-aed5878c6935.htm" />
+    <HelpKINode Title="events" Url="html/8ba67076-6991-a474-85e1-8d094755aeac.htm" />
+    <HelpKINode Title="methods" Url="html/138cf500-905f-bdbe-b876-30f2fe9ee548.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsPane.CommandsRequested event" Url="html/ec4516a1-f6a8-39c7-5aef-c813494de5f7.htm" />
+  <HelpKINode Title="SettingsPane.GetForCurrentView method" Url="html/f500d26f-c40a-012d-769e-38c4876898c8.htm" />
+  <HelpKINode Title="SettingsPane.Show method" Url="html/05a84032-016c-597a-5af8-6d7dae995602.htm" />
+  <HelpKINode Title="SettingsPaneCommandsRequest class">
+    <HelpKINode Title="SettingsPaneCommandsRequest Class" Url="html/7c34fedf-75bc-08b5-cdaa-7e312179e07c.htm" />
+    <HelpKINode Title="about SettingsPaneCommandsRequest class" Url="html/7c34fedf-75bc-08b5-cdaa-7e312179e07c.htm" />
+    <HelpKINode Title="methods" Url="html/3a58a142-028c-a9b0-25d5-542bbfb46c2b.htm" />
+    <HelpKINode Title="properties" Url="html/102e5ec8-ea12-185b-a25e-2e93bdb75b33.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsPaneCommandsRequest.ApplicationCommands property" Url="html/bbcffcbc-5226-7e50-96a9-241b6feb727d.htm" />
+  <HelpKINode Title="SettingsPaneCommandsRequestedEventArgs class">
+    <HelpKINode Title="SettingsPaneCommandsRequestedEventArgs Class" Url="html/c22b398d-d7e8-cce1-e024-882b47917eb1.htm" />
+    <HelpKINode Title="about SettingsPaneCommandsRequestedEventArgs class" Url="html/c22b398d-d7e8-cce1-e024-882b47917eb1.htm" />
+    <HelpKINode Title="methods" Url="html/eee2e7f7-bc6b-0a09-ed9b-8bcbbc7df2f7.htm" />
+    <HelpKINode Title="properties" Url="html/71c30048-d86c-99f7-4f87-02184ede1ee3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsPaneCommandsRequestedEventArgs.Request property" Url="html/101a5d4d-dc34-e1e5-ba58-9cdfa42f9b70.htm" />
+  <HelpKINode Title="SetWebLink method" Url="html/4d0b0125-0a66-bdd3-9771-00b9b2d0dc92.htm" />
+  <HelpKINode Title="SharedUserCertificates field" Url="html/7c66ce3f-da9c-4204-4c98-b755a989c4f3.htm" />
+  <HelpKINode Title="Show method" Url="html/05a84032-016c-597a-5af8-6d7dae995602.htm" />
+  <HelpKINode Title="ShowAsync method">
+    <HelpKINode Title="MessageDialog.ShowAsync Method " Url="html/7db0dd4a-89c6-9e21-492e-4337b5215bb2.htm" />
+    <HelpKINode Title="StatusBarProgressIndicator.ShowAsync Method " Url="html/d0b3111b-749c-fa32-8279-13596742ef8b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShowComposeNewEmailAsync method" Url="html/acb663cb-2d9d-f0ad-f9c4-d9336b027917.htm" />
+  <HelpKINode Title="ShowComposeSmsMessageAsync method" Url="html/410a1853-dcb2-724f-c918-5b8b5f49703e.htm" />
+  <HelpKINode Title="ShowPhoneCallUI method" Url="html/3b4ec175-bb2f-2346-e6da-1a8807867145.htm" />
+  <HelpKINode Title="ShowShareUI method" Url="html/5c6a9abe-f7da-b6d6-52db-41d75b4add8c.htm" />
+  <HelpKINode Title="SpeechRecognition field" Url="html/1dd1db6a-bcef-208f-a280-3b57a8a98b44.htm" />
+  <HelpKINode Title="StandardDataFormats class">
+    <HelpKINode Title="StandardDataFormats Class" Url="html/0b80a3a8-4164-11f6-5106-09e54a94bca0.htm" />
+    <HelpKINode Title="about StandardDataFormats class" Url="html/0b80a3a8-4164-11f6-5106-09e54a94bca0.htm" />
+    <HelpKINode Title="properties" Url="html/b7d990c5-dd54-7fa8-da45-eb7f8d2a4411.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StandardDataFormats.ApplicationLink property" Url="html/1049e72b-5c00-3734-a6d3-e28c02bb67cd.htm" />
+  <HelpKINode Title="StandardDataFormats.Text property" Url="html/ccf85d96-e2e1-773f-8a31-6f3db37e6f11.htm" />
+  <HelpKINode Title="StandardDataFormats.WebLink property" Url="html/5712dfd6-cdcd-cc99-3b2f-24464714f86b.htm" />
+  <HelpKINode Title="StatusBar class">
+    <HelpKINode Title="StatusBar Class" Url="html/4970895c-abec-bd7b-8c2c-94229efd7c4f.htm" />
+    <HelpKINode Title="about StatusBar class" Url="html/4970895c-abec-bd7b-8c2c-94229efd7c4f.htm" />
+    <HelpKINode Title="methods" Url="html/5a89e0e5-1c31-fee0-2f78-a827027664da.htm" />
+    <HelpKINode Title="properties" Url="html/00bfe7a2-0550-4590-bca7-3074fa7da73a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StatusBar.GetForCurrentView method" Url="html/eb46a312-7001-bc8e-55b0-f6a1dddfab98.htm" />
+  <HelpKINode Title="StatusBar.ProgressIndicator property" Url="html/ffe52de6-c784-5677-ab81-a3e5744c15bf.htm" />
+  <HelpKINode Title="StatusBarProgressIndicator class">
+    <HelpKINode Title="StatusBarProgressIndicator Class" Url="html/1a447639-99a0-44bf-94ea-a94949983410.htm" />
+    <HelpKINode Title="about StatusBarProgressIndicator class" Url="html/1a447639-99a0-44bf-94ea-a94949983410.htm" />
+    <HelpKINode Title="methods" Url="html/cb24fab0-8105-c8de-a490-17436f2f8367.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StatusBarProgressIndicator.HideAsync method" Url="html/7ca8a13f-7d2e-17fa-ce37-5a2c0ec85934.htm" />
+  <HelpKINode Title="StatusBarProgressIndicator.ShowAsync method" Url="html/d0b3111b-749c-fa32-8279-13596742ef8b.htm" />
+  <HelpKINode Title="StorageFolderExtensions class">
+    <HelpKINode Title="StorageFolderExtensions Class" Url="html/9886c493-6d92-1837-f628-cb1caf690f8f.htm" />
+    <HelpKINode Title="about StorageFolderExtensions class" Url="html/9886c493-6d92-1837-f628-cb1caf690f8f.htm" />
+    <HelpKINode Title="methods" Url="html/0bec099d-158a-12bc-59e0-a1038ed33e45.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageFolderExtensions.GetFolderSizeAsync method" Url="html/6a578d31-3354-c6f3-66d4-6bb71d92478d.htm" />
+  <HelpKINode Title="Subject property" Url="html/6fdf6e27-9ccc-138d-b6dd-dbef1f50921d.htm" />
+  <HelpKINode Title="TargetApplicationChosen event" Url="html/dc2f2b2f-cf58-0630-3322-ebe083b2e55a.htm" />
+  <HelpKINode Title="TargetApplicationChosenEventArgs class">
+    <HelpKINode Title="TargetApplicationChosenEventArgs Class" Url="html/b5958f6a-74a1-abf1-41f2-37d13ea1d335.htm" />
+    <HelpKINode Title="about TargetApplicationChosenEventArgs class" Url="html/b5958f6a-74a1-abf1-41f2-37d13ea1d335.htm" />
+    <HelpKINode Title="methods" Url="html/db440ae0-0b8c-f9ae-2b3b-0cca9785c51e.htm" />
+    <HelpKINode Title="properties" Url="html/019a4f9a-d375-6146-f008-79d26453d63f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TargetApplicationChosenEventArgs.ApplicationName property" Url="html/74ccfb59-90fb-fe69-7614-41d42414fbc6.htm" />
+  <HelpKINode Title="Text property" Url="html/ccf85d96-e2e1-773f-8a31-6f3db37e6f11.htm" />
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="DataPackagePropertySet.Title Property " Url="html/958dd37d-2602-a366-97d8-4d3e6806191a.htm" />
+    <HelpKINode Title="DataPackagePropertySetView.Title Property " Url="html/f06d2b1b-b07e-8629-4368-56d33cb9051a.htm" />
+    <HelpKINode Title="MessageDialog.Title Property " Url="html/e78c977f-bc08-a10e-2712-16bff307134c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="To property" Url="html/79ab5853-48dd-9145-2993-cad4871e1919.htm" />
+  <HelpKINode Title="UICommand class">
+    <HelpKINode Title="UICommand Class" Url="html/f3e126b0-cd02-2411-cba4-7c0f9d14cba6.htm" />
+    <HelpKINode Title="about UICommand class" Url="html/f3e126b0-cd02-2411-cba4-7c0f9d14cba6.htm" />
+    <HelpKINode Title="constructor" Url="html/1d5eff33-856f-b0cd-3ae9-e855c3d6506e.htm" />
+    <HelpKINode Title="methods" Url="html/c61fb318-f8d2-e9cb-5545-35ae40785f14.htm" />
+    <HelpKINode Title="properties" Url="html/94b446a2-313a-1ac0-6203-342e1f52e872.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UICommand.Id property" Url="html/571f5e38-9428-bf66-a26d-bc1a10d2d8fd.htm" />
+  <HelpKINode Title="UICommand.Invoked property" Url="html/a25a6ccc-5f63-ec28-c314-2c2b921241cb.htm" />
+  <HelpKINode Title="UICommand.Label property" Url="html/7bb65d4e-032e-4a3d-0fba-9c4c149e957b.htm" />
+  <HelpKINode Title="UICommand.UICommand constructor" Url="html/1d5eff33-856f-b0cd-3ae9-e855c3d6506e.htm" />
+  <HelpKINode Title="UICommandInvokedHandler class">
+    <HelpKINode Title="UICommandInvokedHandler Class" Url="html/d45f9baa-4b2b-0095-31dc-703ae8cf6b8b.htm" />
+    <HelpKINode Title="about UICommandInvokedHandler class" Url="html/d45f9baa-4b2b-0095-31dc-703ae8cf6b8b.htm" />
+    <HelpKINode Title="constructor" Url="html/8a7aaee0-7e4d-8642-2743-ca1003f9794d.htm" />
+    <HelpKINode Title="methods" Url="html/0b2e0797-e3ce-1c15-6509-37c2a4681ae0.htm" />
+    <HelpKINode Title="properties" Url="html/6ffde8b4-ad38-dccd-7f70-6280bcc2b96b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UICommandInvokedHandler.BeginInvoke method" Url="html/ffe8d3d3-fadd-58e3-2198-711790491413.htm" />
+  <HelpKINode Title="UICommandInvokedHandler.EndInvoke method" Url="html/b6f2ae42-acc5-d2c5-7f77-d7fa8895cd30.htm" />
+  <HelpKINode Title="UICommandInvokedHandler.Invoke method" Url="html/2a453d38-2ab3-9d41-ef4c-e1d1ea44bb3c.htm" />
+  <HelpKINode Title="UICommandInvokedHandler.UICommandInvokedHandler constructor" Url="html/8a7aaee0-7e4d-8642-2743-ca1003f9794d.htm" />
+  <HelpKINode Title="Usb field" Url="html/a4f45269-7577-7af5-ce40-615de9599ff1.htm" />
+  <HelpKINode Title="value__ field">
+    <HelpKINode Title="BatteryStatus.value__ Field" Url="html/56a07419-49fb-9764-506a-65db107d8a26.htm" />
+    <HelpKINode Title="Capability.value__ Field" Url="html/26cec91f-7df2-b46d-1513-74ef81419df2.htm" />
+    <HelpKINode Title="DeviceCapability.value__ Field" Url="html/350a495a-4a71-91fd-5bcf-f63259377c90.htm" />
+    <HelpKINode Title="EnergySaverStatus.value__ Field" Url="html/102983d2-db51-4caf-4cd1-8e842d099697.htm" />
+    <HelpKINode Title="NetworkConnectivityLevel.value__ Field" Url="html/091a8d84-9780-b242-23e1-6ba97ebc2cec.htm" />
+    <HelpKINode Title="PowerSupplyStatus.value__ Field" Url="html/24b78078-222d-8dab-25b2-287d16e593e4.htm" />
+    <HelpKINode Title="ResolutionScale.value__ Field" Url="html/53dadef0-39bc-47ab-283e-adde201ba08c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Version property" Url="html/1e790cdf-c3af-89fc-b8c3-b1965782fd3c.htm" />
+  <HelpKINode Title="Videos field" Url="html/9bcd295d-d355-98d9-6130-4e1a082216c5.htm" />
+  <HelpKINode Title="Voip field" Url="html/e32a02ab-5e6a-4d2b-03d3-560eeb02336f.htm" />
+  <HelpKINode Title="Wallet field" Url="html/406d2af7-237f-4aea-d134-71c56cc9aff0.htm" />
+  <HelpKINode Title="WebLink property" Url="html/5712dfd6-cdcd-cc99-3b2f-24464714f86b.htm" />
+  <HelpKINode Title="XamlMetaDataProvider class">
+    <HelpKINode Title="XamlMetaDataProvider Class" Url="html/9d07163d-6657-741c-404a-97866e96dd90.htm" />
+    <HelpKINode Title="about XamlMetaDataProvider class" Url="html/9d07163d-6657-741c-404a-97866e96dd90.htm" />
+    <HelpKINode Title="constructor" Url="html/1b328fc5-6c6c-baef-ba38-f19502953a30.htm" />
+    <HelpKINode Title="methods" Url="html/accb42ce-f22a-cb6b-c9a5-dfab20be4326.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XamlMetaDataProvider.GetXamlType method" Url="html/e3a8abcc-a602-690c-9cde-d26d6e37f6b6.htm" />
+  <HelpKINode Title="XamlMetaDataProvider.GetXmlnsDefinitions method" Url="html/eec2e7f6-e7bf-cf44-39f9-805a8835e5c8.htm" />
+  <HelpKINode Title="XamlMetaDataProvider.XamlMetaDataProvider constructor" Url="html/1b328fc5-6c6c-baef-ba38-f19502953a30.htm" />
+</HelpKI>
