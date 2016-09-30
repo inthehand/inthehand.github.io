@@ -1,0 +1,15 @@
+# IStorageFolder.CreateFolderAsync Method 
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+
+## Overload List
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Windows_Storage_IStorageFolder_CreateFolderAsync">CreateFolderAsync(String)</a></td><td>
+Creates a new folder in the current folder.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_Windows_Storage_IStorageFolder_CreateFolderAsync_1">CreateFolderAsync(String, CreationCollisionOption)</a></td><td>
+Creates a new folder in the current folder, and specifies what to do if a folder with the same name already exists in the current folder.</td></tr></table>&nbsp;
+<a href="#istoragefolder.createfolderasync-method">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Windows_Storage_IStorageFolder">IStorageFolder Interface</a><br /><a href="N_Windows_Storage">Windows.Storage Namespace</a><br />

@@ -1,0 +1,15 @@
+# IPropertySet Properties
+ _**\[This is preliminary documentation and is subject to change.\]**_
+
+The <a href="T_Windows_Foundation_Collections_IPropertySet">IPropertySet</a> type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="http://msdn2.microsoft.com/en-us/library/5s3kzhec" target="_blank">Count</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/92t2ye13" target="_blank">ICollection</a>(<a href="http://msdn2.microsoft.com/en-us/library/5tbh8a42" target="_blank">KeyValuePair</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>)).)</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="http://msdn2.microsoft.com/en-us/library/0cfatk9t" target="_blank">IsReadOnly</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/92t2ye13" target="_blank">ICollection</a>(<a href="http://msdn2.microsoft.com/en-us/library/5tbh8a42" target="_blank">KeyValuePair</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>)).)</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="http://msdn2.microsoft.com/en-us/library/zyxt2e2h" target="_blank">Item</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/s4ys34ea" target="_blank">IDictionary</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>).)</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="http://msdn2.microsoft.com/en-us/library/1ebzfbyx" target="_blank">Keys</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/s4ys34ea" target="_blank">IDictionary</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>).)</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="http://msdn2.microsoft.com/en-us/library/0yxt5h4s" target="_blank">Values</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/s4ys34ea" target="_blank">IDictionary</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>).)</td></tr></table>&nbsp;
+<a href="#ipropertyset-properties">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Windows_Foundation_Collections_IPropertySet">IPropertySet Interface</a><br /><a href="N_Windows_Foundation_Collections">Windows.Foundation.Collections Namespace</a><br />
