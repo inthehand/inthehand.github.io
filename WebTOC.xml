@@ -1,0 +1,979 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="f8c9deed-001c-450a-bbea-9fd213f8bf5c" Title="InTheHand" Url="html/N_InTheHand.htm">
+    <HelpTOCNode Id="75faaea0-6ca5-454d-a37f-bd72dd6e6fde" Title="DateTimeOffsetHelper Class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm">
+      <HelpTOCNode Id="f13d9ffe-a5eb-4688-820f-2bb01f957233" Title="DateTimeOffsetHelper Methods" Url="html/Methods_T_InTheHand_DateTimeOffsetHelper.htm">
+        <HelpTOCNode Title="FromUnixTimeMilliseconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeMilliseconds.htm" />
+        <HelpTOCNode Title="FromUnixTimeSeconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeSeconds.htm" />
+        <HelpTOCNode Title="ToUnixTimeMilliseconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeMilliseconds.htm" />
+        <HelpTOCNode Title="ToUnixTimeSeconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeSeconds.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e4cf7476-7de4-414f-be99-7d3fecea6fdd" Title="Environment Class" Url="html/T_InTheHand_Environment.htm">
+      <HelpTOCNode Id="10ed9269-a352-4c28-8406-ff8d347743f4" Title="Environment Properties" Url="html/Properties_T_InTheHand_Environment.htm">
+        <HelpTOCNode Title="OSVersion Property " Url="html/P_InTheHand_Environment_OSVersion.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a2898c1-ea11-4501-b2d3-e7637790b011" Title="OperatingSystem Class" Url="html/T_InTheHand_OperatingSystem.htm">
+      <HelpTOCNode Title="OperatingSystem Constructor " Url="html/M_InTheHand_OperatingSystem__ctor.htm" />
+      <HelpTOCNode Id="dbcdfe09-490c-4f0f-a70b-8ed66573a929" Title="OperatingSystem Properties" Url="html/Properties_T_InTheHand_OperatingSystem.htm">
+        <HelpTOCNode Title="Version Property " Url="html/P_InTheHand_OperatingSystem_Version.htm" />
+        <HelpTOCNode Title="VersionString Property " Url="html/P_InTheHand_OperatingSystem_VersionString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OperatingSystem Methods" Url="html/Methods_T_InTheHand_OperatingSystem.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="cbcb7be7-d88f-4d11-a7e5-56b488b009dd" Title="InTheHand.ApplicationModel" Url="html/N_InTheHand_ApplicationModel.htm">
+    <HelpTOCNode Title="Capability Enumeration" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
+    <HelpTOCNode Title="DeviceCapability Enumeration" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
+    <HelpTOCNode Id="4ab81dee-c711-4a02-af2b-5f931ca1ca98" Title="Package Class" Url="html/T_InTheHand_ApplicationModel_Package.htm">
+      <HelpTOCNode Id="4d0aab9b-977d-4201-a316-fc5b2f6eaeb6" Title="Package Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Package.htm">
+        <HelpTOCNode Title="Capabilities Property " Url="html/P_InTheHand_ApplicationModel_Package_Capabilities.htm" />
+        <HelpTOCNode Title="Current Property " Url="html/P_InTheHand_ApplicationModel_Package_Current.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P_InTheHand_ApplicationModel_Package_Description.htm" />
+        <HelpTOCNode Title="DeviceCapabilities Property " Url="html/P_InTheHand_ApplicationModel_Package_DeviceCapabilities.htm" />
+        <HelpTOCNode Title="DisplayName Property " Url="html/P_InTheHand_ApplicationModel_Package_DisplayName.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_ApplicationModel_Package_Id.htm" />
+        <HelpTOCNode Title="InstalledDate Property " Url="html/P_InTheHand_ApplicationModel_Package_InstalledDate.htm" />
+        <HelpTOCNode Title="InstalledLocation Property " Url="html/P_InTheHand_ApplicationModel_Package_InstalledLocation.htm" />
+        <HelpTOCNode Title="IsDevelopmentMode Property " Url="html/P_InTheHand_ApplicationModel_Package_IsDevelopmentMode.htm" />
+        <HelpTOCNode Title="Logo Property " Url="html/P_InTheHand_ApplicationModel_Package_Logo.htm" />
+        <HelpTOCNode Title="PublisherDisplayName Property " Url="html/P_InTheHand_ApplicationModel_Package_PublisherDisplayName.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Package Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Package.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e228603b-27ad-4c61-8679-a5ddb63dd436" Title="PackageId Class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm">
+      <HelpTOCNode Id="c7e2cbad-840a-4472-b673-588fc20c3eb8" Title="PackageId Properties" Url="html/Properties_T_InTheHand_ApplicationModel_PackageId.htm">
+        <HelpTOCNode Title="FamilyName Property " Url="html/P_InTheHand_ApplicationModel_PackageId_FamilyName.htm" />
+        <HelpTOCNode Title="FullName Property " Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
+        <HelpTOCNode Title="ProductId Property " Url="html/P_InTheHand_ApplicationModel_PackageId_ProductId.htm" />
+        <HelpTOCNode Title="Publisher Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Version.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PackageId Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageId.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cdac766d-11ee-46e4-a65b-a295319e5f13" Title="PackageVersionExtensions Class" Url="html/T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
+      <HelpTOCNode Id="f108833a-039f-4621-850e-ebe8e30af673" Title="PackageVersionExtensions Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToString.htm" />
+        <HelpTOCNode Title="ToVersion Method " Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToVersion.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f3a07c28-cd00-4133-81ca-b83adfe84032" Title="InTheHand.ApplicationModel.Store" Url="html/N_InTheHand_ApplicationModel_Store.htm">
+    <HelpTOCNode Id="104b60d9-4ee3-4a8b-926d-e655fab1c158" Title="CurrentApp Class" Url="html/T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+      <HelpTOCNode Id="7d11865d-7753-4831-9827-96dbfb07c792" Title="CurrentApp Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+        <HelpTOCNode Title="AppId Property " Url="html/P_InTheHand_ApplicationModel_Store_CurrentApp_AppId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e2d3b87c-ff9d-4633-8080-eeaa34930c67" Title="CurrentApp Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+        <HelpTOCNode Title="RequestDetailsAsync Method " Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestDetailsAsync.htm" />
+        <HelpTOCNode Title="RequestReviewAsync Method " Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestReviewAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="639e959a-d12b-49cb-914b-5b8a959fcb08" Title="InTheHand.Devices.Geolocation" Url="html/N_InTheHand_Devices_Geolocation.htm">
+    <HelpTOCNode Id="14b73e88-2afa-46db-b829-1bf5924bfc94" Title="BasicGeopositionExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
+      <HelpTOCNode Id="7184b30f-c450-40fc-bb9c-281e4aab4510" Title="BasicGeopositionExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
+        <HelpTOCNode Title="GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f3e2f050-1c8b-4fd8-b2ac-636bce48e1eb" Title="GeocoordinateExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
+      <HelpTOCNode Id="31e5ee69-59e2-4c33-89aa-2621ca3c0720" Title="GeocoordinateExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
+        <HelpTOCNode Title="GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_GeocoordinateExtensions_GetDistanceTo.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="76a7a1c0-5d6c-404e-bf0b-177b531aedaf" Title="InTheHand.UI.ApplicationSettings" Url="html/N_InTheHand_UI_ApplicationSettings.htm">
+    <HelpTOCNode Id="3c96b41d-aae0-486d-8c7b-79441c8d1741" Title="SettingsPane Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
+      <HelpTOCNode Id="81818e2f-d742-4a73-bfbd-3fd970ecdda3" Title="SettingsPane Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
+        <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_GetForCurrentView.htm" />
+        <HelpTOCNode Title="Show Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b84a3803-e070-4bf2-9aca-630d74ee59ed" Title="InTheHand.UI.Notifications" Url="html/N_InTheHand_UI_Notifications.htm">
+    <HelpTOCNode Id="c18a5839-61cb-455e-b3b7-9e63a9cfbdfb" Title="BadgeNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
+      <HelpTOCNode Id="365fa72e-be45-40b8-8fc0-cd9efdc042b3" Title="BadgeNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
+        <HelpTOCNode Title="CreateBadgeNotification Method " Url="html/M_InTheHand_UI_Notifications_BadgeNotificationCreator_CreateBadgeNotification.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9769fec3-088e-41d3-b729-8f486ef1dd0a" Title="ToastNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
+      <HelpTOCNode Id="62167dbb-ad48-4fdc-9dbc-1212b6e70c1a" Title="ToastNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
+        <HelpTOCNode Title="CreateScheduledToastNotification Method " Url="html/M_InTheHand_UI_Notifications_ToastNotificationCreator_CreateScheduledToastNotification.htm" />
+        <HelpTOCNode Title="CreateToastNotification Method " Url="html/M_InTheHand_UI_Notifications_ToastNotificationCreator_CreateToastNotification.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a9a4b60d-293f-40b5-8aa5-0ce4779fe222" Title="System" Url="html/N_System.htm">
+    <HelpTOCNode Id="ff0d2e6a-a4c4-49f8-8d3a-cadc12463f84" Title="WindowsRuntimeSystemExtensions Class" Url="html/T_System_WindowsRuntimeSystemExtensions.htm">
+      <HelpTOCNode Id="738d12a5-4925-44bc-bca1-9963b72fc93b" Title="WindowsRuntimeSystemExtensions Methods" Url="html/Methods_T_System_WindowsRuntimeSystemExtensions.htm">
+        <HelpTOCNode Title="AsAsyncAction Method " Url="html/M_System_WindowsRuntimeSystemExtensions_AsAsyncAction.htm" />
+        <HelpTOCNode Title="AsAsyncOperation(TResult) Method " Url="html/M_System_WindowsRuntimeSystemExtensions_AsAsyncOperation__1.htm" />
+        <HelpTOCNode Id="f605e0f1-3424-4af2-b83e-d76b2c7e7837" Title="AsTask Method " Url="html/Overload_System_WindowsRuntimeSystemExtensions_AsTask.htm">
+          <HelpTOCNode Title="AsTask Method (IAsyncAction)" Url="html/M_System_WindowsRuntimeSystemExtensions_AsTask.htm" />
+          <HelpTOCNode Title="AsTask(TResult) Method (IAsyncOperation(TResult))" Url="html/M_System_WindowsRuntimeSystemExtensions_AsTask__1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2be51f90-e32e-4d47-98ba-05336591cc78" Title="GetAwaiter Method " Url="html/Overload_System_WindowsRuntimeSystemExtensions_GetAwaiter.htm">
+          <HelpTOCNode Title="GetAwaiter Method (IAsyncAction)" Url="html/M_System_WindowsRuntimeSystemExtensions_GetAwaiter.htm" />
+          <HelpTOCNode Title="GetAwaiter(TResult) Method (IAsyncOperation(TResult))" Url="html/M_System_WindowsRuntimeSystemExtensions_GetAwaiter__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="887654e0-594b-428f-9713-09a2b74adddd" Title="System.IO" Url="html/N_System_IO.htm">
+    <HelpTOCNode Id="c0d03675-518d-4c31-ad4b-360f5751003c" Title="WindowsRuntimeStorageExtensions Class" Url="html/T_System_IO_WindowsRuntimeStorageExtensions.htm">
+      <HelpTOCNode Id="96ad9ea0-2c1f-45eb-8f86-93b0f3ef7b5e" Title="WindowsRuntimeStorageExtensions Methods" Url="html/Methods_T_System_IO_WindowsRuntimeStorageExtensions.htm">
+        <HelpTOCNode Id="c1bdd729-34dc-449e-a0e7-64df8dcc2d01" Title="OpenStreamForReadAsync Method " Url="html/Overload_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForReadAsync.htm">
+          <HelpTOCNode Title="OpenStreamForReadAsync Method (IStorageFile)" Url="html/M_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForReadAsync.htm" />
+          <HelpTOCNode Title="OpenStreamForReadAsync Method (IStorageFolder, String)" Url="html/M_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForReadAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="610ad85f-a97d-43a3-b70e-b2895c7f78f0" Title="OpenStreamForWriteAsync Method " Url="html/Overload_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForWriteAsync.htm">
+          <HelpTOCNode Title="OpenStreamForWriteAsync Method (IStorageFile)" Url="html/M_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForWriteAsync.htm" />
+          <HelpTOCNode Title="OpenStreamForWriteAsync Method (IStorageFolder, String)" Url="html/M_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForWriteAsync_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="571997ad-e05a-4774-b98a-0d3f60789933" Title="Windows.ApplicationModel" Url="html/N_Windows_ApplicationModel.htm">
+    <HelpTOCNode Id="00875d8a-0390-4f5b-a6af-318eede81f46" Title="DesignMode Class" Url="html/T_Windows_ApplicationModel_DesignMode.htm">
+      <HelpTOCNode Id="be437e41-51d6-44e5-b845-f3616bd35854" Title="DesignMode Properties" Url="html/Properties_T_Windows_ApplicationModel_DesignMode.htm">
+        <HelpTOCNode Title="DesignModeEnabled Property " Url="html/P_Windows_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="43d0a5fd-f093-44ea-82de-2db465d3fc85" Title="PackageVersion Structure" Url="html/T_Windows_ApplicationModel_PackageVersion.htm">
+      <HelpTOCNode Title="PackageVersion Methods" Url="html/Methods_T_Windows_ApplicationModel_PackageVersion.htm" />
+      <HelpTOCNode Id="fba1d8f1-78fc-46e8-807c-1d9c9541e513" Title="PackageVersion Fields" Url="html/Fields_T_Windows_ApplicationModel_PackageVersion.htm">
+        <HelpTOCNode Title="Build Field" Url="html/F_Windows_ApplicationModel_PackageVersion_Build.htm" />
+        <HelpTOCNode Title="Major Field" Url="html/F_Windows_ApplicationModel_PackageVersion_Major.htm" />
+        <HelpTOCNode Title="Minor Field" Url="html/F_Windows_ApplicationModel_PackageVersion_Minor.htm" />
+        <HelpTOCNode Title="Revision Field" Url="html/F_Windows_ApplicationModel_PackageVersion_Revision.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="39d3dcd3-3bb1-46ff-bd66-c7108a0f70da" Title="Windows.ApplicationModel.Calls" Url="html/N_Windows_ApplicationModel_Calls.htm">
+    <HelpTOCNode Id="df2b8eea-f4e0-4a16-850a-cfa232e18c69" Title="PhoneCallManager Class" Url="html/T_Windows_ApplicationModel_Calls_PhoneCallManager.htm">
+      <HelpTOCNode Id="5d4b1ade-b867-4111-83ae-a861fb23a05d" Title="PhoneCallManager Methods" Url="html/Methods_T_Windows_ApplicationModel_Calls_PhoneCallManager.htm">
+        <HelpTOCNode Title="RequestStoreAsync Method " Url="html/M_Windows_ApplicationModel_Calls_PhoneCallManager_RequestStoreAsync.htm" />
+        <HelpTOCNode Title="ShowPhoneCallUI Method " Url="html/M_Windows_ApplicationModel_Calls_PhoneCallManager_ShowPhoneCallUI.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="816e9dac-8556-415e-840c-6115cdd44dc4" Title="PhoneCallStore Class" Url="html/T_Windows_ApplicationModel_Calls_PhoneCallStore.htm">
+      <HelpTOCNode Title="PhoneCallStore Constructor " Url="html/M_Windows_ApplicationModel_Calls_PhoneCallStore__ctor.htm" />
+      <HelpTOCNode Id="ddc32643-c4f7-4efc-9023-ddd9845a4293" Title="PhoneCallStore Methods" Url="html/Methods_T_Windows_ApplicationModel_Calls_PhoneCallStore.htm">
+        <HelpTOCNode Title="GetDefaultLineAsync Method " Url="html/M_Windows_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4eeb89e0-c2e5-4b9b-a441-80b8d070bcf0" Title="PhoneLine Class" Url="html/T_Windows_ApplicationModel_Calls_PhoneLine.htm">
+      <HelpTOCNode Id="ad977113-0754-4a8c-b9a2-26a5540c2bac" Title="PhoneLine Methods" Url="html/Methods_T_Windows_ApplicationModel_Calls_PhoneLine.htm">
+        <HelpTOCNode Title="Dial Method " Url="html/M_Windows_ApplicationModel_Calls_PhoneLine_Dial.htm" />
+        <HelpTOCNode Title="FromIdAsync Method " Url="html/M_Windows_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="94cf76bc-c987-441b-8f6d-c31dc1766845" Title="Windows.ApplicationModel.Chat" Url="html/N_Windows_ApplicationModel_Chat.htm">
+    <HelpTOCNode Id="246f2e65-1628-49e8-bc87-b845a0b13da9" Title="ChatMessage Class" Url="html/T_Windows_ApplicationModel_Chat_ChatMessage.htm">
+      <HelpTOCNode Title="ChatMessage Constructor " Url="html/M_Windows_ApplicationModel_Chat_ChatMessage__ctor.htm" />
+      <HelpTOCNode Id="5b4dc0bd-c17c-474f-a0ae-515bfc527682" Title="ChatMessage Properties" Url="html/Properties_T_Windows_ApplicationModel_Chat_ChatMessage.htm">
+        <HelpTOCNode Title="Body Property " Url="html/P_Windows_ApplicationModel_Chat_ChatMessage_Body.htm" />
+        <HelpTOCNode Title="Recipients Property " Url="html/P_Windows_ApplicationModel_Chat_ChatMessage_Recipients.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ChatMessage Methods" Url="html/Methods_T_Windows_ApplicationModel_Chat_ChatMessage.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b9dab57d-a7e9-4c43-9a11-619f07c9d3c9" Title="ChatMessageManager Class" Url="html/T_Windows_ApplicationModel_Chat_ChatMessageManager.htm">
+      <HelpTOCNode Id="d944cc89-a592-41b0-b167-1183bcd8ac89" Title="ChatMessageManager Methods" Url="html/Methods_T_Windows_ApplicationModel_Chat_ChatMessageManager.htm">
+        <HelpTOCNode Title="ShowComposeSmsMessageAsync Method " Url="html/M_Windows_ApplicationModel_Chat_ChatMessageManager_ShowComposeSmsMessageAsync.htm" />
+        <HelpTOCNode Title="ShowSmsSettings Method " Url="html/M_Windows_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="3193fad2-cf70-47d0-8d3f-ca49eb778a76" Title="Windows.ApplicationModel.DataTransfer" Url="html/N_Windows_ApplicationModel_DataTransfer.htm">
+    <HelpTOCNode Id="fd160ff5-8d32-43c2-a7aa-d5260d6374c3" Title="Clipboard Class" Url="html/T_Windows_ApplicationModel_DataTransfer_Clipboard.htm">
+      <HelpTOCNode Id="b0c71f9b-bc4c-4ddb-88d1-5ccf353380ef" Title="Clipboard Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_Clipboard.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_Clear.htm" />
+        <HelpTOCNode Title="GetContent Method " Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
+        <HelpTOCNode Title="SetContent Method " Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="56bde6cb-444a-4a2f-aa15-35359340e439" Title="Clipboard Events" Url="html/Events_T_Windows_ApplicationModel_DataTransfer_Clipboard.htm">
+        <HelpTOCNode Title="ContentChanged Event" Url="html/E_Windows_ApplicationModel_DataTransfer_Clipboard_ContentChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4e5ff948-1e3c-4f2d-90fb-da4589246192" Title="DataPackage Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataPackage.htm">
+      <HelpTOCNode Title="DataPackage Constructor " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage__ctor.htm" />
+      <HelpTOCNode Id="773784d2-fbd3-4159-9e5c-38e91c98815b" Title="DataPackage Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataPackage.htm">
+        <HelpTOCNode Title="Properties Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackage_Properties.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="19a30593-7a98-45ad-ac83-79b378a62034" Title="DataPackage Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataPackage.htm">
+        <HelpTOCNode Title="GetView Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_GetView.htm" />
+        <HelpTOCNode Title="SetApplicationLink Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetApplicationLink.htm" />
+        <HelpTOCNode Title="SetData Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetData.htm" />
+        <HelpTOCNode Title="SetDataProvider Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetDataProvider.htm" />
+        <HelpTOCNode Title="SetText Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetText.htm" />
+        <HelpTOCNode Title="SetWebLink Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetWebLink.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a07cac5-a0fc-4f83-b2fb-2867198804bb" Title="DataPackagePropertySet Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
+      <HelpTOCNode Id="d310ead7-901f-4d9a-9145-23817b688a0d" Title="DataPackagePropertySet Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet_Description.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet_Title.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DataPackagePropertySet Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0de53bbc-7433-4fc3-84f1-6fcfda988b08" Title="DataPackagePropertySetView Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
+      <HelpTOCNode Id="fdd66bba-6d83-406e-98c8-136730f924e5" Title="DataPackagePropertySetView Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView_Description.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView_Title.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DataPackagePropertySetView Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0991c1c-7a67-454a-87e0-5c7df5d0a596" Title="DataPackageView Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataPackageView.htm">
+      <HelpTOCNode Id="260a7599-9b4a-40f6-acf3-259a9786ffbb" Title="DataPackageView Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataPackageView.htm">
+        <HelpTOCNode Title="AvailableFormats Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackageView_AvailableFormats.htm" />
+        <HelpTOCNode Title="Properties Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackageView_Properties.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8f01a43c-0ffb-48c4-b265-d0163ad39553" Title="DataPackageView Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataPackageView.htm">
+        <HelpTOCNode Title="Contains Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_Contains.htm" />
+        <HelpTOCNode Title="GetApplicationLinkAsync Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetApplicationLinkAsync.htm" />
+        <HelpTOCNode Title="GetDataAsync Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetDataAsync.htm" />
+        <HelpTOCNode Title="GetTextAsync Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetTextAsync.htm" />
+        <HelpTOCNode Title="GetWebLinkAsync Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetWebLinkAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DataProviderHandler Delegate" Url="html/T_Windows_ApplicationModel_DataTransfer_DataProviderHandler.htm" />
+    <HelpTOCNode Id="8eb566e9-7f8f-4c65-aeec-a7da779e6458" Title="DataProviderRequest Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+      <HelpTOCNode Id="c7b19711-82e8-4dac-b85c-cb1e16d90d62" Title="DataProviderRequest Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+        <HelpTOCNode Title="FormatId Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataProviderRequest_FormatId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6d96902-b0ed-4457-89a3-e8d875413139" Title="DataProviderRequest Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+        <HelpTOCNode Title="SetData Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataProviderRequest_SetData.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="da9fc946-280d-4016-8e2d-2d102e8ca060" Title="DataRequest Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataRequest.htm">
+      <HelpTOCNode Id="94e6cac9-0efb-4d36-8493-5564abb6de48" Title="DataRequest Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataRequest.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataRequest_Data.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DataRequest Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataRequest.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cbb7e9f4-def1-4168-aabd-ddc07ae07ae5" Title="DataRequestedEventArgs Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
+      <HelpTOCNode Id="d668e7f2-5868-4417-8e8c-ec4016811a42" Title="DataRequestedEventArgs Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
+        <HelpTOCNode Title="Request Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataRequestedEventArgs_Request.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DataRequestedEventArgs Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="32505190-b4f9-4bc6-863d-d56396e39187" Title="DataTransferManager Class" Url="html/T_Windows_ApplicationModel_DataTransfer_DataTransferManager.htm">
+      <HelpTOCNode Id="3850ed56-dd7e-4fc6-b979-e61e97fc1584" Title="DataTransferManager Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_DataTransferManager.htm">
+        <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataTransferManager_GetForCurrentView.htm" />
+        <HelpTOCNode Title="ShowShareUI Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataTransferManager_ShowShareUI.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0f8d9be-9999-414c-94b4-199e6d715d21" Title="DataTransferManager Events" Url="html/Events_T_Windows_ApplicationModel_DataTransfer_DataTransferManager.htm">
+        <HelpTOCNode Title="DataRequested Event" Url="html/E_Windows_ApplicationModel_DataTransfer_DataTransferManager_DataRequested.htm" />
+        <HelpTOCNode Title="TargetApplicationChosen Event" Url="html/E_Windows_ApplicationModel_DataTransfer_DataTransferManager_TargetApplicationChosen.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1275c042-7cdf-492f-934b-9f85b2478bd8" Title="StandardDataFormats Class" Url="html/T_Windows_ApplicationModel_DataTransfer_StandardDataFormats.htm">
+      <HelpTOCNode Id="68f93aa9-d150-482e-b210-7bee2df4af8c" Title="StandardDataFormats Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_StandardDataFormats.htm">
+        <HelpTOCNode Title="ApplicationLink Property " Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_ApplicationLink.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
+        <HelpTOCNode Title="WebLink Property " Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d5dcb593-e4da-4222-85fc-c8f185c1fec2" Title="TargetApplicationChosenEventArgs Class" Url="html/T_Windows_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
+      <HelpTOCNode Id="e0264246-8f86-40f8-b363-e1f8d555d470" Title="TargetApplicationChosenEventArgs Properties" Url="html/Properties_T_Windows_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
+        <HelpTOCNode Title="ApplicationName Property " Url="html/P_Windows_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs_ApplicationName.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TargetApplicationChosenEventArgs Methods" Url="html/Methods_T_Windows_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e1f5c69b-68e8-4ad3-bba1-b6e375eb52bd" Title="Windows.ApplicationModel.Email" Url="html/N_Windows_ApplicationModel_Email.htm">
+    <HelpTOCNode Id="7761ef7d-4803-4ce7-814a-4f18edd39211" Title="EmailManager Class" Url="html/T_Windows_ApplicationModel_Email_EmailManager.htm">
+      <HelpTOCNode Id="644a9e0d-e688-4c3e-a575-a77604b1882a" Title="EmailManager Methods" Url="html/Methods_T_Windows_ApplicationModel_Email_EmailManager.htm">
+        <HelpTOCNode Title="ShowComposeNewEmailAsync Method " Url="html/M_Windows_ApplicationModel_Email_EmailManager_ShowComposeNewEmailAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd46bb95-f56b-46e3-90b4-899882ad38a2" Title="EmailMessage Class" Url="html/T_Windows_ApplicationModel_Email_EmailMessage.htm">
+      <HelpTOCNode Title="EmailMessage Constructor " Url="html/M_Windows_ApplicationModel_Email_EmailMessage__ctor.htm" />
+      <HelpTOCNode Id="f086b87e-9f63-4420-ad0c-0d86d62ca2d8" Title="EmailMessage Properties" Url="html/Properties_T_Windows_ApplicationModel_Email_EmailMessage.htm">
+        <HelpTOCNode Title="Bcc Property " Url="html/P_Windows_ApplicationModel_Email_EmailMessage_Bcc.htm" />
+        <HelpTOCNode Title="Body Property " Url="html/P_Windows_ApplicationModel_Email_EmailMessage_Body.htm" />
+        <HelpTOCNode Title="CC Property " Url="html/P_Windows_ApplicationModel_Email_EmailMessage_CC.htm" />
+        <HelpTOCNode Title="Subject Property " Url="html/P_Windows_ApplicationModel_Email_EmailMessage_Subject.htm" />
+        <HelpTOCNode Title="To Property " Url="html/P_Windows_ApplicationModel_Email_EmailMessage_To.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="EmailMessage Methods" Url="html/Methods_T_Windows_ApplicationModel_Email_EmailMessage.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="50f1e68c-4f02-4b55-bc66-a8f2b16ebafd" Title="EmailRecipient Class" Url="html/T_Windows_ApplicationModel_Email_EmailRecipient.htm">
+      <HelpTOCNode Id="6a4ddb4c-b4c2-4ad0-a82e-2307ced7d505" Title="EmailRecipient Constructor " Url="html/Overload_Windows_ApplicationModel_Email_EmailRecipient__ctor.htm">
+        <HelpTOCNode Title="EmailRecipient Constructor " Url="html/M_Windows_ApplicationModel_Email_EmailRecipient__ctor.htm" />
+        <HelpTOCNode Title="EmailRecipient Constructor (String)" Url="html/M_Windows_ApplicationModel_Email_EmailRecipient__ctor_1.htm" />
+        <HelpTOCNode Title="EmailRecipient Constructor (String, String)" Url="html/M_Windows_ApplicationModel_Email_EmailRecipient__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="55875140-5651-4e4a-9ed1-932b232d0df2" Title="EmailRecipient Properties" Url="html/Properties_T_Windows_ApplicationModel_Email_EmailRecipient.htm">
+        <HelpTOCNode Title="Address Property " Url="html/P_Windows_ApplicationModel_Email_EmailRecipient_Address.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_Windows_ApplicationModel_Email_EmailRecipient_Name.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="EmailRecipient Methods" Url="html/Methods_T_Windows_ApplicationModel_Email_EmailRecipient.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="63ef5be9-db7e-44b9-acbf-e92f0eaf5e96" Title="Windows.ApplicationModel.Resources" Url="html/N_Windows_ApplicationModel_Resources.htm">
+    <HelpTOCNode Id="8b27a1ee-a284-49cf-a843-d9d203bb2cd6" Title="ResourceLoader Class" Url="html/T_Windows_ApplicationModel_Resources_ResourceLoader.htm">
+      <HelpTOCNode Id="48e7266d-7416-4633-8cfa-0565eadf2e6d" Title="ResourceLoader Methods" Url="html/Methods_T_Windows_ApplicationModel_Resources_ResourceLoader.htm">
+        <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_Windows_ApplicationModel_Resources_ResourceLoader_GetForCurrentView.htm" />
+        <HelpTOCNode Title="GetForViewIndependentUse Method " Url="html/M_Windows_ApplicationModel_Resources_ResourceLoader_GetForViewIndependentUse.htm" />
+        <HelpTOCNode Title="GetString Method " Url="html/M_Windows_ApplicationModel_Resources_ResourceLoader_GetString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f93334e2-6284-43eb-af45-de28dbd0298b" Title="Windows.Devices.Geolocation" Url="html/N_Windows_Devices_Geolocation.htm">
+    <HelpTOCNode Id="125da31b-a1d0-437f-8014-bd043a04d2af" Title="BasicGeoposition Structure" Url="html/T_Windows_Devices_Geolocation_BasicGeoposition.htm">
+      <HelpTOCNode Title="BasicGeoposition Methods" Url="html/Methods_T_Windows_Devices_Geolocation_BasicGeoposition.htm" />
+      <HelpTOCNode Id="405c0eba-a352-4e30-b1d4-218deea9887f" Title="BasicGeoposition Fields" Url="html/Fields_T_Windows_Devices_Geolocation_BasicGeoposition.htm">
+        <HelpTOCNode Title="Altitude Field" Url="html/F_Windows_Devices_Geolocation_BasicGeoposition_Altitude.htm" />
+        <HelpTOCNode Title="Latitude Field" Url="html/F_Windows_Devices_Geolocation_BasicGeoposition_Latitude.htm" />
+        <HelpTOCNode Title="Longitude Field" Url="html/F_Windows_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5522bace-ce67-4420-a805-76f719c800ef" Title="Geocircle Class" Url="html/T_Windows_Devices_Geolocation_Geocircle.htm">
+      <HelpTOCNode Title="Geocircle Constructor " Url="html/M_Windows_Devices_Geolocation_Geocircle__ctor.htm" />
+      <HelpTOCNode Id="27bb99e3-6481-430b-846a-ab7bf3d27a5d" Title="Geocircle Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geocircle.htm">
+        <HelpTOCNode Title="Center Property " Url="html/P_Windows_Devices_Geolocation_Geocircle_Center.htm" />
+        <HelpTOCNode Title="Radius Property " Url="html/P_Windows_Devices_Geolocation_Geocircle_Radius.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Geocircle Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geocircle.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4bce82ba-59df-42e2-a3a3-077dd4e39e0a" Title="Geocoordinate Class" Url="html/T_Windows_Devices_Geolocation_Geocoordinate.htm">
+      <HelpTOCNode Title="Geocoordinate Constructor " Url="html/M_Windows_Devices_Geolocation_Geocoordinate__ctor.htm" />
+      <HelpTOCNode Id="0a5cf083-abd2-4708-af22-b2aca85a4dc1" Title="Geocoordinate Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geocoordinate.htm">
+        <HelpTOCNode Title="Accuracy Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Accuracy.htm" />
+        <HelpTOCNode Title="AltitudeAccuracy Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_AltitudeAccuracy.htm" />
+        <HelpTOCNode Title="Heading Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Heading.htm" />
+        <HelpTOCNode Title="Point Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Point.htm" />
+        <HelpTOCNode Title="PositionSource Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_PositionSource.htm" />
+        <HelpTOCNode Title="PositionSourceTimestamp Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_PositionSourceTimestamp.htm" />
+        <HelpTOCNode Title="Speed Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Speed.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Timestamp.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Geocoordinate Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geocoordinate.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a2332eae-51dd-4ce8-941b-5bb4c30311f9" Title="Geolocator Class" Url="html/T_Windows_Devices_Geolocation_Geolocator.htm">
+      <HelpTOCNode Title="Geolocator Constructor " Url="html/M_Windows_Devices_Geolocation_Geolocator__ctor.htm" />
+      <HelpTOCNode Id="92ca767e-4108-4e4e-a348-76636aa7e167" Title="Geolocator Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Title="DesiredAccuracy Property " Url="html/P_Windows_Devices_Geolocation_Geolocator_DesiredAccuracy.htm" />
+        <HelpTOCNode Title="LocationStatus Property " Url="html/P_Windows_Devices_Geolocation_Geolocator_LocationStatus.htm" />
+        <HelpTOCNode Title="MovementThreshold Property " Url="html/P_Windows_Devices_Geolocation_Geolocator_MovementThreshold.htm" />
+        <HelpTOCNode Title="ReportInterval Property " Url="html/P_Windows_Devices_Geolocation_Geolocator_ReportInterval.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="27d0e41d-8f82-44d0-b0b4-455997028740" Title="Geolocator Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Title="GetGeopositionAsync Method " Url="html/M_Windows_Devices_Geolocation_Geolocator_GetGeopositionAsync.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="862e1afb-27dc-4c52-bdfe-2379d01cbc9e" Title="Geolocator Events" Url="html/Events_T_Windows_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Title="PositionChanged Event" Url="html/E_Windows_Devices_Geolocation_Geolocator_PositionChanged.htm" />
+        <HelpTOCNode Title="StatusChanged Event" Url="html/E_Windows_Devices_Geolocation_Geolocator_StatusChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1218db24-4306-4d35-b24c-9e03c1b65176" Title="Geopoint Class" Url="html/T_Windows_Devices_Geolocation_Geopoint.htm">
+      <HelpTOCNode Title="Geopoint Constructor " Url="html/M_Windows_Devices_Geolocation_Geopoint__ctor.htm" />
+      <HelpTOCNode Id="0192116f-ce34-4bab-b5ff-b939d00c50d9" Title="Geopoint Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geopoint.htm">
+        <HelpTOCNode Title="Position Property " Url="html/P_Windows_Devices_Geolocation_Geopoint_Position.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Geopoint Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geopoint.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="62b163f3-469c-4e22-bb9f-aa427945035d" Title="Geoposition Class" Url="html/T_Windows_Devices_Geolocation_Geoposition.htm">
+      <HelpTOCNode Title="Geoposition Constructor " Url="html/M_Windows_Devices_Geolocation_Geoposition__ctor.htm" />
+      <HelpTOCNode Id="3d254af0-b09a-45fa-bcc4-f8589e956ac4" Title="Geoposition Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geoposition.htm">
+        <HelpTOCNode Title="Coordinate Property " Url="html/P_Windows_Devices_Geolocation_Geoposition_Coordinate.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Geoposition Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geoposition.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="IGeoshape Interface" Url="html/T_Windows_Devices_Geolocation_IGeoshape.htm" />
+    <HelpTOCNode Title="PositionAccuracy Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionAccuracy.htm" />
+    <HelpTOCNode Id="c3115bf5-7511-445e-995c-65c20f840d67" Title="PositionChangedEventArgs Class" Url="html/T_Windows_Devices_Geolocation_PositionChangedEventArgs.htm">
+      <HelpTOCNode Id="e365b182-36d5-480b-ae5f-e723647b60aa" Title="PositionChangedEventArgs Properties" Url="html/Properties_T_Windows_Devices_Geolocation_PositionChangedEventArgs.htm">
+        <HelpTOCNode Title="Position Property " Url="html/P_Windows_Devices_Geolocation_PositionChangedEventArgs_Position.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PositionChangedEventArgs Methods" Url="html/Methods_T_Windows_Devices_Geolocation_PositionChangedEventArgs.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="PositionSource Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionSource.htm" />
+    <HelpTOCNode Title="PositionStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionStatus.htm" />
+    <HelpTOCNode Id="d26c923d-a8a3-4f0c-b21a-2034ad639b66" Title="StatusChangedEventArgs Class" Url="html/T_Windows_Devices_Geolocation_StatusChangedEventArgs.htm">
+      <HelpTOCNode Id="f5c59492-b8a8-453a-a4b9-671d881b8a7e" Title="StatusChangedEventArgs Properties" Url="html/Properties_T_Windows_Devices_Geolocation_StatusChangedEventArgs.htm">
+        <HelpTOCNode Title="Status Property " Url="html/P_Windows_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StatusChangedEventArgs Methods" Url="html/Methods_T_Windows_Devices_Geolocation_StatusChangedEventArgs.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="98cbc26b-57bc-4626-8c0a-af77bd6828c2" Title="Windows.Devices.Geolocation.Geofencing" Url="html/N_Windows_Devices_Geolocation_Geofencing.htm">
+    <HelpTOCNode Id="980148e2-fbab-4673-91db-1be98f5e7cda" Title="Geofence Class" Url="html/T_Windows_Devices_Geolocation_Geofencing_Geofence.htm">
+      <HelpTOCNode Title="Geofence Constructor " Url="html/M_Windows_Devices_Geolocation_Geofencing_Geofence__ctor.htm" />
+      <HelpTOCNode Id="52f8d99f-2eaf-4571-9b0b-6f6bc9a6350e" Title="Geofence Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geofencing_Geofence.htm">
+        <HelpTOCNode Title="Geoshape Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_Geofence_Geoshape.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_Geofence_Id.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a1e311d-117d-4060-a08c-b779337db5e0" Title="Geofence Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geofencing_Geofence.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/M_Windows_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="73675f07-fb03-46e6-9c57-2c1d355fd0dc" Title="GeofenceMonitor Class" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+      <HelpTOCNode Id="e0c4a7c9-c0f9-4650-a083-0f1846ba40db" Title="GeofenceMonitor Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Title="Current Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_Current.htm" />
+        <HelpTOCNode Title="Geofences Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_Geofences.htm" />
+        <HelpTOCNode Title="LastKnownGeoposition Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_LastKnownGeoposition.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_Status.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2c3e38c7-ef05-4965-b96d-3891520dc6bb" Title="GeofenceMonitor Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Title="ReadReports Method " Url="html/M_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_ReadReports.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="83960aa6-b461-49f1-8f7f-09a5b5c3e6b1" Title="GeofenceMonitor Events" Url="html/Events_T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Title="GeofenceStateChanged Event" Url="html/E_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_GeofenceStateChanged.htm" />
+        <HelpTOCNode Title="StatusChanged Event" Url="html/E_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_StatusChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="GeofenceMonitorStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
+    <HelpTOCNode Title="GeofenceState Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceState.htm" />
+    <HelpTOCNode Id="3a14ee9c-6a5e-44f2-a89b-103dd46c57e9" Title="GeofenceStateChangeReport Class" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
+      <HelpTOCNode Id="5222110b-b676-4b29-a9ac-f2ea2435604f" Title="GeofenceStateChangeReport Properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
+        <HelpTOCNode Title="Geofence Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_Geofence.htm" />
+        <HelpTOCNode Title="Geoposition Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_Geoposition.htm" />
+        <HelpTOCNode Title="NewState Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_NewState.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GeofenceStateChangeReport Methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="MonitoredGeofenceStates Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f37dda92-c84c-41e3-a3de-d7b66d90f292" Title="Windows.Foundation" Url="html/N_Windows_Foundation.htm">
+    <HelpTOCNode Title="AsyncActionCompletedHandler Delegate" Url="html/T_Windows_Foundation_AsyncActionCompletedHandler.htm" />
+    <HelpTOCNode Title="AsyncOperationCompletedHandler(TResult) Delegate" Url="html/T_Windows_Foundation_AsyncOperationCompletedHandler_1.htm" />
+    <HelpTOCNode Title="AsyncStatus Enumeration" Url="html/T_Windows_Foundation_AsyncStatus.htm" />
+    <HelpTOCNode Id="52dee5ff-6938-4312-b9fd-d52741bc570c" Title="IAsyncAction Interface" Url="html/T_Windows_Foundation_IAsyncAction.htm">
+      <HelpTOCNode Id="36ed8864-164f-4d67-8dce-16f4f881bdb9" Title="IAsyncAction Properties" Url="html/Properties_T_Windows_Foundation_IAsyncAction.htm">
+        <HelpTOCNode Title="Completed Property " Url="html/P_Windows_Foundation_IAsyncAction_Completed.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="030c43e7-d234-44af-a3ca-11415097f7a8" Title="IAsyncAction Methods" Url="html/Methods_T_Windows_Foundation_IAsyncAction.htm">
+        <HelpTOCNode Title="GetResults Method " Url="html/M_Windows_Foundation_IAsyncAction_GetResults.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d346fdf1-ff89-4c8f-aca5-703fa39caf9d" Title="IAsyncOperation(TResult) Interface" Url="html/T_Windows_Foundation_IAsyncOperation_1.htm">
+      <HelpTOCNode Id="2f7fbd3a-ce75-4862-9553-b9ac8cec2f62" Title="IAsyncOperation(TResult) Properties" Url="html/Properties_T_Windows_Foundation_IAsyncOperation_1.htm">
+        <HelpTOCNode Title="Completed Property " Url="html/P_Windows_Foundation_IAsyncOperation_1_Completed.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="82d15b98-40ed-4a69-9ed9-edd21628b26a" Title="IAsyncOperation(TResult) Methods" Url="html/Methods_T_Windows_Foundation_IAsyncOperation_1.htm">
+        <HelpTOCNode Title="GetResults Method " Url="html/M_Windows_Foundation_IAsyncOperation_1_GetResults.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="323c5e96-da56-463b-8e7e-35d3ddd397b0" Title="Point Structure" Url="html/T_Windows_Foundation_Point.htm">
+      <HelpTOCNode Id="f0778104-7505-45ab-be57-65c09e0b40b4" Title="Point Properties" Url="html/Properties_T_Windows_Foundation_Point.htm">
+        <HelpTOCNode Title="X Property " Url="html/P_Windows_Foundation_Point_X.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/P_Windows_Foundation_Point_Y.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Point Methods" Url="html/Methods_T_Windows_Foundation_Point.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fd124644-9cb0-4995-b031-c3ce1e36772d" Title="Rect Structure" Url="html/T_Windows_Foundation_Rect.htm">
+      <HelpTOCNode Title="Rect Constructor " Url="html/M_Windows_Foundation_Rect__ctor.htm" />
+      <HelpTOCNode Id="fbed6775-6660-486a-b0fc-4719d4709e11" Title="Rect Properties" Url="html/Properties_T_Windows_Foundation_Rect.htm">
+        <HelpTOCNode Title="Height Property " Url="html/P_Windows_Foundation_Rect_Height.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/P_Windows_Foundation_Rect_Width.htm" />
+        <HelpTOCNode Title="X Property " Url="html/P_Windows_Foundation_Rect_X.htm" />
+        <HelpTOCNode Title="Y Property " Url="html/P_Windows_Foundation_Rect_Y.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Rect Methods" Url="html/Methods_T_Windows_Foundation_Rect.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="TypedEventHandler(TSender, TResult) Delegate" Url="html/T_Windows_Foundation_TypedEventHandler_2.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="994fd97e-aa9c-4a1d-b98f-6d55e718ade3" Title="Windows.Foundation.Collections" Url="html/N_Windows_Foundation_Collections.htm">
+    <HelpTOCNode Title="CollectionChange Enumeration" Url="html/T_Windows_Foundation_Collections_CollectionChange.htm" />
+    <HelpTOCNode Id="4101c1af-ee17-47c4-9d78-987d1ff6ed8d" Title="IMapChangedEventArgs(K) Interface" Url="html/T_Windows_Foundation_Collections_IMapChangedEventArgs_1.htm">
+      <HelpTOCNode Id="928d0bcc-8617-4e8e-9f0a-2c19141eaa94" Title="IMapChangedEventArgs(K) Properties" Url="html/Properties_T_Windows_Foundation_Collections_IMapChangedEventArgs_1.htm">
+        <HelpTOCNode Title="CollectionChange Property " Url="html/P_Windows_Foundation_Collections_IMapChangedEventArgs_1_CollectionChange.htm" />
+        <HelpTOCNode Title="Key Property " Url="html/P_Windows_Foundation_Collections_IMapChangedEventArgs_1_Key.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8a4f05b-c2cc-4caf-9375-cbb6d1f92338" Title="IObservableMap(K, V) Interface" Url="html/T_Windows_Foundation_Collections_IObservableMap_2.htm">
+      <HelpTOCNode Id="918c5e95-049d-4fc1-baa3-cc741921dc5f" Title="IObservableMap(K, V) Events" Url="html/Events_T_Windows_Foundation_Collections_IObservableMap_2.htm">
+        <HelpTOCNode Title="MapChanged Event" Url="html/E_Windows_Foundation_Collections_IObservableMap_2_MapChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ccfbd746-167b-4b05-916f-378980b18ff6" Title="IPropertySet Interface" Url="html/T_Windows_Foundation_Collections_IPropertySet.htm">
+      <HelpTOCNode Title="IPropertySet Properties" Url="html/Properties_T_Windows_Foundation_Collections_IPropertySet.htm" />
+      <HelpTOCNode Title="IPropertySet Methods" Url="html/Methods_T_Windows_Foundation_Collections_IPropertySet.htm" />
+      <HelpTOCNode Title="IPropertySet Events" Url="html/Events_T_Windows_Foundation_Collections_IPropertySet.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="MapChangedEventHandler(K, V) Delegate" Url="html/T_Windows_Foundation_Collections_MapChangedEventHandler_2.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="dd0739f8-be24-445a-b1df-2b67a71c4d3b" Title="Windows.Foundation.Metadata" Url="html/N_Windows_Foundation_Metadata.htm">
+    <HelpTOCNode Id="8d0e78a3-0665-4ff1-988d-708a1f817735" Title="ApiInformation Class" Url="html/T_Windows_Foundation_Metadata_ApiInformation.htm">
+      <HelpTOCNode Id="98368c60-0421-4bec-b0e6-baa3ddc4d4d2" Title="ApiInformation Methods" Url="html/Methods_T_Windows_Foundation_Metadata_ApiInformation.htm">
+        <HelpTOCNode Id="7473fa2d-6883-4629-bff5-2d7e9bc9eed3" Title="IsApiContractPresent Method " Url="html/Overload_Windows_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm">
+          <HelpTOCNode Title="IsApiContractPresent Method (String, UInt16)" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm" />
+          <HelpTOCNode Title="IsApiContractPresent Method (String, UInt16, UInt16)" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsApiContractPresent_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsEnumNamedValuePresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsEnumNamedValuePresent.htm" />
+        <HelpTOCNode Title="IsEventPresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsEventPresent.htm" />
+        <HelpTOCNode Id="226feb38-2ff3-431b-85a4-a8257eb83bce" Title="IsMethodPresent Method " Url="html/Overload_Windows_Foundation_Metadata_ApiInformation_IsMethodPresent.htm">
+          <HelpTOCNode Title="IsMethodPresent Method (String, String)" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsMethodPresent.htm" />
+          <HelpTOCNode Title="IsMethodPresent Method (String, String, UInt32)" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsMethodPresent_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsPropertyPresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsPropertyPresent.htm" />
+        <HelpTOCNode Title="IsReadOnlyPropertyPresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsReadOnlyPropertyPresent.htm" />
+        <HelpTOCNode Title="IsTypePresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsTypePresent.htm" />
+        <HelpTOCNode Title="IsWriteablePropertyPresent Method " Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsWriteablePropertyPresent.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="095edfc9-33c6-43d0-a39f-d96f2e3c8e86" Title="Windows.Graphics.Display" Url="html/N_Windows_Graphics_Display.htm">
+    <HelpTOCNode Id="c0841b21-e38d-4031-bdfe-ad73abbcc003" Title="DisplayInformation Class" Url="html/T_Windows_Graphics_Display_DisplayInformation.htm">
+      <HelpTOCNode Id="3e0a5c6d-b6d3-4611-892d-b4606812a202" Title="DisplayInformation Properties" Url="html/Properties_T_Windows_Graphics_Display_DisplayInformation.htm">
+        <HelpTOCNode Title="CurrentOrientation Property " Url="html/P_Windows_Graphics_Display_DisplayInformation_CurrentOrientation.htm" />
+        <HelpTOCNode Title="RawDpiX Property " Url="html/P_Windows_Graphics_Display_DisplayInformation_RawDpiX.htm" />
+        <HelpTOCNode Title="RawDpiY Property " Url="html/P_Windows_Graphics_Display_DisplayInformation_RawDpiY.htm" />
+        <HelpTOCNode Title="RawPixelsPerViewPixel Property " Url="html/P_Windows_Graphics_Display_DisplayInformation_RawPixelsPerViewPixel.htm" />
+        <HelpTOCNode Title="ResolutionScale Property " Url="html/P_Windows_Graphics_Display_DisplayInformation_ResolutionScale.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a8f8233-5a9e-4dc3-83f7-de3f2dc365ee" Title="DisplayInformation Methods" Url="html/Methods_T_Windows_Graphics_Display_DisplayInformation.htm">
+        <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_Windows_Graphics_Display_DisplayInformation_GetForCurrentView.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DisplayOrientations Enumeration" Url="html/T_Windows_Graphics_Display_DisplayOrientations.htm" />
+    <HelpTOCNode Title="ResolutionScale Enumeration" Url="html/T_Windows_Graphics_Display_ResolutionScale.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="8cde9157-c25d-403a-b6ad-a217863a308a" Title="Windows.Media.Capture" Url="html/N_Windows_Media_Capture.htm">
+    <HelpTOCNode Id="3bea4361-d212-4747-8298-84466ce5ed18" Title="CameraCaptureUI Class" Url="html/T_Windows_Media_Capture_CameraCaptureUI.htm">
+      <HelpTOCNode Title="CameraCaptureUI Constructor " Url="html/M_Windows_Media_Capture_CameraCaptureUI__ctor.htm" />
+      <HelpTOCNode Id="e2694ce6-c5ff-4c05-833a-3302d5992ae0" Title="CameraCaptureUI Methods" Url="html/Methods_T_Windows_Media_Capture_CameraCaptureUI.htm">
+        <HelpTOCNode Title="CaptureFileAsync Method " Url="html/M_Windows_Media_Capture_CameraCaptureUI_CaptureFileAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="CameraCaptureUIMode Enumeration" Url="html/T_Windows_Media_Capture_CameraCaptureUIMode.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="17f15057-83be-43bf-9c98-f86c7d17955c" Title="Windows.Networking.Connectivity" Url="html/N_Windows_Networking_Connectivity.htm">
+    <HelpTOCNode Id="aed6b53d-a6ad-45ad-a27a-3b27ce9ddfbc" Title="ConnectionProfile Class" Url="html/T_Windows_Networking_Connectivity_ConnectionProfile.htm">
+      <HelpTOCNode Title="ConnectionProfile Constructor " Url="html/M_Windows_Networking_Connectivity_ConnectionProfile__ctor.htm" />
+      <HelpTOCNode Id="4d4688c6-06a7-4ac1-9934-604c1d4e84de" Title="ConnectionProfile Methods" Url="html/Methods_T_Windows_Networking_Connectivity_ConnectionProfile.htm">
+        <HelpTOCNode Title="GetNetworkConnectivityLevel Method " Url="html/M_Windows_Networking_Connectivity_ConnectionProfile_GetNetworkConnectivityLevel.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NetworkConnectivityLevel Enumeration" Url="html/T_Windows_Networking_Connectivity_NetworkConnectivityLevel.htm" />
+    <HelpTOCNode Id="1d353756-f2d9-43d3-a58f-534106d9eee6" Title="NetworkInformation Class" Url="html/T_Windows_Networking_Connectivity_NetworkInformation.htm">
+      <HelpTOCNode Id="760aa1c5-3b57-4cfe-b563-f2ed2908cb05" Title="NetworkInformation Methods" Url="html/Methods_T_Windows_Networking_Connectivity_NetworkInformation.htm">
+        <HelpTOCNode Title="GetInternetConnectionProfile Method " Url="html/M_Windows_Networking_Connectivity_NetworkInformation_GetInternetConnectionProfile.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="df026a44-8566-496b-8f77-55b6173cb53c" Title="NetworkInformation Events" Url="html/Events_T_Windows_Networking_Connectivity_NetworkInformation.htm">
+        <HelpTOCNode Title="NetworkStatusChanged Event" Url="html/E_Windows_Networking_Connectivity_NetworkInformation_NetworkStatusChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NetworkStatusChangedEventHandler Delegate" Url="html/T_Windows_Networking_Connectivity_NetworkStatusChangedEventHandler.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f2de82d5-ddf1-4e33-b2c0-eee45df96af6" Title="Windows.Phone.Devices.Notification" Url="html/N_Windows_Phone_Devices_Notification.htm">
+    <HelpTOCNode Id="26d18f46-b7a7-4a16-823c-0df3f1101aaa" Title="VibrationDevice Class" Url="html/T_Windows_Phone_Devices_Notification_VibrationDevice.htm">
+      <HelpTOCNode Id="fc57e856-34cd-4a87-be01-863f465b914d" Title="VibrationDevice Methods" Url="html/Methods_T_Windows_Phone_Devices_Notification_VibrationDevice.htm">
+        <HelpTOCNode Title="Cancel Method " Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_Cancel.htm" />
+        <HelpTOCNode Title="GetDefault Method " Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
+        <HelpTOCNode Title="Vibrate Method " Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_Vibrate.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1853fcb6-3318-4a87-9892-d12efcc7796f" Title="Windows.Phone.System" Url="html/N_Windows_Phone_System.htm">
+    <HelpTOCNode Id="05c06545-ef5e-47be-a87d-bb58c311d74e" Title="SystemProtection Class" Url="html/T_Windows_Phone_System_SystemProtection.htm">
+      <HelpTOCNode Id="4d544284-cd8e-4ea2-adfb-ddacbf216628" Title="SystemProtection Properties" Url="html/Properties_T_Windows_Phone_System_SystemProtection.htm">
+        <HelpTOCNode Title="ScreenLocked Property " Url="html/P_Windows_Phone_System_SystemProtection_ScreenLocked.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="9ecb4e11-e981-4c29-b94f-90f93c106b9c" Title="Windows.Storage" Url="html/N_Windows_Storage.htm">
+    <HelpTOCNode Id="1e53a260-b429-449a-a874-ed2a6f9f2129" Title="ApplicationData Class" Url="html/T_Windows_Storage_ApplicationData.htm">
+      <HelpTOCNode Id="48adc011-3001-4c0d-8880-076e7db47120" Title="ApplicationData Properties" Url="html/Properties_T_Windows_Storage_ApplicationData.htm">
+        <HelpTOCNode Title="Current Property " Url="html/P_Windows_Storage_ApplicationData_Current.htm" />
+        <HelpTOCNode Title="LocalFolder Property " Url="html/P_Windows_Storage_ApplicationData_LocalFolder.htm" />
+        <HelpTOCNode Title="LocalSettings Property " Url="html/P_Windows_Storage_ApplicationData_LocalSettings.htm" />
+        <HelpTOCNode Title="RoamingFolder Property " Url="html/P_Windows_Storage_ApplicationData_RoamingFolder.htm" />
+        <HelpTOCNode Title="RoamingSettings Property " Url="html/P_Windows_Storage_ApplicationData_RoamingSettings.htm" />
+        <HelpTOCNode Title="TemporaryFolder Property " Url="html/P_Windows_Storage_ApplicationData_TemporaryFolder.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationData Methods" Url="html/Methods_T_Windows_Storage_ApplicationData.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f66d143-6a1f-459a-a2df-f641d36b6440" Title="ApplicationDataContainer Class" Url="html/T_Windows_Storage_ApplicationDataContainer.htm">
+      <HelpTOCNode Id="b7418100-514b-4a32-b984-60119d9c2183" Title="ApplicationDataContainer Properties" Url="html/Properties_T_Windows_Storage_ApplicationDataContainer.htm">
+        <HelpTOCNode Title="Locality Property " Url="html/P_Windows_Storage_ApplicationDataContainer_Locality.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_Windows_Storage_ApplicationDataContainer_Name.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P_Windows_Storage_ApplicationDataContainer_Values.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationDataContainer Methods" Url="html/Methods_T_Windows_Storage_ApplicationDataContainer.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e2c5ffa-2157-4656-be83-bf46a6070a43" Title="ApplicationDataContainerSettings Class" Url="html/T_Windows_Storage_ApplicationDataContainerSettings.htm">
+      <HelpTOCNode Id="02552469-715b-47ae-864d-588c8184bcf2" Title="ApplicationDataContainerSettings Properties" Url="html/Properties_T_Windows_Storage_ApplicationDataContainerSettings.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_Count.htm" />
+        <HelpTOCNode Title="IsReadOnly Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_IsReadOnly.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_Item.htm" />
+        <HelpTOCNode Title="Keys Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_Keys.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_Values.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b6510687-6e44-4527-a8b1-775f30e5aeb8" Title="ApplicationDataContainerSettings Methods" Url="html/Methods_T_Windows_Storage_ApplicationDataContainerSettings.htm">
+        <HelpTOCNode Id="3a2133f1-3d25-4898-94b3-b6b19326c030" Title="Add Method " Url="html/Overload_Windows_Storage_ApplicationDataContainerSettings_Add.htm">
+          <HelpTOCNode Title="Add Method (KeyValuePair(String, Object))" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Add.htm" />
+          <HelpTOCNode Title="Add Method (String, Object)" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Add_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Clear Method " Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Clear.htm" />
+        <HelpTOCNode Title="Contains Method " Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Contains.htm" />
+        <HelpTOCNode Title="ContainsKey Method " Url="html/M_Windows_Storage_ApplicationDataContainerSettings_ContainsKey.htm" />
+        <HelpTOCNode Title="CopyTo Method " Url="html/M_Windows_Storage_ApplicationDataContainerSettings_CopyTo.htm" />
+        <HelpTOCNode Id="b68525aa-79e8-45f9-8242-6006b1380f6f" Title="Remove Method " Url="html/Overload_Windows_Storage_ApplicationDataContainerSettings_Remove.htm">
+          <HelpTOCNode Title="Remove Method (KeyValuePair(String, Object))" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Remove.htm" />
+          <HelpTOCNode Title="Remove Method (String)" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_Remove_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TryGetValue Method " Url="html/M_Windows_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b80b9ce1-098f-46b2-a9a7-3c9bc0af16d1" Title="ApplicationDataContainerSettings Events" Url="html/Events_T_Windows_Storage_ApplicationDataContainerSettings.htm">
+        <HelpTOCNode Title="MapChanged Event" Url="html/E_Windows_Storage_ApplicationDataContainerSettings_MapChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ApplicationDataLocality Enumeration" Url="html/T_Windows_Storage_ApplicationDataLocality.htm" />
+    <HelpTOCNode Title="CreationCollisionOption Enumeration" Url="html/T_Windows_Storage_CreationCollisionOption.htm" />
+    <HelpTOCNode Title="FileAttributes Enumeration" Url="html/T_Windows_Storage_FileAttributes.htm" />
+    <HelpTOCNode Id="50c8f47b-35f7-4f53-b3c8-eaad4af93d95" Title="IStorageFile Interface" Url="html/T_Windows_Storage_IStorageFile.htm">
+      <HelpTOCNode Id="bce56da3-46cc-456d-b004-f998a739d877" Title="IStorageFile Properties" Url="html/Properties_T_Windows_Storage_IStorageFile.htm">
+        <HelpTOCNode Title="ContentType Property " Url="html/P_Windows_Storage_IStorageFile_ContentType.htm" />
+        <HelpTOCNode Title="FileType Property " Url="html/P_Windows_Storage_IStorageFile_FileType.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="54eb1d70-cfaa-489b-85e1-3cdfa5bec9e6" Title="IStorageFile Methods" Url="html/Methods_T_Windows_Storage_IStorageFile.htm">
+        <HelpTOCNode Title="CopyAndReplaceAsync Method " Url="html/M_Windows_Storage_IStorageFile_CopyAndReplaceAsync.htm" />
+        <HelpTOCNode Id="1554f6fc-9dba-4e43-8223-41c21bd98d4c" Title="CopyAsync Method " Url="html/Overload_Windows_Storage_IStorageFile_CopyAsync.htm">
+          <HelpTOCNode Title="CopyAsync Method (IStorageFolder)" Url="html/M_Windows_Storage_IStorageFile_CopyAsync.htm" />
+          <HelpTOCNode Title="CopyAsync Method (IStorageFolder, String)" Url="html/M_Windows_Storage_IStorageFile_CopyAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MoveAndReplaceAsync Method " Url="html/M_Windows_Storage_IStorageFile_MoveAndReplaceAsync.htm" />
+        <HelpTOCNode Id="8af3a020-2b0f-414f-b65b-8b8430294ead" Title="MoveAsync Method " Url="html/Overload_Windows_Storage_IStorageFile_MoveAsync.htm">
+          <HelpTOCNode Title="MoveAsync Method (IStorageFolder)" Url="html/M_Windows_Storage_IStorageFile_MoveAsync.htm" />
+          <HelpTOCNode Title="MoveAsync Method (IStorageFolder, String)" Url="html/M_Windows_Storage_IStorageFile_MoveAsync_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="96f634cb-89a8-4fc3-9202-40b0a545e97e" Title="IStorageFolder Interface" Url="html/T_Windows_Storage_IStorageFolder.htm">
+      <HelpTOCNode Title="IStorageFolder Properties" Url="html/Properties_T_Windows_Storage_IStorageFolder.htm" />
+      <HelpTOCNode Id="f3417782-0829-4940-9bce-952dff9799ad" Title="IStorageFolder Methods" Url="html/Methods_T_Windows_Storage_IStorageFolder.htm">
+        <HelpTOCNode Id="f439a4dd-9d51-46a0-abeb-146677df010a" Title="CreateFileAsync Method " Url="html/Overload_Windows_Storage_IStorageFolder_CreateFileAsync.htm">
+          <HelpTOCNode Title="CreateFileAsync Method (String)" Url="html/M_Windows_Storage_IStorageFolder_CreateFileAsync.htm" />
+          <HelpTOCNode Title="CreateFileAsync Method (String, CreationCollisionOption)" Url="html/M_Windows_Storage_IStorageFolder_CreateFileAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bc42e1ab-066e-489f-9949-53ac838d61bc" Title="CreateFolderAsync Method " Url="html/Overload_Windows_Storage_IStorageFolder_CreateFolderAsync.htm">
+          <HelpTOCNode Title="CreateFolderAsync Method (String)" Url="html/M_Windows_Storage_IStorageFolder_CreateFolderAsync.htm" />
+          <HelpTOCNode Title="CreateFolderAsync Method (String, CreationCollisionOption)" Url="html/M_Windows_Storage_IStorageFolder_CreateFolderAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileAsync Method " Url="html/M_Windows_Storage_IStorageFolder_GetFileAsync.htm" />
+        <HelpTOCNode Title="GetFilesAsync Method " Url="html/M_Windows_Storage_IStorageFolder_GetFilesAsync.htm" />
+        <HelpTOCNode Title="GetFolderAsync Method " Url="html/M_Windows_Storage_IStorageFolder_GetFolderAsync.htm" />
+        <HelpTOCNode Title="GetFoldersAsync Method " Url="html/M_Windows_Storage_IStorageFolder_GetFoldersAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a440985-d854-4632-aa18-c022f78a628f" Title="IStorageItem Interface" Url="html/T_Windows_Storage_IStorageItem.htm">
+      <HelpTOCNode Id="c035be26-873e-45fc-be93-3ec672de8736" Title="IStorageItem Properties" Url="html/Properties_T_Windows_Storage_IStorageItem.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/P_Windows_Storage_IStorageItem_Attributes.htm" />
+        <HelpTOCNode Title="DateCreated Property " Url="html/P_Windows_Storage_IStorageItem_DateCreated.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_Windows_Storage_IStorageItem_Name.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/P_Windows_Storage_IStorageItem_Path.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="90ef9578-82fa-4d09-b871-65f32c0a20c3" Title="IStorageItem Methods" Url="html/Methods_T_Windows_Storage_IStorageItem.htm">
+        <HelpTOCNode Id="35abe1a2-a262-4953-a667-627aeb21e0d0" Title="DeleteAsync Method " Url="html/Overload_Windows_Storage_IStorageItem_DeleteAsync.htm">
+          <HelpTOCNode Title="DeleteAsync Method " Url="html/M_Windows_Storage_IStorageItem_DeleteAsync.htm" />
+          <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_Windows_Storage_IStorageItem_DeleteAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsOfType Method " Url="html/M_Windows_Storage_IStorageItem_IsOfType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f278f96b-4cdf-49a7-9ea2-619f8c9e42d8" Title="IStorageItem2 Interface" Url="html/T_Windows_Storage_IStorageItem2.htm">
+      <HelpTOCNode Title="IStorageItem2 Properties" Url="html/Properties_T_Windows_Storage_IStorageItem2.htm" />
+      <HelpTOCNode Id="7a0a2276-9882-4554-af92-96079f972701" Title="IStorageItem2 Methods" Url="html/Methods_T_Windows_Storage_IStorageItem2.htm">
+        <HelpTOCNode Title="GetParentAsync Method " Url="html/M_Windows_Storage_IStorageItem2_GetParentAsync.htm" />
+        <HelpTOCNode Title="IsEqual Method " Url="html/M_Windows_Storage_IStorageItem2_IsEqual.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="12e409f4-d68c-4d32-9d90-6d92fc5197f8" Title="KnownFolders Class" Url="html/T_Windows_Storage_KnownFolders.htm">
+      <HelpTOCNode Id="5ce558b5-bfba-464d-a07c-a368802da72c" Title="KnownFolders Properties" Url="html/Properties_T_Windows_Storage_KnownFolders.htm">
+        <HelpTOCNode Title="CameraRoll Property " Url="html/P_Windows_Storage_KnownFolders_CameraRoll.htm" />
+        <HelpTOCNode Title="DocumentsLibrary Property " Url="html/P_Windows_Storage_KnownFolders_DocumentsLibrary.htm" />
+        <HelpTOCNode Title="MusicLibrary Property " Url="html/P_Windows_Storage_KnownFolders_MusicLibrary.htm" />
+        <HelpTOCNode Title="PicturesLibrary Property " Url="html/P_Windows_Storage_KnownFolders_PicturesLibrary.htm" />
+        <HelpTOCNode Title="VideosLibrary Property " Url="html/P_Windows_Storage_KnownFolders_VideosLibrary.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="NameCollisionOption Enumeration" Url="html/T_Windows_Storage_NameCollisionOption.htm" />
+    <HelpTOCNode Id="d390d657-fcd1-4b16-9238-ffb5778bd9b3" Title="PathIO Class" Url="html/T_Windows_Storage_PathIO.htm">
+      <HelpTOCNode Id="acbc5726-71a6-4f4a-ac9d-439e8042d11e" Title="PathIO Methods" Url="html/Methods_T_Windows_Storage_PathIO.htm">
+        <HelpTOCNode Id="c111d0a3-76a9-40ee-9bd7-ff289ccb9617" Title="AppendLinesAsync Method " Url="html/Overload_Windows_Storage_PathIO_AppendLinesAsync.htm">
+          <HelpTOCNode Title="AppendLinesAsync Method (String, IEnumerable(String))" Url="html/M_Windows_Storage_PathIO_AppendLinesAsync.htm" />
+          <HelpTOCNode Title="AppendLinesAsync Method (String, IEnumerable(String), UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_AppendLinesAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ecdbd978-bac3-4d46-8080-e7b3111a9b4b" Title="AppendTextAsync Method " Url="html/Overload_Windows_Storage_PathIO_AppendTextAsync.htm">
+          <HelpTOCNode Title="AppendTextAsync Method (String, String)" Url="html/M_Windows_Storage_PathIO_AppendTextAsync.htm" />
+          <HelpTOCNode Title="AppendTextAsync Method (String, String, UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_AppendTextAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="76a814dd-1348-44e6-8d03-0b8390045a2c" Title="ReadLinesAsync Method " Url="html/Overload_Windows_Storage_PathIO_ReadLinesAsync.htm">
+          <HelpTOCNode Title="ReadLinesAsync Method (String)" Url="html/M_Windows_Storage_PathIO_ReadLinesAsync.htm" />
+          <HelpTOCNode Title="ReadLinesAsync Method (String, UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_ReadLinesAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aa2212b4-af80-4333-96f9-a327403ec366" Title="ReadTextAsync Method " Url="html/Overload_Windows_Storage_PathIO_ReadTextAsync.htm">
+          <HelpTOCNode Title="ReadTextAsync Method (String)" Url="html/M_Windows_Storage_PathIO_ReadTextAsync.htm" />
+          <HelpTOCNode Title="ReadTextAsync Method (String, UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_ReadTextAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b0428a0d-24e3-4dcc-b5aa-9f089f6117a6" Title="WriteLinesAsync Method " Url="html/Overload_Windows_Storage_PathIO_WriteLinesAsync.htm">
+          <HelpTOCNode Title="WriteLinesAsync Method (String, IEnumerable(String))" Url="html/M_Windows_Storage_PathIO_WriteLinesAsync.htm" />
+          <HelpTOCNode Title="WriteLinesAsync Method (String, IEnumerable(String), UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_WriteLinesAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bcd6c328-a13e-43f6-8d0e-bd744611e158" Title="WriteTextAsync Method " Url="html/Overload_Windows_Storage_PathIO_WriteTextAsync.htm">
+          <HelpTOCNode Title="WriteTextAsync Method (String, String)" Url="html/M_Windows_Storage_PathIO_WriteTextAsync.htm" />
+          <HelpTOCNode Title="WriteTextAsync Method (String, String, UnicodeEncoding)" Url="html/M_Windows_Storage_PathIO_WriteTextAsync_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="StorageDeleteOption Enumeration" Url="html/T_Windows_Storage_StorageDeleteOption.htm" />
+    <HelpTOCNode Id="47f8e986-887c-45d4-9ef4-a96eaa2d3622" Title="StorageFile Class" Url="html/T_Windows_Storage_StorageFile.htm">
+      <HelpTOCNode Id="bb4ef07b-687a-410c-9447-8f7cdc2157be" Title="StorageFile Properties" Url="html/Properties_T_Windows_Storage_StorageFile.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/P_Windows_Storage_StorageFile_Attributes.htm" />
+        <HelpTOCNode Title="ContentType Property " Url="html/P_Windows_Storage_StorageFile_ContentType.htm" />
+        <HelpTOCNode Title="DateCreated Property " Url="html/P_Windows_Storage_StorageFile_DateCreated.htm" />
+        <HelpTOCNode Title="FileType Property " Url="html/P_Windows_Storage_StorageFile_FileType.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_Windows_Storage_StorageFile_Name.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/P_Windows_Storage_StorageFile_Path.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2756b738-4036-403f-a714-c446c42f2b39" Title="StorageFile Methods" Url="html/Methods_T_Windows_Storage_StorageFile.htm">
+        <HelpTOCNode Title="CopyAndReplaceAsync Method " Url="html/M_Windows_Storage_StorageFile_CopyAndReplaceAsync.htm" />
+        <HelpTOCNode Id="84e116b9-650c-49f5-b0a0-319f8bbf0d97" Title="CopyAsync Method " Url="html/Overload_Windows_Storage_StorageFile_CopyAsync.htm">
+          <HelpTOCNode Title="CopyAsync Method (IStorageFolder)" Url="html/M_Windows_Storage_StorageFile_CopyAsync.htm" />
+          <HelpTOCNode Title="CopyAsync Method (IStorageFolder, String)" Url="html/M_Windows_Storage_StorageFile_CopyAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="057acb6a-213c-4afa-baf7-b255ddeb43fd" Title="DeleteAsync Method " Url="html/Overload_Windows_Storage_StorageFile_DeleteAsync.htm">
+          <HelpTOCNode Title="DeleteAsync Method " Url="html/M_Windows_Storage_StorageFile_DeleteAsync.htm" />
+          <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_Windows_Storage_StorageFile_DeleteAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileFromPathAsync Method " Url="html/M_Windows_Storage_StorageFile_GetFileFromPathAsync.htm" />
+        <HelpTOCNode Title="GetParentAsync Method " Url="html/M_Windows_Storage_StorageFile_GetParentAsync.htm" />
+        <HelpTOCNode Title="IsEqual Method " Url="html/M_Windows_Storage_StorageFile_IsEqual.htm" />
+        <HelpTOCNode Title="IsOfType Method " Url="html/M_Windows_Storage_StorageFile_IsOfType.htm" />
+        <HelpTOCNode Title="MoveAndReplaceAsync Method " Url="html/M_Windows_Storage_StorageFile_MoveAndReplaceAsync.htm" />
+        <HelpTOCNode Id="7cb6a681-6a69-46a6-9c9e-22c498690594" Title="MoveAsync Method " Url="html/Overload_Windows_Storage_StorageFile_MoveAsync.htm">
+          <HelpTOCNode Title="MoveAsync Method (IStorageFolder)" Url="html/M_Windows_Storage_StorageFile_MoveAsync.htm" />
+          <HelpTOCNode Title="MoveAsync Method (IStorageFolder, String)" Url="html/M_Windows_Storage_StorageFile_MoveAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c613e367-80fa-4300-96e1-ff796eb30e95" Title="RenameAsync Method " Url="html/Overload_Windows_Storage_StorageFile_RenameAsync.htm">
+          <HelpTOCNode Title="RenameAsync Method (String)" Url="html/M_Windows_Storage_StorageFile_RenameAsync.htm" />
+          <HelpTOCNode Title="RenameAsync Method (String, NameCollisionOption)" Url="html/M_Windows_Storage_StorageFile_RenameAsync_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fb15be69-38c9-4aed-b77d-db582375ac40" Title="StorageFolder Class" Url="html/T_Windows_Storage_StorageFolder.htm">
+      <HelpTOCNode Id="52d73b37-299a-46b0-8003-39325cbfd3ad" Title="StorageFolder Properties" Url="html/Properties_T_Windows_Storage_StorageFolder.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/P_Windows_Storage_StorageFolder_Attributes.htm" />
+        <HelpTOCNode Title="DateCreated Property " Url="html/P_Windows_Storage_StorageFolder_DateCreated.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_Windows_Storage_StorageFolder_Name.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/P_Windows_Storage_StorageFolder_Path.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ac317ec-372b-4c6a-b354-4714b8e7ff30" Title="StorageFolder Methods" Url="html/Methods_T_Windows_Storage_StorageFolder.htm">
+        <HelpTOCNode Id="2e83054b-e272-4783-a12f-dddbc69a56a4" Title="CreateFileAsync Method " Url="html/Overload_Windows_Storage_StorageFolder_CreateFileAsync.htm">
+          <HelpTOCNode Title="CreateFileAsync Method (String)" Url="html/M_Windows_Storage_StorageFolder_CreateFileAsync.htm" />
+          <HelpTOCNode Title="CreateFileAsync Method (String, CreationCollisionOption)" Url="html/M_Windows_Storage_StorageFolder_CreateFileAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b426a59b-bc86-4f66-98a6-4a9222167530" Title="CreateFolderAsync Method " Url="html/Overload_Windows_Storage_StorageFolder_CreateFolderAsync.htm">
+          <HelpTOCNode Title="CreateFolderAsync Method (String)" Url="html/M_Windows_Storage_StorageFolder_CreateFolderAsync.htm" />
+          <HelpTOCNode Title="CreateFolderAsync Method (String, CreationCollisionOption)" Url="html/M_Windows_Storage_StorageFolder_CreateFolderAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4013d28d-31fc-447d-ba30-c6dd5712abc9" Title="DeleteAsync Method " Url="html/Overload_Windows_Storage_StorageFolder_DeleteAsync.htm">
+          <HelpTOCNode Title="DeleteAsync Method " Url="html/M_Windows_Storage_StorageFolder_DeleteAsync.htm" />
+          <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_Windows_Storage_StorageFolder_DeleteAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFileAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFileAsync.htm" />
+        <HelpTOCNode Title="GetFilesAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFilesAsync.htm" />
+        <HelpTOCNode Title="GetFolderAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFolderAsync.htm" />
+        <HelpTOCNode Title="GetFolderFromPathAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFolderFromPathAsync.htm" />
+        <HelpTOCNode Title="GetFoldersAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFoldersAsync.htm" />
+        <HelpTOCNode Title="GetParentAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetParentAsync.htm" />
+        <HelpTOCNode Title="IsOfType Method " Url="html/M_Windows_Storage_StorageFolder_IsOfType.htm" />
+        <HelpTOCNode Title="TryGetItemAsync Method " Url="html/M_Windows_Storage_StorageFolder_TryGetItemAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="StorageItemTypes Enumeration" Url="html/T_Windows_Storage_StorageItemTypes.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="c0318ffd-6aab-42ae-bdd4-7fc8031084c3" Title="Windows.Storage.Streams" Url="html/N_Windows_Storage_Streams.htm">
+    <HelpTOCNode Title="UnicodeEncoding Enumeration" Url="html/T_Windows_Storage_Streams_UnicodeEncoding.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="d69fde3f-bf0c-4e73-8f56-b653b43879b0" Title="Windows.System" Url="html/N_Windows_System.htm">
+    <HelpTOCNode Id="baa317ef-0434-47c1-8471-302f1c692890" Title="Launcher Class" Url="html/T_Windows_System_Launcher.htm">
+      <HelpTOCNode Id="8e870dfc-7522-435c-a0d4-d81b9449c36e" Title="Launcher Methods" Url="html/Methods_T_Windows_System_Launcher.htm">
+        <HelpTOCNode Id="f0d749f9-16dd-40e7-b07a-6457b09a4fad" Title="LaunchUriAsync Method " Url="html/Overload_Windows_System_Launcher_LaunchUriAsync.htm">
+          <HelpTOCNode Title="LaunchUriAsync Method (Uri)" Url="html/M_Windows_System_Launcher_LaunchUriAsync.htm" />
+          <HelpTOCNode Title="LaunchUriAsync Method (Uri, LauncherOptions)" Url="html/M_Windows_System_Launcher_LaunchUriAsync_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryUriSupportAsync Method " Url="html/M_Windows_System_Launcher_QueryUriSupportAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8b5c705b-e4ef-470a-9dc7-53202282ff44" Title="LauncherOptions Class" Url="html/T_Windows_System_LauncherOptions.htm">
+      <HelpTOCNode Title="LauncherOptions Constructor " Url="html/M_Windows_System_LauncherOptions__ctor.htm" />
+      <HelpTOCNode Title="LauncherOptions Methods" Url="html/Methods_T_Windows_System_LauncherOptions.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="LaunchQuerySupportStatus Enumeration" Url="html/T_Windows_System_LaunchQuerySupportStatus.htm" />
+    <HelpTOCNode Title="LaunchQuerySupportType Enumeration" Url="html/T_Windows_System_LaunchQuerySupportType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="6fd982c6-bb6b-4f12-8411-bbaa92cf0ad6" Title="Windows.System.Display" Url="html/N_Windows_System_Display.htm">
+    <HelpTOCNode Id="f1c2108e-961b-4f90-a332-3c751a4c85dc" Title="DisplayRequest Class" Url="html/T_Windows_System_Display_DisplayRequest.htm">
+      <HelpTOCNode Title="DisplayRequest Constructor " Url="html/M_Windows_System_Display_DisplayRequest__ctor.htm" />
+      <HelpTOCNode Id="fb83b305-775e-4d03-9e6f-83cb53cee58a" Title="DisplayRequest Methods" Url="html/Methods_T_Windows_System_Display_DisplayRequest.htm">
+        <HelpTOCNode Title="RequestActive Method " Url="html/M_Windows_System_Display_DisplayRequest_RequestActive.htm" />
+        <HelpTOCNode Title="RequestRelease Method " Url="html/M_Windows_System_Display_DisplayRequest_RequestRelease.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2e1a77e5-124b-477d-98bb-06fa1acc2d0b" Title="Windows.System.Power" Url="html/N_Windows_System_Power.htm">
+    <HelpTOCNode Title="BatteryStatus Enumeration" Url="html/T_Windows_System_Power_BatteryStatus.htm" />
+    <HelpTOCNode Title="EnergySaverStatus Enumeration" Url="html/T_Windows_System_Power_EnergySaverStatus.htm" />
+    <HelpTOCNode Id="75e8c4aa-3f7b-47ea-b93a-eeb90e8916fb" Title="PowerManager Class" Url="html/T_Windows_System_Power_PowerManager.htm">
+      <HelpTOCNode Id="1aab603a-63ae-4abd-96c8-3a7e12c0655f" Title="PowerManager Properties" Url="html/Properties_T_Windows_System_Power_PowerManager.htm">
+        <HelpTOCNode Title="BatteryStatus Property " Url="html/P_Windows_System_Power_PowerManager_BatteryStatus.htm" />
+        <HelpTOCNode Title="EnergySaverStatus Property " Url="html/P_Windows_System_Power_PowerManager_EnergySaverStatus.htm" />
+        <HelpTOCNode Title="RemainingChargePercent Property " Url="html/P_Windows_System_Power_PowerManager_RemainingChargePercent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="90134e0e-ac8b-4bac-ae08-f4772471efe8" Title="PowerManager Events" Url="html/Events_T_Windows_System_Power_PowerManager.htm">
+        <HelpTOCNode Title="RemainingChargePercentChanged Event" Url="html/E_Windows_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="PowerSupplyStatus Enumeration" Url="html/T_Windows_System_Power_PowerSupplyStatus.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="dd5c96eb-e95d-4d2d-8d19-8963870e2a78" Title="Windows.System.Profile" Url="html/N_Windows_System_Profile.htm">
+    <HelpTOCNode Id="e39eb1d1-5c9a-480e-8162-6f58b50607c6" Title="AnalyticsInfo Class" Url="html/T_Windows_System_Profile_AnalyticsInfo.htm">
+      <HelpTOCNode Id="4f4de098-9800-4f7d-855e-780db6077c15" Title="AnalyticsInfo Properties" Url="html/Properties_T_Windows_System_Profile_AnalyticsInfo.htm">
+        <HelpTOCNode Title="DeviceForm Property " Url="html/P_Windows_System_Profile_AnalyticsInfo_DeviceForm.htm" />
+        <HelpTOCNode Title="VersionInfo Property " Url="html/P_Windows_System_Profile_AnalyticsInfo_VersionInfo.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a1fbbd0c-6481-4e2f-ba57-22cadc138b8a" Title="AnalyticsVersionInfo Class" Url="html/T_Windows_System_Profile_AnalyticsVersionInfo.htm">
+      <HelpTOCNode Id="c0e8c0e6-45b0-4476-9f2b-80a4b5bed559" Title="AnalyticsVersionInfo Properties" Url="html/Properties_T_Windows_System_Profile_AnalyticsVersionInfo.htm">
+        <HelpTOCNode Title="DeviceFamily Property " Url="html/P_Windows_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
+        <HelpTOCNode Title="DeviceFamilyVersion Property " Url="html/P_Windows_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AnalyticsVersionInfo Methods" Url="html/Methods_T_Windows_System_Profile_AnalyticsVersionInfo.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2f7866c0-6e78-4ae1-b96a-16c5dfc354be" Title="Windows.UI.ApplicationSettings" Url="html/N_Windows_UI_ApplicationSettings.htm">
+    <HelpTOCNode Id="d3e8880f-3ea7-43df-ac0c-5459afe643cc" Title="SettingsCommand Class" Url="html/T_Windows_UI_ApplicationSettings_SettingsCommand.htm">
+      <HelpTOCNode Title="SettingsCommand Constructor " Url="html/M_Windows_UI_ApplicationSettings_SettingsCommand__ctor.htm" />
+      <HelpTOCNode Id="23bb9d3c-1c7a-46c3-9f84-faa137d0c8d1" Title="SettingsCommand Properties" Url="html/Properties_T_Windows_UI_ApplicationSettings_SettingsCommand.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_Windows_UI_ApplicationSettings_SettingsCommand_Id.htm" />
+        <HelpTOCNode Title="Invoked Property " Url="html/P_Windows_UI_ApplicationSettings_SettingsCommand_Invoked.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_Windows_UI_ApplicationSettings_SettingsCommand_Label.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SettingsCommand Methods" Url="html/Methods_T_Windows_UI_ApplicationSettings_SettingsCommand.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c070f2f9-0561-4810-9106-8ba535430239" Title="Windows.UI.Notifications" Url="html/N_Windows_UI_Notifications.htm">
+    <HelpTOCNode Id="4d2fcd27-9c80-46ef-9e21-bcff7e32f663" Title="BadgeNotification Class" Url="html/T_Windows_UI_Notifications_BadgeNotification.htm">
+      <HelpTOCNode Title="BadgeNotification Methods" Url="html/Methods_T_Windows_UI_Notifications_BadgeNotification.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="88b2ab4c-641b-4f44-8248-08344573f551" Title="BadgeUpdateManager Class" Url="html/T_Windows_UI_Notifications_BadgeUpdateManager.htm">
+      <HelpTOCNode Id="2641d901-1d4b-4869-8bec-290b8cf70cd0" Title="BadgeUpdateManager Methods" Url="html/Methods_T_Windows_UI_Notifications_BadgeUpdateManager.htm">
+        <HelpTOCNode Title="CreateBadgeUpdaterForApplication Method " Url="html/M_Windows_UI_Notifications_BadgeUpdateManager_CreateBadgeUpdaterForApplication.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2d94dc38-c293-4dc0-a3b8-8474417958d5" Title="BadgeUpdater Class" Url="html/T_Windows_UI_Notifications_BadgeUpdater.htm">
+      <HelpTOCNode Id="85c4eb85-adbc-48af-932a-a6df0eda77e7" Title="BadgeUpdater Methods" Url="html/Methods_T_Windows_UI_Notifications_BadgeUpdater.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Windows_UI_Notifications_BadgeUpdater_Clear.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M_Windows_UI_Notifications_BadgeUpdater_Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e35a057e-ade6-4607-83d1-94296c954aff" Title="ScheduledToastNotification Class" Url="html/T_Windows_UI_Notifications_ScheduledToastNotification.htm">
+      <HelpTOCNode Id="1b8d8dac-8d04-42a6-b15e-44ef336f3903" Title="ScheduledToastNotification Properties" Url="html/Properties_T_Windows_UI_Notifications_ScheduledToastNotification.htm">
+        <HelpTOCNode Title="DeliveryTime Property " Url="html/P_Windows_UI_Notifications_ScheduledToastNotification_DeliveryTime.htm" />
+        <HelpTOCNode Title="Group Property " Url="html/P_Windows_UI_Notifications_ScheduledToastNotification_Group.htm" />
+        <HelpTOCNode Title="SuppressPopup Property " Url="html/P_Windows_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/P_Windows_UI_Notifications_ScheduledToastNotification_Tag.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ScheduledToastNotification Methods" Url="html/Methods_T_Windows_UI_Notifications_ScheduledToastNotification.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c511143-7c77-41cb-aef5-caeef6eff5d6" Title="ToastNotification Class" Url="html/T_Windows_UI_Notifications_ToastNotification.htm">
+      <HelpTOCNode Id="85a14fdb-2538-4ed4-b308-f660a94a4d6c" Title="ToastNotification Properties" Url="html/Properties_T_Windows_UI_Notifications_ToastNotification.htm">
+        <HelpTOCNode Title="Group Property " Url="html/P_Windows_UI_Notifications_ToastNotification_Group.htm" />
+        <HelpTOCNode Title="SuppressPopup Property " Url="html/P_Windows_UI_Notifications_ToastNotification_SuppressPopup.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/P_Windows_UI_Notifications_ToastNotification_Tag.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ToastNotification Methods" Url="html/Methods_T_Windows_UI_Notifications_ToastNotification.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1399669c-78c5-4c67-ba52-15c2c9bb474e" Title="ToastNotificationManager Class" Url="html/T_Windows_UI_Notifications_ToastNotificationManager.htm">
+      <HelpTOCNode Id="77d9c9a4-34e7-4d5c-9b77-fdb33dd4d5db" Title="ToastNotificationManager Methods" Url="html/Methods_T_Windows_UI_Notifications_ToastNotificationManager.htm">
+        <HelpTOCNode Title="CreateToastNotifierForApplication Method " Url="html/M_Windows_UI_Notifications_ToastNotificationManager_CreateToastNotifierForApplication.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="06cd9896-3b3a-404e-b888-2925a8135276" Title="ToastNotifier Class" Url="html/T_Windows_UI_Notifications_ToastNotifier.htm">
+      <HelpTOCNode Id="7e77ce7e-da58-4e4b-b575-5213d1477c50" Title="ToastNotifier Methods" Url="html/Methods_T_Windows_UI_Notifications_ToastNotifier.htm">
+        <HelpTOCNode Title="AddToSchedule Method " Url="html/M_Windows_UI_Notifications_ToastNotifier_AddToSchedule.htm" />
+        <HelpTOCNode Title="Hide Method " Url="html/M_Windows_UI_Notifications_ToastNotifier_Hide.htm" />
+        <HelpTOCNode Title="RemoveFromSchedule Method " Url="html/M_Windows_UI_Notifications_ToastNotifier_RemoveFromSchedule.htm" />
+        <HelpTOCNode Title="Show Method " Url="html/M_Windows_UI_Notifications_ToastNotifier_Show.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="69a1781e-a117-4d79-b8e6-e5f76e27dece" Title="Windows.UI.Popups" Url="html/N_Windows_UI_Popups.htm">
+    <HelpTOCNode Id="843cc0b7-f127-498d-9d93-5bca58b96a5a" Title="IUICommand Interface" Url="html/T_Windows_UI_Popups_IUICommand.htm">
+      <HelpTOCNode Id="2761e595-df6a-49a4-b9ed-f0024ed6a66d" Title="IUICommand Properties" Url="html/Properties_T_Windows_UI_Popups_IUICommand.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_Windows_UI_Popups_IUICommand_Id.htm" />
+        <HelpTOCNode Title="Invoked Property " Url="html/P_Windows_UI_Popups_IUICommand_Invoked.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_Windows_UI_Popups_IUICommand_Label.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4fcf541c-6dab-41c0-b344-a88150d9617f" Title="MessageDialog Class" Url="html/T_Windows_UI_Popups_MessageDialog.htm">
+      <HelpTOCNode Id="fc3bea3c-1019-44f9-98cd-eb332b1e7318" Title="MessageDialog Constructor " Url="html/Overload_Windows_UI_Popups_MessageDialog__ctor.htm">
+        <HelpTOCNode Title="MessageDialog Constructor (String)" Url="html/M_Windows_UI_Popups_MessageDialog__ctor.htm" />
+        <HelpTOCNode Title="MessageDialog Constructor (String, String)" Url="html/M_Windows_UI_Popups_MessageDialog__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9d42e770-9694-4bc1-b8b2-8bf54d085a85" Title="MessageDialog Properties" Url="html/Properties_T_Windows_UI_Popups_MessageDialog.htm">
+        <HelpTOCNode Title="Commands Property " Url="html/P_Windows_UI_Popups_MessageDialog_Commands.htm" />
+        <HelpTOCNode Title="Content Property " Url="html/P_Windows_UI_Popups_MessageDialog_Content.htm" />
+        <HelpTOCNode Title="DefaultCommandIndex Property " Url="html/P_Windows_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_Windows_UI_Popups_MessageDialog_Title.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a5e36f56-04a0-4d0c-ade6-2f2cc06f6bd5" Title="MessageDialog Methods" Url="html/Methods_T_Windows_UI_Popups_MessageDialog.htm">
+        <HelpTOCNode Title="ShowAsync Method " Url="html/M_Windows_UI_Popups_MessageDialog_ShowAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Placement Enumeration" Url="html/T_Windows_UI_Popups_Placement.htm" />
+    <HelpTOCNode Id="ff296fb3-b52a-4be0-b693-a31e986f98ca" Title="PopupMenu Class" Url="html/T_Windows_UI_Popups_PopupMenu.htm">
+      <HelpTOCNode Title="PopupMenu Constructor " Url="html/M_Windows_UI_Popups_PopupMenu__ctor.htm" />
+      <HelpTOCNode Id="8b88ea39-32e9-4eb2-ba05-d41e7dff0693" Title="PopupMenu Properties" Url="html/Properties_T_Windows_UI_Popups_PopupMenu.htm">
+        <HelpTOCNode Title="Commands Property " Url="html/P_Windows_UI_Popups_PopupMenu_Commands.htm" />
+        <HelpTOCNode Title="Content Property " Url="html/P_Windows_UI_Popups_PopupMenu_Content.htm" />
+        <HelpTOCNode Title="DefaultCommandIndex Property " Url="html/P_Windows_UI_Popups_PopupMenu_DefaultCommandIndex.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_Windows_UI_Popups_PopupMenu_Title.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="96df3e4a-f12a-4921-bb5e-5769e453d840" Title="PopupMenu Methods" Url="html/Methods_T_Windows_UI_Popups_PopupMenu.htm">
+        <HelpTOCNode Title="ShowAsync Method " Url="html/M_Windows_UI_Popups_PopupMenu_ShowAsync.htm" />
+        <HelpTOCNode Id="0d791982-f545-4e0e-accd-57a9fd703fe1" Title="ShowForSelectionAsync Method " Url="html/Overload_Windows_UI_Popups_PopupMenu_ShowForSelectionAsync.htm">
+          <HelpTOCNode Title="ShowForSelectionAsync Method (Rect)" Url="html/M_Windows_UI_Popups_PopupMenu_ShowForSelectionAsync.htm" />
+          <HelpTOCNode Title="ShowForSelectionAsync Method (Rect, Placement)" Url="html/M_Windows_UI_Popups_PopupMenu_ShowForSelectionAsync_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dbd88c96-c288-4c9b-b374-fb97fb545c3f" Title="UICommand Class" Url="html/T_Windows_UI_Popups_UICommand.htm">
+      <HelpTOCNode Id="345fedc8-e9c7-4617-b002-fdc49a46d37a" Title="UICommand Constructor " Url="html/Overload_Windows_UI_Popups_UICommand__ctor.htm">
+        <HelpTOCNode Title="UICommand Constructor " Url="html/M_Windows_UI_Popups_UICommand__ctor.htm" />
+        <HelpTOCNode Title="UICommand Constructor (String, UICommandInvokedHandler)" Url="html/M_Windows_UI_Popups_UICommand__ctor_1.htm" />
+        <HelpTOCNode Title="UICommand Constructor (String, UICommandInvokedHandler, Object)" Url="html/M_Windows_UI_Popups_UICommand__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="197bac6e-7dc0-495e-a84b-0dae4fdb0bd5" Title="UICommand Properties" Url="html/Properties_T_Windows_UI_Popups_UICommand.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_Windows_UI_Popups_UICommand_Id.htm" />
+        <HelpTOCNode Title="Invoked Property " Url="html/P_Windows_UI_Popups_UICommand_Invoked.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_Windows_UI_Popups_UICommand_Label.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UICommand Methods" Url="html/Methods_T_Windows_UI_Popups_UICommand.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="UICommandInvokedHandler Delegate" Url="html/T_Windows_UI_Popups_UICommandInvokedHandler.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="4cb4eb02-890d-4a1d-9a58-74549b206e81" Title="Windows.UI.ViewManagement" Url="html/N_Windows_UI_ViewManagement.htm">
+    <HelpTOCNode Id="30c4cf41-530e-41d7-adce-f4be8bbff783" Title="StatusBar Class" Url="html/T_Windows_UI_ViewManagement_StatusBar.htm">
+      <HelpTOCNode Id="96c6d740-5715-4b45-8360-51b0d0057937" Title="StatusBar Properties" Url="html/Properties_T_Windows_UI_ViewManagement_StatusBar.htm">
+        <HelpTOCNode Title="ProgressIndicator Property " Url="html/P_Windows_UI_ViewManagement_StatusBar_ProgressIndicator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e60b801-ca8a-4441-b160-1bb527213f61" Title="StatusBar Methods" Url="html/Methods_T_Windows_UI_ViewManagement_StatusBar.htm">
+        <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_Windows_UI_ViewManagement_StatusBar_GetForCurrentView.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8f5d1678-ee52-4ebf-b3a1-bc108a214313" Title="StatusBarProgressIndicator Class" Url="html/T_Windows_UI_ViewManagement_StatusBarProgressIndicator.htm">
+      <HelpTOCNode Id="3c4e746a-99c1-438d-8251-7f6710d50e0a" Title="StatusBarProgressIndicator Methods" Url="html/Methods_T_Windows_UI_ViewManagement_StatusBarProgressIndicator.htm">
+        <HelpTOCNode Title="HideAsync Method " Url="html/M_Windows_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
+        <HelpTOCNode Title="ShowAsync Method " Url="html/M_Windows_UI_ViewManagement_StatusBarProgressIndicator_ShowAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
