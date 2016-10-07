@@ -86,7 +86,9 @@
   <HelpKINode Title="AppNotInstalled enumeration member" Url="html/T_Windows_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="Appointments enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="AppUnavailable enumeration member" Url="html/T_Windows_System_LaunchQuerySupportStatus.htm" />
+  <HelpKINode Title="Architecture property" Url="html/P_Windows_ApplicationModel_PackageId_Architecture.htm" />
   <HelpKINode Title="Archive enumeration member" Url="html/T_Windows_Storage_FileAttributes.htm" />
+  <HelpKINode Title="Arm enumeration member" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="AsAsyncAction method" Url="html/M_System_WindowsRuntimeSystemExtensions_AsAsyncAction.htm" />
   <HelpKINode Title="AsAsyncOperation(Of TResult) method" Url="html/M_System_WindowsRuntimeSystemExtensions_AsAsyncOperation__1.htm" />
   <HelpKINode Title="AsAsyncOperation&lt;TResult&gt; method" Url="html/M_System_WindowsRuntimeSystemExtensions_AsAsyncOperation__1.htm" />
@@ -141,6 +143,14 @@
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm" />
   </HelpKINode>
   <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo method" Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
+  <HelpKINode Title="BasicProperties class">
+    <HelpKINode Title="BasicProperties Class" Url="html/T_Windows_Storage_FileProperties_BasicProperties.htm" />
+    <HelpKINode Title="about BasicProperties class" Url="html/T_Windows_Storage_FileProperties_BasicProperties.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_Storage_FileProperties_BasicProperties.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_Storage_FileProperties_BasicProperties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicProperties.DateModified property" Url="html/P_Windows_Storage_FileProperties_BasicProperties_DateModified.htm" />
+  <HelpKINode Title="BasicProperties.Size property" Url="html/P_Windows_Storage_FileProperties_BasicProperties_Size.htm" />
   <HelpKINode Title="BatteryStatus enumeration" Url="html/T_Windows_System_Power_BatteryStatus.htm" />
   <HelpKINode Title="BatteryStatus property" Url="html/P_Windows_System_Power_PowerManager_BatteryStatus.htm" />
   <HelpKINode Title="Bcc property" Url="html/P_Windows_ApplicationModel_Email_EmailMessage_Bcc.htm" />
@@ -163,8 +173,8 @@
   <HelpKINode Title="CameraCaptureUIMode enumeration" Url="html/T_Windows_Media_Capture_CameraCaptureUIMode.htm" />
   <HelpKINode Title="CameraRoll property" Url="html/P_Windows_Storage_KnownFolders_CameraRoll.htm" />
   <HelpKINode Title="Cancel method" Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_Cancel.htm" />
+  <HelpKINode Title="CancelCommandIndex property" Url="html/P_Windows_UI_Popups_MessageDialog_CancelCommandIndex.htm" />
   <HelpKINode Title="Canceled enumeration member" Url="html/T_Windows_Foundation_AsyncStatus.htm" />
-  <HelpKINode Title="Capabilities property" Url="html/P_InTheHand_ApplicationModel_Package_Capabilities.htm" />
   <HelpKINode Title="Capability enumeration" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="CaptureFileAsync method" Url="html/M_Windows_Media_Capture_CameraCaptureUI_CaptureFileAsync.htm" />
   <HelpKINode Title="CC property" Url="html/P_Windows_ApplicationModel_Email_EmailMessage_CC.htm" />
@@ -203,6 +213,7 @@
   <HelpKINode Title="Clipboard.ContentChanged event" Url="html/E_Windows_ApplicationModel_DataTransfer_Clipboard_ContentChanged.htm" />
   <HelpKINode Title="Clipboard.GetContent method" Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
   <HelpKINode Title="Clipboard.SetContent method" Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
+  <HelpKINode Title="Close method" Url="html/M_Windows_Foundation_IAsyncInfo_Close.htm" />
   <HelpKINode Title="CollectionChange enumeration" Url="html/T_Windows_Foundation_Collections_CollectionChange.htm" />
   <HelpKINode Title="CollectionChange property" Url="html/P_Windows_Foundation_Collections_IMapChangedEventArgs_1_CollectionChange.htm" />
   <HelpKINode Title="Commands property">
@@ -229,10 +240,7 @@
     <HelpKINode Title="DataPackageView.Contains Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_Contains.htm" />
   </HelpKINode>
   <HelpKINode Title="ContainsKey method" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_ContainsKey.htm" />
-  <HelpKINode Title="Content property">
-    <HelpKINode Title="MessageDialog.Content Property " Url="html/P_Windows_UI_Popups_MessageDialog_Content.htm" />
-    <HelpKINode Title="PopupMenu.Content Property " Url="html/P_Windows_UI_Popups_PopupMenu_Content.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Content property" Url="html/P_Windows_UI_Popups_MessageDialog_Content.htm" />
   <HelpKINode Title="ContentChanged event" Url="html/E_Windows_ApplicationModel_DataTransfer_Clipboard_ContentChanged.htm" />
   <HelpKINode Title="ContentType property">
     <HelpKINode Title="IStorageFile.ContentType Property " Url="html/P_Windows_Storage_IStorageFile_ContentType.htm" />
@@ -266,7 +274,7 @@
   <HelpKINode Title="Current property">
     <HelpKINode Title="ApplicationData.Current Property " Url="html/P_Windows_Storage_ApplicationData_Current.htm" />
     <HelpKINode Title="GeofenceMonitor.Current Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_Current.htm" />
-    <HelpKINode Title="Package.Current Property " Url="html/P_InTheHand_ApplicationModel_Package_Current.htm" />
+    <HelpKINode Title="Package.Current Property " Url="html/P_Windows_ApplicationModel_Package_Current.htm" />
   </HelpKINode>
   <HelpKINode Title="CurrentApp class">
     <HelpKINode Title="CurrentApp Class" Url="html/T_InTheHand_ApplicationModel_Store_CurrentApp.htm" />
@@ -362,6 +370,7 @@
     <HelpKINode Title="StorageFile.DateCreated Property " Url="html/P_Windows_Storage_StorageFile_DateCreated.htm" />
     <HelpKINode Title="StorageFolder.DateCreated Property " Url="html/P_Windows_Storage_StorageFolder_DateCreated.htm" />
   </HelpKINode>
+  <HelpKINode Title="DateModified property" Url="html/P_Windows_Storage_FileProperties_BasicProperties_DateModified.htm" />
   <HelpKINode Title="DateTimeOffsetHelper class">
     <HelpKINode Title="DateTimeOffsetHelper Class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm" />
     <HelpKINode Title="about DateTimeOffsetHelper class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm" />
@@ -376,10 +385,7 @@
     <HelpKINode Title="PositionAccuracy Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionAccuracy.htm" />
     <HelpKINode Title="StorageDeleteOption Enumeration" Url="html/T_Windows_Storage_StorageDeleteOption.htm" />
   </HelpKINode>
-  <HelpKINode Title="DefaultCommandIndex property">
-    <HelpKINode Title="MessageDialog.DefaultCommandIndex Property " Url="html/P_Windows_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
-    <HelpKINode Title="PopupMenu.DefaultCommandIndex Property " Url="html/P_Windows_UI_Popups_PopupMenu_DefaultCommandIndex.htm" />
-  </HelpKINode>
+  <HelpKINode Title="DefaultCommandIndex property" Url="html/P_Windows_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
   <HelpKINode Title="DeleteAsync method">
     <HelpKINode Title="IStorageItem.DeleteAsync Method " Url="html/Overload_Windows_Storage_IStorageItem_DeleteAsync.htm" />
     <HelpKINode Title="StorageFile.DeleteAsync Method " Url="html/Overload_Windows_Storage_StorageFile_DeleteAsync.htm" />
@@ -389,7 +395,7 @@
   <HelpKINode Title="Description property">
     <HelpKINode Title="DataPackagePropertySet.Description Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet_Description.htm" />
     <HelpKINode Title="DataPackagePropertySetView.Description Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView_Description.htm" />
-    <HelpKINode Title="Package.Description Property " Url="html/P_InTheHand_ApplicationModel_Package_Description.htm" />
+    <HelpKINode Title="Package.Description Property " Url="html/P_Windows_ApplicationModel_Package_Description.htm" />
   </HelpKINode>
   <HelpKINode Title="DesignMode class">
     <HelpKINode Title="DesignMode Class" Url="html/T_Windows_ApplicationModel_DesignMode.htm" />
@@ -399,7 +405,6 @@
   <HelpKINode Title="DesignMode.DesignModeEnabled property" Url="html/P_Windows_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
   <HelpKINode Title="DesignModeEnabled property" Url="html/P_Windows_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
   <HelpKINode Title="DesiredAccuracy property" Url="html/P_Windows_Devices_Geolocation_Geolocator_DesiredAccuracy.htm" />
-  <HelpKINode Title="DeviceCapabilities property" Url="html/P_InTheHand_ApplicationModel_Package_DeviceCapabilities.htm" />
   <HelpKINode Title="DeviceCapability enumeration" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="DeviceFamily property" Url="html/P_Windows_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
   <HelpKINode Title="DeviceFamilyVersion property" Url="html/P_Windows_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
@@ -412,6 +417,20 @@
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="Discharging enumeration member" Url="html/T_Windows_System_Power_BatteryStatus.htm" />
+  <HelpKINode Title="DispatcherTimer class">
+    <HelpKINode Title="DispatcherTimer Class" Url="html/T_Windows_UI_Xaml_DispatcherTimer.htm" />
+    <HelpKINode Title="about DispatcherTimer class" Url="html/T_Windows_UI_Xaml_DispatcherTimer.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Windows_UI_Xaml_DispatcherTimer__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Windows_UI_Xaml_DispatcherTimer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_UI_Xaml_DispatcherTimer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_UI_Xaml_DispatcherTimer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DispatcherTimer.DispatcherTimer constructor" Url="html/M_Windows_UI_Xaml_DispatcherTimer__ctor.htm" />
+  <HelpKINode Title="DispatcherTimer.Interval property" Url="html/P_Windows_UI_Xaml_DispatcherTimer_Interval.htm" />
+  <HelpKINode Title="DispatcherTimer.IsEnabled property" Url="html/P_Windows_UI_Xaml_DispatcherTimer_IsEnabled.htm" />
+  <HelpKINode Title="DispatcherTimer.Start method" Url="html/M_Windows_UI_Xaml_DispatcherTimer_Start.htm" />
+  <HelpKINode Title="DispatcherTimer.Stop method" Url="html/M_Windows_UI_Xaml_DispatcherTimer_Stop.htm" />
+  <HelpKINode Title="DispatcherTimer.Tick event" Url="html/E_Windows_UI_Xaml_DispatcherTimer_Tick.htm" />
   <HelpKINode Title="DisplayInformation class">
     <HelpKINode Title="DisplayInformation Class" Url="html/T_Windows_Graphics_Display_DisplayInformation.htm" />
     <HelpKINode Title="about DisplayInformation class" Url="html/T_Windows_Graphics_Display_DisplayInformation.htm" />
@@ -424,7 +443,7 @@
   <HelpKINode Title="DisplayInformation.RawDpiY property" Url="html/P_Windows_Graphics_Display_DisplayInformation_RawDpiY.htm" />
   <HelpKINode Title="DisplayInformation.RawPixelsPerViewPixel property" Url="html/P_Windows_Graphics_Display_DisplayInformation_RawPixelsPerViewPixel.htm" />
   <HelpKINode Title="DisplayInformation.ResolutionScale property" Url="html/P_Windows_Graphics_Display_DisplayInformation_ResolutionScale.htm" />
-  <HelpKINode Title="DisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_DisplayName.htm" />
+  <HelpKINode Title="DisplayName property" Url="html/P_Windows_ApplicationModel_Package_DisplayName.htm" />
   <HelpKINode Title="DisplayOrientations enumeration" Url="html/T_Windows_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="DisplayRequest class">
     <HelpKINode Title="DisplayRequest Class" Url="html/T_Windows_System_Display_DisplayRequest.htm" />
@@ -481,6 +500,7 @@
   <HelpKINode Title="Environment.OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
   <HelpKINode Title="Equals method" Url="html/M_Windows_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
   <HelpKINode Title="Error enumeration member" Url="html/T_Windows_Foundation_AsyncStatus.htm" />
+  <HelpKINode Title="ErrorCode property" Url="html/P_Windows_Foundation_IAsyncInfo_ErrorCode.htm" />
   <HelpKINode Title="Exited enumeration member">
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceState.htm" />
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
@@ -489,7 +509,6 @@
     <HelpKINode Title="CreationCollisionOption Enumeration" Url="html/T_Windows_Storage_CreationCollisionOption.htm" />
     <HelpKINode Title="NameCollisionOption Enumeration" Url="html/T_Windows_Storage_NameCollisionOption.htm" />
   </HelpKINode>
-  <HelpKINode Title="FamilyName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FamilyName.htm" />
   <HelpKINode Title="File enumeration member" Url="html/T_Windows_Storage_StorageItemTypes.htm" />
   <HelpKINode Title="FileAttributes enumeration" Url="html/T_Windows_Storage_FileAttributes.htm" />
   <HelpKINode Title="FileType property">
@@ -501,7 +520,7 @@
   <HelpKINode Title="FromIdAsync method" Url="html/M_Windows_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
   <HelpKINode Title="FromUnixTimeMilliseconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeMilliseconds.htm" />
   <HelpKINode Title="FromUnixTimeSeconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeSeconds.htm" />
-  <HelpKINode Title="FullName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
+  <HelpKINode Title="FullName property" Url="html/P_Windows_ApplicationModel_PackageId_FullName.htm" />
   <HelpKINode Title="GenerateUniqueName enumeration member">
     <HelpKINode Title="CreationCollisionOption Enumeration" Url="html/T_Windows_Storage_CreationCollisionOption.htm" />
     <HelpKINode Title="NameCollisionOption Enumeration" Url="html/T_Windows_Storage_NameCollisionOption.htm" />
@@ -615,10 +634,16 @@
   <HelpKINode Title="Geoshape property" Url="html/P_Windows_Devices_Geolocation_Geofencing_Geofence_Geoshape.htm" />
   <HelpKINode Title="GetApplicationLinkAsync method" Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetApplicationLinkAsync.htm" />
   <HelpKINode Title="GetAwaiter method" Url="html/Overload_System_WindowsRuntimeSystemExtensions_GetAwaiter.htm" />
+  <HelpKINode Title="GetBasicPropertiesAsync method">
+    <HelpKINode Title="IStorageItem.GetBasicPropertiesAsync Method " Url="html/M_Windows_Storage_IStorageItem_GetBasicPropertiesAsync.htm" />
+    <HelpKINode Title="StorageFile.GetBasicPropertiesAsync Method " Url="html/M_Windows_Storage_StorageFile_GetBasicPropertiesAsync.htm" />
+    <HelpKINode Title="StorageFolder.GetBasicPropertiesAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetBasicPropertiesAsync.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetContent method" Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
   <HelpKINode Title="GetDataAsync method" Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetDataAsync.htm" />
   <HelpKINode Title="GetDefault method" Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
   <HelpKINode Title="GetDefaultLineAsync method" Url="html/M_Windows_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
+  <HelpKINode Title="GetDisplayName method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetDisplayName.htm" />
   <HelpKINode Title="GetDistanceTo method">
     <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
     <HelpKINode Title="GeocoordinateExtensions.GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_GeocoordinateExtensions_GetDistanceTo.htm" />
@@ -650,13 +675,17 @@
   </HelpKINode>
   <HelpKINode Title="GetForViewIndependentUse method" Url="html/M_Windows_ApplicationModel_Resources_ResourceLoader_GetForViewIndependentUse.htm" />
   <HelpKINode Title="GetGeopositionAsync method" Url="html/M_Windows_Devices_Geolocation_Geolocator_GetGeopositionAsync.htm" />
+  <HelpKINode Title="GetInstalledDate method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetInstalledDate.htm" />
   <HelpKINode Title="GetInternetConnectionProfile method" Url="html/M_Windows_Networking_Connectivity_NetworkInformation_GetInternetConnectionProfile.htm" />
+  <HelpKINode Title="GetIsDevelopmentMode method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetIsDevelopmentMode.htm" />
+  <HelpKINode Title="GetLogo method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetLogo.htm" />
   <HelpKINode Title="GetNetworkConnectivityLevel method" Url="html/M_Windows_Networking_Connectivity_ConnectionProfile_GetNetworkConnectivityLevel.htm" />
   <HelpKINode Title="GetParentAsync method">
     <HelpKINode Title="IStorageItem2.GetParentAsync Method " Url="html/M_Windows_Storage_IStorageItem2_GetParentAsync.htm" />
     <HelpKINode Title="StorageFile.GetParentAsync Method " Url="html/M_Windows_Storage_StorageFile_GetParentAsync.htm" />
     <HelpKINode Title="StorageFolder.GetParentAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetParentAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetPublisherDisplayName method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetPublisherDisplayName.htm" />
   <HelpKINode Title="GetResults method">
     <HelpKINode Title="IAsyncAction.GetResults Method " Url="html/M_Windows_Foundation_IAsyncAction_GetResults.htm" />
     <HelpKINode Title="IAsyncOperation(TResult).GetResults Method " Url="html/M_Windows_Foundation_IAsyncOperation_1_GetResults.htm" />
@@ -683,6 +712,16 @@
   </HelpKINode>
   <HelpKINode Title="IAsyncAction.Completed property" Url="html/P_Windows_Foundation_IAsyncAction_Completed.htm" />
   <HelpKINode Title="IAsyncAction.GetResults method" Url="html/M_Windows_Foundation_IAsyncAction_GetResults.htm" />
+  <HelpKINode Title="IAsyncInfo interface">
+    <HelpKINode Title="IAsyncInfo Interface" Url="html/T_Windows_Foundation_IAsyncInfo.htm" />
+    <HelpKINode Title="about IAsyncInfo interface" Url="html/T_Windows_Foundation_IAsyncInfo.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_Foundation_IAsyncInfo.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_Foundation_IAsyncInfo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsyncInfo.Close method" Url="html/M_Windows_Foundation_IAsyncInfo_Close.htm" />
+  <HelpKINode Title="IAsyncInfo.ErrorCode property" Url="html/P_Windows_Foundation_IAsyncInfo_ErrorCode.htm" />
+  <HelpKINode Title="IAsyncInfo.Id property" Url="html/P_Windows_Foundation_IAsyncInfo_Id.htm" />
+  <HelpKINode Title="IAsyncInfo.Status property" Url="html/P_Windows_Foundation_IAsyncInfo_Status.htm" />
   <HelpKINode Title="IAsyncOperation(Of TResult) interface">
     <HelpKINode Title="IAsyncOperation(TResult) Interface" Url="html/T_Windows_Foundation_IAsyncOperation_1.htm" />
     <HelpKINode Title="about IAsyncOperation(Of TResult) interface" Url="html/T_Windows_Foundation_IAsyncOperation_1.htm" />
@@ -701,8 +740,9 @@
   <HelpKINode Title="IAsyncOperation&lt;TResult&gt;.GetResults method" Url="html/M_Windows_Foundation_IAsyncOperation_1_GetResults.htm" />
   <HelpKINode Title="Id property">
     <HelpKINode Title="Geofence.Id Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_Geofence_Id.htm" />
+    <HelpKINode Title="IAsyncInfo.Id Property " Url="html/P_Windows_Foundation_IAsyncInfo_Id.htm" />
     <HelpKINode Title="IUICommand.Id Property " Url="html/P_Windows_UI_Popups_IUICommand_Id.htm" />
-    <HelpKINode Title="Package.Id Property " Url="html/P_InTheHand_ApplicationModel_Package_Id.htm" />
+    <HelpKINode Title="Package.Id Property " Url="html/P_Windows_ApplicationModel_Package_Id.htm" />
     <HelpKINode Title="SettingsCommand.Id Property " Url="html/P_Windows_UI_ApplicationSettings_SettingsCommand_Id.htm" />
     <HelpKINode Title="UICommand.Id Property " Url="html/P_Windows_UI_Popups_UICommand_Id.htm" />
   </HelpKINode>
@@ -730,16 +770,16 @@
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionStatus.htm" />
   </HelpKINode>
-  <HelpKINode Title="InstalledDate property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledDate.htm" />
-  <HelpKINode Title="InstalledLocation property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledLocation.htm" />
+  <HelpKINode Title="InstalledDate property" Url="html/P_Windows_ApplicationModel_Package_InstalledDate.htm" />
+  <HelpKINode Title="InstalledLocation property" Url="html/P_Windows_ApplicationModel_Package_InstalledLocation.htm" />
   <HelpKINode Title="Internet enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="InternetAccess enumeration member" Url="html/T_Windows_Networking_Connectivity_NetworkConnectivityLevel.htm" />
+  <HelpKINode Title="Interval property" Url="html/P_Windows_UI_Xaml_DispatcherTimer_Interval.htm" />
   <HelpKINode Title="InTheHand namespace" Url="html/N_InTheHand.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel namespace" Url="html/N_InTheHand_ApplicationModel.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Capability enumeration" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.DeviceCapability enumeration" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
-  <HelpKINode Title="InTheHand.ApplicationModel.Package class" Url="html/T_InTheHand_ApplicationModel_Package.htm" />
-  <HelpKINode Title="InTheHand.ApplicationModel.PackageId class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm" />
+  <HelpKINode Title="InTheHand.ApplicationModel.PackageExtensions class" Url="html/T_InTheHand_ApplicationModel_PackageExtensions.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.PackageVersionExtensions class" Url="html/T_InTheHand_ApplicationModel_PackageVersionExtensions.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Store namespace" Url="html/N_InTheHand_ApplicationModel_Store.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Store.CurrentApp class" Url="html/T_InTheHand_ApplicationModel_Store_CurrentApp.htm" />
@@ -748,7 +788,6 @@
   <HelpKINode Title="InTheHand.Devices.Geolocation.BasicGeopositionExtensions class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.GeocoordinateExtensions class" Url="html/T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm" />
   <HelpKINode Title="InTheHand.Environment class" Url="html/T_InTheHand_Environment.htm" />
-  <HelpKINode Title="InTheHand.OperatingSystem class" Url="html/T_InTheHand_OperatingSystem.htm" />
   <HelpKINode Title="InTheHand.UI.ApplicationSettings namespace" Url="html/N_InTheHand_UI_ApplicationSettings.htm" />
   <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsPane class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPane.htm" />
   <HelpKINode Title="InTheHand.UI.Notifications namespace" Url="html/N_InTheHand_UI_Notifications.htm" />
@@ -781,7 +820,8 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_Foundation_Collections_IPropertySet.htm" />
   </HelpKINode>
   <HelpKINode Title="IsApiContractPresent method" Url="html/Overload_Windows_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm" />
-  <HelpKINode Title="IsDevelopmentMode property" Url="html/P_InTheHand_ApplicationModel_Package_IsDevelopmentMode.htm" />
+  <HelpKINode Title="IsDevelopmentMode property" Url="html/P_Windows_ApplicationModel_Package_IsDevelopmentMode.htm" />
+  <HelpKINode Title="IsEnabled property" Url="html/P_Windows_UI_Xaml_DispatcherTimer_IsEnabled.htm" />
   <HelpKINode Title="IsEnumNamedValuePresent method" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsEnumNamedValuePresent.htm" />
   <HelpKINode Title="IsEqual method">
     <HelpKINode Title="IStorageItem2.IsEqual Method " Url="html/M_Windows_Storage_IStorageItem2_IsEqual.htm" />
@@ -830,6 +870,7 @@
   <HelpKINode Title="IStorageItem.Attributes property" Url="html/P_Windows_Storage_IStorageItem_Attributes.htm" />
   <HelpKINode Title="IStorageItem.DateCreated property" Url="html/P_Windows_Storage_IStorageItem_DateCreated.htm" />
   <HelpKINode Title="IStorageItem.DeleteAsync method" Url="html/Overload_Windows_Storage_IStorageItem_DeleteAsync.htm" />
+  <HelpKINode Title="IStorageItem.GetBasicPropertiesAsync method" Url="html/M_Windows_Storage_IStorageItem_GetBasicPropertiesAsync.htm" />
   <HelpKINode Title="IStorageItem.IsOfType method" Url="html/M_Windows_Storage_IStorageItem_IsOfType.htm" />
   <HelpKINode Title="IStorageItem.Name property" Url="html/P_Windows_Storage_IStorageItem_Name.htm" />
   <HelpKINode Title="IStorageItem.Path property" Url="html/P_Windows_Storage_IStorageItem_Path.htm" />
@@ -902,8 +943,9 @@
   <HelpKINode Title="LocalSettings property" Url="html/P_Windows_Storage_ApplicationData_LocalSettings.htm" />
   <HelpKINode Title="Location enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="LocationStatus property" Url="html/P_Windows_Devices_Geolocation_Geolocator_LocationStatus.htm" />
-  <HelpKINode Title="Logo property" Url="html/P_InTheHand_ApplicationModel_Package_Logo.htm" />
+  <HelpKINode Title="Logo property" Url="html/P_Windows_ApplicationModel_Package_Logo.htm" />
   <HelpKINode Title="Longitude field" Url="html/F_Windows_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
+  <HelpKINode Title="MacOSX enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Major field" Url="html/F_Windows_ApplicationModel_PackageVersion_Major.htm" />
   <HelpKINode Title="MapChanged event">
     <HelpKINode Title="ApplicationDataContainerSettings.MapChanged Event" Url="html/E_Windows_Storage_ApplicationDataContainerSettings_MapChanged.htm" />
@@ -918,6 +960,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Windows_UI_Popups_MessageDialog.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_UI_Popups_MessageDialog.htm" />
   </HelpKINode>
+  <HelpKINode Title="MessageDialog.CancelCommandIndex property" Url="html/P_Windows_UI_Popups_MessageDialog_CancelCommandIndex.htm" />
   <HelpKINode Title="MessageDialog.Commands property" Url="html/P_Windows_UI_Popups_MessageDialog_Commands.htm" />
   <HelpKINode Title="MessageDialog.Content property" Url="html/P_Windows_UI_Popups_MessageDialog_Content.htm" />
   <HelpKINode Title="MessageDialog.DefaultCommandIndex property" Url="html/P_Windows_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
@@ -942,7 +985,7 @@
     <HelpKINode Title="ApplicationDataContainer.Name Property " Url="html/P_Windows_Storage_ApplicationDataContainer_Name.htm" />
     <HelpKINode Title="EmailRecipient.Name Property " Url="html/P_Windows_ApplicationModel_Email_EmailRecipient_Name.htm" />
     <HelpKINode Title="IStorageItem.Name Property " Url="html/P_Windows_Storage_IStorageItem_Name.htm" />
-    <HelpKINode Title="PackageId.Name Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
+    <HelpKINode Title="PackageId.Name Property " Url="html/P_Windows_ApplicationModel_PackageId_Name.htm" />
     <HelpKINode Title="StorageFile.Name Property " Url="html/P_Windows_Storage_StorageFile_Name.htm" />
     <HelpKINode Title="StorageFolder.Name Property " Url="html/P_Windows_Storage_StorageFolder_Name.htm" />
   </HelpKINode>
@@ -958,6 +1001,7 @@
   <HelpKINode Title="NetworkInformation.NetworkStatusChanged event" Url="html/E_Windows_Networking_Connectivity_NetworkInformation_NetworkStatusChanged.htm" />
   <HelpKINode Title="NetworkStatusChanged event" Url="html/E_Windows_Networking_Connectivity_NetworkInformation_NetworkStatusChanged.htm" />
   <HelpKINode Title="NetworkStatusChangedEventHandler delegate" Url="html/T_Windows_Networking_Connectivity_NetworkStatusChangedEventHandler.htm" />
+  <HelpKINode Title="Neutral enumeration member" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="NewState property" Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_NewState.htm" />
   <HelpKINode Title="NoData enumeration member">
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_Windows_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
@@ -990,45 +1034,52 @@
   <HelpKINode Title="OpenStreamForReadAsync method" Url="html/Overload_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForReadAsync.htm" />
   <HelpKINode Title="OpenStreamForWriteAsync method" Url="html/Overload_System_IO_WindowsRuntimeStorageExtensions_OpenStreamForWriteAsync.htm" />
   <HelpKINode Title="OperatingSystem class">
-    <HelpKINode Title="OperatingSystem Class" Url="html/T_InTheHand_OperatingSystem.htm" />
-    <HelpKINode Title="about OperatingSystem class" Url="html/T_InTheHand_OperatingSystem.htm" />
-    <HelpKINode Title="constructor" Url="html/M_InTheHand_OperatingSystem__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_OperatingSystem.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_OperatingSystem.htm" />
+    <HelpKINode Title="OperatingSystem Class" Url="html/T_System_OperatingSystem.htm" />
+    <HelpKINode Title="about OperatingSystem class" Url="html/T_System_OperatingSystem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_System_OperatingSystem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_System_OperatingSystem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_System_OperatingSystem.htm" />
   </HelpKINode>
-  <HelpKINode Title="OperatingSystem.OperatingSystem constructor" Url="html/M_InTheHand_OperatingSystem__ctor.htm" />
-  <HelpKINode Title="OperatingSystem.Version property" Url="html/P_InTheHand_OperatingSystem_Version.htm" />
-  <HelpKINode Title="OperatingSystem.VersionString property" Url="html/P_InTheHand_OperatingSystem_VersionString.htm" />
+  <HelpKINode Title="OperatingSystem.OperatingSystem constructor" Url="html/M_System_OperatingSystem__ctor.htm" />
+  <HelpKINode Title="OperatingSystem.Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
+  <HelpKINode Title="OperatingSystem.Version property" Url="html/P_System_OperatingSystem_Version.htm" />
   <HelpKINode Title="OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
   <HelpKINode Title="Package class">
-    <HelpKINode Title="Package Class" Url="html/T_InTheHand_ApplicationModel_Package.htm" />
-    <HelpKINode Title="about Package class" Url="html/T_InTheHand_ApplicationModel_Package.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_ApplicationModel_Package.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_ApplicationModel_Package.htm" />
+    <HelpKINode Title="Package Class" Url="html/T_Windows_ApplicationModel_Package.htm" />
+    <HelpKINode Title="about Package class" Url="html/T_Windows_ApplicationModel_Package.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_ApplicationModel_Package.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_ApplicationModel_Package.htm" />
   </HelpKINode>
-  <HelpKINode Title="Package.Capabilities property" Url="html/P_InTheHand_ApplicationModel_Package_Capabilities.htm" />
-  <HelpKINode Title="Package.Current property" Url="html/P_InTheHand_ApplicationModel_Package_Current.htm" />
-  <HelpKINode Title="Package.Description property" Url="html/P_InTheHand_ApplicationModel_Package_Description.htm" />
-  <HelpKINode Title="Package.DeviceCapabilities property" Url="html/P_InTheHand_ApplicationModel_Package_DeviceCapabilities.htm" />
-  <HelpKINode Title="Package.DisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_DisplayName.htm" />
-  <HelpKINode Title="Package.Id property" Url="html/P_InTheHand_ApplicationModel_Package_Id.htm" />
-  <HelpKINode Title="Package.InstalledDate property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledDate.htm" />
-  <HelpKINode Title="Package.InstalledLocation property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledLocation.htm" />
-  <HelpKINode Title="Package.IsDevelopmentMode property" Url="html/P_InTheHand_ApplicationModel_Package_IsDevelopmentMode.htm" />
-  <HelpKINode Title="Package.Logo property" Url="html/P_InTheHand_ApplicationModel_Package_Logo.htm" />
-  <HelpKINode Title="Package.PublisherDisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_PublisherDisplayName.htm" />
+  <HelpKINode Title="Package.Current property" Url="html/P_Windows_ApplicationModel_Package_Current.htm" />
+  <HelpKINode Title="Package.Description property" Url="html/P_Windows_ApplicationModel_Package_Description.htm" />
+  <HelpKINode Title="Package.DisplayName property" Url="html/P_Windows_ApplicationModel_Package_DisplayName.htm" />
+  <HelpKINode Title="Package.Id property" Url="html/P_Windows_ApplicationModel_Package_Id.htm" />
+  <HelpKINode Title="Package.InstalledDate property" Url="html/P_Windows_ApplicationModel_Package_InstalledDate.htm" />
+  <HelpKINode Title="Package.InstalledLocation property" Url="html/P_Windows_ApplicationModel_Package_InstalledLocation.htm" />
+  <HelpKINode Title="Package.IsDevelopmentMode property" Url="html/P_Windows_ApplicationModel_Package_IsDevelopmentMode.htm" />
+  <HelpKINode Title="Package.Logo property" Url="html/P_Windows_ApplicationModel_Package_Logo.htm" />
+  <HelpKINode Title="Package.PublisherDisplayName property" Url="html/P_Windows_ApplicationModel_Package_PublisherDisplayName.htm" />
+  <HelpKINode Title="PackageExtensions class">
+    <HelpKINode Title="PackageExtensions Class" Url="html/T_InTheHand_ApplicationModel_PackageExtensions.htm" />
+    <HelpKINode Title="about PackageExtensions class" Url="html/T_InTheHand_ApplicationModel_PackageExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PackageExtensions.GetDisplayName method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetDisplayName.htm" />
+  <HelpKINode Title="PackageExtensions.GetInstalledDate method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetInstalledDate.htm" />
+  <HelpKINode Title="PackageExtensions.GetIsDevelopmentMode method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetIsDevelopmentMode.htm" />
+  <HelpKINode Title="PackageExtensions.GetLogo method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetLogo.htm" />
+  <HelpKINode Title="PackageExtensions.GetPublisherDisplayName method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetPublisherDisplayName.htm" />
   <HelpKINode Title="PackageId class">
-    <HelpKINode Title="PackageId Class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm" />
-    <HelpKINode Title="about PackageId class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageId.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_ApplicationModel_PackageId.htm" />
+    <HelpKINode Title="PackageId Class" Url="html/T_Windows_ApplicationModel_PackageId.htm" />
+    <HelpKINode Title="about PackageId class" Url="html/T_Windows_ApplicationModel_PackageId.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_ApplicationModel_PackageId.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_ApplicationModel_PackageId.htm" />
   </HelpKINode>
-  <HelpKINode Title="PackageId.FamilyName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FamilyName.htm" />
-  <HelpKINode Title="PackageId.FullName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
-  <HelpKINode Title="PackageId.Name property" Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
-  <HelpKINode Title="PackageId.ProductId property" Url="html/P_InTheHand_ApplicationModel_PackageId_ProductId.htm" />
-  <HelpKINode Title="PackageId.Publisher property" Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
-  <HelpKINode Title="PackageId.Version property" Url="html/P_InTheHand_ApplicationModel_PackageId_Version.htm" />
+  <HelpKINode Title="PackageId.Architecture property" Url="html/P_Windows_ApplicationModel_PackageId_Architecture.htm" />
+  <HelpKINode Title="PackageId.FullName property" Url="html/P_Windows_ApplicationModel_PackageId_FullName.htm" />
+  <HelpKINode Title="PackageId.Name property" Url="html/P_Windows_ApplicationModel_PackageId_Name.htm" />
+  <HelpKINode Title="PackageId.Publisher property" Url="html/P_Windows_ApplicationModel_PackageId_Publisher.htm" />
+  <HelpKINode Title="PackageId.Version property" Url="html/P_Windows_ApplicationModel_PackageId_Version.htm" />
   <HelpKINode Title="PackageVersion structure">
     <HelpKINode Title="PackageVersion Structure" Url="html/T_Windows_ApplicationModel_PackageVersion.htm" />
     <HelpKINode Title="about PackageVersion structure" Url="html/T_Windows_ApplicationModel_PackageVersion.htm" />
@@ -1091,6 +1142,8 @@
   <HelpKINode Title="Pictures enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="PicturesLibrary property" Url="html/P_Windows_Storage_KnownFolders_PicturesLibrary.htm" />
   <HelpKINode Title="Placement enumeration" Url="html/T_Windows_UI_Popups_Placement.htm" />
+  <HelpKINode Title="Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
+  <HelpKINode Title="PlatformID enumeration" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Point property" Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Point.htm" />
   <HelpKINode Title="Point structure">
     <HelpKINode Title="Point Structure" Url="html/T_Windows_Foundation_Point.htm" />
@@ -1109,12 +1162,9 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_UI_Popups_PopupMenu.htm" />
   </HelpKINode>
   <HelpKINode Title="PopupMenu.Commands property" Url="html/P_Windows_UI_Popups_PopupMenu_Commands.htm" />
-  <HelpKINode Title="PopupMenu.Content property" Url="html/P_Windows_UI_Popups_PopupMenu_Content.htm" />
-  <HelpKINode Title="PopupMenu.DefaultCommandIndex property" Url="html/P_Windows_UI_Popups_PopupMenu_DefaultCommandIndex.htm" />
   <HelpKINode Title="PopupMenu.PopupMenu constructor" Url="html/M_Windows_UI_Popups_PopupMenu__ctor.htm" />
   <HelpKINode Title="PopupMenu.ShowAsync method" Url="html/M_Windows_UI_Popups_PopupMenu_ShowAsync.htm" />
   <HelpKINode Title="PopupMenu.ShowForSelectionAsync method" Url="html/Overload_Windows_UI_Popups_PopupMenu_ShowForSelectionAsync.htm" />
-  <HelpKINode Title="PopupMenu.Title property" Url="html/P_Windows_UI_Popups_PopupMenu_Title.htm" />
   <HelpKINode Title="Portrait enumeration member" Url="html/T_Windows_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="PortraitFlipped enumeration member" Url="html/T_Windows_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="Position property">
@@ -1142,18 +1192,21 @@
   </HelpKINode>
   <HelpKINode Title="PowerManager.BatteryStatus property" Url="html/P_Windows_System_Power_PowerManager_BatteryStatus.htm" />
   <HelpKINode Title="PowerManager.EnergySaverStatus property" Url="html/P_Windows_System_Power_PowerManager_EnergySaverStatus.htm" />
+  <HelpKINode Title="PowerManager.PowerSupplyStatus property" Url="html/P_Windows_System_Power_PowerManager_PowerSupplyStatus.htm" />
   <HelpKINode Title="PowerManager.RemainingChargePercent property" Url="html/P_Windows_System_Power_PowerManager_RemainingChargePercent.htm" />
   <HelpKINode Title="PowerManager.RemainingChargePercentChanged event" Url="html/E_Windows_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
+  <HelpKINode Title="PowerManager.RemainingDischargeTime property" Url="html/P_Windows_System_Power_PowerManager_RemainingDischargeTime.htm" />
   <HelpKINode Title="PowerSupplyStatus enumeration" Url="html/T_Windows_System_Power_PowerSupplyStatus.htm" />
-  <HelpKINode Title="ProductId property" Url="html/P_InTheHand_ApplicationModel_PackageId_ProductId.htm" />
+  <HelpKINode Title="PowerSupplyStatus property" Url="html/P_Windows_System_Power_PowerManager_PowerSupplyStatus.htm" />
+  <HelpKINode Title="ProcessorArchitecture enumeration" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="ProgressIndicator property" Url="html/P_Windows_UI_ViewManagement_StatusBar_ProgressIndicator.htm" />
   <HelpKINode Title="Properties property">
     <HelpKINode Title="DataPackage.Properties Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackage_Properties.htm" />
     <HelpKINode Title="DataPackageView.Properties Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackageView_Properties.htm" />
   </HelpKINode>
   <HelpKINode Title="Proximity enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
-  <HelpKINode Title="Publisher property" Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
-  <HelpKINode Title="PublisherDisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_PublisherDisplayName.htm" />
+  <HelpKINode Title="Publisher property" Url="html/P_Windows_ApplicationModel_PackageId_Publisher.htm" />
+  <HelpKINode Title="PublisherDisplayName property" Url="html/P_Windows_ApplicationModel_Package_PublisherDisplayName.htm" />
   <HelpKINode Title="PushNotification enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="QueryUriSupportAsync method" Url="html/M_Windows_System_Launcher_QueryUriSupportAsync.htm" />
   <HelpKINode Title="Radius property" Url="html/P_Windows_Devices_Geolocation_Geocircle_Radius.htm" />
@@ -1183,6 +1236,7 @@
   <HelpKINode Title="Rect.Y property" Url="html/P_Windows_Foundation_Rect_Y.htm" />
   <HelpKINode Title="RemainingChargePercent property" Url="html/P_Windows_System_Power_PowerManager_RemainingChargePercent.htm" />
   <HelpKINode Title="RemainingChargePercentChanged event" Url="html/E_Windows_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
+  <HelpKINode Title="RemainingDischargeTime property" Url="html/P_Windows_System_Power_PowerManager_RemainingDischargeTime.htm" />
   <HelpKINode Title="RemovableStorage enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Remove method" Url="html/Overload_Windows_Storage_ApplicationDataContainerSettings_Remove.htm" />
   <HelpKINode Title="Removed enumeration member" Url="html/T_Windows_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
@@ -1275,6 +1329,7 @@
   <HelpKINode Title="ShowPhoneCallUI method" Url="html/M_Windows_ApplicationModel_Calls_PhoneCallManager_ShowPhoneCallUI.htm" />
   <HelpKINode Title="ShowShareUI method" Url="html/M_Windows_ApplicationModel_DataTransfer_DataTransferManager_ShowShareUI.htm" />
   <HelpKINode Title="ShowSmsSettings method" Url="html/M_Windows_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
+  <HelpKINode Title="Size property" Url="html/P_Windows_Storage_FileProperties_BasicProperties_Size.htm" />
   <HelpKINode Title="SpeechRecognition enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Speed property" Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Speed.htm" />
   <HelpKINode Title="StandardDataFormats class">
@@ -1285,9 +1340,11 @@
   <HelpKINode Title="StandardDataFormats.ApplicationLink property" Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_ApplicationLink.htm" />
   <HelpKINode Title="StandardDataFormats.Text property" Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
   <HelpKINode Title="StandardDataFormats.WebLink property" Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
+  <HelpKINode Title="Start method" Url="html/M_Windows_UI_Xaml_DispatcherTimer_Start.htm" />
   <HelpKINode Title="Started enumeration member" Url="html/T_Windows_Foundation_AsyncStatus.htm" />
   <HelpKINode Title="Status property">
     <HelpKINode Title="GeofenceMonitor.Status Property " Url="html/P_Windows_Devices_Geolocation_Geofencing_GeofenceMonitor_Status.htm" />
+    <HelpKINode Title="IAsyncInfo.Status Property " Url="html/P_Windows_Foundation_IAsyncInfo_Status.htm" />
     <HelpKINode Title="StatusChangedEventArgs.Status Property " Url="html/P_Windows_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
   </HelpKINode>
   <HelpKINode Title="StatusBar class">
@@ -1316,6 +1373,7 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_Devices_Geolocation_StatusChangedEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="StatusChangedEventArgs.Status property" Url="html/P_Windows_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
+  <HelpKINode Title="Stop method" Url="html/M_Windows_UI_Xaml_DispatcherTimer_Stop.htm" />
   <HelpKINode Title="StorageDeleteOption enumeration" Url="html/T_Windows_Storage_StorageDeleteOption.htm" />
   <HelpKINode Title="StorageFile class">
     <HelpKINode Title="StorageFile Class" Url="html/T_Windows_Storage_StorageFile.htm" />
@@ -1330,6 +1388,7 @@
   <HelpKINode Title="StorageFile.DateCreated property" Url="html/P_Windows_Storage_StorageFile_DateCreated.htm" />
   <HelpKINode Title="StorageFile.DeleteAsync method" Url="html/Overload_Windows_Storage_StorageFile_DeleteAsync.htm" />
   <HelpKINode Title="StorageFile.FileType property" Url="html/P_Windows_Storage_StorageFile_FileType.htm" />
+  <HelpKINode Title="StorageFile.GetBasicPropertiesAsync method" Url="html/M_Windows_Storage_StorageFile_GetBasicPropertiesAsync.htm" />
   <HelpKINode Title="StorageFile.GetFileFromPathAsync method" Url="html/M_Windows_Storage_StorageFile_GetFileFromPathAsync.htm" />
   <HelpKINode Title="StorageFile.GetParentAsync method" Url="html/M_Windows_Storage_StorageFile_GetParentAsync.htm" />
   <HelpKINode Title="StorageFile.IsEqual method" Url="html/M_Windows_Storage_StorageFile_IsEqual.htm" />
@@ -1350,6 +1409,7 @@
   <HelpKINode Title="StorageFolder.CreateFolderAsync method" Url="html/Overload_Windows_Storage_StorageFolder_CreateFolderAsync.htm" />
   <HelpKINode Title="StorageFolder.DateCreated property" Url="html/P_Windows_Storage_StorageFolder_DateCreated.htm" />
   <HelpKINode Title="StorageFolder.DeleteAsync method" Url="html/Overload_Windows_Storage_StorageFolder_DeleteAsync.htm" />
+  <HelpKINode Title="StorageFolder.GetBasicPropertiesAsync method" Url="html/M_Windows_Storage_StorageFolder_GetBasicPropertiesAsync.htm" />
   <HelpKINode Title="StorageFolder.GetFileAsync method" Url="html/M_Windows_Storage_StorageFolder_GetFileAsync.htm" />
   <HelpKINode Title="StorageFolder.GetFilesAsync method" Url="html/M_Windows_Storage_StorageFolder_GetFilesAsync.htm" />
   <HelpKINode Title="StorageFolder.GetFolderAsync method" Url="html/M_Windows_Storage_StorageFolder_GetFolderAsync.htm" />
@@ -1369,6 +1429,8 @@
   <HelpKINode Title="System namespace" Url="html/N_System.htm" />
   <HelpKINode Title="System.IO namespace" Url="html/N_System_IO.htm" />
   <HelpKINode Title="System.IO.WindowsRuntimeStorageExtensions class" Url="html/T_System_IO_WindowsRuntimeStorageExtensions.htm" />
+  <HelpKINode Title="System.OperatingSystem class" Url="html/T_System_OperatingSystem.htm" />
+  <HelpKINode Title="System.PlatformID enumeration" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="System.WindowsRuntimeSystemExtensions class" Url="html/T_System_WindowsRuntimeSystemExtensions.htm" />
   <HelpKINode Title="SystemProtection class">
     <HelpKINode Title="SystemProtection Class" Url="html/T_Windows_Phone_System_SystemProtection.htm" />
@@ -1394,12 +1456,12 @@
   </HelpKINode>
   <HelpKINode Title="TemporaryFolder property" Url="html/P_Windows_Storage_ApplicationData_TemporaryFolder.htm" />
   <HelpKINode Title="Text property" Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
+  <HelpKINode Title="Tick event" Url="html/E_Windows_UI_Xaml_DispatcherTimer_Tick.htm" />
   <HelpKINode Title="Timestamp property" Url="html/P_Windows_Devices_Geolocation_Geocoordinate_Timestamp.htm" />
   <HelpKINode Title="Title property">
     <HelpKINode Title="DataPackagePropertySet.Title Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySet_Title.htm" />
     <HelpKINode Title="DataPackagePropertySetView.Title Property " Url="html/P_Windows_ApplicationModel_DataTransfer_DataPackagePropertySetView_Title.htm" />
     <HelpKINode Title="MessageDialog.Title Property " Url="html/P_Windows_UI_Popups_MessageDialog_Title.htm" />
-    <HelpKINode Title="PopupMenu.Title Property " Url="html/P_Windows_UI_Popups_PopupMenu_Title.htm" />
   </HelpKINode>
   <HelpKINode Title="To property" Url="html/P_Windows_ApplicationModel_Email_EmailMessage_To.htm" />
   <HelpKINode Title="ToastNotification class">
@@ -1454,9 +1516,11 @@
   <HelpKINode Title="UICommand.UICommand constructor" Url="html/Overload_Windows_UI_Popups_UICommand__ctor.htm" />
   <HelpKINode Title="UICommandInvokedHandler delegate" Url="html/T_Windows_UI_Popups_UICommandInvokedHandler.htm" />
   <HelpKINode Title="UnicodeEncoding enumeration" Url="html/T_Windows_Storage_Streams_UnicodeEncoding.htm" />
+  <HelpKINode Title="Unix enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Unknown enumeration member">
     <HelpKINode Title="LaunchQuerySupportStatus Enumeration" Url="html/T_Windows_System_LaunchQuerySupportStatus.htm" />
     <HelpKINode Title="PositionSource Enumeration" Url="html/T_Windows_Devices_Geolocation_PositionSource.htm" />
+    <HelpKINode Title="ProcessorArchitecture Enumeration" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
   </HelpKINode>
   <HelpKINode Title="Update method" Url="html/M_Windows_UI_Notifications_BadgeUpdater_Update.htm" />
   <HelpKINode Title="Uri enumeration member" Url="html/T_Windows_System_LaunchQuerySupportType.htm" />
@@ -1470,11 +1534,10 @@
     <HelpKINode Title="ApplicationDataContainerSettings.Values Property " Url="html/P_Windows_Storage_ApplicationDataContainerSettings_Values.htm" />
   </HelpKINode>
   <HelpKINode Title="Version property">
-    <HelpKINode Title="OperatingSystem.Version Property " Url="html/P_InTheHand_OperatingSystem_Version.htm" />
-    <HelpKINode Title="PackageId.Version Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Version.htm" />
+    <HelpKINode Title="OperatingSystem.Version Property " Url="html/P_System_OperatingSystem_Version.htm" />
+    <HelpKINode Title="PackageId.Version Property " Url="html/P_Windows_ApplicationModel_PackageId_Version.htm" />
   </HelpKINode>
   <HelpKINode Title="VersionInfo property" Url="html/P_Windows_System_Profile_AnalyticsInfo_VersionInfo.htm" />
-  <HelpKINode Title="VersionString property" Url="html/P_InTheHand_OperatingSystem_VersionString.htm" />
   <HelpKINode Title="Vibrate method" Url="html/M_Windows_Phone_Devices_Notification_VibrationDevice_Vibrate.htm" />
   <HelpKINode Title="VibrationDevice class">
     <HelpKINode Title="VibrationDevice Class" Url="html/T_Windows_Phone_Devices_Notification_VibrationDevice.htm" />
@@ -1492,6 +1555,10 @@
   <HelpKINode Title="WebLink property" Url="html/P_Windows_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
   <HelpKINode Title="Width property" Url="html/P_Windows_Foundation_Rect_Width.htm" />
   <HelpKINode Title="WiFi enumeration member" Url="html/T_Windows_Devices_Geolocation_PositionSource.htm" />
+  <HelpKINode Title="Win32NT enumeration member" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="Win32S enumeration member" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="Win32Windows enumeration member" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="WinCE enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Windows.ApplicationModel namespace" Url="html/N_Windows_ApplicationModel.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Calls namespace" Url="html/N_Windows_ApplicationModel_Calls.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Calls.PhoneCallManager class" Url="html/T_Windows_ApplicationModel_Calls_PhoneCallManager.htm" />
@@ -1518,6 +1585,8 @@
   <HelpKINode Title="Windows.ApplicationModel.Email.EmailManager class" Url="html/T_Windows_ApplicationModel_Email_EmailManager.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Email.EmailMessage class" Url="html/T_Windows_ApplicationModel_Email_EmailMessage.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Email.EmailRecipient class" Url="html/T_Windows_ApplicationModel_Email_EmailRecipient.htm" />
+  <HelpKINode Title="Windows.ApplicationModel.Package class" Url="html/T_Windows_ApplicationModel_Package.htm" />
+  <HelpKINode Title="Windows.ApplicationModel.PackageId class" Url="html/T_Windows_ApplicationModel_PackageId.htm" />
   <HelpKINode Title="Windows.ApplicationModel.PackageVersion structure" Url="html/T_Windows_ApplicationModel_PackageVersion.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Resources namespace" Url="html/N_Windows_ApplicationModel_Resources.htm" />
   <HelpKINode Title="Windows.ApplicationModel.Resources.ResourceLoader class" Url="html/T_Windows_ApplicationModel_Resources_ResourceLoader.htm" />
@@ -1556,6 +1625,7 @@
   <HelpKINode Title="Windows.Foundation.Collections.MapChangedEventHandler(Of K, V) delegate" Url="html/T_Windows_Foundation_Collections_MapChangedEventHandler_2.htm" />
   <HelpKINode Title="Windows.Foundation.Collections.MapChangedEventHandler&lt;K, V&gt; delegate" Url="html/T_Windows_Foundation_Collections_MapChangedEventHandler_2.htm" />
   <HelpKINode Title="Windows.Foundation.IAsyncAction interface" Url="html/T_Windows_Foundation_IAsyncAction.htm" />
+  <HelpKINode Title="Windows.Foundation.IAsyncInfo interface" Url="html/T_Windows_Foundation_IAsyncInfo.htm" />
   <HelpKINode Title="Windows.Foundation.IAsyncOperation(Of TResult) interface" Url="html/T_Windows_Foundation_IAsyncOperation_1.htm" />
   <HelpKINode Title="Windows.Foundation.IAsyncOperation&lt;TResult&gt; interface" Url="html/T_Windows_Foundation_IAsyncOperation_1.htm" />
   <HelpKINode Title="Windows.Foundation.Metadata namespace" Url="html/N_Windows_Foundation_Metadata.htm" />
@@ -1587,6 +1657,8 @@
   <HelpKINode Title="Windows.Storage.ApplicationDataLocality enumeration" Url="html/T_Windows_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="Windows.Storage.CreationCollisionOption enumeration" Url="html/T_Windows_Storage_CreationCollisionOption.htm" />
   <HelpKINode Title="Windows.Storage.FileAttributes enumeration" Url="html/T_Windows_Storage_FileAttributes.htm" />
+  <HelpKINode Title="Windows.Storage.FileProperties namespace" Url="html/N_Windows_Storage_FileProperties.htm" />
+  <HelpKINode Title="Windows.Storage.FileProperties.BasicProperties class" Url="html/T_Windows_Storage_FileProperties_BasicProperties.htm" />
   <HelpKINode Title="Windows.Storage.IStorageFile interface" Url="html/T_Windows_Storage_IStorageFile.htm" />
   <HelpKINode Title="Windows.Storage.IStorageFolder interface" Url="html/T_Windows_Storage_IStorageFolder.htm" />
   <HelpKINode Title="Windows.Storage.IStorageItem interface" Url="html/T_Windows_Storage_IStorageItem.htm" />
@@ -1612,6 +1684,7 @@
   <HelpKINode Title="Windows.System.Power.EnergySaverStatus enumeration" Url="html/T_Windows_System_Power_EnergySaverStatus.htm" />
   <HelpKINode Title="Windows.System.Power.PowerManager class" Url="html/T_Windows_System_Power_PowerManager.htm" />
   <HelpKINode Title="Windows.System.Power.PowerSupplyStatus enumeration" Url="html/T_Windows_System_Power_PowerSupplyStatus.htm" />
+  <HelpKINode Title="Windows.System.ProcessorArchitecture enumeration" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="Windows.System.Profile namespace" Url="html/N_Windows_System_Profile.htm" />
   <HelpKINode Title="Windows.System.Profile.AnalyticsInfo class" Url="html/T_Windows_System_Profile_AnalyticsInfo.htm" />
   <HelpKINode Title="Windows.System.Profile.AnalyticsVersionInfo class" Url="html/T_Windows_System_Profile_AnalyticsVersionInfo.htm" />
@@ -1635,6 +1708,8 @@
   <HelpKINode Title="Windows.UI.ViewManagement namespace" Url="html/N_Windows_UI_ViewManagement.htm" />
   <HelpKINode Title="Windows.UI.ViewManagement.StatusBar class" Url="html/T_Windows_UI_ViewManagement_StatusBar.htm" />
   <HelpKINode Title="Windows.UI.ViewManagement.StatusBarProgressIndicator class" Url="html/T_Windows_UI_ViewManagement_StatusBarProgressIndicator.htm" />
+  <HelpKINode Title="Windows.UI.Xaml namespace" Url="html/N_Windows_UI_Xaml.htm" />
+  <HelpKINode Title="Windows.UI.Xaml.DispatcherTimer class" Url="html/T_Windows_UI_Xaml_DispatcherTimer.htm" />
   <HelpKINode Title="WindowsRuntimeStorageExtensions class">
     <HelpKINode Title="WindowsRuntimeStorageExtensions Class" Url="html/T_System_IO_WindowsRuntimeStorageExtensions.htm" />
     <HelpKINode Title="about WindowsRuntimeStorageExtensions class" Url="html/T_System_IO_WindowsRuntimeStorageExtensions.htm" />
@@ -1658,6 +1733,9 @@
     <HelpKINode Title="Point.X Property " Url="html/P_Windows_Foundation_Point_X.htm" />
     <HelpKINode Title="Rect.X Property " Url="html/P_Windows_Foundation_Rect_X.htm" />
   </HelpKINode>
+  <HelpKINode Title="X64 enumeration member" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
+  <HelpKINode Title="X86 enumeration member" Url="html/T_Windows_System_ProcessorArchitecture.htm" />
+  <HelpKINode Title="Xbox enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Y property">
     <HelpKINode Title="Point.Y Property " Url="html/P_Windows_Foundation_Point_Y.htm" />
     <HelpKINode Title="Rect.Y Property " Url="html/P_Windows_Foundation_Rect_Y.htm" />
