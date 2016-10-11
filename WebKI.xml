@@ -45,6 +45,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Windows_Storage_ApplicationData.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_Storage_ApplicationData.htm" />
   </HelpKINode>
+  <HelpKINode Title="ApplicationData.ClearAsync method" Url="html/Overload_Windows_Storage_ApplicationData_ClearAsync.htm" />
   <HelpKINode Title="ApplicationData.Current property" Url="html/P_Windows_Storage_ApplicationData_Current.htm" />
   <HelpKINode Title="ApplicationData.LocalFolder property" Url="html/P_Windows_Storage_ApplicationData_LocalFolder.htm" />
   <HelpKINode Title="ApplicationData.LocalSettings property" Url="html/P_Windows_Storage_ApplicationData_LocalSettings.htm" />
@@ -203,6 +204,7 @@
     <HelpKINode Title="BadgeUpdater.Clear Method " Url="html/M_Windows_UI_Notifications_BadgeUpdater_Clear.htm" />
     <HelpKINode Title="Clipboard.Clear Method " Url="html/M_Windows_ApplicationModel_DataTransfer_Clipboard_Clear.htm" />
   </HelpKINode>
+  <HelpKINode Title="ClearAsync method" Url="html/Overload_Windows_Storage_ApplicationData_ClearAsync.htm" />
   <HelpKINode Title="Clipboard class">
     <HelpKINode Title="Clipboard Class" Url="html/T_Windows_ApplicationModel_DataTransfer_Clipboard.htm" />
     <HelpKINode Title="about Clipboard class" Url="html/T_Windows_ApplicationModel_DataTransfer_Clipboard.htm" />
@@ -386,6 +388,7 @@
     <HelpKINode Title="StorageDeleteOption Enumeration" Url="html/T_Windows_Storage_StorageDeleteOption.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultCommandIndex property" Url="html/P_Windows_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
+  <HelpKINode Title="DeleteAllItems method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_DeleteAllItems.htm" />
   <HelpKINode Title="DeleteAsync method">
     <HelpKINode Title="IStorageItem.DeleteAsync Method " Url="html/Overload_Windows_Storage_IStorageItem_DeleteAsync.htm" />
     <HelpKINode Title="StorageFile.DeleteAsync Method " Url="html/Overload_Windows_Storage_StorageFile_DeleteAsync.htm" />
@@ -532,8 +535,10 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Windows_Devices_Geolocation_Geocircle.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Windows_Devices_Geolocation_Geocircle.htm" />
   </HelpKINode>
+  <HelpKINode Title="Geocircle enumeration member" Url="html/T_Windows_Devices_Geolocation_GeoshapeType.htm" />
   <HelpKINode Title="Geocircle.Center property" Url="html/P_Windows_Devices_Geolocation_Geocircle_Center.htm" />
   <HelpKINode Title="Geocircle.Geocircle constructor" Url="html/M_Windows_Devices_Geolocation_Geocircle__ctor.htm" />
+  <HelpKINode Title="Geocircle.GeoshapeType property" Url="html/P_Windows_Devices_Geolocation_Geocircle_GeoshapeType.htm" />
   <HelpKINode Title="Geocircle.Radius property" Url="html/P_Windows_Devices_Geolocation_Geocircle_Radius.htm" />
   <HelpKINode Title="Geocoordinate class">
     <HelpKINode Title="Geocoordinate Class" Url="html/T_Windows_Devices_Geolocation_Geocoordinate.htm" />
@@ -632,6 +637,11 @@
   <HelpKINode Title="Geoposition.Coordinate property" Url="html/P_Windows_Devices_Geolocation_Geoposition_Coordinate.htm" />
   <HelpKINode Title="Geoposition.Geoposition constructor" Url="html/M_Windows_Devices_Geolocation_Geoposition__ctor.htm" />
   <HelpKINode Title="Geoshape property" Url="html/P_Windows_Devices_Geolocation_Geofencing_Geofence_Geoshape.htm" />
+  <HelpKINode Title="GeoshapeType enumeration" Url="html/T_Windows_Devices_Geolocation_GeoshapeType.htm" />
+  <HelpKINode Title="GeoshapeType property">
+    <HelpKINode Title="Geocircle.GeoshapeType Property " Url="html/P_Windows_Devices_Geolocation_Geocircle_GeoshapeType.htm" />
+    <HelpKINode Title="IGeoshape.GeoshapeType Property " Url="html/P_Windows_Devices_Geolocation_IGeoshape_GeoshapeType.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetApplicationLinkAsync method" Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackageView_GetApplicationLinkAsync.htm" />
   <HelpKINode Title="GetAwaiter method" Url="html/Overload_System_WindowsRuntimeSystemExtensions_GetAwaiter.htm" />
   <HelpKINode Title="GetBasicPropertiesAsync method">
@@ -666,6 +676,7 @@
     <HelpKINode Title="IStorageFolder.GetFoldersAsync Method " Url="html/M_Windows_Storage_IStorageFolder_GetFoldersAsync.htm" />
     <HelpKINode Title="StorageFolder.GetFoldersAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetFoldersAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetFolderSizeAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetFolderSizeAsync.htm" />
   <HelpKINode Title="GetForCurrentView method">
     <HelpKINode Title="DataTransferManager.GetForCurrentView Method " Url="html/M_Windows_ApplicationModel_DataTransfer_DataTransferManager_GetForCurrentView.htm" />
     <HelpKINode Title="DisplayInformation.GetForCurrentView Method " Url="html/M_Windows_Graphics_Display_DisplayInformation_GetForCurrentView.htm" />
@@ -684,6 +695,7 @@
     <HelpKINode Title="IStorageItem2.GetParentAsync Method " Url="html/M_Windows_Storage_IStorageItem2_GetParentAsync.htm" />
     <HelpKINode Title="StorageFile.GetParentAsync Method " Url="html/M_Windows_Storage_StorageFile_GetParentAsync.htm" />
     <HelpKINode Title="StorageFolder.GetParentAsync Method " Url="html/M_Windows_Storage_StorageFolder_GetParentAsync.htm" />
+    <HelpKINode Title="StorageFolderExtensions.GetParentAsync Method " Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetParentAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="GetPublisherDisplayName method" Url="html/M_InTheHand_ApplicationModel_PackageExtensions_GetPublisherDisplayName.htm" />
   <HelpKINode Title="GetResults method">
@@ -750,7 +762,9 @@
   <HelpKINode Title="IGeoshape interface">
     <HelpKINode Title="IGeoshape Interface" Url="html/T_Windows_Devices_Geolocation_IGeoshape.htm" />
     <HelpKINode Title="about IGeoshape interface" Url="html/T_Windows_Devices_Geolocation_IGeoshape.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_Devices_Geolocation_IGeoshape.htm" />
   </HelpKINode>
+  <HelpKINode Title="IGeoshape.GeoshapeType property" Url="html/P_Windows_Devices_Geolocation_IGeoshape_GeoshapeType.htm" />
   <HelpKINode Title="IMapChangedEventArgs(Of K) interface">
     <HelpKINode Title="IMapChangedEventArgs(K) Interface" Url="html/T_Windows_Foundation_Collections_IMapChangedEventArgs_1.htm" />
     <HelpKINode Title="about IMapChangedEventArgs(Of K) interface" Url="html/T_Windows_Foundation_Collections_IMapChangedEventArgs_1.htm" />
@@ -788,6 +802,8 @@
   <HelpKINode Title="InTheHand.Devices.Geolocation.BasicGeopositionExtensions class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.GeocoordinateExtensions class" Url="html/T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm" />
   <HelpKINode Title="InTheHand.Environment class" Url="html/T_InTheHand_Environment.htm" />
+  <HelpKINode Title="InTheHand.Storage namespace" Url="html/N_InTheHand_Storage.htm" />
+  <HelpKINode Title="InTheHand.Storage.StorageFolderExtensions class" Url="html/T_InTheHand_Storage_StorageFolderExtensions.htm" />
   <HelpKINode Title="InTheHand.UI.ApplicationSettings namespace" Url="html/N_InTheHand_UI_ApplicationSettings.htm" />
   <HelpKINode Title="InTheHand.UI.ApplicationSettings.SettingsPane class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPane.htm" />
   <HelpKINode Title="InTheHand.UI.Notifications namespace" Url="html/N_InTheHand_UI_Notifications.htm" />
@@ -826,6 +842,7 @@
   <HelpKINode Title="IsEqual method">
     <HelpKINode Title="IStorageItem2.IsEqual Method " Url="html/M_Windows_Storage_IStorageItem2_IsEqual.htm" />
     <HelpKINode Title="StorageFile.IsEqual Method " Url="html/M_Windows_Storage_StorageFile_IsEqual.htm" />
+    <HelpKINode Title="StorageFolder.IsEqual Method " Url="html/M_Windows_Storage_StorageFolder_IsEqual.htm" />
   </HelpKINode>
   <HelpKINode Title="IsEventPresent method" Url="html/M_Windows_Foundation_Metadata_ApiInformation_IsEventPresent.htm" />
   <HelpKINode Title="IsMethodPresent method" Url="html/Overload_Windows_Foundation_Metadata_ApiInformation_IsMethodPresent.htm" />
@@ -861,6 +878,12 @@
   <HelpKINode Title="IStorageFolder.GetFilesAsync method" Url="html/M_Windows_Storage_IStorageFolder_GetFilesAsync.htm" />
   <HelpKINode Title="IStorageFolder.GetFolderAsync method" Url="html/M_Windows_Storage_IStorageFolder_GetFolderAsync.htm" />
   <HelpKINode Title="IStorageFolder.GetFoldersAsync method" Url="html/M_Windows_Storage_IStorageFolder_GetFoldersAsync.htm" />
+  <HelpKINode Title="IStorageFolder2 interface">
+    <HelpKINode Title="IStorageFolder2 Interface" Url="html/T_Windows_Storage_IStorageFolder2.htm" />
+    <HelpKINode Title="about IStorageFolder2 interface" Url="html/T_Windows_Storage_IStorageFolder2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Windows_Storage_IStorageFolder2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStorageFolder2.TryGetItemAsync method" Url="html/M_Windows_Storage_IStorageFolder2_TryGetItemAsync.htm" />
   <HelpKINode Title="IStorageItem interface">
     <HelpKINode Title="IStorageItem Interface" Url="html/T_Windows_Storage_IStorageItem.htm" />
     <HelpKINode Title="about IStorageItem interface" Url="html/T_Windows_Storage_IStorageItem.htm" />
@@ -1313,6 +1336,7 @@
   <HelpKINode Title="SettingsPane.GetForCurrentView method" Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_GetForCurrentView.htm" />
   <HelpKINode Title="SettingsPane.Show method" Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
   <HelpKINode Title="SetWebLink method" Url="html/M_Windows_ApplicationModel_DataTransfer_DataPackage_SetWebLink.htm" />
+  <HelpKINode Title="SharedLocal enumeration member" Url="html/T_Windows_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="SharedUserCertificates enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Show method">
     <HelpKINode Title="SettingsPane.Show Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
@@ -1416,10 +1440,20 @@
   <HelpKINode Title="StorageFolder.GetFolderFromPathAsync method" Url="html/M_Windows_Storage_StorageFolder_GetFolderFromPathAsync.htm" />
   <HelpKINode Title="StorageFolder.GetFoldersAsync method" Url="html/M_Windows_Storage_StorageFolder_GetFoldersAsync.htm" />
   <HelpKINode Title="StorageFolder.GetParentAsync method" Url="html/M_Windows_Storage_StorageFolder_GetParentAsync.htm" />
+  <HelpKINode Title="StorageFolder.IsEqual method" Url="html/M_Windows_Storage_StorageFolder_IsEqual.htm" />
   <HelpKINode Title="StorageFolder.IsOfType method" Url="html/M_Windows_Storage_StorageFolder_IsOfType.htm" />
   <HelpKINode Title="StorageFolder.Name property" Url="html/P_Windows_Storage_StorageFolder_Name.htm" />
   <HelpKINode Title="StorageFolder.Path property" Url="html/P_Windows_Storage_StorageFolder_Path.htm" />
   <HelpKINode Title="StorageFolder.TryGetItemAsync method" Url="html/M_Windows_Storage_StorageFolder_TryGetItemAsync.htm" />
+  <HelpKINode Title="StorageFolderExtensions class">
+    <HelpKINode Title="StorageFolderExtensions Class" Url="html/T_InTheHand_Storage_StorageFolderExtensions.htm" />
+    <HelpKINode Title="about StorageFolderExtensions class" Url="html/T_InTheHand_Storage_StorageFolderExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Storage_StorageFolderExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageFolderExtensions.DeleteAllItems method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_DeleteAllItems.htm" />
+  <HelpKINode Title="StorageFolderExtensions.GetFolderSizeAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetFolderSizeAsync.htm" />
+  <HelpKINode Title="StorageFolderExtensions.GetParentAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetParentAsync.htm" />
+  <HelpKINode Title="StorageFolderExtensions.TryGetItemAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_TryGetItemAsync.htm" />
   <HelpKINode Title="StorageItemTypes enumeration" Url="html/T_Windows_Storage_StorageItemTypes.htm" />
   <HelpKINode Title="Subject property" Url="html/P_Windows_ApplicationModel_Email_EmailMessage_Subject.htm" />
   <HelpKINode Title="SuppressPopup property">
@@ -1499,7 +1533,11 @@
   <HelpKINode Title="ToUnixTimeMilliseconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeMilliseconds.htm" />
   <HelpKINode Title="ToUnixTimeSeconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeSeconds.htm" />
   <HelpKINode Title="ToVersion method" Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToVersion.htm" />
-  <HelpKINode Title="TryGetItemAsync method" Url="html/M_Windows_Storage_StorageFolder_TryGetItemAsync.htm" />
+  <HelpKINode Title="TryGetItemAsync method">
+    <HelpKINode Title="IStorageFolder2.TryGetItemAsync Method " Url="html/M_Windows_Storage_IStorageFolder2_TryGetItemAsync.htm" />
+    <HelpKINode Title="StorageFolder.TryGetItemAsync Method " Url="html/M_Windows_Storage_StorageFolder_TryGetItemAsync.htm" />
+    <HelpKINode Title="StorageFolderExtensions.TryGetItemAsync Method " Url="html/M_InTheHand_Storage_StorageFolderExtensions_TryGetItemAsync.htm" />
+  </HelpKINode>
   <HelpKINode Title="TryGetValue method" Url="html/M_Windows_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
   <HelpKINode Title="TypedEventHandler(Of TSender, TResult) delegate" Url="html/T_Windows_Foundation_TypedEventHandler_2.htm" />
   <HelpKINode Title="TypedEventHandler&lt;TSender, TResult&gt; delegate" Url="html/T_Windows_Foundation_TypedEventHandler_2.htm" />
@@ -1604,6 +1642,7 @@
   <HelpKINode Title="Windows.Devices.Geolocation.Geolocator class" Url="html/T_Windows_Devices_Geolocation_Geolocator.htm" />
   <HelpKINode Title="Windows.Devices.Geolocation.Geopoint class" Url="html/T_Windows_Devices_Geolocation_Geopoint.htm" />
   <HelpKINode Title="Windows.Devices.Geolocation.Geoposition class" Url="html/T_Windows_Devices_Geolocation_Geoposition.htm" />
+  <HelpKINode Title="Windows.Devices.Geolocation.GeoshapeType enumeration" Url="html/T_Windows_Devices_Geolocation_GeoshapeType.htm" />
   <HelpKINode Title="Windows.Devices.Geolocation.IGeoshape interface" Url="html/T_Windows_Devices_Geolocation_IGeoshape.htm" />
   <HelpKINode Title="Windows.Devices.Geolocation.PositionAccuracy enumeration" Url="html/T_Windows_Devices_Geolocation_PositionAccuracy.htm" />
   <HelpKINode Title="Windows.Devices.Geolocation.PositionChangedEventArgs class" Url="html/T_Windows_Devices_Geolocation_PositionChangedEventArgs.htm" />
@@ -1661,6 +1700,7 @@
   <HelpKINode Title="Windows.Storage.FileProperties.BasicProperties class" Url="html/T_Windows_Storage_FileProperties_BasicProperties.htm" />
   <HelpKINode Title="Windows.Storage.IStorageFile interface" Url="html/T_Windows_Storage_IStorageFile.htm" />
   <HelpKINode Title="Windows.Storage.IStorageFolder interface" Url="html/T_Windows_Storage_IStorageFolder.htm" />
+  <HelpKINode Title="Windows.Storage.IStorageFolder2 interface" Url="html/T_Windows_Storage_IStorageFolder2.htm" />
   <HelpKINode Title="Windows.Storage.IStorageItem interface" Url="html/T_Windows_Storage_IStorageItem.htm" />
   <HelpKINode Title="Windows.Storage.IStorageItem2 interface" Url="html/T_Windows_Storage_IStorageItem2.htm" />
   <HelpKINode Title="Windows.Storage.KnownFolders class" Url="html/T_Windows_Storage_KnownFolders.htm" />
