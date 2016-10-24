@@ -82,6 +82,13 @@
   <HelpKINode Title="ApplicationDataContainerSettings.TryGetValue method" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
   <HelpKINode Title="ApplicationDataContainerSettings.Values property" Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Values.htm" />
   <HelpKINode Title="ApplicationDataLocality enumeration" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
+  <HelpKINode Title="ApplicationLanguages class">
+    <HelpKINode Title="ApplicationLanguages Class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
+    <HelpKINode Title="about ApplicationLanguages class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Windows_Globalization_ApplicationLanguages.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationLanguages.Languages property" Url="html/P_Windows_Globalization_ApplicationLanguages_Languages.htm" />
+  <HelpKINode Title="ApplicationLanguages.ManifestLanguages property" Url="html/P_Windows_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
   <HelpKINode Title="ApplicationLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_ApplicationLink.htm" />
   <HelpKINode Title="ApplicationName property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs_ApplicationName.htm" />
   <HelpKINode Title="AppNotInstalled enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
@@ -90,6 +97,8 @@
   <HelpKINode Title="Architecture property" Url="html/P_InTheHand_ApplicationModel_PackageId_Architecture.htm" />
   <HelpKINode Title="Archive enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
   <HelpKINode Title="Arm enumeration member" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
+  <HelpKINode Title="AsReadOnly(Of T) method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
+  <HelpKINode Title="AsReadOnly&lt;T&gt; method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
   <HelpKINode Title="Attributes property">
     <HelpKINode Title="IStorageItem.Attributes Property " Url="html/P_InTheHand_Storage_IStorageItem_Attributes.htm" />
     <HelpKINode Title="StorageFile.Attributes Property " Url="html/P_InTheHand_Storage_StorageFile_Attributes.htm" />
@@ -887,6 +896,13 @@
   <HelpKINode Title="InTheHand.UI.ViewManagement.StatusBarProgressIndicator class" Url="html/T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm" />
   <HelpKINode Title="InTheHand.UI.Xaml namespace" Url="html/N_InTheHand_UI_Xaml.htm" />
   <HelpKINode Title="InTheHand.UI.Xaml.DispatcherTimer class" Url="html/T_InTheHand_UI_Xaml_DispatcherTimer.htm" />
+  <HelpKINode Title="InTheHandListExtensions class">
+    <HelpKINode Title="InTheHandListExtensions Class" Url="html/T_System_Collections_Generic_InTheHandListExtensions.htm" />
+    <HelpKINode Title="about InTheHandListExtensions class" Url="html/T_System_Collections_Generic_InTheHandListExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_System_Collections_Generic_InTheHandListExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InTheHandListExtensions.AsReadOnly(Of T) method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
+  <HelpKINode Title="InTheHandListExtensions.AsReadOnly&lt;T&gt; method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
   <HelpKINode Title="InTheHandRuntimeStorageExtensions class">
     <HelpKINode Title="InTheHandRuntimeStorageExtensions Class" Url="html/T_System_IO_InTheHandRuntimeStorageExtensions.htm" />
     <HelpKINode Title="about InTheHandRuntimeStorageExtensions class" Url="html/T_System_IO_InTheHandRuntimeStorageExtensions.htm" />
@@ -1023,6 +1039,7 @@
   </HelpKINode>
   <HelpKINode Title="Landscape enumeration member" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="LandscapeFlipped enumeration member" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
+  <HelpKINode Title="Languages property" Url="html/P_Windows_Globalization_ApplicationLanguages_Languages.htm" />
   <HelpKINode Title="LastKnownGeoposition property" Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_LastKnownGeoposition.htm" />
   <HelpKINode Title="Latitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Latitude.htm" />
   <HelpKINode Title="Launcher class">
@@ -1055,6 +1072,7 @@
   <HelpKINode Title="Longitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
   <HelpKINode Title="MacOSX enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Major field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Major.htm" />
+  <HelpKINode Title="ManifestLanguages property" Url="html/P_Windows_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
   <HelpKINode Title="MapChanged event">
     <HelpKINode Title="ApplicationDataContainerSettings.MapChanged Event" Url="html/E_InTheHand_Storage_ApplicationDataContainerSettings_MapChanged.htm" />
     <HelpKINode Title="IObservableMap(K, V).MapChanged Event" Url="html/E_InTheHand_Foundation_Collections_IObservableMap_2_MapChanged.htm" />
@@ -1337,7 +1355,10 @@
   <HelpKINode Title="RemainingDischargeTime property" Url="html/P_InTheHand_System_Power_PowerManager_RemainingDischargeTime.htm" />
   <HelpKINode Title="RemovableStorage enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Remove method" Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm" />
-  <HelpKINode Title="Removed enumeration member" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
+  <HelpKINode Title="Removed enumeration member">
+    <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
+    <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
+  </HelpKINode>
   <HelpKINode Title="RemoveFromSchedule method" Url="html/M_InTheHand_UI_Notifications_ToastNotifier_RemoveFromSchedule.htm" />
   <HelpKINode Title="RenameAsync method" Url="html/Overload_InTheHand_Storage_StorageFile_RenameAsync.htm" />
   <HelpKINode Title="ReplaceExisting enumeration member">
@@ -1527,6 +1548,8 @@
     <HelpKINode Title="ToastNotification.SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_SuppressPopup.htm" />
   </HelpKINode>
   <HelpKINode Title="System namespace" Url="html/N_System.htm" />
+  <HelpKINode Title="System.Collections.Generic namespace" Url="html/N_System_Collections_Generic.htm" />
+  <HelpKINode Title="System.Collections.Generic.InTheHandListExtensions class" Url="html/T_System_Collections_Generic_InTheHandListExtensions.htm" />
   <HelpKINode Title="System.IO namespace" Url="html/N_System_IO.htm" />
   <HelpKINode Title="System.IO.InTheHandRuntimeStorageExtensions class" Url="html/T_System_IO_InTheHandRuntimeStorageExtensions.htm" />
   <HelpKINode Title="System.OperatingSystem class" Url="html/T_System_OperatingSystem.htm" />
@@ -1661,6 +1684,8 @@
   <HelpKINode Title="Win32S enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Win32Windows enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="WinCE enumeration member" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="Windows.Globalization namespace" Url="html/N_Windows_Globalization.htm" />
+  <HelpKINode Title="Windows.Globalization.ApplicationLanguages class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
   <HelpKINode Title="WriteLinesAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm" />
   <HelpKINode Title="WriteTextAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm" />
   <HelpKINode Title="X property">
