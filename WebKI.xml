@@ -1,6 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="Above enumeration member" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
+  <HelpKINode Title="AccelerationX property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationX.htm" />
+  <HelpKINode Title="AccelerationY property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationY.htm" />
+  <HelpKINode Title="AccelerationZ property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationZ.htm" />
+  <HelpKINode Title="Accelerometer class">
+    <HelpKINode Title="Accelerometer Class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+    <HelpKINode Title="about Accelerometer class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Sensors_Accelerometer__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Accelerometer.Accelerometer constructor" Url="html/M_InTheHand_Devices_Sensors_Accelerometer__ctor.htm" />
+  <HelpKINode Title="Accelerometer.GetCurrentReading method" Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetCurrentReading.htm" />
+  <HelpKINode Title="Accelerometer.GetDefault method" Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetDefault.htm" />
+  <HelpKINode Title="Accelerometer.ReadingChanged event" Url="html/E_InTheHand_Devices_Sensors_Accelerometer_ReadingChanged.htm" />
+  <HelpKINode Title="Accelerometer.ReportInterval property" Url="html/P_InTheHand_Devices_Sensors_Accelerometer_ReportInterval.htm" />
+  <HelpKINode Title="AccelerometerReading class">
+    <HelpKINode Title="AccelerometerReading Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
+    <HelpKINode Title="about AccelerometerReading class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Sensors_AccelerometerReading__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccelerometerReading.AccelerationX property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationX.htm" />
+  <HelpKINode Title="AccelerometerReading.AccelerationY property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationY.htm" />
+  <HelpKINode Title="AccelerometerReading.AccelerationZ property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationZ.htm" />
+  <HelpKINode Title="AccelerometerReading.AccelerometerReading constructor" Url="html/M_InTheHand_Devices_Sensors_AccelerometerReading__ctor.htm" />
+  <HelpKINode Title="AccelerometerReading.Timestamp property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_Timestamp.htm" />
+  <HelpKINode Title="AccelerometerReadingChangedEventArgs class">
+    <HelpKINode Title="AccelerometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="about AccelerometerReadingChangedEventArgs class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccelerometerReadingChangedEventArgs.Reading property" Url="html/P_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs_Reading.htm" />
   <HelpKINode Title="Accuracy property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Accuracy.htm" />
   <HelpKINode Title="Add method" Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Add.htm" />
   <HelpKINode Title="Address property" Url="html/P_InTheHand_ApplicationModel_Email_EmailRecipient_Address.htm" />
@@ -23,6 +58,9 @@
   </HelpKINode>
   <HelpKINode Title="AnalyticsVersionInfo.DeviceFamily property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
   <HelpKINode Title="AnalyticsVersionInfo.DeviceFamilyVersion property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
+  <HelpKINode Title="AngularVelocityX property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityX.htm" />
+  <HelpKINode Title="AngularVelocityY property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityY.htm" />
+  <HelpKINode Title="AngularVelocityZ property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityZ.htm" />
   <HelpKINode Title="ApiInformation class">
     <HelpKINode Title="ApiInformation Class" Url="html/T_InTheHand_Foundation_Metadata_ApiInformation.htm" />
     <HelpKINode Title="about ApiInformation class" Url="html/T_InTheHand_Foundation_Metadata_ApiInformation.htm" />
@@ -83,16 +121,15 @@
   <HelpKINode Title="ApplicationDataContainerSettings.Values property" Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Values.htm" />
   <HelpKINode Title="ApplicationDataLocality enumeration" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="ApplicationLanguages class">
-    <HelpKINode Title="ApplicationLanguages Class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
-    <HelpKINode Title="about ApplicationLanguages class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Windows_Globalization_ApplicationLanguages.htm" />
+    <HelpKINode Title="ApplicationLanguages Class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm" />
+    <HelpKINode Title="about ApplicationLanguages class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Globalization_ApplicationLanguages.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationLanguages.Languages property" Url="html/P_Windows_Globalization_ApplicationLanguages_Languages.htm" />
-  <HelpKINode Title="ApplicationLanguages.ManifestLanguages property" Url="html/P_Windows_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
+  <HelpKINode Title="ApplicationLanguages.Languages property" Url="html/P_InTheHand_Globalization_ApplicationLanguages_Languages.htm" />
+  <HelpKINode Title="ApplicationLanguages.ManifestLanguages property" Url="html/P_InTheHand_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
   <HelpKINode Title="ApplicationLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_ApplicationLink.htm" />
   <HelpKINode Title="ApplicationName property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs_ApplicationName.htm" />
   <HelpKINode Title="AppNotInstalled enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
-  <HelpKINode Title="Appointments enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="AppUnavailable enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="Architecture property" Url="html/P_InTheHand_ApplicationModel_PackageId_Architecture.htm" />
   <HelpKINode Title="Archive enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
@@ -157,13 +194,11 @@
   <HelpKINode Title="BatteryStatus property" Url="html/P_InTheHand_System_Power_PowerManager_BatteryStatus.htm" />
   <HelpKINode Title="Bcc property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Bcc.htm" />
   <HelpKINode Title="Below enumeration member" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
-  <HelpKINode Title="Bluetooth enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="Body property">
     <HelpKINode Title="ChatMessage.Body Property " Url="html/P_InTheHand_ApplicationModel_Chat_ChatMessage_Body.htm" />
     <HelpKINode Title="EmailMessage.Body Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Body.htm" />
   </HelpKINode>
   <HelpKINode Title="Build field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Build.htm" />
-  <HelpKINode Title="Camera enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="CameraCaptureUI class">
     <HelpKINode Title="CameraCaptureUI Class" Url="html/T_InTheHand_Media_Capture_CameraCaptureUI.htm" />
     <HelpKINode Title="about CameraCaptureUI class" Url="html/T_InTheHand_Media_Capture_CameraCaptureUI.htm" />
@@ -176,7 +211,6 @@
   <HelpKINode Title="CameraRoll property" Url="html/P_InTheHand_Storage_KnownFolders_CameraRoll.htm" />
   <HelpKINode Title="Cancel method" Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_Cancel.htm" />
   <HelpKINode Title="CancelCommandIndex property" Url="html/P_InTheHand_UI_Popups_MessageDialog_CancelCommandIndex.htm" />
-  <HelpKINode Title="Capability enumeration" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="CaptureFileAsync method" Url="html/M_InTheHand_Media_Capture_CameraCaptureUI_CaptureFileAsync.htm" />
   <HelpKINode Title="CC property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_CC.htm" />
   <HelpKINode Title="Cellular enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
@@ -230,7 +264,6 @@
   <HelpKINode Title="ConnectionProfile.ConnectionProfile constructor" Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile__ctor.htm" />
   <HelpKINode Title="ConnectionProfile.GetNetworkConnectivityLevel method" Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile_GetNetworkConnectivityLevel.htm" />
   <HelpKINode Title="ConstrainedInternetAccess enumeration member" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
-  <HelpKINode Title="Contacts enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Contains method">
     <HelpKINode Title="ApplicationDataContainerSettings.Contains Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Contains.htm" />
     <HelpKINode Title="DataPackageView.Contains Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_Contains.htm" />
@@ -379,6 +412,7 @@
   <HelpKINode Title="Default enumeration member">
     <HelpKINode Title="Placement Enumeration" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
     <HelpKINode Title="PositionAccuracy Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionAccuracy.htm" />
+    <HelpKINode Title="PositionSource Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
     <HelpKINode Title="StorageDeleteOption Enumeration" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultCommandIndex property" Url="html/P_InTheHand_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
@@ -402,7 +436,6 @@
   <HelpKINode Title="DesignMode.DesignModeEnabled property" Url="html/P_InTheHand_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
   <HelpKINode Title="DesignModeEnabled property" Url="html/P_InTheHand_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
   <HelpKINode Title="DesiredAccuracy property" Url="html/P_InTheHand_Devices_Geolocation_Geolocator_DesiredAccuracy.htm" />
-  <HelpKINode Title="DeviceCapability enumeration" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="DeviceFamily property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
   <HelpKINode Title="DeviceFamilyVersion property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
   <HelpKINode Title="DeviceForm property" Url="html/P_InTheHand_System_Profile_AnalyticsInfo_DeviceForm.htm" />
@@ -450,7 +483,6 @@
   <HelpKINode Title="DisplayRequest.DisplayRequest constructor" Url="html/M_InTheHand_System_Display_DisplayRequest__ctor.htm" />
   <HelpKINode Title="DisplayRequest.RequestActive method" Url="html/M_InTheHand_System_Display_DisplayRequest_RequestActive.htm" />
   <HelpKINode Title="DisplayRequest.RequestRelease method" Url="html/M_InTheHand_System_Display_DisplayRequest_RequestRelease.htm" />
-  <HelpKINode Title="DocumentsLibrary enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="DocumentsLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_DocumentsLibrary.htm" />
   <HelpKINode Title="EmailManager class">
     <HelpKINode Title="EmailManager Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailManager.htm" />
@@ -487,7 +519,6 @@
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnterpriseAuthentication enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Environment class">
     <HelpKINode Title="Environment Class" Url="html/T_InTheHand_Environment.htm" />
     <HelpKINode Title="about Environment class" Url="html/T_InTheHand_Environment.htm" />
@@ -640,8 +671,16 @@
     <HelpKINode Title="StorageFolder.GetBasicPropertiesAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_GetBasicPropertiesAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="GetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
+  <HelpKINode Title="GetCurrentReading method">
+    <HelpKINode Title="Accelerometer.GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetCurrentReading.htm" />
+    <HelpKINode Title="Gyrometer.GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetCurrentReading.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetDataAsync method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetDataAsync.htm" />
-  <HelpKINode Title="GetDefault method" Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
+  <HelpKINode Title="GetDefault method">
+    <HelpKINode Title="Accelerometer.GetDefault Method " Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetDefault.htm" />
+    <HelpKINode Title="Gyrometer.GetDefault Method " Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetDefault.htm" />
+    <HelpKINode Title="VibrationDevice.GetDefault Method " Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetDefaultLineAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
   <HelpKINode Title="GetDistanceTo method">
     <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
@@ -694,12 +733,43 @@
     <HelpKINode Title="ScheduledToastNotification.Group Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_Group.htm" />
     <HelpKINode Title="ToastNotification.Group Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_Group.htm" />
   </HelpKINode>
+  <HelpKINode Title="Gyrometer class">
+    <HelpKINode Title="Gyrometer Class" Url="html/T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+    <HelpKINode Title="about Gyrometer class" Url="html/T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Sensors_Gyrometer__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Gyrometer.GetCurrentReading method" Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetCurrentReading.htm" />
+  <HelpKINode Title="Gyrometer.GetDefault method" Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetDefault.htm" />
+  <HelpKINode Title="Gyrometer.Gyrometer constructor" Url="html/M_InTheHand_Devices_Sensors_Gyrometer__ctor.htm" />
+  <HelpKINode Title="Gyrometer.ReadingChanged event" Url="html/E_InTheHand_Devices_Sensors_Gyrometer_ReadingChanged.htm" />
+  <HelpKINode Title="Gyrometer.ReportInterval property" Url="html/P_InTheHand_Devices_Sensors_Gyrometer_ReportInterval.htm" />
+  <HelpKINode Title="GyrometerReading class">
+    <HelpKINode Title="GyrometerReading Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
+    <HelpKINode Title="about GyrometerReading class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Sensors_GyrometerReading__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GyrometerReading.AngularVelocityX property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityX.htm" />
+  <HelpKINode Title="GyrometerReading.AngularVelocityY property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityY.htm" />
+  <HelpKINode Title="GyrometerReading.AngularVelocityZ property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityZ.htm" />
+  <HelpKINode Title="GyrometerReading.GyrometerReading constructor" Url="html/M_InTheHand_Devices_Sensors_GyrometerReading__ctor.htm" />
+  <HelpKINode Title="GyrometerReading.Timestamp property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_Timestamp.htm" />
+  <HelpKINode Title="GyrometerReadingChangedEventArgs class">
+    <HelpKINode Title="GyrometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="about GyrometerReadingChangedEventArgs class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GyrometerReadingChangedEventArgs.Reading property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs_Reading.htm" />
   <HelpKINode Title="Heading property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Heading.htm" />
   <HelpKINode Title="Height property" Url="html/P_InTheHand_Foundation_Rect_Height.htm" />
   <HelpKINode Title="Hide method" Url="html/M_InTheHand_UI_Notifications_ToastNotifier_Hide.htm" />
   <HelpKINode Title="HideAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
   <HelpKINode Title="High enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionAccuracy.htm" />
-  <HelpKINode Title="HumanInterfaceDevice enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="Id property">
     <HelpKINode Title="Geofence.Id Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_Geofence_Id.htm" />
     <HelpKINode Title="IUICommand.Id Property " Url="html/P_InTheHand_UI_Popups_IUICommand_Id.htm" />
@@ -735,7 +805,6 @@
   </HelpKINode>
   <HelpKINode Title="InstalledDate property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledDate.htm" />
   <HelpKINode Title="InstalledLocation property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledLocation.htm" />
-  <HelpKINode Title="Internet enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="InternetAccess enumeration member" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
   <HelpKINode Title="Interval property" Url="html/P_InTheHand_UI_Xaml_DispatcherTimer_Interval.htm" />
   <HelpKINode Title="InTheHand namespace" Url="html/N_InTheHand.htm" />
@@ -744,7 +813,6 @@
   <HelpKINode Title="InTheHand.ApplicationModel.Calls.PhoneCallManager class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Calls.PhoneCallStore class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallStore.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Calls.PhoneLine class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneLine.htm" />
-  <HelpKINode Title="InTheHand.ApplicationModel.Capability enumeration" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Chat namespace" Url="html/N_InTheHand_ApplicationModel_Chat.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Chat.ChatMessage class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessage.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Chat.ChatMessageManager class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessageManager.htm" />
@@ -762,7 +830,6 @@
   <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.StandardDataFormats class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.DataTransfer.TargetApplicationChosenEventArgs class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.DesignMode class" Url="html/T_InTheHand_ApplicationModel_DesignMode.htm" />
-  <HelpKINode Title="InTheHand.ApplicationModel.DeviceCapability enumeration" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Email namespace" Url="html/N_InTheHand_ApplicationModel_Email.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Email.EmailManager class" Url="html/T_InTheHand_ApplicationModel_Email_EmailManager.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel.Email.EmailMessage class" Url="html/T_InTheHand_ApplicationModel_Email_EmailMessage.htm" />
@@ -799,6 +866,13 @@
   <HelpKINode Title="InTheHand.Devices.Geolocation.PositionSource enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.PositionStatus enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.StatusChangedEventArgs class" Url="html/T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors namespace" Url="html/N_InTheHand_Devices_Sensors.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.Accelerometer class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.AccelerometerReading class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.AccelerometerReadingChangedEventArgs class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.Gyrometer class" Url="html/T_InTheHand_Devices_Sensors_Gyrometer.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.GyrometerReading class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
+  <HelpKINode Title="InTheHand.Devices.Sensors.GyrometerReadingChangedEventArgs class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
   <HelpKINode Title="InTheHand.Environment class" Url="html/T_InTheHand_Environment.htm" />
   <HelpKINode Title="InTheHand.Foundation namespace" Url="html/N_InTheHand_Foundation.htm" />
   <HelpKINode Title="InTheHand.Foundation.Collections namespace" Url="html/N_InTheHand_Foundation_Collections.htm" />
@@ -816,6 +890,8 @@
   <HelpKINode Title="InTheHand.Foundation.Rect structure" Url="html/T_InTheHand_Foundation_Rect.htm" />
   <HelpKINode Title="InTheHand.Foundation.TypedEventHandler(Of TSender, TResult) delegate" Url="html/T_InTheHand_Foundation_TypedEventHandler_2.htm" />
   <HelpKINode Title="InTheHand.Foundation.TypedEventHandler&lt;TSender, TResult&gt; delegate" Url="html/T_InTheHand_Foundation_TypedEventHandler_2.htm" />
+  <HelpKINode Title="InTheHand.Globalization namespace" Url="html/N_InTheHand_Globalization.htm" />
+  <HelpKINode Title="InTheHand.Globalization.ApplicationLanguages class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm" />
   <HelpKINode Title="InTheHand.Graphics.Display namespace" Url="html/N_InTheHand_Graphics_Display.htm" />
   <HelpKINode Title="InTheHand.Graphics.Display.DisplayInformation class" Url="html/T_InTheHand_Graphics_Display_DisplayInformation.htm" />
   <HelpKINode Title="InTheHand.Graphics.Display.DisplayOrientations enumeration" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
@@ -1039,7 +1115,7 @@
   </HelpKINode>
   <HelpKINode Title="Landscape enumeration member" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="LandscapeFlipped enumeration member" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
-  <HelpKINode Title="Languages property" Url="html/P_Windows_Globalization_ApplicationLanguages_Languages.htm" />
+  <HelpKINode Title="Languages property" Url="html/P_InTheHand_Globalization_ApplicationLanguages_Languages.htm" />
   <HelpKINode Title="LastKnownGeoposition property" Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_LastKnownGeoposition.htm" />
   <HelpKINode Title="Latitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Latitude.htm" />
   <HelpKINode Title="Launcher class">
@@ -1047,6 +1123,8 @@
     <HelpKINode Title="about Launcher class" Url="html/T_InTheHand_System_Launcher.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_System_Launcher.htm" />
   </HelpKINode>
+  <HelpKINode Title="Launcher.LaunchFileAsync method" Url="html/M_InTheHand_System_Launcher_LaunchFileAsync.htm" />
+  <HelpKINode Title="Launcher.LaunchFolderAsync method" Url="html/M_InTheHand_System_Launcher_LaunchFolderAsync.htm" />
   <HelpKINode Title="Launcher.LaunchUriAsync method" Url="html/M_InTheHand_System_Launcher_LaunchUriAsync.htm" />
   <HelpKINode Title="Launcher.QueryUriSupportAsync method" Url="html/M_InTheHand_System_Launcher_QueryUriSupportAsync.htm" />
   <HelpKINode Title="LauncherOptions class">
@@ -1056,6 +1134,8 @@
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_System_LauncherOptions.htm" />
   </HelpKINode>
   <HelpKINode Title="LauncherOptions.LauncherOptions constructor" Url="html/M_InTheHand_System_LauncherOptions__ctor.htm" />
+  <HelpKINode Title="LaunchFileAsync method" Url="html/M_InTheHand_System_Launcher_LaunchFileAsync.htm" />
+  <HelpKINode Title="LaunchFolderAsync method" Url="html/M_InTheHand_System_Launcher_LaunchFolderAsync.htm" />
   <HelpKINode Title="LaunchQuerySupportStatus enumeration" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="LaunchQuerySupportType enumeration" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="LaunchUriAsync method" Url="html/M_InTheHand_System_Launcher_LaunchUriAsync.htm" />
@@ -1066,13 +1146,12 @@
   <HelpKINode Title="LocalFolder property" Url="html/P_InTheHand_Storage_ApplicationData_LocalFolder.htm" />
   <HelpKINode Title="Locality property" Url="html/P_InTheHand_Storage_ApplicationDataContainer_Locality.htm" />
   <HelpKINode Title="LocalSettings property" Url="html/P_InTheHand_Storage_ApplicationData_LocalSettings.htm" />
-  <HelpKINode Title="Location enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="LocationStatus property" Url="html/P_InTheHand_Devices_Geolocation_Geolocator_LocationStatus.htm" />
   <HelpKINode Title="Logo property" Url="html/P_InTheHand_ApplicationModel_Package_Logo.htm" />
   <HelpKINode Title="Longitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
   <HelpKINode Title="MacOSX enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Major field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Major.htm" />
-  <HelpKINode Title="ManifestLanguages property" Url="html/P_Windows_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
+  <HelpKINode Title="ManifestLanguages property" Url="html/P_InTheHand_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
   <HelpKINode Title="MapChanged event">
     <HelpKINode Title="ApplicationDataContainerSettings.MapChanged Event" Url="html/E_InTheHand_Storage_ApplicationDataContainerSettings_MapChanged.htm" />
     <HelpKINode Title="IObservableMap(K, V).MapChanged Event" Url="html/E_InTheHand_Foundation_Collections_IObservableMap_2_MapChanged.htm" />
@@ -1093,7 +1172,6 @@
   <HelpKINode Title="MessageDialog.MessageDialog constructor" Url="html/Overload_InTheHand_UI_Popups_MessageDialog__ctor.htm" />
   <HelpKINode Title="MessageDialog.ShowAsync method" Url="html/M_InTheHand_UI_Popups_MessageDialog_ShowAsync.htm" />
   <HelpKINode Title="MessageDialog.Title property" Url="html/P_InTheHand_UI_Popups_MessageDialog_Title.htm" />
-  <HelpKINode Title="Microphone enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="Minor field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Minor.htm" />
   <HelpKINode Title="MonitoredGeofenceStates enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
   <HelpKINode Title="MoveAndReplaceAsync method">
@@ -1105,7 +1183,6 @@
     <HelpKINode Title="StorageFile.MoveAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_MoveAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="MovementThreshold property" Url="html/P_InTheHand_Devices_Geolocation_Geolocator_MovementThreshold.htm" />
-  <HelpKINode Title="Music enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="MusicLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_MusicLibrary.htm" />
   <HelpKINode Title="Name property">
     <HelpKINode Title="ApplicationDataContainer.Name Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Name.htm" />
@@ -1154,6 +1231,7 @@
     <HelpKINode Title="PowerSupplyStatus Enumeration" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="NotSupported enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
+  <HelpKINode Title="Obfuscated enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
   <HelpKINode Title="Off enumeration member" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
   <HelpKINode Title="On enumeration member" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
   <HelpKINode Title="OpenIfExists enumeration member" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
@@ -1245,7 +1323,6 @@
   </HelpKINode>
   <HelpKINode Title="PhoneCallStore.GetDefaultLineAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
   <HelpKINode Title="PhoneCallStore.PhoneCallStore constructor" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore__ctor.htm" />
-  <HelpKINode Title="PhoneDialer enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="PhoneLine class">
     <HelpKINode Title="PhoneLine Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneLine.htm" />
     <HelpKINode Title="about PhoneLine class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneLine.htm" />
@@ -1255,7 +1332,6 @@
   <HelpKINode Title="PhoneLine.FromIdAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
   <HelpKINode Title="Photo enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
   <HelpKINode Title="PhotoOrVideo enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
-  <HelpKINode Title="Pictures enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="PicturesLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_PicturesLibrary.htm" />
   <HelpKINode Title="Placement enumeration" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
   <HelpKINode Title="Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
@@ -1269,7 +1345,6 @@
   </HelpKINode>
   <HelpKINode Title="Point.X property" Url="html/P_InTheHand_Foundation_Point_X.htm" />
   <HelpKINode Title="Point.Y property" Url="html/P_InTheHand_Foundation_Point_Y.htm" />
-  <HelpKINode Title="PointOfService enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="PopupMenu class">
     <HelpKINode Title="PopupMenu Class" Url="html/T_InTheHand_UI_Popups_PopupMenu.htm" />
     <HelpKINode Title="about PopupMenu class" Url="html/T_InTheHand_UI_Popups_PopupMenu.htm" />
@@ -1320,15 +1395,21 @@
     <HelpKINode Title="DataPackage.Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackage_Properties.htm" />
     <HelpKINode Title="DataPackageView.Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_Properties.htm" />
   </HelpKINode>
-  <HelpKINode Title="Proximity enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="Publisher property" Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
   <HelpKINode Title="PublisherDisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_PublisherDisplayName.htm" />
-  <HelpKINode Title="PushNotification enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="QueryUriSupportAsync method" Url="html/M_InTheHand_System_Launcher_QueryUriSupportAsync.htm" />
   <HelpKINode Title="Radius property" Url="html/P_InTheHand_Devices_Geolocation_Geocircle_Radius.htm" />
   <HelpKINode Title="RawDpiX property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiX.htm" />
   <HelpKINode Title="RawDpiY property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiY.htm" />
   <HelpKINode Title="RawPixelsPerViewPixel property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawPixelsPerViewPixel.htm" />
+  <HelpKINode Title="Reading property">
+    <HelpKINode Title="AccelerometerReadingChangedEventArgs.Reading Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs_Reading.htm" />
+    <HelpKINode Title="GyrometerReadingChangedEventArgs.Reading Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs_Reading.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReadingChanged event">
+    <HelpKINode Title="Accelerometer.ReadingChanged Event" Url="html/E_InTheHand_Devices_Sensors_Accelerometer_ReadingChanged.htm" />
+    <HelpKINode Title="Gyrometer.ReadingChanged Event" Url="html/E_InTheHand_Devices_Sensors_Gyrometer_ReadingChanged.htm" />
+  </HelpKINode>
   <HelpKINode Title="ReadLinesAsync method" Url="html/Overload_InTheHand_Storage_PathIO_ReadLinesAsync.htm" />
   <HelpKINode Title="ReadOnly enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
   <HelpKINode Title="ReadReports method" Url="html/M_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_ReadReports.htm" />
@@ -1353,7 +1434,6 @@
   <HelpKINode Title="RemainingChargePercent property" Url="html/P_InTheHand_System_Power_PowerManager_RemainingChargePercent.htm" />
   <HelpKINode Title="RemainingChargePercentChanged event" Url="html/E_InTheHand_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
   <HelpKINode Title="RemainingDischargeTime property" Url="html/P_InTheHand_System_Power_PowerManager_RemainingDischargeTime.htm" />
-  <HelpKINode Title="RemovableStorage enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Remove method" Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm" />
   <HelpKINode Title="Removed enumeration member">
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
@@ -1365,7 +1445,11 @@
     <HelpKINode Title="CreationCollisionOption Enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
     <HelpKINode Title="NameCollisionOption Enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReportInterval property" Url="html/P_InTheHand_Devices_Geolocation_Geolocator_ReportInterval.htm" />
+  <HelpKINode Title="ReportInterval property">
+    <HelpKINode Title="Accelerometer.ReportInterval Property " Url="html/P_InTheHand_Devices_Sensors_Accelerometer_ReportInterval.htm" />
+    <HelpKINode Title="Geolocator.ReportInterval Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_ReportInterval.htm" />
+    <HelpKINode Title="Gyrometer.ReportInterval Property " Url="html/P_InTheHand_Devices_Sensors_Gyrometer_ReportInterval.htm" />
+  </HelpKINode>
   <HelpKINode Title="Request property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs_Request.htm" />
   <HelpKINode Title="RequestActive method" Url="html/M_InTheHand_System_Display_DisplayRequest_RequestActive.htm" />
   <HelpKINode Title="RequestDetailsAsync method" Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestDetailsAsync.htm" />
@@ -1398,7 +1482,6 @@
   <HelpKINode Title="ScheduledToastNotification.SuppressPopup property" Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
   <HelpKINode Title="ScheduledToastNotification.Tag property" Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_Tag.htm" />
   <HelpKINode Title="ScreenLocked property" Url="html/P_InTheHand_Phone_System_SystemProtection_ScreenLocked.htm" />
-  <HelpKINode Title="Sensors enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="SetApplicationLink method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetApplicationLink.htm" />
   <HelpKINode Title="SetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
   <HelpKINode Title="SetData method">
@@ -1427,7 +1510,6 @@
   <HelpKINode Title="SettingsPane.Show method" Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
   <HelpKINode Title="SetWebLink method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetWebLink.htm" />
   <HelpKINode Title="SharedLocal enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
-  <HelpKINode Title="SharedUserCertificates enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Show method">
     <HelpKINode Title="SettingsPane.Show Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
     <HelpKINode Title="ToastNotifier.Show Method " Url="html/M_InTheHand_UI_Notifications_ToastNotifier_Show.htm" />
@@ -1444,7 +1526,6 @@
   <HelpKINode Title="ShowShareUI method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_ShowShareUI.htm" />
   <HelpKINode Title="ShowSmsSettings method" Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
   <HelpKINode Title="Size property" Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_Size.htm" />
-  <HelpKINode Title="SpeechRecognition enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="Speed property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Speed.htm" />
   <HelpKINode Title="StandardDataFormats class">
     <HelpKINode Title="StandardDataFormats Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm" />
@@ -1579,7 +1660,11 @@
   <HelpKINode Title="TemporaryFolder property" Url="html/P_InTheHand_Storage_ApplicationData_TemporaryFolder.htm" />
   <HelpKINode Title="Text property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
   <HelpKINode Title="Tick event" Url="html/E_InTheHand_UI_Xaml_DispatcherTimer_Tick.htm" />
-  <HelpKINode Title="Timestamp property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Timestamp.htm" />
+  <HelpKINode Title="Timestamp property">
+    <HelpKINode Title="AccelerometerReading.Timestamp Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_Timestamp.htm" />
+    <HelpKINode Title="Geocoordinate.Timestamp Property " Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Timestamp.htm" />
+    <HelpKINode Title="GyrometerReading.Timestamp Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_Timestamp.htm" />
+  </HelpKINode>
   <HelpKINode Title="Title property">
     <HelpKINode Title="DataPackagePropertySet.Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet_Title.htm" />
     <HelpKINode Title="DataPackagePropertySetView.Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView_Title.htm" />
@@ -1650,7 +1735,6 @@
   <HelpKINode Title="Update method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Update.htm" />
   <HelpKINode Title="Uri enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="UriForResults enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
-  <HelpKINode Title="Usb enumeration member" Url="html/T_InTheHand_ApplicationModel_DeviceCapability.htm" />
   <HelpKINode Title="Utf16BE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf16LE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf8 enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
@@ -1673,10 +1757,7 @@
   <HelpKINode Title="VibrationDevice.GetDefault method" Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
   <HelpKINode Title="VibrationDevice.Vibrate method" Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_Vibrate.htm" />
   <HelpKINode Title="Video enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
-  <HelpKINode Title="Videos enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="VideosLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_VideosLibrary.htm" />
-  <HelpKINode Title="Voip enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
-  <HelpKINode Title="Wallet enumeration member" Url="html/T_InTheHand_ApplicationModel_Capability.htm" />
   <HelpKINode Title="WebLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
   <HelpKINode Title="Width property" Url="html/P_InTheHand_Foundation_Rect_Width.htm" />
   <HelpKINode Title="WiFi enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
@@ -1684,8 +1765,6 @@
   <HelpKINode Title="Win32S enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Win32Windows enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="WinCE enumeration member" Url="html/T_System_PlatformID.htm" />
-  <HelpKINode Title="Windows.Globalization namespace" Url="html/N_Windows_Globalization.htm" />
-  <HelpKINode Title="Windows.Globalization.ApplicationLanguages class" Url="html/T_Windows_Globalization_ApplicationLanguages.htm" />
   <HelpKINode Title="WriteLinesAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm" />
   <HelpKINode Title="WriteTextAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm" />
   <HelpKINode Title="X property">
