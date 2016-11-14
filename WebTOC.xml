@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="0ec12778-f299-42c3-abb7-d703228ebd4a" Title="Namespaces" Url="html/R_Project_Pontoon.htm">
-    <HelpTOCNode Id="d0d3d22d-7777-45b4-a54f-0acbca88865e" Title="InTheHand" Url="html/N_InTheHand.htm">
-      <HelpTOCNode Id="a30e0334-e84f-4e2a-bb92-aafd595679df" Title="DateTimeOffsetHelper Class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm">
-        <HelpTOCNode Id="31f75e01-590a-4551-bf6c-9aea3bf8c58d" Title="DateTimeOffsetHelper Methods" Url="html/Methods_T_InTheHand_DateTimeOffsetHelper.htm">
+  <HelpTOCNode Id="f15328c1-c7a7-414c-9448-6b58c46a3056" Title="Namespaces" Url="html/R_Project_Pontoon.htm">
+    <HelpTOCNode Id="b9a2ef9f-ee46-442b-a385-ccbda4fc771c" Title="InTheHand" Url="html/N_InTheHand.htm">
+      <HelpTOCNode Id="4e15bb7d-6bfe-444a-ba7f-d91d712cfb97" Title="DateTimeOffsetHelper Class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm">
+        <HelpTOCNode Id="ad5a643b-a802-441f-b155-ac692e5a5bfe" Title="DateTimeOffsetHelper Methods" Url="html/Methods_T_InTheHand_DateTimeOffsetHelper.htm">
           <HelpTOCNode Title="FromUnixTimeMilliseconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeMilliseconds.htm" />
           <HelpTOCNode Title="FromUnixTimeSeconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeSeconds.htm" />
           <HelpTOCNode Title="ToUnixTimeMilliseconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeMilliseconds.htm" />
           <HelpTOCNode Title="ToUnixTimeSeconds Method " Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeSeconds.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bf72bad8-e411-433d-93cf-5623130010f8" Title="Environment Class" Url="html/T_InTheHand_Environment.htm">
-        <HelpTOCNode Id="8fee0b0e-0ed9-4256-840b-ec55f64cd9c5" Title="Environment Properties" Url="html/Properties_T_InTheHand_Environment.htm">
+      <HelpTOCNode Id="8114e3f0-4ef8-4041-8fe7-0a199d9cce17" Title="Environment Class" Url="html/T_InTheHand_Environment.htm">
+        <HelpTOCNode Id="f36cabb7-f79e-41c7-a15e-bf5ded06d741" Title="Environment Properties" Url="html/Properties_T_InTheHand_Environment.htm">
           <HelpTOCNode Title="OSVersion Property " Url="html/P_InTheHand_Environment_OSVersion.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="92c33eca-3f5a-4dd1-89b0-043eafad59fe" Title="InTheHand.ApplicationModel" Url="html/N_InTheHand_ApplicationModel.htm">
-      <HelpTOCNode Id="b4bae6e4-8f0d-4e68-9c26-275d5bded609" Title="DesignMode Class" Url="html/T_InTheHand_ApplicationModel_DesignMode.htm">
-        <HelpTOCNode Id="220dd9b4-b932-486c-825f-eb140ccbfd0d" Title="DesignMode Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DesignMode.htm">
+    <HelpTOCNode Id="5279ed5b-3a9a-4c55-b2df-de7d5dd17a69" Title="InTheHand.ApplicationModel" Url="html/N_InTheHand_ApplicationModel.htm">
+      <HelpTOCNode Id="1f21c97c-d081-4792-a11c-546711a6fe66" Title="DesignMode Class" Url="html/T_InTheHand_ApplicationModel_DesignMode.htm">
+        <HelpTOCNode Id="95600067-1a98-40ed-bcab-4a70a100eb98" Title="DesignMode Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DesignMode.htm">
           <HelpTOCNode Title="DesignModeEnabled Property " Url="html/P_InTheHand_ApplicationModel_DesignMode_DesignModeEnabled.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0298dc71-2541-4b1a-be11-b670d4c1043b" Title="Package Class" Url="html/T_InTheHand_ApplicationModel_Package.htm">
-        <HelpTOCNode Id="803f3748-0884-4387-88a8-6706b83fe364" Title="Package Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Package.htm">
+      <HelpTOCNode Id="494a732b-132a-4da0-b529-106d6a1e0586" Title="Package Class" Url="html/T_InTheHand_ApplicationModel_Package.htm">
+        <HelpTOCNode Id="fd2fcc80-5e12-42a2-8568-c57acec57629" Title="Package Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Package.htm">
           <HelpTOCNode Title="Current Property " Url="html/P_InTheHand_ApplicationModel_Package_Current.htm" />
           <HelpTOCNode Title="Description Property " Url="html/P_InTheHand_ApplicationModel_Package_Description.htm" />
           <HelpTOCNode Title="DisplayName Property " Url="html/P_InTheHand_ApplicationModel_Package_DisplayName.htm" />
@@ -37,8 +37,8 @@
         </HelpTOCNode>
         <HelpTOCNode Title="Package Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Package.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e061626a-d540-452c-8ec2-2b63f8543053" Title="PackageId Class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm">
-        <HelpTOCNode Id="b9b0a966-9cf0-4b1b-9696-a6dffab79dfe" Title="PackageId Properties" Url="html/Properties_T_InTheHand_ApplicationModel_PackageId.htm">
+      <HelpTOCNode Id="3b71bdc7-85ad-4928-a4b8-b0d06cd10cf2" Title="PackageId Class" Url="html/T_InTheHand_ApplicationModel_PackageId.htm">
+        <HelpTOCNode Id="49cdb9ef-153f-4caf-b85a-31fa6e27204c" Title="PackageId Properties" Url="html/Properties_T_InTheHand_ApplicationModel_PackageId.htm">
           <HelpTOCNode Title="Architecture Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Architecture.htm" />
           <HelpTOCNode Title="FullName Property " Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
@@ -47,78 +47,78 @@
         </HelpTOCNode>
         <HelpTOCNode Title="PackageId Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageId.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="890a376d-5066-45f4-8012-e4c0d7ba8188" Title="PackageVersion Structure" Url="html/T_InTheHand_ApplicationModel_PackageVersion.htm">
-        <HelpTOCNode Id="47cd40f7-9984-46c0-a24e-df4041037b96" Title="PackageVersion Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageVersion.htm">
+      <HelpTOCNode Id="95f15945-a8a8-4dfc-b493-6ed065957306" Title="PackageVersion Structure" Url="html/T_InTheHand_ApplicationModel_PackageVersion.htm">
+        <HelpTOCNode Id="b269fe29-4573-4ee8-8e98-e480d0e58c4a" Title="PackageVersion Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageVersion.htm">
           <HelpTOCNode Title="ToString Method " Url="html/M_InTheHand_ApplicationModel_PackageVersion_ToString.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2a354102-621e-4d79-bb0d-d556800b012c" Title="PackageVersion Fields" Url="html/Fields_T_InTheHand_ApplicationModel_PackageVersion.htm">
+        <HelpTOCNode Id="bfaa8baa-8399-4e9b-b917-1da5e1907d0c" Title="PackageVersion Fields" Url="html/Fields_T_InTheHand_ApplicationModel_PackageVersion.htm">
           <HelpTOCNode Title="Build Field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Build.htm" />
           <HelpTOCNode Title="Major Field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Major.htm" />
           <HelpTOCNode Title="Minor Field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Minor.htm" />
           <HelpTOCNode Title="Revision Field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Revision.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="296504e3-3d80-4d14-993e-59ce14d5fd58" Title="PackageVersionExtensions Class" Url="html/T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
-        <HelpTOCNode Id="ed315625-91bc-4d43-935e-27aa743f05b6" Title="PackageVersionExtensions Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
+      <HelpTOCNode Id="50496b8f-1098-4790-b77b-bf734a22aff9" Title="PackageVersionExtensions Class" Url="html/T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
+        <HelpTOCNode Id="4c2e2f12-fae4-49df-b613-1065c730affa" Title="PackageVersionExtensions Methods" Url="html/Methods_T_InTheHand_ApplicationModel_PackageVersionExtensions.htm">
           <HelpTOCNode Title="ToPackageVersion Method " Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToPackageVersion.htm" />
           <HelpTOCNode Title="ToString Method " Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToString.htm" />
           <HelpTOCNode Title="ToVersion Method " Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToVersion.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5074773c-5750-4f74-bc8a-8d3aad3bc30e" Title="InTheHand.ApplicationModel.Calls" Url="html/N_InTheHand_ApplicationModel_Calls.htm">
-      <HelpTOCNode Id="59d9b2d1-b8da-4933-9262-33e1b1df8abc" Title="PhoneCallManager Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm">
-        <HelpTOCNode Id="a434ba20-d397-4d80-85b5-cd9d6dc3375c" Title="PhoneCallManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm">
+    <HelpTOCNode Id="4d0f949e-1c70-4117-85ec-71809d22995d" Title="InTheHand.ApplicationModel.Calls" Url="html/N_InTheHand_ApplicationModel_Calls.htm">
+      <HelpTOCNode Id="6e88865f-d000-4080-89d4-5febaf0b9ced" Title="PhoneCallManager Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm">
+        <HelpTOCNode Id="fbe21099-faeb-4945-832f-8e0193016192" Title="PhoneCallManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm">
           <HelpTOCNode Title="RequestStoreAsync Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallManager_RequestStoreAsync.htm" />
           <HelpTOCNode Title="ShowPhoneCallUI Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallManager_ShowPhoneCallUI.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="49653bfb-4ad6-40a8-a720-06d0451c6bbe" Title="PhoneCallStore Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallStore.htm">
+      <HelpTOCNode Id="03d5560d-d29d-4402-b64b-072cab478ae4" Title="PhoneCallStore Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallStore.htm">
         <HelpTOCNode Title="PhoneCallStore Constructor " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore__ctor.htm" />
-        <HelpTOCNode Id="dd15ff8d-ee59-4fbf-8b9b-b29ac2f5a607" Title="PhoneCallStore Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneCallStore.htm">
+        <HelpTOCNode Id="eff7c40f-3033-480b-8837-66ec1e9bc858" Title="PhoneCallStore Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneCallStore.htm">
           <HelpTOCNode Title="GetDefaultLineAsync Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bd260c37-3820-4b68-8526-d3685ba80e32" Title="PhoneLine Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneLine.htm">
-        <HelpTOCNode Id="f989d356-64f9-473c-80ce-5e812279dd05" Title="PhoneLine Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneLine.htm">
+      <HelpTOCNode Id="92ed3f04-6846-4b6b-a5e8-f81d3f4538e2" Title="PhoneLine Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneLine.htm">
+        <HelpTOCNode Id="fb4d222a-7a89-4792-9b55-bbe548095ac2" Title="PhoneLine Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Calls_PhoneLine.htm">
           <HelpTOCNode Title="Dial Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_Dial.htm" />
           <HelpTOCNode Title="FromIdAsync Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b55184da-ef25-4dc4-a336-cfd8dd90d374" Title="InTheHand.ApplicationModel.Chat" Url="html/N_InTheHand_ApplicationModel_Chat.htm">
-      <HelpTOCNode Id="b46fb08b-f7ca-4ab9-8640-66aa679f9553" Title="ChatMessage Class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessage.htm">
+    <HelpTOCNode Id="f9b7371d-0b1b-4a73-b4f6-bc40e1b06af4" Title="InTheHand.ApplicationModel.Chat" Url="html/N_InTheHand_ApplicationModel_Chat.htm">
+      <HelpTOCNode Id="0f833f4a-af45-4f05-b9da-b36ae7fc0e4f" Title="ChatMessage Class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessage.htm">
         <HelpTOCNode Title="ChatMessage Constructor " Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessage__ctor.htm" />
-        <HelpTOCNode Id="b2381c51-2f9c-406b-8626-fd69d638f246" Title="ChatMessage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Chat_ChatMessage.htm">
+        <HelpTOCNode Id="63f4e36d-e97f-45c2-be26-726eb2525da0" Title="ChatMessage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Chat_ChatMessage.htm">
           <HelpTOCNode Title="Body Property " Url="html/P_InTheHand_ApplicationModel_Chat_ChatMessage_Body.htm" />
           <HelpTOCNode Title="Recipients Property " Url="html/P_InTheHand_ApplicationModel_Chat_ChatMessage_Recipients.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ChatMessage Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Chat_ChatMessage.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4350fdc0-294f-4a7d-a9c9-0cf11ee86dee" Title="ChatMessageManager Class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessageManager.htm">
-        <HelpTOCNode Id="9a67d7f4-ef4b-44be-9278-ad90ba069880" Title="ChatMessageManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Chat_ChatMessageManager.htm">
+      <HelpTOCNode Id="45e5cbf7-afd3-43d9-b361-0b56a514966b" Title="ChatMessageManager Class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessageManager.htm">
+        <HelpTOCNode Id="edc2d260-b867-4c6d-9246-a23c8984072b" Title="ChatMessageManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Chat_ChatMessageManager.htm">
           <HelpTOCNode Title="ShowComposeSmsMessageAsync Method " Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowComposeSmsMessageAsync.htm" />
           <HelpTOCNode Title="ShowSmsSettings Method " Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5c7ffb19-45dd-4671-91b5-b233ca30bd28" Title="InTheHand.ApplicationModel.DataTransfer" Url="html/N_InTheHand_ApplicationModel_DataTransfer.htm">
-      <HelpTOCNode Id="131ec68d-5edf-4ee0-a65f-c8276eefae09" Title="Clipboard Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
-        <HelpTOCNode Id="cb1e20e7-4c21-4841-a9ba-5ae9f605002d" Title="Clipboard Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
+    <HelpTOCNode Id="9cc80f56-d009-4dd4-9cfd-241732e8b3f2" Title="InTheHand.ApplicationModel.DataTransfer" Url="html/N_InTheHand_ApplicationModel_DataTransfer.htm">
+      <HelpTOCNode Id="6f23394c-c94e-46eb-8137-35fcfe2bd49d" Title="Clipboard Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
+        <HelpTOCNode Id="39892e20-19ec-45a6-8931-7c7fabad49bb" Title="Clipboard Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
           <HelpTOCNode Title="Clear Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_Clear.htm" />
           <HelpTOCNode Title="GetContent Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
           <HelpTOCNode Title="SetContent Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="479a4ab8-b1c2-449f-bee6-e8b9172c91c0" Title="Clipboard Events" Url="html/Events_T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
+        <HelpTOCNode Id="d39e86c0-3ee0-4093-9b83-50d4472d81d3" Title="Clipboard Events" Url="html/Events_T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm">
           <HelpTOCNode Title="ContentChanged Event" Url="html/E_InTheHand_ApplicationModel_DataTransfer_Clipboard_ContentChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a08f0ed7-8654-4668-86c6-a9f446ab6cf7" Title="DataPackage Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
+      <HelpTOCNode Id="56471d85-5764-4b27-a099-9c418b5c072a" Title="DataPackage Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
         <HelpTOCNode Title="DataPackage Constructor " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage__ctor.htm" />
-        <HelpTOCNode Id="202ac807-dee3-4adb-99d1-9d2089fab84b" Title="DataPackage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
+        <HelpTOCNode Id="3e9f6966-0e7e-43a1-be47-4bc19fe26830" Title="DataPackage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
           <HelpTOCNode Title="Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackage_Properties.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="33e72b60-6667-419c-8a35-73b10675d952" Title="DataPackage Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
+        <HelpTOCNode Id="597b4892-8d01-4011-9510-64bcf49c3fd1" Title="DataPackage Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackage.htm">
           <HelpTOCNode Title="GetView Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_GetView.htm" />
           <HelpTOCNode Title="SetApplicationLink Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetApplicationLink.htm" />
           <HelpTOCNode Title="SetData Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetData.htm" />
@@ -127,26 +127,26 @@
           <HelpTOCNode Title="SetWebLink Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetWebLink.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4a542cfa-ba97-4ba1-a514-9881f8140697" Title="DataPackagePropertySet Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
-        <HelpTOCNode Id="18f7801d-70f6-44a1-b539-f5c7cd5230ca" Title="DataPackagePropertySet Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
+      <HelpTOCNode Id="a0857935-6d37-483c-8596-113a5c9ac827" Title="DataPackagePropertySet Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
+        <HelpTOCNode Id="e70aa211-b6ad-41fe-a408-156cf1a83c98" Title="DataPackagePropertySet Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet_Description.htm" />
           <HelpTOCNode Title="Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet_Title.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DataPackagePropertySet Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e3bd3d3-9300-4252-a91d-5fc8aa1fc07f" Title="DataPackagePropertySetView Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
-        <HelpTOCNode Id="3ac7499e-70de-4a65-a5f2-472b7477a386" Title="DataPackagePropertySetView Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
+      <HelpTOCNode Id="e74d138d-6af7-447d-9edb-0b7accd855e8" Title="DataPackagePropertySetView Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
+        <HelpTOCNode Id="c9336e02-e617-4076-8060-c6f38c65cd34" Title="DataPackagePropertySetView Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView_Description.htm" />
           <HelpTOCNode Title="Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView_Title.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DataPackagePropertySetView Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="beaa1a2b-a6b1-4117-ac0b-f95e16c8c353" Title="DataPackageView Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
-        <HelpTOCNode Id="99fdb5f7-1117-43ad-b058-11a036007352" Title="DataPackageView Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
+      <HelpTOCNode Id="e5c8214d-9e60-4122-847f-86d58186f805" Title="DataPackageView Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
+        <HelpTOCNode Id="aa7ad8c0-5bd8-4ff2-9d82-996ad5aee8a2" Title="DataPackageView Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
           <HelpTOCNode Title="AvailableFormats Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_AvailableFormats.htm" />
           <HelpTOCNode Title="Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_Properties.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="51e09c30-70bf-4ae7-b3f0-f74a3ef6ab1f" Title="DataPackageView Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
+        <HelpTOCNode Id="0821c815-c956-4d7c-a025-7955fee0069e" Title="DataPackageView Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataPackageView.htm">
           <HelpTOCNode Title="Contains Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_Contains.htm" />
           <HelpTOCNode Title="GetApplicationLinkAsync Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetApplicationLinkAsync.htm" />
           <HelpTOCNode Title="GetDataAsync Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetDataAsync.htm" />
@@ -155,71 +155,71 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="DataProviderHandler Delegate" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataProviderHandler.htm" />
-      <HelpTOCNode Id="da25fff7-b0e8-4c3f-8a66-37874911bc4c" Title="DataProviderRequest Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
-        <HelpTOCNode Id="6c3a10d7-34a1-4060-80ad-43379222b611" Title="DataProviderRequest Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+      <HelpTOCNode Id="b95128f6-d6db-4953-adc5-1ed6418fba17" Title="DataProviderRequest Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+        <HelpTOCNode Id="eeed8ff4-6f79-4b32-b6ca-cf65aa2a4e8a" Title="DataProviderRequest Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
           <HelpTOCNode Title="FormatId Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest_FormatId.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bd5054a0-004f-46c9-a14e-460fe47d9918" Title="DataProviderRequest Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
+        <HelpTOCNode Id="c0ea77b5-c320-4b03-8161-6fb3eda6685d" Title="DataProviderRequest Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest.htm">
           <HelpTOCNode Title="SetData Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest_SetData.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a9b2a35e-9e9a-47ad-9650-9a09be6295b7" Title="DataRequest Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataRequest.htm">
-        <HelpTOCNode Id="6a54e2ae-bb6d-4acb-a4d3-e55e040f5082" Title="DataRequest Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataRequest.htm">
+      <HelpTOCNode Id="f3a8e08d-3b18-4b2b-ba2c-38f6e7a1feff" Title="DataRequest Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataRequest.htm">
+        <HelpTOCNode Id="8d0a2805-a049-4a81-937a-e74cabb0755c" Title="DataRequest Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataRequest.htm">
           <HelpTOCNode Title="Data Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataRequest_Data.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DataRequest Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataRequest.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="703264d3-bd05-4403-a81a-a8a201e1d7a7" Title="DataRequestedEventArgs Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
-        <HelpTOCNode Id="bbc7ff61-9953-4bdd-bb60-c4bb38a67009" Title="DataRequestedEventArgs Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
+      <HelpTOCNode Id="c9cc7bb7-ccb2-43da-9ef9-54a6e41a2c5b" Title="DataRequestedEventArgs Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
+        <HelpTOCNode Id="74dc3b36-b2dc-4c3c-ad01-4d69155ecf86" Title="DataRequestedEventArgs Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm">
           <HelpTOCNode Title="Request Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs_Request.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DataRequestedEventArgs Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3e056af1-4b7b-4b84-9177-4480bcaead1a" Title="DataTransferManager Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
-        <HelpTOCNode Id="88d53dac-ed89-4d38-b7cb-b8d4c346066e" Title="DataTransferManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
+      <HelpTOCNode Id="40e4f063-2099-40bd-a4d1-1aa06f4a2504" Title="DataTransferManager Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
+        <HelpTOCNode Id="76fdec69-3040-41ef-bed3-b5fe7e63d0a9" Title="DataTransferManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
           <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_GetForCurrentView.htm" />
           <HelpTOCNode Title="ShowShareUI Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_ShowShareUI.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b199adfc-cef8-4bc7-be81-3e7b0c65ec55" Title="DataTransferManager Events" Url="html/Events_T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
+        <HelpTOCNode Id="b2a4e249-f403-46bd-8a43-08617a703991" Title="DataTransferManager Events" Url="html/Events_T_InTheHand_ApplicationModel_DataTransfer_DataTransferManager.htm">
           <HelpTOCNode Title="DataRequested Event" Url="html/E_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_DataRequested.htm" />
           <HelpTOCNode Title="TargetApplicationChosen Event" Url="html/E_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_TargetApplicationChosen.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ec7cb7ba-4df2-43fa-8279-be56e77cf33b" Title="StandardDataFormats Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm">
-        <HelpTOCNode Id="eb222e5f-7544-43e0-8678-de9a4a80ddab" Title="StandardDataFormats Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm">
+      <HelpTOCNode Id="51955777-fe06-4dba-9d81-aeee92d39e00" Title="StandardDataFormats Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm">
+        <HelpTOCNode Id="b13872ec-437c-4ee8-b5d1-9b46e9cbcf2a" Title="StandardDataFormats Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm">
           <HelpTOCNode Title="ApplicationLink Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_ApplicationLink.htm" />
           <HelpTOCNode Title="Text Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
           <HelpTOCNode Title="WebLink Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b7953b5f-67af-4b04-88c0-99e141378505" Title="TargetApplicationChosenEventArgs Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
-        <HelpTOCNode Id="f03e5da1-7444-41b8-abda-62f5939b130c" Title="TargetApplicationChosenEventArgs Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
+      <HelpTOCNode Id="6c845464-7d39-477c-88bc-7843530bd797" Title="TargetApplicationChosenEventArgs Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
+        <HelpTOCNode Id="757c6ef1-30e0-45d0-9dc3-882759e9546b" Title="TargetApplicationChosenEventArgs Properties" Url="html/Properties_T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm">
           <HelpTOCNode Title="ApplicationName Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs_ApplicationName.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TargetApplicationChosenEventArgs Methods" Url="html/Methods_T_InTheHand_ApplicationModel_DataTransfer_TargetApplicationChosenEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cc4c0639-64f0-421b-950a-a495eced17e5" Title="InTheHand.ApplicationModel.Email" Url="html/N_InTheHand_ApplicationModel_Email.htm">
-      <HelpTOCNode Id="b24cf8b2-c63e-4bc9-aef8-9e0646bbf575" Title="EmailAttachment Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailAttachment.htm">
-        <HelpTOCNode Id="39f12a6e-3675-4edd-ac0c-4c2276a41da3" Title="EmailAttachment Constructor " Url="html/Overload_InTheHand_ApplicationModel_Email_EmailAttachment__ctor.htm">
+    <HelpTOCNode Id="cac5d3b1-5d90-4bb3-a2ae-7b96d853a667" Title="InTheHand.ApplicationModel.Email" Url="html/N_InTheHand_ApplicationModel_Email.htm">
+      <HelpTOCNode Id="504b1554-c991-4ca8-b507-daca30fd6dbf" Title="EmailAttachment Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailAttachment.htm">
+        <HelpTOCNode Id="e3759ce4-fd43-4041-ba18-12e25d0d42e8" Title="EmailAttachment Constructor " Url="html/Overload_InTheHand_ApplicationModel_Email_EmailAttachment__ctor.htm">
           <HelpTOCNode Title="EmailAttachment Constructor (String, StorageFile)" Url="html/M_InTheHand_ApplicationModel_Email_EmailAttachment__ctor.htm" />
           <HelpTOCNode Title="EmailAttachment Constructor (String, StorageFile, String)" Url="html/M_InTheHand_ApplicationModel_Email_EmailAttachment__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4a79bd76-9548-4bbe-8b1f-ac3f21c3390d" Title="EmailAttachment Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailAttachment.htm">
+        <HelpTOCNode Id="34dfd7eb-94b0-4e03-9fd7-33240452cef1" Title="EmailAttachment Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailAttachment.htm">
           <HelpTOCNode Title="Data Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_Data.htm" />
           <HelpTOCNode Title="FileName Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_FileName.htm" />
           <HelpTOCNode Title="MimeType Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_MimeType.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="EmailAttachment Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Email_EmailAttachment.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="baa5b428-ad59-422d-9f06-c5225d642946" Title="EmailManager Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailManager.htm">
-        <HelpTOCNode Id="8e7e8fec-7a46-4f49-b084-f893b2c2908a" Title="EmailManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Email_EmailManager.htm">
+      <HelpTOCNode Id="b8014404-e27c-44c9-8dec-7e3980a089dd" Title="EmailManager Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailManager.htm">
+        <HelpTOCNode Id="77531f70-8f05-4056-9e13-0d43a1aab118" Title="EmailManager Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Email_EmailManager.htm">
           <HelpTOCNode Title="ShowComposeNewEmailAsync Method " Url="html/M_InTheHand_ApplicationModel_Email_EmailManager_ShowComposeNewEmailAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7e97af7b-ef34-418f-9856-bf488b4029d9" Title="EmailMessage Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailMessage.htm">
+      <HelpTOCNode Id="228baf55-3091-4d12-9fe7-6443c6fcddde" Title="EmailMessage Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailMessage.htm">
         <HelpTOCNode Title="EmailMessage Constructor " Url="html/M_InTheHand_ApplicationModel_Email_EmailMessage__ctor.htm" />
-        <HelpTOCNode Id="154b30f1-236c-480f-a782-7ea8fade9648" Title="EmailMessage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailMessage.htm">
+        <HelpTOCNode Id="993f0ee6-47da-4761-abc4-fefeae0576f0" Title="EmailMessage Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailMessage.htm">
           <HelpTOCNode Title="Bcc Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Bcc.htm" />
           <HelpTOCNode Title="Body Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Body.htm" />
           <HelpTOCNode Title="CC Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_CC.htm" />
@@ -228,72 +228,72 @@
         </HelpTOCNode>
         <HelpTOCNode Title="EmailMessage Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Email_EmailMessage.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c720c0aa-9751-47ca-8fb9-59f4bceb74b7" Title="EmailRecipient Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailRecipient.htm">
-        <HelpTOCNode Id="164da4a1-cb38-48e7-8d63-11ba7ef6566c" Title="EmailRecipient Constructor " Url="html/Overload_InTheHand_ApplicationModel_Email_EmailRecipient__ctor.htm">
+      <HelpTOCNode Id="a040f880-e518-4cea-90cf-0ac87cd2a99d" Title="EmailRecipient Class" Url="html/T_InTheHand_ApplicationModel_Email_EmailRecipient.htm">
+        <HelpTOCNode Id="97a2b050-36d8-466a-84ea-8221bc3bf1f9" Title="EmailRecipient Constructor " Url="html/Overload_InTheHand_ApplicationModel_Email_EmailRecipient__ctor.htm">
           <HelpTOCNode Title="EmailRecipient Constructor " Url="html/M_InTheHand_ApplicationModel_Email_EmailRecipient__ctor.htm" />
           <HelpTOCNode Title="EmailRecipient Constructor (String)" Url="html/M_InTheHand_ApplicationModel_Email_EmailRecipient__ctor_1.htm" />
           <HelpTOCNode Title="EmailRecipient Constructor (String, String)" Url="html/M_InTheHand_ApplicationModel_Email_EmailRecipient__ctor_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a763ccb8-6da9-4c33-9137-11f6aef37f67" Title="EmailRecipient Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailRecipient.htm">
+        <HelpTOCNode Id="d4efb587-9344-4c36-85ec-3295d4a5ad22" Title="EmailRecipient Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Email_EmailRecipient.htm">
           <HelpTOCNode Title="Address Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailRecipient_Address.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailRecipient_Name.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="EmailRecipient Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Email_EmailRecipient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e3aeff29-3586-4981-9684-95c576ab2107" Title="InTheHand.ApplicationModel.Resources" Url="html/N_InTheHand_ApplicationModel_Resources.htm">
-      <HelpTOCNode Id="50badb1e-6e57-48c5-a1d2-45b45901c831" Title="ResourceLoader Class" Url="html/T_InTheHand_ApplicationModel_Resources_ResourceLoader.htm">
-        <HelpTOCNode Id="c74c24fd-85d3-40b0-8426-3e8704c79146" Title="ResourceLoader Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Resources_ResourceLoader.htm">
+    <HelpTOCNode Id="cdbce4bb-8dbd-40c7-a348-fd2cea8dbce3" Title="InTheHand.ApplicationModel.Resources" Url="html/N_InTheHand_ApplicationModel_Resources.htm">
+      <HelpTOCNode Id="83093501-23de-44ad-b6c8-3c980168d9a8" Title="ResourceLoader Class" Url="html/T_InTheHand_ApplicationModel_Resources_ResourceLoader.htm">
+        <HelpTOCNode Id="9e7f1c70-bb02-46ea-a8a1-be2a452180c6" Title="ResourceLoader Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Resources_ResourceLoader.htm">
           <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetForCurrentView.htm" />
           <HelpTOCNode Title="GetForViewIndependentUse Method " Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetForViewIndependentUse.htm" />
           <HelpTOCNode Title="GetString Method " Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetString.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="49f7ae65-c524-42ab-a0e6-a05bed18ea64" Title="InTheHand.ApplicationModel.Store" Url="html/N_InTheHand_ApplicationModel_Store.htm">
-      <HelpTOCNode Id="1a184268-7fed-4850-b9ca-c56ce6f43086" Title="CurrentApp Class" Url="html/T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
-        <HelpTOCNode Id="0d094511-aaf4-466c-a41f-f1ef6bc0f689" Title="CurrentApp Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+    <HelpTOCNode Id="b9c6cd68-e3ef-49e5-9377-03f00a08238f" Title="InTheHand.ApplicationModel.Store" Url="html/N_InTheHand_ApplicationModel_Store.htm">
+      <HelpTOCNode Id="8af70e96-63c5-43d1-b62d-7e8c7c735f91" Title="CurrentApp Class" Url="html/T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+        <HelpTOCNode Id="8ac76efa-a28e-47da-9245-2646e709f260" Title="CurrentApp Properties" Url="html/Properties_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
           <HelpTOCNode Title="AppId Property " Url="html/P_InTheHand_ApplicationModel_Store_CurrentApp_AppId.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cb335214-2d9b-4481-9481-eb1abf053ed2" Title="CurrentApp Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
+        <HelpTOCNode Id="0cfdf353-06fa-42f2-98ec-4c36f8b8d1f8" Title="CurrentApp Methods" Url="html/Methods_T_InTheHand_ApplicationModel_Store_CurrentApp.htm">
           <HelpTOCNode Title="RequestDetailsAsync Method " Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestDetailsAsync.htm" />
           <HelpTOCNode Title="RequestReviewAsync Method " Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestReviewAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="569cf704-05a6-4e51-a415-9b6e92826788" Title="InTheHand.Data.Html" Url="html/N_InTheHand_Data_Html.htm">
-      <HelpTOCNode Id="3d94b767-3d24-4364-a5a8-03e09b912268" Title="HtmlUtilities Class" Url="html/T_InTheHand_Data_Html_HtmlUtilities.htm">
-        <HelpTOCNode Id="4a851f8a-b9a4-4d46-861f-70724c3390f5" Title="HtmlUtilities Methods" Url="html/Methods_T_InTheHand_Data_Html_HtmlUtilities.htm">
+    <HelpTOCNode Id="268ad922-77ee-436a-bd91-a5a3d70ce649" Title="InTheHand.Data.Html" Url="html/N_InTheHand_Data_Html.htm">
+      <HelpTOCNode Id="0498c6a2-ad54-467f-9560-1a9a8307d0b4" Title="HtmlUtilities Class" Url="html/T_InTheHand_Data_Html_HtmlUtilities.htm">
+        <HelpTOCNode Id="b8d9f570-a29f-4d38-970d-e02f0489a8e9" Title="HtmlUtilities Methods" Url="html/Methods_T_InTheHand_Data_Html_HtmlUtilities.htm">
           <HelpTOCNode Title="ConvertToText Method " Url="html/M_InTheHand_Data_Html_HtmlUtilities_ConvertToText.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bbd1926e-ef98-4225-a421-ad098a14f8dc" Title="InTheHand.Devices.Geolocation" Url="html/N_InTheHand_Devices_Geolocation.htm">
-      <HelpTOCNode Id="0d631027-d7d7-49d2-b9d7-14e5232cb6cc" Title="BasicGeoposition Structure" Url="html/T_InTheHand_Devices_Geolocation_BasicGeoposition.htm">
+    <HelpTOCNode Id="0150a3ce-1cd9-4708-8a82-d1c353370877" Title="InTheHand.Devices.Geolocation" Url="html/N_InTheHand_Devices_Geolocation.htm">
+      <HelpTOCNode Id="bfd1b64a-345b-4981-aa7f-fd767c430494" Title="BasicGeoposition Structure" Url="html/T_InTheHand_Devices_Geolocation_BasicGeoposition.htm">
         <HelpTOCNode Title="BasicGeoposition Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_BasicGeoposition.htm" />
-        <HelpTOCNode Id="a8bbe5bc-db7d-4d0b-94ac-4e96d5ae2631" Title="BasicGeoposition Fields" Url="html/Fields_T_InTheHand_Devices_Geolocation_BasicGeoposition.htm">
+        <HelpTOCNode Id="9269190d-2221-46ac-b263-ce75068ad273" Title="BasicGeoposition Fields" Url="html/Fields_T_InTheHand_Devices_Geolocation_BasicGeoposition.htm">
           <HelpTOCNode Title="Altitude Field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Altitude.htm" />
           <HelpTOCNode Title="Latitude Field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Latitude.htm" />
           <HelpTOCNode Title="Longitude Field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="983bde0d-a608-483c-8000-e2f17eeccb61" Title="BasicGeopositionExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
-        <HelpTOCNode Id="95cde88d-0767-4d6a-9dee-703d79fd7152" Title="BasicGeopositionExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
+      <HelpTOCNode Id="6cabf88e-3fab-47d4-aa53-fcdb5183a742" Title="BasicGeopositionExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
+        <HelpTOCNode Id="26633591-c6a2-4b3f-b01d-7f0ec8726b58" Title="BasicGeopositionExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm">
           <HelpTOCNode Title="GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e35226c0-4b9a-4a46-9642-eff684aa4895" Title="Geocircle Class" Url="html/T_InTheHand_Devices_Geolocation_Geocircle.htm">
+      <HelpTOCNode Id="2ad6dc08-08ec-4184-b1a9-031d9d2ca04a" Title="Geocircle Class" Url="html/T_InTheHand_Devices_Geolocation_Geocircle.htm">
         <HelpTOCNode Title="Geocircle Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geocircle__ctor.htm" />
-        <HelpTOCNode Id="720b8d56-4576-46b6-b2d5-f9468c193174" Title="Geocircle Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geocircle.htm">
+        <HelpTOCNode Id="e5e4af7e-35a8-4e77-83c7-efa8d5aa8f1f" Title="Geocircle Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geocircle.htm">
           <HelpTOCNode Title="Center Property " Url="html/P_InTheHand_Devices_Geolocation_Geocircle_Center.htm" />
           <HelpTOCNode Title="GeoshapeType Property " Url="html/P_InTheHand_Devices_Geolocation_Geocircle_GeoshapeType.htm" />
           <HelpTOCNode Title="Radius Property " Url="html/P_InTheHand_Devices_Geolocation_Geocircle_Radius.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Geocircle Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geocircle.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b8c5c4e7-ef38-48cc-86f7-a05c07225bc8" Title="Geocoordinate Class" Url="html/T_InTheHand_Devices_Geolocation_Geocoordinate.htm">
+      <HelpTOCNode Id="b73b4d86-9cb6-4f1e-83b1-cfe7dac00b5b" Title="Geocoordinate Class" Url="html/T_InTheHand_Devices_Geolocation_Geocoordinate.htm">
         <HelpTOCNode Title="Geocoordinate Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geocoordinate__ctor.htm" />
-        <HelpTOCNode Id="7af236bc-20b2-4ab0-9c82-ddf47ba2f329" Title="Geocoordinate Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geocoordinate.htm">
+        <HelpTOCNode Id="3fdc9be4-7c59-400f-a5ae-9092db4eb40b" Title="Geocoordinate Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geocoordinate.htm">
           <HelpTOCNode Title="Accuracy Property " Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Accuracy.htm" />
           <HelpTOCNode Title="AltitudeAccuracy Property " Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_AltitudeAccuracy.htm" />
           <HelpTOCNode Title="Heading Property " Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Heading.htm" />
@@ -305,93 +305,93 @@
         </HelpTOCNode>
         <HelpTOCNode Title="Geocoordinate Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geocoordinate.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7361d4c9-4781-4709-8f93-1fcbb64164ca" Title="GeocoordinateExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
-        <HelpTOCNode Id="3247b489-b10c-4904-8529-5aa8f8e6f547" Title="GeocoordinateExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
+      <HelpTOCNode Id="5e220fbe-5e75-4833-9c5a-61ed98484be0" Title="GeocoordinateExtensions Class" Url="html/T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
+        <HelpTOCNode Id="c70ac565-321a-4d35-bdad-912cf06a0bb1" Title="GeocoordinateExtensions Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_GeocoordinateExtensions.htm">
           <HelpTOCNode Title="GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_GeocoordinateExtensions_GetDistanceTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d3ac5eaf-39b3-4d88-a0e9-d9d47d8fc423" Title="Geolocator Class" Url="html/T_InTheHand_Devices_Geolocation_Geolocator.htm">
+      <HelpTOCNode Id="980bc16b-543b-4e0c-b74c-7195e0b797ba" Title="Geolocator Class" Url="html/T_InTheHand_Devices_Geolocation_Geolocator.htm">
         <HelpTOCNode Title="Geolocator Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geolocator__ctor.htm" />
-        <HelpTOCNode Id="4686eddb-7a8c-47de-87ea-65d2f8d31eba" Title="Geolocator Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Id="f7c237b3-43b3-48e3-8d57-d317c558d9bc" Title="Geolocator Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geolocator.htm">
           <HelpTOCNode Title="DesiredAccuracy Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_DesiredAccuracy.htm" />
           <HelpTOCNode Title="LocationStatus Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_LocationStatus.htm" />
           <HelpTOCNode Title="MovementThreshold Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_MovementThreshold.htm" />
           <HelpTOCNode Title="ReportInterval Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_ReportInterval.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="226796ee-f1b2-41dd-8a74-1ebd4a347f83" Title="Geolocator Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Id="254a4af4-1677-4640-b28b-8d163444693a" Title="Geolocator Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geolocator.htm">
           <HelpTOCNode Title="GetGeopositionAsync Method " Url="html/M_InTheHand_Devices_Geolocation_Geolocator_GetGeopositionAsync.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5292cf1e-01d5-48ec-9842-17c3f81fed3b" Title="Geolocator Events" Url="html/Events_T_InTheHand_Devices_Geolocation_Geolocator.htm">
+        <HelpTOCNode Id="8dbc1534-a808-428c-bc8f-5dcf0498a23a" Title="Geolocator Events" Url="html/Events_T_InTheHand_Devices_Geolocation_Geolocator.htm">
           <HelpTOCNode Title="PositionChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geolocator_PositionChanged.htm" />
           <HelpTOCNode Title="StatusChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geolocator_StatusChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="15f60264-e982-4eb9-a335-102a13eac70c" Title="Geopoint Class" Url="html/T_InTheHand_Devices_Geolocation_Geopoint.htm">
+      <HelpTOCNode Id="7e58bb8c-cfb6-414e-8e0a-144bc37faa16" Title="Geopoint Class" Url="html/T_InTheHand_Devices_Geolocation_Geopoint.htm">
         <HelpTOCNode Title="Geopoint Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geopoint__ctor.htm" />
-        <HelpTOCNode Id="a4af91af-9869-4991-925e-d562e474bf82" Title="Geopoint Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geopoint.htm">
+        <HelpTOCNode Id="4bf213e7-7d09-44ea-ba8a-764ee07b255e" Title="Geopoint Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geopoint.htm">
           <HelpTOCNode Title="Position Property " Url="html/P_InTheHand_Devices_Geolocation_Geopoint_Position.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Geopoint Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geopoint.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a12430b2-b7bb-4681-af1c-e409bda3618b" Title="Geoposition Class" Url="html/T_InTheHand_Devices_Geolocation_Geoposition.htm">
+      <HelpTOCNode Id="a4cb4553-c2a5-4876-8076-2a7764e9881d" Title="Geoposition Class" Url="html/T_InTheHand_Devices_Geolocation_Geoposition.htm">
         <HelpTOCNode Title="Geoposition Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geoposition__ctor.htm" />
-        <HelpTOCNode Id="6e5cce24-ac09-4122-9cc7-9403ad1aa0ae" Title="Geoposition Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geoposition.htm">
+        <HelpTOCNode Id="b1fcfba8-5c2d-4f0c-bf0a-1f72292e01f0" Title="Geoposition Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geoposition.htm">
           <HelpTOCNode Title="Coordinate Property " Url="html/P_InTheHand_Devices_Geolocation_Geoposition_Coordinate.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Geoposition Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geoposition.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="GeoshapeType Enumeration" Url="html/T_InTheHand_Devices_Geolocation_GeoshapeType.htm" />
-      <HelpTOCNode Id="8aedbcb8-7e59-43d1-b88b-30c09bbfa2b8" Title="IGeoshape Interface" Url="html/T_InTheHand_Devices_Geolocation_IGeoshape.htm">
-        <HelpTOCNode Id="df510aaf-e0e8-41d1-894c-bbf48af91b02" Title="IGeoshape Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_IGeoshape.htm">
+      <HelpTOCNode Id="a68f090f-b655-4a92-ad1d-1a731d0e0dcc" Title="IGeoshape Interface" Url="html/T_InTheHand_Devices_Geolocation_IGeoshape.htm">
+        <HelpTOCNode Id="96726a88-89dd-411b-9e30-2ebe9d1cd959" Title="IGeoshape Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_IGeoshape.htm">
           <HelpTOCNode Title="GeoshapeType Property " Url="html/P_InTheHand_Devices_Geolocation_IGeoshape_GeoshapeType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="PositionAccuracy Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionAccuracy.htm" />
-      <HelpTOCNode Id="af52c513-c753-4ef9-b2e0-cad5c0e590cd" Title="PositionChangedEventArgs Class" Url="html/T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm">
-        <HelpTOCNode Id="94455e8a-7033-4283-98f9-7b7fa7882a55" Title="PositionChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm">
+      <HelpTOCNode Id="ab3d5353-e2be-48d2-8b6f-414e67c2e005" Title="PositionChangedEventArgs Class" Url="html/T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm">
+        <HelpTOCNode Id="4cf1dafd-c334-4011-825d-ff0545a53ee0" Title="PositionChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm">
           <HelpTOCNode Title="Position Property " Url="html/P_InTheHand_Devices_Geolocation_PositionChangedEventArgs_Position.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PositionChangedEventArgs Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="PositionSource Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
       <HelpTOCNode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
-      <HelpTOCNode Id="2822c09c-67c9-49cc-8355-d3eb2ad7e73c" Title="StatusChangedEventArgs Class" Url="html/T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm">
-        <HelpTOCNode Id="967dbd14-fb71-43ca-9992-a02c8663482f" Title="StatusChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm">
+      <HelpTOCNode Id="faaec1f1-987c-4267-bf65-92b8b2ce86d3" Title="StatusChangedEventArgs Class" Url="html/T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm">
+        <HelpTOCNode Id="457ede81-a72c-453e-af0b-2459c3501dd7" Title="StatusChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm">
           <HelpTOCNode Title="Status Property " Url="html/P_InTheHand_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="StatusChangedEventArgs Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="51d644df-57d6-4ba7-8842-50e45d35e898" Title="InTheHand.Devices.Geolocation.Geofencing" Url="html/N_InTheHand_Devices_Geolocation_Geofencing.htm">
-      <HelpTOCNode Id="4b05a3bc-b445-4472-982e-99931370c125" Title="Geofence Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
+    <HelpTOCNode Id="e32db3c4-5ac7-4c1a-b3e1-f6d07dd54b43" Title="InTheHand.Devices.Geolocation.Geofencing" Url="html/N_InTheHand_Devices_Geolocation_Geofencing.htm">
+      <HelpTOCNode Id="db7870a5-9ca2-477e-a1af-8e90fe60173b" Title="Geofence Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
         <HelpTOCNode Title="Geofence Constructor " Url="html/M_InTheHand_Devices_Geolocation_Geofencing_Geofence__ctor.htm" />
-        <HelpTOCNode Id="597b4cbc-c578-4b30-9284-1c7b6fa54e0e" Title="Geofence Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
+        <HelpTOCNode Id="fe7f7f1a-2aa8-4597-927b-83d1e994b08b" Title="Geofence Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
           <HelpTOCNode Title="Geoshape Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_Geofence_Geoshape.htm" />
           <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_Geofence_Id.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="20db21a5-76d0-4bb4-be96-e4e9189118ea" Title="Geofence Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
+        <HelpTOCNode Id="7bc1c962-a834-42ea-8374-c0229e0210dd" Title="Geofence Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geofencing_Geofence.htm">
           <HelpTOCNode Title="Equals Method " Url="html/M_InTheHand_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="75cbfed0-85e5-4626-af15-41573f43b1a0" Title="GeofenceMonitor Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
-        <HelpTOCNode Id="63581b5c-0c5b-4b3d-8f59-6aabfce783b1" Title="GeofenceMonitor Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+      <HelpTOCNode Id="1fa94c76-679e-478b-a332-570cb587d1c9" Title="GeofenceMonitor Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Id="5ce11698-e908-411a-864f-2284b0d9e7e1" Title="GeofenceMonitor Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
           <HelpTOCNode Title="Current Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_Current.htm" />
           <HelpTOCNode Title="Geofences Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_Geofences.htm" />
           <HelpTOCNode Title="LastKnownGeoposition Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_LastKnownGeoposition.htm" />
           <HelpTOCNode Title="Status Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_Status.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2d7d874b-487a-438f-8ad4-65a4833204c6" Title="GeofenceMonitor Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Id="3857a008-226f-4885-9822-400d69fce9b1" Title="GeofenceMonitor Methods" Url="html/Methods_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
           <HelpTOCNode Title="ReadReports Method " Url="html/M_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_ReadReports.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bc4b5f7b-17e3-4803-b85b-68f45e7027b1" Title="GeofenceMonitor Events" Url="html/Events_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
+        <HelpTOCNode Id="ac22a56a-f84c-4b42-90b8-29d4defb15bf" Title="GeofenceMonitor Events" Url="html/Events_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor.htm">
           <HelpTOCNode Title="GeofenceStateChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_GeofenceStateChanged.htm" />
           <HelpTOCNode Title="StatusChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_StatusChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
       <HelpTOCNode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
-      <HelpTOCNode Id="1f791c3f-75a4-4eac-ab3c-4fc70f2477db" Title="GeofenceStateChangeReport Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
-        <HelpTOCNode Id="1db7f4cc-6c16-438c-9589-87b827578584" Title="GeofenceStateChangeReport Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
+      <HelpTOCNode Id="72af676f-a8a2-4435-9d18-f8e3ceb0ac39" Title="GeofenceStateChangeReport Class" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
+        <HelpTOCNode Id="ae41a36a-71ab-487d-b6a1-21d3083a96e7" Title="GeofenceStateChangeReport Properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport.htm">
           <HelpTOCNode Title="Geofence Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_Geofence.htm" />
           <HelpTOCNode Title="Geoposition Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_Geoposition.htm" />
           <HelpTOCNode Title="NewState Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_NewState.htm" />
@@ -400,23 +400,23 @@
       </HelpTOCNode>
       <HelpTOCNode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="38c4d0fe-ff54-4d29-9475-1100491b3525" Title="InTheHand.Devices.Sensors" Url="html/N_InTheHand_Devices_Sensors.htm">
-      <HelpTOCNode Id="b5049931-4e7e-4db0-aba3-a9ea723709ee" Title="Accelerometer Class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm">
+    <HelpTOCNode Id="aba3d654-e510-4926-92cc-82c7857c21fa" Title="InTheHand.Devices.Sensors" Url="html/N_InTheHand_Devices_Sensors.htm">
+      <HelpTOCNode Id="25dce375-c371-46a7-b467-b5ce8bd8e5f4" Title="Accelerometer Class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm">
         <HelpTOCNode Title="Accelerometer Constructor " Url="html/M_InTheHand_Devices_Sensors_Accelerometer__ctor.htm" />
-        <HelpTOCNode Id="ad0fb222-c1bf-4dc2-8daa-66a28cf16820" Title="Accelerometer Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Accelerometer.htm">
+        <HelpTOCNode Id="fbc4e9aa-78d5-48cc-bb23-601167520923" Title="Accelerometer Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Accelerometer.htm">
           <HelpTOCNode Title="ReportInterval Property " Url="html/P_InTheHand_Devices_Sensors_Accelerometer_ReportInterval.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0d0e36b2-8a71-49c1-abcb-5a65d5c1102c" Title="Accelerometer Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Accelerometer.htm">
+        <HelpTOCNode Id="412297ab-fbc4-431c-8ff2-04ec2765650e" Title="Accelerometer Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Accelerometer.htm">
           <HelpTOCNode Title="GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetCurrentReading.htm" />
           <HelpTOCNode Title="GetDefault Method " Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetDefault.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9bf13e15-330b-448a-b722-5149605b77bc" Title="Accelerometer Events" Url="html/Events_T_InTheHand_Devices_Sensors_Accelerometer.htm">
+        <HelpTOCNode Id="12ab6921-ed94-47cc-a6dc-068228acc816" Title="Accelerometer Events" Url="html/Events_T_InTheHand_Devices_Sensors_Accelerometer.htm">
           <HelpTOCNode Title="ReadingChanged Event" Url="html/E_InTheHand_Devices_Sensors_Accelerometer_ReadingChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b31f470b-99af-43a5-887a-0a767b431c28" Title="AccelerometerReading Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm">
+      <HelpTOCNode Id="b710df6d-ace6-4e10-b94e-070a8d53ecbd" Title="AccelerometerReading Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm">
         <HelpTOCNode Title="AccelerometerReading Constructor " Url="html/M_InTheHand_Devices_Sensors_AccelerometerReading__ctor.htm" />
-        <HelpTOCNode Id="32b527ef-ec9a-4260-b813-9fca3f4654b8" Title="AccelerometerReading Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReading.htm">
+        <HelpTOCNode Id="1ca0ba62-f03a-45fe-872b-8dca4144d09b" Title="AccelerometerReading Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReading.htm">
           <HelpTOCNode Title="AccelerationX Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationX.htm" />
           <HelpTOCNode Title="AccelerationY Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationY.htm" />
           <HelpTOCNode Title="AccelerationZ Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_AccelerationZ.htm" />
@@ -424,28 +424,28 @@
         </HelpTOCNode>
         <HelpTOCNode Title="AccelerometerReading Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="18a2e286-3d88-4199-8a69-e54475e64fb4" Title="AccelerometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm">
-        <HelpTOCNode Id="1db02bf5-34c9-46cc-af0e-d3b784eecfa5" Title="AccelerometerReadingChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm">
+      <HelpTOCNode Id="365953b7-2b70-4ee1-9489-ec7bd7663712" Title="AccelerometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm">
+        <HelpTOCNode Id="a18858c7-3592-481f-984a-661169046afd" Title="AccelerometerReadingChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm">
           <HelpTOCNode Title="Reading Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs_Reading.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="AccelerometerReadingChangedEventArgs Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0cb78844-606c-4a57-a550-11d252648f51" Title="Gyrometer Class" Url="html/T_InTheHand_Devices_Sensors_Gyrometer.htm">
+      <HelpTOCNode Id="9df0c69b-3846-458a-8612-ea8e847256bd" Title="Gyrometer Class" Url="html/T_InTheHand_Devices_Sensors_Gyrometer.htm">
         <HelpTOCNode Title="Gyrometer Constructor " Url="html/M_InTheHand_Devices_Sensors_Gyrometer__ctor.htm" />
-        <HelpTOCNode Id="41d6f032-0702-4d45-989a-1e25641d7896" Title="Gyrometer Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Gyrometer.htm">
+        <HelpTOCNode Id="72683da1-a2bb-4902-b97c-a22b6905e222" Title="Gyrometer Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_Gyrometer.htm">
           <HelpTOCNode Title="ReportInterval Property " Url="html/P_InTheHand_Devices_Sensors_Gyrometer_ReportInterval.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="28e1ff51-acc6-44b9-9952-3869df872db8" Title="Gyrometer Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Gyrometer.htm">
+        <HelpTOCNode Id="80debd28-6735-4357-866f-982c2355c0e6" Title="Gyrometer Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_Gyrometer.htm">
           <HelpTOCNode Title="GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetCurrentReading.htm" />
           <HelpTOCNode Title="GetDefault Method " Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetDefault.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c1adedcd-7022-470a-aa04-42e99fcb51b4" Title="Gyrometer Events" Url="html/Events_T_InTheHand_Devices_Sensors_Gyrometer.htm">
+        <HelpTOCNode Id="14027ae1-996c-4162-8309-17033619e4fb" Title="Gyrometer Events" Url="html/Events_T_InTheHand_Devices_Sensors_Gyrometer.htm">
           <HelpTOCNode Title="ReadingChanged Event" Url="html/E_InTheHand_Devices_Sensors_Gyrometer_ReadingChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0ad8c52d-bf01-4b1d-a785-1ab49afbc8b0" Title="GyrometerReading Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm">
+      <HelpTOCNode Id="1f7a57f9-111a-4946-9209-af6b9e957f5f" Title="GyrometerReading Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm">
         <HelpTOCNode Title="GyrometerReading Constructor " Url="html/M_InTheHand_Devices_Sensors_GyrometerReading__ctor.htm" />
-        <HelpTOCNode Id="22655959-7c07-4e47-8b40-20c8ebd0ffb1" Title="GyrometerReading Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReading.htm">
+        <HelpTOCNode Id="0e6acaf5-9e18-41c1-8132-a86aa938660e" Title="GyrometerReading Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReading.htm">
           <HelpTOCNode Title="AngularVelocityX Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityX.htm" />
           <HelpTOCNode Title="AngularVelocityY Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityY.htm" />
           <HelpTOCNode Title="AngularVelocityZ Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityZ.htm" />
@@ -453,24 +453,24 @@
         </HelpTOCNode>
         <HelpTOCNode Title="GyrometerReading Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1c3c1fb3-ac30-42d7-9bf3-f5c7dd55b223" Title="GyrometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm">
-        <HelpTOCNode Id="b38bddbe-da0d-4f27-a60f-851817ebe40c" Title="GyrometerReadingChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm">
+      <HelpTOCNode Id="8ab33bca-8934-4da3-b3d5-edaa8db21fc0" Title="GyrometerReadingChangedEventArgs Class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm">
+        <HelpTOCNode Id="66f39016-1c8a-4290-8455-65edaff55f28" Title="GyrometerReadingChangedEventArgs Properties" Url="html/Properties_T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm">
           <HelpTOCNode Title="Reading Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs_Reading.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GyrometerReadingChangedEventArgs Methods" Url="html/Methods_T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e138ea16-21a2-4e3f-8960-b90a1e4fd1c5" Title="InTheHand.Foundation" Url="html/N_InTheHand_Foundation.htm">
-      <HelpTOCNode Id="d06ea0fd-4209-47cf-9440-640277936c66" Title="Point Structure" Url="html/T_InTheHand_Foundation_Point.htm">
-        <HelpTOCNode Id="07f48e4d-7619-43c8-8715-4c8c41349677" Title="Point Properties" Url="html/Properties_T_InTheHand_Foundation_Point.htm">
+    <HelpTOCNode Id="01899586-9326-4e5d-9095-b960f96c3577" Title="InTheHand.Foundation" Url="html/N_InTheHand_Foundation.htm">
+      <HelpTOCNode Id="09139f4b-b254-467d-a473-7e6d52a50777" Title="Point Structure" Url="html/T_InTheHand_Foundation_Point.htm">
+        <HelpTOCNode Id="00f4ef67-8063-45d9-9352-3d2857490263" Title="Point Properties" Url="html/Properties_T_InTheHand_Foundation_Point.htm">
           <HelpTOCNode Title="X Property " Url="html/P_InTheHand_Foundation_Point_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_InTheHand_Foundation_Point_Y.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Point Methods" Url="html/Methods_T_InTheHand_Foundation_Point.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="51d0e539-48ed-49a8-969d-308427d26f0c" Title="Rect Structure" Url="html/T_InTheHand_Foundation_Rect.htm">
+      <HelpTOCNode Id="015b24bc-059c-4b54-8529-cf056507df5b" Title="Rect Structure" Url="html/T_InTheHand_Foundation_Rect.htm">
         <HelpTOCNode Title="Rect Constructor " Url="html/M_InTheHand_Foundation_Rect__ctor.htm" />
-        <HelpTOCNode Id="edf08a6a-c69b-4bbf-8da6-95f8efaae8ee" Title="Rect Properties" Url="html/Properties_T_InTheHand_Foundation_Rect.htm">
+        <HelpTOCNode Id="1f560619-9d35-4ed7-af55-7af11ecd0702" Title="Rect Properties" Url="html/Properties_T_InTheHand_Foundation_Rect.htm">
           <HelpTOCNode Title="Height Property " Url="html/P_InTheHand_Foundation_Rect_Height.htm" />
           <HelpTOCNode Title="Width Property " Url="html/P_InTheHand_Foundation_Rect_Width.htm" />
           <HelpTOCNode Title="X Property " Url="html/P_InTheHand_Foundation_Rect_X.htm" />
@@ -480,36 +480,36 @@
       </HelpTOCNode>
       <HelpTOCNode Title="TypedEventHandler(TSender, TResult) Delegate" Url="html/T_InTheHand_Foundation_TypedEventHandler_2.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d501be7d-4aec-4ce5-a702-0a0102a443e4" Title="InTheHand.Foundation.Collections" Url="html/N_InTheHand_Foundation_Collections.htm">
+    <HelpTOCNode Id="ce3d62cb-0ad5-431d-a9da-4f10b16a5871" Title="InTheHand.Foundation.Collections" Url="html/N_InTheHand_Foundation_Collections.htm">
       <HelpTOCNode Title="CollectionChange Enumeration" Url="html/T_InTheHand_Foundation_Collections_CollectionChange.htm" />
-      <HelpTOCNode Id="49005565-331b-447b-ac52-3dbeb8fc6833" Title="IMapChangedEventArgs(K) Interface" Url="html/T_InTheHand_Foundation_Collections_IMapChangedEventArgs_1.htm">
-        <HelpTOCNode Id="5db9f4b8-0779-4833-b3c8-6079b307e819" Title="IMapChangedEventArgs(K) Properties" Url="html/Properties_T_InTheHand_Foundation_Collections_IMapChangedEventArgs_1.htm">
+      <HelpTOCNode Id="7e0c82f3-b9c6-4f71-93ff-3694ae608697" Title="IMapChangedEventArgs(K) Interface" Url="html/T_InTheHand_Foundation_Collections_IMapChangedEventArgs_1.htm">
+        <HelpTOCNode Id="54f7bb8a-32a2-4b83-b472-b358757f1e40" Title="IMapChangedEventArgs(K) Properties" Url="html/Properties_T_InTheHand_Foundation_Collections_IMapChangedEventArgs_1.htm">
           <HelpTOCNode Title="CollectionChange Property " Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_CollectionChange.htm" />
           <HelpTOCNode Title="Key Property " Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_Key.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bbc2d621-770d-4392-8d81-680c6e5f2e0d" Title="IObservableMap(K, V) Interface" Url="html/T_InTheHand_Foundation_Collections_IObservableMap_2.htm">
-        <HelpTOCNode Id="e277d4f1-b69f-4c70-995a-ff2058ca9f3b" Title="IObservableMap(K, V) Events" Url="html/Events_T_InTheHand_Foundation_Collections_IObservableMap_2.htm">
+      <HelpTOCNode Id="562b5eaf-b27b-461c-8045-70bbe4cd4c36" Title="IObservableMap(K, V) Interface" Url="html/T_InTheHand_Foundation_Collections_IObservableMap_2.htm">
+        <HelpTOCNode Id="47d5fcd0-e826-4d47-b3e8-e1c85024ddcc" Title="IObservableMap(K, V) Events" Url="html/Events_T_InTheHand_Foundation_Collections_IObservableMap_2.htm">
           <HelpTOCNode Title="MapChanged Event" Url="html/E_InTheHand_Foundation_Collections_IObservableMap_2_MapChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="02ee5ebe-0ebb-4fbc-866d-543686ff2e64" Title="IPropertySet Interface" Url="html/T_InTheHand_Foundation_Collections_IPropertySet.htm">
+      <HelpTOCNode Id="cbbbd2a8-9169-4997-878b-240bdd0db5a9" Title="IPropertySet Interface" Url="html/T_InTheHand_Foundation_Collections_IPropertySet.htm">
         <HelpTOCNode Title="IPropertySet Properties" Url="html/Properties_T_InTheHand_Foundation_Collections_IPropertySet.htm" />
         <HelpTOCNode Title="IPropertySet Methods" Url="html/Methods_T_InTheHand_Foundation_Collections_IPropertySet.htm" />
         <HelpTOCNode Title="IPropertySet Events" Url="html/Events_T_InTheHand_Foundation_Collections_IPropertySet.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="MapChangedEventHandler(K, V) Delegate" Url="html/T_InTheHand_Foundation_Collections_MapChangedEventHandler_2.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="72e564ac-1a42-4034-ad58-a3a7bc99fec6" Title="InTheHand.Foundation.Metadata" Url="html/N_InTheHand_Foundation_Metadata.htm">
-      <HelpTOCNode Id="0475e743-3cd0-4886-87e1-ffb0d04009ec" Title="ApiInformation Class" Url="html/T_InTheHand_Foundation_Metadata_ApiInformation.htm">
-        <HelpTOCNode Id="cb2901dd-63ea-4c03-9251-86bc13c3ff0c" Title="ApiInformation Methods" Url="html/Methods_T_InTheHand_Foundation_Metadata_ApiInformation.htm">
-          <HelpTOCNode Id="689fbf6d-e4d9-4a6b-86b0-92519b03812e" Title="IsApiContractPresent Method " Url="html/Overload_InTheHand_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm">
+    <HelpTOCNode Id="18edd4a0-235e-4643-b86d-ac7436e8f79d" Title="InTheHand.Foundation.Metadata" Url="html/N_InTheHand_Foundation_Metadata.htm">
+      <HelpTOCNode Id="5180545e-9fde-4498-8149-b7ca08b029b4" Title="ApiInformation Class" Url="html/T_InTheHand_Foundation_Metadata_ApiInformation.htm">
+        <HelpTOCNode Id="874a7afd-8b2a-4fa6-81e8-bbfccdb93895" Title="ApiInformation Methods" Url="html/Methods_T_InTheHand_Foundation_Metadata_ApiInformation.htm">
+          <HelpTOCNode Id="af99ac52-04da-415f-9ceb-5a701937ea5b" Title="IsApiContractPresent Method " Url="html/Overload_InTheHand_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm">
             <HelpTOCNode Title="IsApiContractPresent Method (String, UInt16)" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsApiContractPresent.htm" />
             <HelpTOCNode Title="IsApiContractPresent Method (String, UInt16, UInt16)" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsApiContractPresent_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="IsEnumNamedValuePresent Method " Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsEnumNamedValuePresent.htm" />
           <HelpTOCNode Title="IsEventPresent Method " Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsEventPresent.htm" />
-          <HelpTOCNode Id="6899a429-c81d-4210-b8b3-0a0589c40779" Title="IsMethodPresent Method " Url="html/Overload_InTheHand_Foundation_Metadata_ApiInformation_IsMethodPresent.htm">
+          <HelpTOCNode Id="133150f1-991d-4055-81ab-965f5e7fb6c7" Title="IsMethodPresent Method " Url="html/Overload_InTheHand_Foundation_Metadata_ApiInformation_IsMethodPresent.htm">
             <HelpTOCNode Title="IsMethodPresent Method (String, String)" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsMethodPresent.htm" />
             <HelpTOCNode Title="IsMethodPresent Method (String, String, UInt32)" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsMethodPresent_1.htm" />
           </HelpTOCNode>
@@ -520,75 +520,75 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2b3121ca-2340-4f70-b8dc-9fa8ffe4c652" Title="InTheHand.Globalization" Url="html/N_InTheHand_Globalization.htm">
-      <HelpTOCNode Id="9d4b9bd8-025d-4e58-ace2-85a42fe3c037" Title="ApplicationLanguages Class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm">
-        <HelpTOCNode Id="7b5052fb-3f62-4291-89ce-8fb7994cc9bd" Title="ApplicationLanguages Properties" Url="html/Properties_T_InTheHand_Globalization_ApplicationLanguages.htm">
+    <HelpTOCNode Id="85a8f512-9025-4a8e-95b3-a7f10326dd19" Title="InTheHand.Globalization" Url="html/N_InTheHand_Globalization.htm">
+      <HelpTOCNode Id="2f23219f-1306-4832-9412-b700e668610b" Title="ApplicationLanguages Class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm">
+        <HelpTOCNode Id="c5bbcfe7-f9e0-4b21-a51e-a6fbd9db68a8" Title="ApplicationLanguages Properties" Url="html/Properties_T_InTheHand_Globalization_ApplicationLanguages.htm">
           <HelpTOCNode Title="Languages Property " Url="html/P_InTheHand_Globalization_ApplicationLanguages_Languages.htm" />
           <HelpTOCNode Title="ManifestLanguages Property " Url="html/P_InTheHand_Globalization_ApplicationLanguages_ManifestLanguages.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cce27ebb-fce6-49d4-98da-c4bfdbc81fb6" Title="InTheHand.Graphics.Display" Url="html/N_InTheHand_Graphics_Display.htm">
-      <HelpTOCNode Id="f719263a-2b36-446a-9e01-e7c73c9fdc67" Title="DisplayInformation Class" Url="html/T_InTheHand_Graphics_Display_DisplayInformation.htm">
-        <HelpTOCNode Id="5aa0a416-a6c4-4f84-b7d9-4368eddecee9" Title="DisplayInformation Properties" Url="html/Properties_T_InTheHand_Graphics_Display_DisplayInformation.htm">
+    <HelpTOCNode Id="962a093d-ab5f-4244-9242-e2e5965140b9" Title="InTheHand.Graphics.Display" Url="html/N_InTheHand_Graphics_Display.htm">
+      <HelpTOCNode Id="c8f7931a-153d-4dce-be97-c55a54177cbf" Title="DisplayInformation Class" Url="html/T_InTheHand_Graphics_Display_DisplayInformation.htm">
+        <HelpTOCNode Id="9ae9fd0c-d84d-4eac-bdb6-507991b1f5d9" Title="DisplayInformation Properties" Url="html/Properties_T_InTheHand_Graphics_Display_DisplayInformation.htm">
           <HelpTOCNode Title="CurrentOrientation Property " Url="html/P_InTheHand_Graphics_Display_DisplayInformation_CurrentOrientation.htm" />
           <HelpTOCNode Title="RawDpiX Property " Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiX.htm" />
           <HelpTOCNode Title="RawDpiY Property " Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiY.htm" />
           <HelpTOCNode Title="RawPixelsPerViewPixel Property " Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawPixelsPerViewPixel.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9d668eb8-338b-4d86-aa27-99959b405fd8" Title="DisplayInformation Methods" Url="html/Methods_T_InTheHand_Graphics_Display_DisplayInformation.htm">
+        <HelpTOCNode Id="136bcfc3-fddc-4155-ad22-d1f9dcc52626" Title="DisplayInformation Methods" Url="html/Methods_T_InTheHand_Graphics_Display_DisplayInformation.htm">
           <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_Graphics_Display_DisplayInformation_GetForCurrentView.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="DisplayOrientations Enumeration" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f34dc8df-4d24-47d9-b743-842449d3ddd0" Title="InTheHand.Media.Capture" Url="html/N_InTheHand_Media_Capture.htm">
-      <HelpTOCNode Id="5d303a3d-4d83-4464-a199-9614a1d4e6b7" Title="CameraCaptureUI Class" Url="html/T_InTheHand_Media_Capture_CameraCaptureUI.htm">
+    <HelpTOCNode Id="8e6adf2e-cd93-42e3-acc4-30dc5635cbab" Title="InTheHand.Media.Capture" Url="html/N_InTheHand_Media_Capture.htm">
+      <HelpTOCNode Id="9e691c4a-786e-4d85-8bc3-dc46c2478252" Title="CameraCaptureUI Class" Url="html/T_InTheHand_Media_Capture_CameraCaptureUI.htm">
         <HelpTOCNode Title="CameraCaptureUI Constructor " Url="html/M_InTheHand_Media_Capture_CameraCaptureUI__ctor.htm" />
-        <HelpTOCNode Id="dbe69cfb-e2fa-4950-b301-0cb6ca936681" Title="CameraCaptureUI Methods" Url="html/Methods_T_InTheHand_Media_Capture_CameraCaptureUI.htm">
+        <HelpTOCNode Id="0f3cb9cd-217c-48ef-8ced-e2bf4a7b5d96" Title="CameraCaptureUI Methods" Url="html/Methods_T_InTheHand_Media_Capture_CameraCaptureUI.htm">
           <HelpTOCNode Title="CaptureFileAsync Method " Url="html/M_InTheHand_Media_Capture_CameraCaptureUI_CaptureFileAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="CameraCaptureUIMode Enumeration" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b21575cc-1a23-4ca3-b6c9-31e9c63f5790" Title="InTheHand.Networking.Connectivity" Url="html/N_InTheHand_Networking_Connectivity.htm">
-      <HelpTOCNode Id="18ae28c9-a3bb-4341-9974-48af0bd2bb14" Title="ConnectionProfile Class" Url="html/T_InTheHand_Networking_Connectivity_ConnectionProfile.htm">
+    <HelpTOCNode Id="afb9180c-cd00-45c4-aa54-eb90f8bd5da9" Title="InTheHand.Networking.Connectivity" Url="html/N_InTheHand_Networking_Connectivity.htm">
+      <HelpTOCNode Id="2265629b-bd2e-4eb4-984e-025936147190" Title="ConnectionProfile Class" Url="html/T_InTheHand_Networking_Connectivity_ConnectionProfile.htm">
         <HelpTOCNode Title="ConnectionProfile Constructor " Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile__ctor.htm" />
-        <HelpTOCNode Id="16858f8c-5255-4670-a554-08c319422573" Title="ConnectionProfile Methods" Url="html/Methods_T_InTheHand_Networking_Connectivity_ConnectionProfile.htm">
+        <HelpTOCNode Id="5e3646c3-93a5-4526-b1c2-4d343db4af63" Title="ConnectionProfile Methods" Url="html/Methods_T_InTheHand_Networking_Connectivity_ConnectionProfile.htm">
           <HelpTOCNode Title="GetNetworkConnectivityLevel Method " Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile_GetNetworkConnectivityLevel.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="NetworkConnectivityLevel Enumeration" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
-      <HelpTOCNode Id="1dac9804-5091-4295-aea6-a4d8b128396b" Title="NetworkInformation Class" Url="html/T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
-        <HelpTOCNode Id="841ab292-c064-4203-adc3-1ace175c91b8" Title="NetworkInformation Methods" Url="html/Methods_T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
+      <HelpTOCNode Id="0ac98472-d070-4d3e-ac37-5dca54eba179" Title="NetworkInformation Class" Url="html/T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
+        <HelpTOCNode Id="49b9247a-449a-474d-8ba6-e8bef7f53753" Title="NetworkInformation Methods" Url="html/Methods_T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
           <HelpTOCNode Title="GetInternetConnectionProfile Method " Url="html/M_InTheHand_Networking_Connectivity_NetworkInformation_GetInternetConnectionProfile.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2695913e-5e6b-46a5-b51b-3126bcb37938" Title="NetworkInformation Events" Url="html/Events_T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
+        <HelpTOCNode Id="2526f5bb-8873-4dd5-b13f-d56b5776d83b" Title="NetworkInformation Events" Url="html/Events_T_InTheHand_Networking_Connectivity_NetworkInformation.htm">
           <HelpTOCNode Title="NetworkStatusChanged Event" Url="html/E_InTheHand_Networking_Connectivity_NetworkInformation_NetworkStatusChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="NetworkStatusChangedEventHandler Delegate" Url="html/T_InTheHand_Networking_Connectivity_NetworkStatusChangedEventHandler.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="99f6bb47-5ace-4c56-9d1c-7d1761f3ad5a" Title="InTheHand.Phone.Devices.Notification" Url="html/N_InTheHand_Phone_Devices_Notification.htm">
-      <HelpTOCNode Id="06923b13-4b71-49be-8c88-f09485738278" Title="VibrationDevice Class" Url="html/T_InTheHand_Phone_Devices_Notification_VibrationDevice.htm">
-        <HelpTOCNode Id="733fd518-0921-4be0-aa45-45d415374137" Title="VibrationDevice Methods" Url="html/Methods_T_InTheHand_Phone_Devices_Notification_VibrationDevice.htm">
+    <HelpTOCNode Id="14fd165a-6821-4e46-85a5-0383df12c0db" Title="InTheHand.Phone.Devices.Notification" Url="html/N_InTheHand_Phone_Devices_Notification.htm">
+      <HelpTOCNode Id="cb25285d-132c-4c56-8ac3-44d078a98d0f" Title="VibrationDevice Class" Url="html/T_InTheHand_Phone_Devices_Notification_VibrationDevice.htm">
+        <HelpTOCNode Id="7bfdfd33-8dad-40a4-957a-39f6062e1b2f" Title="VibrationDevice Methods" Url="html/Methods_T_InTheHand_Phone_Devices_Notification_VibrationDevice.htm">
           <HelpTOCNode Title="Cancel Method " Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_Cancel.htm" />
           <HelpTOCNode Title="GetDefault Method " Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
           <HelpTOCNode Title="Vibrate Method " Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_Vibrate.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e38f2ae3-bebc-4652-9400-04d768699b00" Title="InTheHand.Phone.System" Url="html/N_InTheHand_Phone_System.htm">
-      <HelpTOCNode Id="c4f0e304-8218-43c1-bc47-9181c823034c" Title="SystemProtection Class" Url="html/T_InTheHand_Phone_System_SystemProtection.htm">
-        <HelpTOCNode Id="af4d24e3-59c1-48cb-b9bc-114f8b3a36fe" Title="SystemProtection Properties" Url="html/Properties_T_InTheHand_Phone_System_SystemProtection.htm">
+    <HelpTOCNode Id="37290b43-fceb-424b-941d-07979660293d" Title="InTheHand.Phone.System" Url="html/N_InTheHand_Phone_System.htm">
+      <HelpTOCNode Id="2c4ac740-b9bd-4d2d-b012-abae48ebea6d" Title="SystemProtection Class" Url="html/T_InTheHand_Phone_System_SystemProtection.htm">
+        <HelpTOCNode Id="7e8bc3da-2c24-4926-90ab-a6db83705968" Title="SystemProtection Properties" Url="html/Properties_T_InTheHand_Phone_System_SystemProtection.htm">
           <HelpTOCNode Title="ScreenLocked Property " Url="html/P_InTheHand_Phone_System_SystemProtection_ScreenLocked.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4e515a10-3a23-4855-8284-38930293bb9c" Title="InTheHand.Security.ExchangeActivesyncProvisioning" Url="html/N_InTheHand_Security_ExchangeActivesyncProvisioning.htm">
-      <HelpTOCNode Id="c30cd974-3e53-46d8-ad94-9c662b19010e" Title="EasClientDeviceInformation Class" Url="html/T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm">
+    <HelpTOCNode Id="1319d86d-60b7-4fc6-9d94-0caa258fbcc8" Title="InTheHand.Security.ExchangeActivesyncProvisioning" Url="html/N_InTheHand_Security_ExchangeActivesyncProvisioning.htm">
+      <HelpTOCNode Id="8cc3f1db-325e-4e06-9d0e-8dec96b61da7" Title="EasClientDeviceInformation Class" Url="html/T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm">
         <HelpTOCNode Title="EasClientDeviceInformation Constructor " Url="html/M_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation__ctor.htm" />
-        <HelpTOCNode Id="998bd273-cb19-455f-be9f-9b597e9e309a" Title="EasClientDeviceInformation Properties" Url="html/Properties_T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm">
+        <HelpTOCNode Id="dfd1338c-28cb-4015-a6dc-4f50507aa575" Title="EasClientDeviceInformation Properties" Url="html/Properties_T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm">
           <HelpTOCNode Title="FriendlyName Property " Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_FriendlyName.htm" />
           <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_Id.htm" />
           <HelpTOCNode Title="OperatingSystem Property " Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_OperatingSystem.htm" />
@@ -598,9 +598,9 @@
         <HelpTOCNode Title="EasClientDeviceInformation Methods" Url="html/Methods_T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b1e366df-f197-441c-b993-c75c321bd439" Title="InTheHand.Storage" Url="html/N_InTheHand_Storage.htm">
-      <HelpTOCNode Id="04809501-cd64-4446-9f6e-49f091750d1b" Title="ApplicationData Class" Url="html/T_InTheHand_Storage_ApplicationData.htm">
-        <HelpTOCNode Id="94a3bdb1-513b-4c50-b5b2-a4a1b2d30858" Title="ApplicationData Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationData.htm">
+    <HelpTOCNode Id="998855f4-0332-4296-b43d-efdf568c5bf9" Title="InTheHand.Storage" Url="html/N_InTheHand_Storage.htm">
+      <HelpTOCNode Id="6fd7b5af-6965-4a50-9fd1-e3c4a76b1fc5" Title="ApplicationData Class" Url="html/T_InTheHand_Storage_ApplicationData.htm">
+        <HelpTOCNode Id="c7dbc49b-19ea-48f7-ac0e-367d1cc03c62" Title="ApplicationData Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationData.htm">
           <HelpTOCNode Title="Current Property " Url="html/P_InTheHand_Storage_ApplicationData_Current.htm" />
           <HelpTOCNode Title="LocalFolder Property " Url="html/P_InTheHand_Storage_ApplicationData_LocalFolder.htm" />
           <HelpTOCNode Title="LocalSettings Property " Url="html/P_InTheHand_Storage_ApplicationData_LocalSettings.htm" />
@@ -608,31 +608,33 @@
           <HelpTOCNode Title="RoamingSettings Property " Url="html/P_InTheHand_Storage_ApplicationData_RoamingSettings.htm" />
           <HelpTOCNode Title="TemporaryFolder Property " Url="html/P_InTheHand_Storage_ApplicationData_TemporaryFolder.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4cba1978-1226-4af2-924a-a241a738e131" Title="ApplicationData Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationData.htm">
-          <HelpTOCNode Id="b62fb13e-5ab4-4802-835d-8f26f1e68a1d" Title="ClearAsync Method " Url="html/Overload_InTheHand_Storage_ApplicationData_ClearAsync.htm">
+        <HelpTOCNode Id="70e2a692-9e16-4e9e-bb88-06e3b6968361" Title="ApplicationData Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationData.htm">
+          <HelpTOCNode Id="cf46e540-2e1a-4b25-8056-e45e204cb100" Title="ClearAsync Method " Url="html/Overload_InTheHand_Storage_ApplicationData_ClearAsync.htm">
             <HelpTOCNode Title="ClearAsync Method " Url="html/M_InTheHand_Storage_ApplicationData_ClearAsync.htm" />
             <HelpTOCNode Title="ClearAsync Method (ApplicationDataLocality)" Url="html/M_InTheHand_Storage_ApplicationData_ClearAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f43ca896-d19f-4f39-b965-93841f40e6a5" Title="ApplicationDataContainer Class" Url="html/T_InTheHand_Storage_ApplicationDataContainer.htm">
-        <HelpTOCNode Id="2f0d3537-4ab1-4ec8-bc29-96b85a48d7f9" Title="ApplicationDataContainer Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationDataContainer.htm">
+      <HelpTOCNode Id="92851c01-e438-402e-962c-4b3f817ca9d5" Title="ApplicationDataContainer Class" Url="html/T_InTheHand_Storage_ApplicationDataContainer.htm">
+        <HelpTOCNode Id="91d562ef-ae93-4720-92ba-829065199329" Title="ApplicationDataContainer Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationDataContainer.htm">
           <HelpTOCNode Title="Locality Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Locality.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Name.htm" />
           <HelpTOCNode Title="Values Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Values.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="ApplicationDataContainer Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationDataContainer.htm" />
+        <HelpTOCNode Id="73a77109-a88b-4d76-9635-50d08bbd8069" Title="ApplicationDataContainer Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationDataContainer.htm">
+          <HelpTOCNode Title="CreateContainer Method " Url="html/M_InTheHand_Storage_ApplicationDataContainer_CreateContainer.htm" />
+        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="854fd337-407a-4d45-b81a-5b8e07c7f06c" Title="ApplicationDataContainerSettings Class" Url="html/T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
-        <HelpTOCNode Id="9ab23871-79cb-4fa0-9cda-81af7052f0e6" Title="ApplicationDataContainerSettings Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
+      <HelpTOCNode Id="c75b38eb-d58d-4fd3-af5f-2b1c72e69674" Title="ApplicationDataContainerSettings Class" Url="html/T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
+        <HelpTOCNode Id="40c9bdd0-4a78-4c30-b92b-4a626f4e02eb" Title="ApplicationDataContainerSettings Properties" Url="html/Properties_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
           <HelpTOCNode Title="Count Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Count.htm" />
           <HelpTOCNode Title="IsReadOnly Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_IsReadOnly.htm" />
           <HelpTOCNode Title="Item Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Item.htm" />
           <HelpTOCNode Title="Keys Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Keys.htm" />
           <HelpTOCNode Title="Values Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Values.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="24457bfd-e765-4452-897f-b29f50b733c7" Title="ApplicationDataContainerSettings Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
-          <HelpTOCNode Id="f67bcee2-63a5-4c13-a79f-ea34e8fb2109" Title="Add Method " Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Add.htm">
+        <HelpTOCNode Id="07f20866-bc0e-40b8-a471-8739d1ff2f31" Title="ApplicationDataContainerSettings Methods" Url="html/Methods_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
+          <HelpTOCNode Id="901c94aa-b872-44d6-bb53-47b5cb9e1dde" Title="Add Method " Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Add.htm">
             <HelpTOCNode Title="Add Method (KeyValuePair(String, Object))" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Add.htm" />
             <HelpTOCNode Title="Add Method (String, Object)" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Add_1.htm" />
           </HelpTOCNode>
@@ -640,73 +642,74 @@
           <HelpTOCNode Title="Contains Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Contains.htm" />
           <HelpTOCNode Title="ContainsKey Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_ContainsKey.htm" />
           <HelpTOCNode Title="CopyTo Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_CopyTo.htm" />
-          <HelpTOCNode Id="c8c34ebd-15e4-472f-afe8-9fb9cb443528" Title="Remove Method " Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm">
+          <HelpTOCNode Id="f4cecbaa-14d4-4d10-ab5b-160086d16823" Title="Remove Method " Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm">
             <HelpTOCNode Title="Remove Method (KeyValuePair(String, Object))" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm" />
             <HelpTOCNode Title="Remove Method (String)" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Remove_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="TryGetValue Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7dd29980-70a5-4ee5-a529-12c2e1a27826" Title="ApplicationDataContainerSettings Events" Url="html/Events_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
+        <HelpTOCNode Id="4d14d955-4132-40a8-8737-19b68ac522fc" Title="ApplicationDataContainerSettings Events" Url="html/Events_T_InTheHand_Storage_ApplicationDataContainerSettings.htm">
           <HelpTOCNode Title="MapChanged Event" Url="html/E_InTheHand_Storage_ApplicationDataContainerSettings_MapChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationDataCreateDisposition Enumeration" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
       <HelpTOCNode Title="ApplicationDataLocality Enumeration" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
       <HelpTOCNode Title="CreationCollisionOption Enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
       <HelpTOCNode Title="FileAttributes Enumeration" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
-      <HelpTOCNode Id="26fcc32b-de5c-4a5d-a89c-107ab822ffde" Title="FileIO Class" Url="html/T_InTheHand_Storage_FileIO.htm">
-        <HelpTOCNode Id="329537f6-3a53-4d86-8fb3-4574faa8feb4" Title="FileIO Methods" Url="html/Methods_T_InTheHand_Storage_FileIO.htm">
-          <HelpTOCNode Id="5469b2ce-9b71-4e2a-8f61-5343255d916a" Title="AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_AppendLinesAsync.htm">
+      <HelpTOCNode Id="e630c53c-2315-48b5-a17c-5a876734f14e" Title="FileIO Class" Url="html/T_InTheHand_Storage_FileIO.htm">
+        <HelpTOCNode Id="28137cec-54aa-4b88-b79d-bcaa136fc882" Title="FileIO Methods" Url="html/Methods_T_InTheHand_Storage_FileIO.htm">
+          <HelpTOCNode Id="9392d5e8-389f-4da2-bbde-fcfbd878109c" Title="AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_AppendLinesAsync.htm">
             <HelpTOCNode Title="AppendLinesAsync Method (IStorageFile, IEnumerable(String))" Url="html/M_InTheHand_Storage_FileIO_AppendLinesAsync.htm" />
             <HelpTOCNode Title="AppendLinesAsync Method (IStorageFile, IEnumerable(String), UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_AppendLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="d0acdac0-a6a1-4b69-900c-04a456d16bad" Title="AppendTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_AppendTextAsync.htm">
+          <HelpTOCNode Id="119544ea-09bd-4704-93a5-eb1724455cb6" Title="AppendTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_AppendTextAsync.htm">
             <HelpTOCNode Title="AppendTextAsync Method (IStorageFile, String)" Url="html/M_InTheHand_Storage_FileIO_AppendTextAsync.htm" />
             <HelpTOCNode Title="AppendTextAsync Method (IStorageFile, String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_AppendTextAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e7dc4957-7fa5-4a08-b666-7f805b2e5e9b" Title="ReadLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_ReadLinesAsync.htm">
+          <HelpTOCNode Id="41edfdf2-980e-4c43-b3b4-95e99ea3ce58" Title="ReadLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_ReadLinesAsync.htm">
             <HelpTOCNode Title="ReadLinesAsync Method (IStorageFile)" Url="html/M_InTheHand_Storage_FileIO_ReadLinesAsync.htm" />
             <HelpTOCNode Title="ReadLinesAsync Method (IStorageFile, UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_ReadLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e0f1c04c-255c-424a-be64-b4cfe59a668f" Title="ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_ReadTextAsync.htm">
+          <HelpTOCNode Id="0ed52e52-7c10-48c7-954b-f45ae9e07951" Title="ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_ReadTextAsync.htm">
             <HelpTOCNode Title="ReadTextAsync Method (IStorageFile)" Url="html/M_InTheHand_Storage_FileIO_ReadTextAsync.htm" />
             <HelpTOCNode Title="ReadTextAsync Method (IStorageFile, UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_ReadTextAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="640f8b17-e0ff-4172-95d5-651038d199d5" Title="WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteLinesAsync.htm">
+          <HelpTOCNode Id="87ddd181-5845-41e8-90f2-a74e15753ce6" Title="WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteLinesAsync.htm">
             <HelpTOCNode Title="WriteLinesAsync Method (IStorageFile, IEnumerable(String))" Url="html/M_InTheHand_Storage_FileIO_WriteLinesAsync.htm" />
             <HelpTOCNode Title="WriteLinesAsync Method (IStorageFile, IEnumerable(String), UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_WriteLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="9d4bb873-6d36-4c9b-8ec4-411b570abdad" Title="WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteTextAsync.htm">
+          <HelpTOCNode Id="066ab062-4838-483b-ace3-80581ae752cd" Title="WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteTextAsync.htm">
             <HelpTOCNode Title="WriteTextAsync Method (IStorageFile, String)" Url="html/M_InTheHand_Storage_FileIO_WriteTextAsync.htm" />
             <HelpTOCNode Title="WriteTextAsync Method (IStorageFile, String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_FileIO_WriteTextAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1ab2f03c-0b24-4a1f-a8d9-e776563ddb18" Title="IStorageFile Interface" Url="html/T_InTheHand_Storage_IStorageFile.htm">
-        <HelpTOCNode Id="bf0c08f5-457f-494f-a976-262e44385f6d" Title="IStorageFile Properties" Url="html/Properties_T_InTheHand_Storage_IStorageFile.htm">
+      <HelpTOCNode Id="30f2fd1b-6c59-40c0-ba86-9f159234236e" Title="IStorageFile Interface" Url="html/T_InTheHand_Storage_IStorageFile.htm">
+        <HelpTOCNode Id="a8e2900d-3341-437f-8767-63b72a64d4fb" Title="IStorageFile Properties" Url="html/Properties_T_InTheHand_Storage_IStorageFile.htm">
           <HelpTOCNode Title="ContentType Property " Url="html/P_InTheHand_Storage_IStorageFile_ContentType.htm" />
           <HelpTOCNode Title="FileType Property " Url="html/P_InTheHand_Storage_IStorageFile_FileType.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="377e1517-1598-4a44-9700-245ce2f6b691" Title="IStorageFile Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFile.htm">
+        <HelpTOCNode Id="fae168e7-b426-4c48-883d-fa36a0f448c9" Title="IStorageFile Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFile.htm">
           <HelpTOCNode Title="CopyAndReplaceAsync Method " Url="html/M_InTheHand_Storage_IStorageFile_CopyAndReplaceAsync.htm" />
-          <HelpTOCNode Id="11448f88-3512-4642-b564-cb5dd8b0dbf1" Title="CopyAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFile_CopyAsync.htm">
+          <HelpTOCNode Id="d1de654a-c5e7-4ea3-b6bd-50ad94084fd8" Title="CopyAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFile_CopyAsync.htm">
             <HelpTOCNode Title="CopyAsync Method (IStorageFolder)" Url="html/M_InTheHand_Storage_IStorageFile_CopyAsync.htm" />
             <HelpTOCNode Title="CopyAsync Method (IStorageFolder, String)" Url="html/M_InTheHand_Storage_IStorageFile_CopyAsync_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="MoveAndReplaceAsync Method " Url="html/M_InTheHand_Storage_IStorageFile_MoveAndReplaceAsync.htm" />
-          <HelpTOCNode Id="533f51e2-965b-4f19-b3b2-650524f77027" Title="MoveAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFile_MoveAsync.htm">
+          <HelpTOCNode Id="add7a2c0-91ad-478e-9d12-866aabc70033" Title="MoveAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFile_MoveAsync.htm">
             <HelpTOCNode Title="MoveAsync Method (IStorageFolder)" Url="html/M_InTheHand_Storage_IStorageFile_MoveAsync.htm" />
             <HelpTOCNode Title="MoveAsync Method (IStorageFolder, String)" Url="html/M_InTheHand_Storage_IStorageFile_MoveAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d55d2220-43df-4471-90c5-4c9e12ab08c9" Title="IStorageFolder Interface" Url="html/T_InTheHand_Storage_IStorageFolder.htm">
+      <HelpTOCNode Id="3775d1d3-4852-4d46-a5cb-ffcd4d561555" Title="IStorageFolder Interface" Url="html/T_InTheHand_Storage_IStorageFolder.htm">
         <HelpTOCNode Title="IStorageFolder Properties" Url="html/Properties_T_InTheHand_Storage_IStorageFolder.htm" />
-        <HelpTOCNode Id="26d54bc0-241d-4369-8045-dcf4ae31cc81" Title="IStorageFolder Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFolder.htm">
-          <HelpTOCNode Id="8f7247b4-8d18-452d-b69c-911a90469821" Title="CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFolder_CreateFileAsync.htm">
+        <HelpTOCNode Id="95652607-0417-4385-99b3-b29a3a785327" Title="IStorageFolder Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFolder.htm">
+          <HelpTOCNode Id="de1d8df3-79fa-4068-9f57-c4e5bf30dbfc" Title="CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFolder_CreateFileAsync.htm">
             <HelpTOCNode Title="CreateFileAsync Method (String)" Url="html/M_InTheHand_Storage_IStorageFolder_CreateFileAsync.htm" />
             <HelpTOCNode Title="CreateFileAsync Method (String, CreationCollisionOption)" Url="html/M_InTheHand_Storage_IStorageFolder_CreateFileAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="972cdae4-878c-4f8f-837d-499fd9583535" Title="CreateFolderAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFolder_CreateFolderAsync.htm">
+          <HelpTOCNode Id="39caf216-bf6b-4249-a1ba-dc1e430d26a1" Title="CreateFolderAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFolder_CreateFolderAsync.htm">
             <HelpTOCNode Title="CreateFolderAsync Method (String)" Url="html/M_InTheHand_Storage_IStorageFolder_CreateFolderAsync.htm" />
             <HelpTOCNode Title="CreateFolderAsync Method (String, CreationCollisionOption)" Url="html/M_InTheHand_Storage_IStorageFolder_CreateFolderAsync_1.htm" />
           </HelpTOCNode>
@@ -717,20 +720,20 @@
           <HelpTOCNode Title="GetItemsAsync Method " Url="html/M_InTheHand_Storage_IStorageFolder_GetItemsAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b6bf4cd6-d0ec-44a3-8f5d-8066fc896753" Title="IStorageFolder2 Interface" Url="html/T_InTheHand_Storage_IStorageFolder2.htm">
-        <HelpTOCNode Id="dbacde4a-0e7a-4a5e-a086-d2f63b40d3a6" Title="IStorageFolder2 Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFolder2.htm">
+      <HelpTOCNode Id="2e8cd5ae-39cd-49d5-a303-26ae80a50655" Title="IStorageFolder2 Interface" Url="html/T_InTheHand_Storage_IStorageFolder2.htm">
+        <HelpTOCNode Id="fd98b2de-a01b-42f7-9622-afb8fac5d283" Title="IStorageFolder2 Methods" Url="html/Methods_T_InTheHand_Storage_IStorageFolder2.htm">
           <HelpTOCNode Title="TryGetItemAsync Method " Url="html/M_InTheHand_Storage_IStorageFolder2_TryGetItemAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cdb1cd28-774c-4a2c-a1de-83e4b8581dcf" Title="IStorageItem Interface" Url="html/T_InTheHand_Storage_IStorageItem.htm">
-        <HelpTOCNode Id="d0ab5d36-a840-4dcd-9af6-03b5ede34108" Title="IStorageItem Properties" Url="html/Properties_T_InTheHand_Storage_IStorageItem.htm">
+      <HelpTOCNode Id="446ad9e1-3104-48d2-ac80-c1a6ec48cbc6" Title="IStorageItem Interface" Url="html/T_InTheHand_Storage_IStorageItem.htm">
+        <HelpTOCNode Id="ceffd456-a542-4d8a-9d7b-9907c320b356" Title="IStorageItem Properties" Url="html/Properties_T_InTheHand_Storage_IStorageItem.htm">
           <HelpTOCNode Title="Attributes Property " Url="html/P_InTheHand_Storage_IStorageItem_Attributes.htm" />
           <HelpTOCNode Title="DateCreated Property " Url="html/P_InTheHand_Storage_IStorageItem_DateCreated.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_Storage_IStorageItem_Name.htm" />
           <HelpTOCNode Title="Path Property " Url="html/P_InTheHand_Storage_IStorageItem_Path.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="371d4c65-c46f-4de1-81e2-9f4f7f223a24" Title="IStorageItem Methods" Url="html/Methods_T_InTheHand_Storage_IStorageItem.htm">
-          <HelpTOCNode Id="d5656537-ea13-4cef-9620-50b2615b3997" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_IStorageItem_DeleteAsync.htm">
+        <HelpTOCNode Id="3b02c1f5-b570-4242-b3b5-99b0f011154d" Title="IStorageItem Methods" Url="html/Methods_T_InTheHand_Storage_IStorageItem.htm">
+          <HelpTOCNode Id="b82cc0c5-1178-455d-a39a-d8fce3b3ab48" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_IStorageItem_DeleteAsync.htm">
             <HelpTOCNode Title="DeleteAsync Method " Url="html/M_InTheHand_Storage_IStorageItem_DeleteAsync.htm" />
             <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_InTheHand_Storage_IStorageItem_DeleteAsync_1.htm" />
           </HelpTOCNode>
@@ -738,15 +741,15 @@
           <HelpTOCNode Title="IsOfType Method " Url="html/M_InTheHand_Storage_IStorageItem_IsOfType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="666699c8-9ab2-402a-952f-492ddc06d303" Title="IStorageItem2 Interface" Url="html/T_InTheHand_Storage_IStorageItem2.htm">
+      <HelpTOCNode Id="7d47e864-4ac9-40f3-bdd6-74e86f0658f4" Title="IStorageItem2 Interface" Url="html/T_InTheHand_Storage_IStorageItem2.htm">
         <HelpTOCNode Title="IStorageItem2 Properties" Url="html/Properties_T_InTheHand_Storage_IStorageItem2.htm" />
-        <HelpTOCNode Id="cbc3af80-659d-4c1d-b17f-7bcdf42767e8" Title="IStorageItem2 Methods" Url="html/Methods_T_InTheHand_Storage_IStorageItem2.htm">
+        <HelpTOCNode Id="a20982e8-803b-457d-a05d-dc8b35f4d1d1" Title="IStorageItem2 Methods" Url="html/Methods_T_InTheHand_Storage_IStorageItem2.htm">
           <HelpTOCNode Title="GetParentAsync Method " Url="html/M_InTheHand_Storage_IStorageItem2_GetParentAsync.htm" />
           <HelpTOCNode Title="IsEqual Method " Url="html/M_InTheHand_Storage_IStorageItem2_IsEqual.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b29d2b04-3164-40cd-8c27-e272e9cda0f1" Title="KnownFolders Class" Url="html/T_InTheHand_Storage_KnownFolders.htm">
-        <HelpTOCNode Id="25c86697-79da-46da-be55-9e5f4173218f" Title="KnownFolders Properties" Url="html/Properties_T_InTheHand_Storage_KnownFolders.htm">
+      <HelpTOCNode Id="b8cbe1ca-20f4-4272-8cd5-4705304c27bb" Title="KnownFolders Class" Url="html/T_InTheHand_Storage_KnownFolders.htm">
+        <HelpTOCNode Id="1fbc5ea6-9648-43b5-932f-f8cfa31538f4" Title="KnownFolders Properties" Url="html/Properties_T_InTheHand_Storage_KnownFolders.htm">
           <HelpTOCNode Title="CameraRoll Property " Url="html/P_InTheHand_Storage_KnownFolders_CameraRoll.htm" />
           <HelpTOCNode Title="DocumentsLibrary Property " Url="html/P_InTheHand_Storage_KnownFolders_DocumentsLibrary.htm" />
           <HelpTOCNode Title="MusicLibrary Property " Url="html/P_InTheHand_Storage_KnownFolders_MusicLibrary.htm" />
@@ -755,37 +758,37 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="NameCollisionOption Enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
-      <HelpTOCNode Id="6dfc2b58-9d6a-4806-a163-0777fd060f55" Title="PathIO Class" Url="html/T_InTheHand_Storage_PathIO.htm">
-        <HelpTOCNode Id="4cda9d28-f826-4a94-a28d-af6ca20c4097" Title="PathIO Methods" Url="html/Methods_T_InTheHand_Storage_PathIO.htm">
-          <HelpTOCNode Id="fe53374c-0e49-4d1b-87d9-493486ad7063" Title="AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_AppendLinesAsync.htm">
+      <HelpTOCNode Id="4a73ae5d-a9e1-4904-8a11-388cdbfd28a6" Title="PathIO Class" Url="html/T_InTheHand_Storage_PathIO.htm">
+        <HelpTOCNode Id="133e5034-ec58-46a6-a6fc-246c6d7fdbc0" Title="PathIO Methods" Url="html/Methods_T_InTheHand_Storage_PathIO.htm">
+          <HelpTOCNode Id="15ed2460-3451-4643-bdcb-c2e966464f86" Title="AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_AppendLinesAsync.htm">
             <HelpTOCNode Title="AppendLinesAsync Method (String, IEnumerable(String))" Url="html/M_InTheHand_Storage_PathIO_AppendLinesAsync.htm" />
             <HelpTOCNode Title="AppendLinesAsync Method (String, IEnumerable(String), UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_AppendLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="017a998e-03d3-4ad0-bbbd-c2e07e12f074" Title="AppendTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_AppendTextAsync.htm">
+          <HelpTOCNode Id="9a900c57-396f-47e1-a105-e7d9a61d50b2" Title="AppendTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_AppendTextAsync.htm">
             <HelpTOCNode Title="AppendTextAsync Method (String, String)" Url="html/M_InTheHand_Storage_PathIO_AppendTextAsync.htm" />
             <HelpTOCNode Title="AppendTextAsync Method (String, String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_AppendTextAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="5ad45e79-d249-406d-854f-a7ff506884e3" Title="ReadLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_ReadLinesAsync.htm">
+          <HelpTOCNode Id="5a79e38c-a3c1-4cbd-acff-f5db7d90615f" Title="ReadLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_ReadLinesAsync.htm">
             <HelpTOCNode Title="ReadLinesAsync Method (String)" Url="html/M_InTheHand_Storage_PathIO_ReadLinesAsync.htm" />
             <HelpTOCNode Title="ReadLinesAsync Method (String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_ReadLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e23f657d-a703-47e0-9140-afabfc938ca8" Title="ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_ReadTextAsync.htm">
+          <HelpTOCNode Id="e91566ea-178c-48cb-be5b-01c885f1aa01" Title="ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_ReadTextAsync.htm">
             <HelpTOCNode Title="ReadTextAsync Method (String)" Url="html/M_InTheHand_Storage_PathIO_ReadTextAsync.htm" />
             <HelpTOCNode Title="ReadTextAsync Method (String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_ReadTextAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="99a5fa71-65e6-4510-8900-3e2bb9bca5c1" Title="WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm">
+          <HelpTOCNode Id="9b59453c-1013-4731-9b5e-a1c3e1456d2a" Title="WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm">
             <HelpTOCNode Title="WriteLinesAsync Method (String, IEnumerable(String))" Url="html/M_InTheHand_Storage_PathIO_WriteLinesAsync.htm" />
             <HelpTOCNode Title="WriteLinesAsync Method (String, IEnumerable(String), UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_WriteLinesAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="42ea753c-6669-48c9-bc05-409748a93608" Title="WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm">
+          <HelpTOCNode Id="301ad62d-8bdc-4b4d-a4e0-5f92261ca74a" Title="WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm">
             <HelpTOCNode Title="WriteTextAsync Method (String, String)" Url="html/M_InTheHand_Storage_PathIO_WriteTextAsync.htm" />
             <HelpTOCNode Title="WriteTextAsync Method (String, String, UnicodeEncoding)" Url="html/M_InTheHand_Storage_PathIO_WriteTextAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="StorageDeleteOption Enumeration" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
-      <HelpTOCNode Id="cbafd95a-ecb1-4cc2-b3d8-626f21279dd2" Title="StorageFile Class" Url="html/T_InTheHand_Storage_StorageFile.htm">
-        <HelpTOCNode Id="2cee01b7-08e1-41e7-944a-3a6b9cfb07de" Title="StorageFile Properties" Url="html/Properties_T_InTheHand_Storage_StorageFile.htm">
+      <HelpTOCNode Id="e8370d16-7c0e-4bff-b06f-f3ad21e33399" Title="StorageFile Class" Url="html/T_InTheHand_Storage_StorageFile.htm">
+        <HelpTOCNode Id="bf55e134-4e04-4499-b472-3cfefdceff55" Title="StorageFile Properties" Url="html/Properties_T_InTheHand_Storage_StorageFile.htm">
           <HelpTOCNode Title="Attributes Property " Url="html/P_InTheHand_Storage_StorageFile_Attributes.htm" />
           <HelpTOCNode Title="ContentType Property " Url="html/P_InTheHand_Storage_StorageFile_ContentType.htm" />
           <HelpTOCNode Title="DateCreated Property " Url="html/P_InTheHand_Storage_StorageFile_DateCreated.htm" />
@@ -793,13 +796,13 @@
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_Storage_StorageFile_Name.htm" />
           <HelpTOCNode Title="Path Property " Url="html/P_InTheHand_Storage_StorageFile_Path.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3e5c21ce-e617-4f2c-a047-0dcb60dbed62" Title="StorageFile Methods" Url="html/Methods_T_InTheHand_Storage_StorageFile.htm">
+        <HelpTOCNode Id="419cc308-aeea-46b9-93a5-84324e766d94" Title="StorageFile Methods" Url="html/Methods_T_InTheHand_Storage_StorageFile.htm">
           <HelpTOCNode Title="CopyAndReplaceAsync Method " Url="html/M_InTheHand_Storage_StorageFile_CopyAndReplaceAsync.htm" />
-          <HelpTOCNode Id="e9f3f6f5-f4e5-4233-9074-037a012b8c43" Title="CopyAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_CopyAsync.htm">
+          <HelpTOCNode Id="c952522c-a692-4469-a8af-70cd057a3216" Title="CopyAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_CopyAsync.htm">
             <HelpTOCNode Title="CopyAsync Method (IStorageFolder)" Url="html/M_InTheHand_Storage_StorageFile_CopyAsync.htm" />
             <HelpTOCNode Title="CopyAsync Method (IStorageFolder, String)" Url="html/M_InTheHand_Storage_StorageFile_CopyAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="71853a8b-6c22-4f00-a477-62a18904e0dd" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_DeleteAsync.htm">
+          <HelpTOCNode Id="81e3b412-0355-4116-8623-a80b9daa4915" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_DeleteAsync.htm">
             <HelpTOCNode Title="DeleteAsync Method " Url="html/M_InTheHand_Storage_StorageFile_DeleteAsync.htm" />
             <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_InTheHand_Storage_StorageFile_DeleteAsync_1.htm" />
           </HelpTOCNode>
@@ -809,33 +812,33 @@
           <HelpTOCNode Title="IsEqual Method " Url="html/M_InTheHand_Storage_StorageFile_IsEqual.htm" />
           <HelpTOCNode Title="IsOfType Method " Url="html/M_InTheHand_Storage_StorageFile_IsOfType.htm" />
           <HelpTOCNode Title="MoveAndReplaceAsync Method " Url="html/M_InTheHand_Storage_StorageFile_MoveAndReplaceAsync.htm" />
-          <HelpTOCNode Id="13c4a1e0-eba0-4f59-a83b-16d04b49bfae" Title="MoveAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_MoveAsync.htm">
+          <HelpTOCNode Id="2bc94bad-913c-45be-ab76-ca3c1f4540d9" Title="MoveAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_MoveAsync.htm">
             <HelpTOCNode Title="MoveAsync Method (IStorageFolder)" Url="html/M_InTheHand_Storage_StorageFile_MoveAsync.htm" />
             <HelpTOCNode Title="MoveAsync Method (IStorageFolder, String)" Url="html/M_InTheHand_Storage_StorageFile_MoveAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="46cfbfbf-ffc8-416f-a7d3-decedcef3d3e" Title="RenameAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_RenameAsync.htm">
+          <HelpTOCNode Id="ed4fef3e-f3c0-494b-8862-78a21f12a303" Title="RenameAsync Method " Url="html/Overload_InTheHand_Storage_StorageFile_RenameAsync.htm">
             <HelpTOCNode Title="RenameAsync Method (String)" Url="html/M_InTheHand_Storage_StorageFile_RenameAsync.htm" />
             <HelpTOCNode Title="RenameAsync Method (String, NameCollisionOption)" Url="html/M_InTheHand_Storage_StorageFile_RenameAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bef43cfe-9b17-43d3-b9e8-b61e616e17d3" Title="StorageFolder Class" Url="html/T_InTheHand_Storage_StorageFolder.htm">
-        <HelpTOCNode Id="083ce3fb-0930-489d-8c7d-bd8e3c077c2b" Title="StorageFolder Properties" Url="html/Properties_T_InTheHand_Storage_StorageFolder.htm">
+      <HelpTOCNode Id="35963a97-42bf-4e4d-88f8-697ab9b9412e" Title="StorageFolder Class" Url="html/T_InTheHand_Storage_StorageFolder.htm">
+        <HelpTOCNode Id="3647fe6f-e1c9-46b9-8301-26360e3351ac" Title="StorageFolder Properties" Url="html/Properties_T_InTheHand_Storage_StorageFolder.htm">
           <HelpTOCNode Title="Attributes Property " Url="html/P_InTheHand_Storage_StorageFolder_Attributes.htm" />
           <HelpTOCNode Title="DateCreated Property " Url="html/P_InTheHand_Storage_StorageFolder_DateCreated.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_InTheHand_Storage_StorageFolder_Name.htm" />
           <HelpTOCNode Title="Path Property " Url="html/P_InTheHand_Storage_StorageFolder_Path.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bda12c8e-db70-477a-a7a3-c5febdf3482f" Title="StorageFolder Methods" Url="html/Methods_T_InTheHand_Storage_StorageFolder.htm">
-          <HelpTOCNode Id="259765d0-f891-4c2c-83e5-d6f37ffab06e" Title="CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_CreateFileAsync.htm">
+        <HelpTOCNode Id="52abfcc7-ce4b-454e-b33f-05170cec8292" Title="StorageFolder Methods" Url="html/Methods_T_InTheHand_Storage_StorageFolder.htm">
+          <HelpTOCNode Id="4367495e-0f84-4e78-b548-4ceecd2bc2e5" Title="CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_CreateFileAsync.htm">
             <HelpTOCNode Title="CreateFileAsync Method (String)" Url="html/M_InTheHand_Storage_StorageFolder_CreateFileAsync.htm" />
             <HelpTOCNode Title="CreateFileAsync Method (String, CreationCollisionOption)" Url="html/M_InTheHand_Storage_StorageFolder_CreateFileAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c9b56b7e-aba5-43b6-b286-224365835f99" Title="CreateFolderAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_CreateFolderAsync.htm">
+          <HelpTOCNode Id="f92247bd-ab69-4cb6-b3f4-efc6a4f43588" Title="CreateFolderAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_CreateFolderAsync.htm">
             <HelpTOCNode Title="CreateFolderAsync Method (String)" Url="html/M_InTheHand_Storage_StorageFolder_CreateFolderAsync.htm" />
             <HelpTOCNode Title="CreateFolderAsync Method (String, CreationCollisionOption)" Url="html/M_InTheHand_Storage_StorageFolder_CreateFolderAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e59cb8b9-3ba5-4491-8103-da5fa036c451" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_DeleteAsync.htm">
+          <HelpTOCNode Id="4a0de248-fe29-4d96-8e17-edd8a0327ba9" Title="DeleteAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_DeleteAsync.htm">
             <HelpTOCNode Title="DeleteAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_DeleteAsync.htm" />
             <HelpTOCNode Title="DeleteAsync Method (StorageDeleteOption)" Url="html/M_InTheHand_Storage_StorageFolder_DeleteAsync_1.htm" />
           </HelpTOCNode>
@@ -852,36 +855,36 @@
           <HelpTOCNode Title="TryGetItemAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_TryGetItemAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bf140e99-c498-4352-8c4f-877c8c147f14" Title="StorageFolderExtensions Class" Url="html/T_InTheHand_Storage_StorageFolderExtensions.htm">
-        <HelpTOCNode Id="ecdd6e13-d6cc-40c5-a28b-5dcf4cc192e7" Title="StorageFolderExtensions Methods" Url="html/Methods_T_InTheHand_Storage_StorageFolderExtensions.htm">
+      <HelpTOCNode Id="7b9d08c7-5612-4785-82b2-627185c7c64c" Title="StorageFolderExtensions Class" Url="html/T_InTheHand_Storage_StorageFolderExtensions.htm">
+        <HelpTOCNode Id="5fd79eb2-067b-4dec-8a61-b72d62ca85e0" Title="StorageFolderExtensions Methods" Url="html/Methods_T_InTheHand_Storage_StorageFolderExtensions.htm">
           <HelpTOCNode Title="DeleteAllItems Method " Url="html/M_InTheHand_Storage_StorageFolderExtensions_DeleteAllItems.htm" />
           <HelpTOCNode Title="GetFolderSizeAsync Method " Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetFolderSizeAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="StorageItemTypes Enumeration" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="0b34773a-489a-4390-86c4-cbda52fc8b7a" Title="InTheHand.Storage.FileProperties" Url="html/N_InTheHand_Storage_FileProperties.htm">
-      <HelpTOCNode Id="ab726faf-d59f-43d1-81f5-8a32bc4d1446" Title="BasicProperties Class" Url="html/T_InTheHand_Storage_FileProperties_BasicProperties.htm">
-        <HelpTOCNode Id="25557c13-400f-4a75-a127-e9040c247c36" Title="BasicProperties Properties" Url="html/Properties_T_InTheHand_Storage_FileProperties_BasicProperties.htm">
+    <HelpTOCNode Id="70014328-7de6-4c70-a60f-a0433171866b" Title="InTheHand.Storage.FileProperties" Url="html/N_InTheHand_Storage_FileProperties.htm">
+      <HelpTOCNode Id="eba607ba-7f07-4553-b7c6-70ec2b31c911" Title="BasicProperties Class" Url="html/T_InTheHand_Storage_FileProperties_BasicProperties.htm">
+        <HelpTOCNode Id="0819b96c-1124-4aba-984d-aad63b4a7caf" Title="BasicProperties Properties" Url="html/Properties_T_InTheHand_Storage_FileProperties_BasicProperties.htm">
           <HelpTOCNode Title="DateModified Property " Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_DateModified.htm" />
           <HelpTOCNode Title="Size Property " Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_Size.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="BasicProperties Methods" Url="html/Methods_T_InTheHand_Storage_FileProperties_BasicProperties.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7b301b32-2817-437e-bf6a-4a0421cabcac" Title="InTheHand.Storage.Streams" Url="html/N_InTheHand_Storage_Streams.htm">
+    <HelpTOCNode Id="939df242-9f73-4858-8af8-2fedaaac5764" Title="InTheHand.Storage.Streams" Url="html/N_InTheHand_Storage_Streams.htm">
       <HelpTOCNode Title="UnicodeEncoding Enumeration" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f13c4ba1-13e3-466d-85f2-0f2b727cb451" Title="InTheHand.System" Url="html/N_InTheHand_System.htm">
-      <HelpTOCNode Id="c4531369-3b40-41f7-9463-0974e69442c3" Title="Launcher Class" Url="html/T_InTheHand_System_Launcher.htm">
-        <HelpTOCNode Id="741e3093-9f29-480e-b5a2-0d09e3b164f1" Title="Launcher Methods" Url="html/Methods_T_InTheHand_System_Launcher.htm">
+    <HelpTOCNode Id="cf09dd64-d8a4-4a82-8a7a-676437505c26" Title="InTheHand.System" Url="html/N_InTheHand_System.htm">
+      <HelpTOCNode Id="e3215a3b-02f6-4117-a736-fcdc9622957d" Title="Launcher Class" Url="html/T_InTheHand_System_Launcher.htm">
+        <HelpTOCNode Id="4e11765f-c125-4db6-9f92-419965e2c7fd" Title="Launcher Methods" Url="html/Methods_T_InTheHand_System_Launcher.htm">
           <HelpTOCNode Title="LaunchFileAsync Method " Url="html/M_InTheHand_System_Launcher_LaunchFileAsync.htm" />
           <HelpTOCNode Title="LaunchFolderAsync Method " Url="html/M_InTheHand_System_Launcher_LaunchFolderAsync.htm" />
           <HelpTOCNode Title="LaunchUriAsync Method " Url="html/M_InTheHand_System_Launcher_LaunchUriAsync.htm" />
           <HelpTOCNode Title="QueryUriSupportAsync Method " Url="html/M_InTheHand_System_Launcher_QueryUriSupportAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e81f2aff-8995-491f-91d8-9096e84850c2" Title="LauncherOptions Class" Url="html/T_InTheHand_System_LauncherOptions.htm">
+      <HelpTOCNode Id="54e96960-0dea-4ddd-99e6-c3afd0638403" Title="LauncherOptions Class" Url="html/T_InTheHand_System_LauncherOptions.htm">
         <HelpTOCNode Title="LauncherOptions Constructor " Url="html/M_InTheHand_System_LauncherOptions__ctor.htm" />
         <HelpTOCNode Title="LauncherOptions Methods" Url="html/Methods_T_InTheHand_System_LauncherOptions.htm" />
       </HelpTOCNode>
@@ -889,101 +892,101 @@
       <HelpTOCNode Title="LaunchQuerySupportType Enumeration" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
       <HelpTOCNode Title="ProcessorArchitecture Enumeration" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e0c98a28-f980-4c3b-be8e-3247043276c7" Title="InTheHand.System.Display" Url="html/N_InTheHand_System_Display.htm">
-      <HelpTOCNode Id="0cb68adc-4da2-4b9b-a651-053ae43ca731" Title="DisplayRequest Class" Url="html/T_InTheHand_System_Display_DisplayRequest.htm">
+    <HelpTOCNode Id="9d38b9c8-ac77-48bd-ac9c-72443faf7da9" Title="InTheHand.System.Display" Url="html/N_InTheHand_System_Display.htm">
+      <HelpTOCNode Id="0e8b15b0-fc4d-4f95-8455-37de0f14c3b1" Title="DisplayRequest Class" Url="html/T_InTheHand_System_Display_DisplayRequest.htm">
         <HelpTOCNode Title="DisplayRequest Constructor " Url="html/M_InTheHand_System_Display_DisplayRequest__ctor.htm" />
-        <HelpTOCNode Id="095b11da-4833-4c31-b4ce-6b069c496120" Title="DisplayRequest Methods" Url="html/Methods_T_InTheHand_System_Display_DisplayRequest.htm">
+        <HelpTOCNode Id="9ddd2175-c900-4cbf-8e1c-9d2a6e2c2e89" Title="DisplayRequest Methods" Url="html/Methods_T_InTheHand_System_Display_DisplayRequest.htm">
           <HelpTOCNode Title="RequestActive Method " Url="html/M_InTheHand_System_Display_DisplayRequest_RequestActive.htm" />
           <HelpTOCNode Title="RequestRelease Method " Url="html/M_InTheHand_System_Display_DisplayRequest_RequestRelease.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c4551df9-44f8-4d21-b500-c410d7d35b93" Title="InTheHand.System.Power" Url="html/N_InTheHand_System_Power.htm">
+    <HelpTOCNode Id="d92d2c4c-5d54-439c-88fb-15a0548adfaa" Title="InTheHand.System.Power" Url="html/N_InTheHand_System_Power.htm">
       <HelpTOCNode Title="BatteryStatus Enumeration" Url="html/T_InTheHand_System_Power_BatteryStatus.htm" />
       <HelpTOCNode Title="EnergySaverStatus Enumeration" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
-      <HelpTOCNode Id="5f71fe38-8e29-4343-83d8-32fc93e1d790" Title="PowerManager Class" Url="html/T_InTheHand_System_Power_PowerManager.htm">
-        <HelpTOCNode Id="0bbf01e2-9ced-4a35-8935-285e2b89f867" Title="PowerManager Properties" Url="html/Properties_T_InTheHand_System_Power_PowerManager.htm">
+      <HelpTOCNode Id="460bc5c8-c9e7-4cea-864d-83412c92019a" Title="PowerManager Class" Url="html/T_InTheHand_System_Power_PowerManager.htm">
+        <HelpTOCNode Id="a48abe3f-548f-4d69-8712-e3415d193169" Title="PowerManager Properties" Url="html/Properties_T_InTheHand_System_Power_PowerManager.htm">
           <HelpTOCNode Title="BatteryStatus Property " Url="html/P_InTheHand_System_Power_PowerManager_BatteryStatus.htm" />
           <HelpTOCNode Title="EnergySaverStatus Property " Url="html/P_InTheHand_System_Power_PowerManager_EnergySaverStatus.htm" />
           <HelpTOCNode Title="PowerSupplyStatus Property " Url="html/P_InTheHand_System_Power_PowerManager_PowerSupplyStatus.htm" />
           <HelpTOCNode Title="RemainingChargePercent Property " Url="html/P_InTheHand_System_Power_PowerManager_RemainingChargePercent.htm" />
           <HelpTOCNode Title="RemainingDischargeTime Property " Url="html/P_InTheHand_System_Power_PowerManager_RemainingDischargeTime.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a43ae1a6-3c8c-4886-bb9f-e9bbb116b2d7" Title="PowerManager Events" Url="html/Events_T_InTheHand_System_Power_PowerManager.htm">
+        <HelpTOCNode Id="0d59d233-a23d-45b0-83d5-5122ee13c260" Title="PowerManager Events" Url="html/Events_T_InTheHand_System_Power_PowerManager.htm">
           <HelpTOCNode Title="RemainingChargePercentChanged Event" Url="html/E_InTheHand_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="PowerSupplyStatus Enumeration" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="52503758-2baf-4f2e-8902-f96d277f8a49" Title="InTheHand.System.Profile" Url="html/N_InTheHand_System_Profile.htm">
-      <HelpTOCNode Id="e9a4d8b4-583f-400e-a1d4-55ea61918e42" Title="AnalyticsInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm">
-        <HelpTOCNode Id="7b22233b-5d76-4b7a-b31c-99b549b40db8" Title="AnalyticsInfo Properties" Url="html/Properties_T_InTheHand_System_Profile_AnalyticsInfo.htm">
+    <HelpTOCNode Id="bb9ba430-fb41-43a7-aaaa-9aca347bce2c" Title="InTheHand.System.Profile" Url="html/N_InTheHand_System_Profile.htm">
+      <HelpTOCNode Id="77e6be82-0f15-4f23-8535-df02cebe4a78" Title="AnalyticsInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm">
+        <HelpTOCNode Id="18de6b47-9896-4dd7-aac2-c82376482210" Title="AnalyticsInfo Properties" Url="html/Properties_T_InTheHand_System_Profile_AnalyticsInfo.htm">
           <HelpTOCNode Title="DeviceForm Property " Url="html/P_InTheHand_System_Profile_AnalyticsInfo_DeviceForm.htm" />
           <HelpTOCNode Title="VersionInfo Property " Url="html/P_InTheHand_System_Profile_AnalyticsInfo_VersionInfo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="73dd2e76-f6ad-4ae5-b6d6-e9d38732c343" Title="AnalyticsVersionInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsVersionInfo.htm">
-        <HelpTOCNode Id="c2ef4bb6-af29-4380-b202-90d2255f3e8a" Title="AnalyticsVersionInfo Properties" Url="html/Properties_T_InTheHand_System_Profile_AnalyticsVersionInfo.htm">
+      <HelpTOCNode Id="3f44253e-0e1f-4026-b772-11f1ada9f886" Title="AnalyticsVersionInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsVersionInfo.htm">
+        <HelpTOCNode Id="c17445a8-23af-4aea-a5a9-8ff51893f027" Title="AnalyticsVersionInfo Properties" Url="html/Properties_T_InTheHand_System_Profile_AnalyticsVersionInfo.htm">
           <HelpTOCNode Title="DeviceFamily Property " Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
           <HelpTOCNode Title="DeviceFamilyVersion Property " Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="AnalyticsVersionInfo Methods" Url="html/Methods_T_InTheHand_System_Profile_AnalyticsVersionInfo.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f1192816-89e9-4a1f-91b9-a704897973d6" Title="InTheHand.UI.ApplicationSettings" Url="html/N_InTheHand_UI_ApplicationSettings.htm">
-      <HelpTOCNode Id="93103020-eafc-4c02-b56c-1fee10cde8be" Title="SettingsCommand Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm">
+    <HelpTOCNode Id="8b101d79-b202-4f69-8f51-ce7f488519bc" Title="InTheHand.UI.ApplicationSettings" Url="html/N_InTheHand_UI_ApplicationSettings.htm">
+      <HelpTOCNode Id="63bffa76-b436-4644-a540-9b4a7fd91939" Title="SettingsCommand Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm">
         <HelpTOCNode Title="SettingsCommand Constructor " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsCommand__ctor.htm" />
-        <HelpTOCNode Id="48d9419b-0c04-4082-b888-900c49a72c60" Title="SettingsCommand Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm">
+        <HelpTOCNode Id="b4de8593-a00f-4977-9035-4b3e9b51e899" Title="SettingsCommand Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsCommand_Id.htm" />
           <HelpTOCNode Title="Invoked Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsCommand_Invoked.htm" />
           <HelpTOCNode Title="Label Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsCommand_Label.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SettingsCommand Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7737e78c-c33e-42e4-b7de-92ee1e303d5c" Title="SettingsPane Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
-        <HelpTOCNode Id="6a01b40a-36d4-496e-a835-caf974d5e8b5" Title="SettingsPane Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
+      <HelpTOCNode Id="accf20f4-90a1-4fa9-bf12-637679c9c210" Title="SettingsPane Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
+        <HelpTOCNode Id="38594abf-adc1-4a1c-a631-7e670462323a" Title="SettingsPane Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
           <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_GetForCurrentView.htm" />
           <HelpTOCNode Title="Show Method " Url="html/M_InTheHand_UI_ApplicationSettings_SettingsPane_Show.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c47e3e98-db92-4701-8b4c-912fc120ac2c" Title="SettingsPane Events" Url="html/Events_T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
+        <HelpTOCNode Id="5beb3c59-de38-469e-9b45-2fdb27c3d71f" Title="SettingsPane Events" Url="html/Events_T_InTheHand_UI_ApplicationSettings_SettingsPane.htm">
           <HelpTOCNode Title="CommandsRequested Event" Url="html/E_InTheHand_UI_ApplicationSettings_SettingsPane_CommandsRequested.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="566b844e-80e9-409c-b9b9-98a8d9c66b79" Title="SettingsPaneCommandsRequest Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest.htm">
-        <HelpTOCNode Id="b4bb054e-d2c0-4278-be30-796f6f962f2b" Title="SettingsPaneCommandsRequest Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest.htm">
+      <HelpTOCNode Id="27b38387-5575-460c-8bf5-db20efcbb652" Title="SettingsPaneCommandsRequest Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest.htm">
+        <HelpTOCNode Id="96d9af4c-170e-4cd6-8d81-b7c9714dd88c" Title="SettingsPaneCommandsRequest Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest.htm">
           <HelpTOCNode Title="ApplicationCommands Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest_ApplicationCommands.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SettingsPaneCommandsRequest Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequest.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6a5950b2-b212-4d07-b812-b979230fffa3" Title="SettingsPaneCommandsRequestedEventArgs Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs.htm">
-        <HelpTOCNode Id="8fb801a1-4667-4cc9-bfd6-91731f9198fe" Title="SettingsPaneCommandsRequestedEventArgs Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs.htm">
+      <HelpTOCNode Id="42ad4bcd-2448-4044-9d36-3c3b72ed0b66" Title="SettingsPaneCommandsRequestedEventArgs Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs.htm">
+        <HelpTOCNode Id="96c1ec8d-6f6c-4740-83f0-9e0d67fbde6c" Title="SettingsPaneCommandsRequestedEventArgs Properties" Url="html/Properties_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs.htm">
           <HelpTOCNode Title="Request Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs_Request.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SettingsPaneCommandsRequestedEventArgs Methods" Url="html/Methods_T_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e1c15d6b-9383-4ff7-a25e-d649aa6d89a8" Title="InTheHand.UI.Notifications" Url="html/N_InTheHand_UI_Notifications.htm">
-      <HelpTOCNode Id="09ab059d-e0dd-4884-bcb2-c66fff5e6206" Title="BadgeNotification Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotification.htm">
+    <HelpTOCNode Id="96bef3f7-3eb3-4271-a76b-ea3b227ae09d" Title="InTheHand.UI.Notifications" Url="html/N_InTheHand_UI_Notifications.htm">
+      <HelpTOCNode Id="e6124e9c-8271-4cf0-91b8-7981b4f8d4a9" Title="BadgeNotification Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotification.htm">
         <HelpTOCNode Title="BadgeNotification Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeNotification.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5d17e687-74df-4dda-9020-9fac490ebf3a" Title="BadgeNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
-        <HelpTOCNode Id="9e10e1e9-b4b3-4074-9b4e-c77d9efc16f4" Title="BadgeNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
+      <HelpTOCNode Id="29c55023-95f8-445e-9ce5-b1facef7c1d2" Title="BadgeNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
+        <HelpTOCNode Id="1d8df3ed-0b75-4be7-98ab-82ef2665e405" Title="BadgeNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeNotificationCreator.htm">
           <HelpTOCNode Title="CreateBadgeNotification Method " Url="html/M_InTheHand_UI_Notifications_BadgeNotificationCreator_CreateBadgeNotification.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7b891e16-59a1-41bb-8cb1-f4ef97845cbd" Title="BadgeUpdateManager Class" Url="html/T_InTheHand_UI_Notifications_BadgeUpdateManager.htm">
-        <HelpTOCNode Id="c1382280-af59-402f-8d2d-ebe729fbf308" Title="BadgeUpdateManager Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeUpdateManager.htm">
+      <HelpTOCNode Id="cc37681f-a520-495c-aa15-3deaef6138a9" Title="BadgeUpdateManager Class" Url="html/T_InTheHand_UI_Notifications_BadgeUpdateManager.htm">
+        <HelpTOCNode Id="1c9ca6bc-9bcb-40dd-ae7d-3363bc49a6e4" Title="BadgeUpdateManager Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeUpdateManager.htm">
           <HelpTOCNode Title="CreateBadgeUpdaterForApplication Method " Url="html/M_InTheHand_UI_Notifications_BadgeUpdateManager_CreateBadgeUpdaterForApplication.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="91235efa-7318-43be-babc-496adb98152b" Title="BadgeUpdater Class" Url="html/T_InTheHand_UI_Notifications_BadgeUpdater.htm">
-        <HelpTOCNode Id="2dce61de-4395-4cdd-ab33-b0c46e7cd88c" Title="BadgeUpdater Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeUpdater.htm">
+      <HelpTOCNode Id="8dfc42ed-1c0b-4c6f-be6b-31cda00df4bc" Title="BadgeUpdater Class" Url="html/T_InTheHand_UI_Notifications_BadgeUpdater.htm">
+        <HelpTOCNode Id="7e36d285-556a-45cc-913d-bddc4067a015" Title="BadgeUpdater Methods" Url="html/Methods_T_InTheHand_UI_Notifications_BadgeUpdater.htm">
           <HelpTOCNode Title="Clear Method " Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Clear.htm" />
           <HelpTOCNode Title="Update Method " Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Update.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="147d65cb-37b5-490e-80ae-93a49dea7d3f" Title="ScheduledToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ScheduledToastNotification.htm">
-        <HelpTOCNode Id="8a7da4ba-600a-4d75-b5f6-2eb9ffc12a2d" Title="ScheduledToastNotification Properties" Url="html/Properties_T_InTheHand_UI_Notifications_ScheduledToastNotification.htm">
+      <HelpTOCNode Id="436452d7-a6ea-486e-b43a-92cb5a707d30" Title="ScheduledToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ScheduledToastNotification.htm">
+        <HelpTOCNode Id="bb901bac-546e-4cc8-bb1a-b047c2acf973" Title="ScheduledToastNotification Properties" Url="html/Properties_T_InTheHand_UI_Notifications_ScheduledToastNotification.htm">
           <HelpTOCNode Title="DeliveryTime Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_DeliveryTime.htm" />
           <HelpTOCNode Title="Group Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_Group.htm" />
           <HelpTOCNode Title="SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
@@ -991,27 +994,27 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ScheduledToastNotification Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ScheduledToastNotification.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="324d7470-4f12-4649-8714-423ef9378104" Title="ToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ToastNotification.htm">
-        <HelpTOCNode Id="cd7bf7fc-8b6f-48dd-bcb5-c1015e82d60c" Title="ToastNotification Properties" Url="html/Properties_T_InTheHand_UI_Notifications_ToastNotification.htm">
+      <HelpTOCNode Id="4cbc3084-0a64-4740-9a8a-c2791d424a2d" Title="ToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ToastNotification.htm">
+        <HelpTOCNode Id="7d771de1-b24a-404d-ace2-c992432b2475" Title="ToastNotification Properties" Url="html/Properties_T_InTheHand_UI_Notifications_ToastNotification.htm">
           <HelpTOCNode Title="Group Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_Group.htm" />
           <HelpTOCNode Title="SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_SuppressPopup.htm" />
           <HelpTOCNode Title="Tag Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_Tag.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ToastNotification Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotification.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6479766b-b243-4532-a3bc-03bbefde0bb8" Title="ToastNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
-        <HelpTOCNode Id="817f4e92-1df2-412c-8eee-57cc7230807a" Title="ToastNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
+      <HelpTOCNode Id="5243b225-f367-4486-aae4-d31ecefde2b6" Title="ToastNotificationCreator Class" Url="html/T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
+        <HelpTOCNode Id="4f408ae0-24a2-423b-bec6-775e5e6fbc20" Title="ToastNotificationCreator Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotificationCreator.htm">
           <HelpTOCNode Title="CreateScheduledToastNotification Method " Url="html/M_InTheHand_UI_Notifications_ToastNotificationCreator_CreateScheduledToastNotification.htm" />
           <HelpTOCNode Title="CreateToastNotification Method " Url="html/M_InTheHand_UI_Notifications_ToastNotificationCreator_CreateToastNotification.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c295c980-9608-48a2-9e6f-3312911acfec" Title="ToastNotificationManager Class" Url="html/T_InTheHand_UI_Notifications_ToastNotificationManager.htm">
-        <HelpTOCNode Id="4e838a26-3ec7-4c61-bc6e-3e8ee581e942" Title="ToastNotificationManager Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotificationManager.htm">
+      <HelpTOCNode Id="dea8b962-cae8-46f0-96a9-9bdbfd39894d" Title="ToastNotificationManager Class" Url="html/T_InTheHand_UI_Notifications_ToastNotificationManager.htm">
+        <HelpTOCNode Id="695b7b61-5ab8-42c6-b1b9-1a44e5a05dea" Title="ToastNotificationManager Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotificationManager.htm">
           <HelpTOCNode Title="CreateToastNotifierForApplication Method " Url="html/M_InTheHand_UI_Notifications_ToastNotificationManager_CreateToastNotifierForApplication.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2eecd8fa-6ebc-4c57-a21d-c51cc97a78fc" Title="ToastNotifier Class" Url="html/T_InTheHand_UI_Notifications_ToastNotifier.htm">
-        <HelpTOCNode Id="27765845-cd16-4af2-ac46-f7eabcb39fa6" Title="ToastNotifier Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotifier.htm">
+      <HelpTOCNode Id="dc22c2bf-c2dc-482b-9b3a-8888e858b19a" Title="ToastNotifier Class" Url="html/T_InTheHand_UI_Notifications_ToastNotifier.htm">
+        <HelpTOCNode Id="c5e8d3cf-1b36-4459-93c3-482150be09fc" Title="ToastNotifier Methods" Url="html/Methods_T_InTheHand_UI_Notifications_ToastNotifier.htm">
           <HelpTOCNode Title="AddToSchedule Method " Url="html/M_InTheHand_UI_Notifications_ToastNotifier_AddToSchedule.htm" />
           <HelpTOCNode Title="Hide Method " Url="html/M_InTheHand_UI_Notifications_ToastNotifier_Hide.htm" />
           <HelpTOCNode Title="RemoveFromSchedule Method " Url="html/M_InTheHand_UI_Notifications_ToastNotifier_RemoveFromSchedule.htm" />
@@ -1019,51 +1022,51 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="50b1afc8-09d0-45e5-bb7d-113f668c3e5c" Title="InTheHand.UI.Popups" Url="html/N_InTheHand_UI_Popups.htm">
-      <HelpTOCNode Id="db0aeae6-4142-4478-97ab-8c28bf3c8e2e" Title="IUICommand Interface" Url="html/T_InTheHand_UI_Popups_IUICommand.htm">
-        <HelpTOCNode Id="f59a50bc-685f-4be6-8e67-16ca1db1c6af" Title="IUICommand Properties" Url="html/Properties_T_InTheHand_UI_Popups_IUICommand.htm">
+    <HelpTOCNode Id="40ba83a0-5bd9-467f-b856-4638fcd59f54" Title="InTheHand.UI.Popups" Url="html/N_InTheHand_UI_Popups.htm">
+      <HelpTOCNode Id="33cac53a-94dc-4e6b-9471-e5152588c2e7" Title="IUICommand Interface" Url="html/T_InTheHand_UI_Popups_IUICommand.htm">
+        <HelpTOCNode Id="eb581941-bb4d-496f-9ca7-a839f623b820" Title="IUICommand Properties" Url="html/Properties_T_InTheHand_UI_Popups_IUICommand.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_UI_Popups_IUICommand_Id.htm" />
           <HelpTOCNode Title="Invoked Property " Url="html/P_InTheHand_UI_Popups_IUICommand_Invoked.htm" />
           <HelpTOCNode Title="Label Property " Url="html/P_InTheHand_UI_Popups_IUICommand_Label.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a860724b-ea28-43c7-934f-86399fecc046" Title="MessageDialog Class" Url="html/T_InTheHand_UI_Popups_MessageDialog.htm">
-        <HelpTOCNode Id="fefa8364-8a46-49e1-b097-5b811b97a9a1" Title="MessageDialog Constructor " Url="html/Overload_InTheHand_UI_Popups_MessageDialog__ctor.htm">
+      <HelpTOCNode Id="41392e77-f4a0-469b-a8ea-14de8a5336e8" Title="MessageDialog Class" Url="html/T_InTheHand_UI_Popups_MessageDialog.htm">
+        <HelpTOCNode Id="530bc447-c883-46cd-8582-dc67fe2eb959" Title="MessageDialog Constructor " Url="html/Overload_InTheHand_UI_Popups_MessageDialog__ctor.htm">
           <HelpTOCNode Title="MessageDialog Constructor (String)" Url="html/M_InTheHand_UI_Popups_MessageDialog__ctor.htm" />
           <HelpTOCNode Title="MessageDialog Constructor (String, String)" Url="html/M_InTheHand_UI_Popups_MessageDialog__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4ac4e6a3-7f26-432c-bb33-a347ae785c09" Title="MessageDialog Properties" Url="html/Properties_T_InTheHand_UI_Popups_MessageDialog.htm">
+        <HelpTOCNode Id="37cfe995-ed4c-48f5-9ea3-8303a15535f3" Title="MessageDialog Properties" Url="html/Properties_T_InTheHand_UI_Popups_MessageDialog.htm">
           <HelpTOCNode Title="CancelCommandIndex Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_CancelCommandIndex.htm" />
           <HelpTOCNode Title="Commands Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_Commands.htm" />
           <HelpTOCNode Title="Content Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_Content.htm" />
           <HelpTOCNode Title="DefaultCommandIndex Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
           <HelpTOCNode Title="Title Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_Title.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f74fd001-0c2c-4d5f-900e-23c9bd430a5c" Title="MessageDialog Methods" Url="html/Methods_T_InTheHand_UI_Popups_MessageDialog.htm">
+        <HelpTOCNode Id="2ce34861-dd29-4c14-88d9-d120be0fb1c8" Title="MessageDialog Methods" Url="html/Methods_T_InTheHand_UI_Popups_MessageDialog.htm">
           <HelpTOCNode Title="ShowAsync Method " Url="html/M_InTheHand_UI_Popups_MessageDialog_ShowAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="Placement Enumeration" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
-      <HelpTOCNode Id="d0c26d36-85a0-446e-acfc-c03c164b412b" Title="PopupMenu Class" Url="html/T_InTheHand_UI_Popups_PopupMenu.htm">
+      <HelpTOCNode Id="0fd06091-422a-422b-bc7e-3a0b3e587641" Title="PopupMenu Class" Url="html/T_InTheHand_UI_Popups_PopupMenu.htm">
         <HelpTOCNode Title="PopupMenu Constructor " Url="html/M_InTheHand_UI_Popups_PopupMenu__ctor.htm" />
-        <HelpTOCNode Id="c693b200-b9ad-431d-ac0e-6ec09111ce3a" Title="PopupMenu Properties" Url="html/Properties_T_InTheHand_UI_Popups_PopupMenu.htm">
+        <HelpTOCNode Id="be6ab3fe-a80f-4f3d-9e5a-c1903b9535d8" Title="PopupMenu Properties" Url="html/Properties_T_InTheHand_UI_Popups_PopupMenu.htm">
           <HelpTOCNode Title="Commands Property " Url="html/P_InTheHand_UI_Popups_PopupMenu_Commands.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f0bb4951-a360-44fa-b295-3464a03c7b16" Title="PopupMenu Methods" Url="html/Methods_T_InTheHand_UI_Popups_PopupMenu.htm">
+        <HelpTOCNode Id="8d3d0b7f-9ac9-447a-af64-a5df8a706d54" Title="PopupMenu Methods" Url="html/Methods_T_InTheHand_UI_Popups_PopupMenu.htm">
           <HelpTOCNode Title="ShowAsync Method " Url="html/M_InTheHand_UI_Popups_PopupMenu_ShowAsync.htm" />
-          <HelpTOCNode Id="74846eec-3af0-4d1d-a6bd-c86ff9b16e41" Title="ShowForSelectionAsync Method " Url="html/Overload_InTheHand_UI_Popups_PopupMenu_ShowForSelectionAsync.htm">
+          <HelpTOCNode Id="0bde3c4a-5511-43fb-a583-2491832e0d5a" Title="ShowForSelectionAsync Method " Url="html/Overload_InTheHand_UI_Popups_PopupMenu_ShowForSelectionAsync.htm">
             <HelpTOCNode Title="ShowForSelectionAsync Method (Rect)" Url="html/M_InTheHand_UI_Popups_PopupMenu_ShowForSelectionAsync.htm" />
             <HelpTOCNode Title="ShowForSelectionAsync Method (Rect, Placement)" Url="html/M_InTheHand_UI_Popups_PopupMenu_ShowForSelectionAsync_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="098fb0bc-1d80-4d46-9634-ee0fb5fdce9b" Title="UICommand Class" Url="html/T_InTheHand_UI_Popups_UICommand.htm">
-        <HelpTOCNode Id="9923eca6-e91d-4905-b2cd-ba581a130ac0" Title="UICommand Constructor " Url="html/Overload_InTheHand_UI_Popups_UICommand__ctor.htm">
+      <HelpTOCNode Id="84bc3607-bc4b-4242-b9ea-40e1892eb8ad" Title="UICommand Class" Url="html/T_InTheHand_UI_Popups_UICommand.htm">
+        <HelpTOCNode Id="7c5e9acb-a9fa-4d7d-b708-6db5f6ce99b1" Title="UICommand Constructor " Url="html/Overload_InTheHand_UI_Popups_UICommand__ctor.htm">
           <HelpTOCNode Title="UICommand Constructor " Url="html/M_InTheHand_UI_Popups_UICommand__ctor.htm" />
           <HelpTOCNode Title="UICommand Constructor (String, UICommandInvokedHandler)" Url="html/M_InTheHand_UI_Popups_UICommand__ctor_1.htm" />
           <HelpTOCNode Title="UICommand Constructor (String, UICommandInvokedHandler, Object)" Url="html/M_InTheHand_UI_Popups_UICommand__ctor_2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="779f836a-bd09-45a4-a43f-70f77da8db5b" Title="UICommand Properties" Url="html/Properties_T_InTheHand_UI_Popups_UICommand.htm">
+        <HelpTOCNode Id="c26b8e43-43b5-493b-9e92-c1ea9118d0de" Title="UICommand Properties" Url="html/Properties_T_InTheHand_UI_Popups_UICommand.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_InTheHand_UI_Popups_UICommand_Id.htm" />
           <HelpTOCNode Title="Invoked Property " Url="html/P_InTheHand_UI_Popups_UICommand_Invoked.htm" />
           <HelpTOCNode Title="Label Property " Url="html/P_InTheHand_UI_Popups_UICommand_Label.htm" />
@@ -1072,42 +1075,45 @@
       </HelpTOCNode>
       <HelpTOCNode Title="UICommandInvokedHandler Delegate" Url="html/T_InTheHand_UI_Popups_UICommandInvokedHandler.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a6c4da07-ea7a-42ca-8d0c-ba5a3d3487d0" Title="InTheHand.UI.ViewManagement" Url="html/N_InTheHand_UI_ViewManagement.htm">
-      <HelpTOCNode Id="bcf27b9d-a07d-4739-b70d-2614e474e3b5" Title="StatusBar Class" Url="html/T_InTheHand_UI_ViewManagement_StatusBar.htm">
-        <HelpTOCNode Id="73b40ed6-7e8b-46c7-9f27-8f54177c1812" Title="StatusBar Properties" Url="html/Properties_T_InTheHand_UI_ViewManagement_StatusBar.htm">
+    <HelpTOCNode Id="5ab8cace-1ad7-453a-9628-01d5aaf572f9" Title="InTheHand.UI.ViewManagement" Url="html/N_InTheHand_UI_ViewManagement.htm">
+      <HelpTOCNode Id="ff602569-0fc1-4cb0-b847-e9bdbd846e5a" Title="StatusBar Class" Url="html/T_InTheHand_UI_ViewManagement_StatusBar.htm">
+        <HelpTOCNode Id="e4bb1db4-8bad-417b-a2e4-95b8647a0d1e" Title="StatusBar Properties" Url="html/Properties_T_InTheHand_UI_ViewManagement_StatusBar.htm">
           <HelpTOCNode Title="ProgressIndicator Property " Url="html/P_InTheHand_UI_ViewManagement_StatusBar_ProgressIndicator.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="313acba7-c5b9-429c-8d73-a025d62b6028" Title="StatusBar Methods" Url="html/Methods_T_InTheHand_UI_ViewManagement_StatusBar.htm">
+        <HelpTOCNode Id="bba6f3bc-4f76-45ed-bfb3-bfb1b8463e2f" Title="StatusBar Methods" Url="html/Methods_T_InTheHand_UI_ViewManagement_StatusBar.htm">
           <HelpTOCNode Title="GetForCurrentView Method " Url="html/M_InTheHand_UI_ViewManagement_StatusBar_GetForCurrentView.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f10bdbc8-9b3c-4303-ac15-faf69cc1beb6" Title="StatusBarProgressIndicator Class" Url="html/T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm">
-        <HelpTOCNode Id="0eef5a8c-bc3e-47a7-b98d-56cabd68448f" Title="StatusBarProgressIndicator Methods" Url="html/Methods_T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm">
+      <HelpTOCNode Id="e44e60e8-d269-4ddf-901b-dc2c07268649" Title="StatusBarProgressIndicator Class" Url="html/T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm">
+        <HelpTOCNode Id="5e817002-96e2-4ac8-9fb8-f26ef7f84d0b" Title="StatusBarProgressIndicator Properties" Url="html/Properties_T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm">
+          <HelpTOCNode Title="ProgressValue Property " Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ProgressValue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1be838b0-bdab-4248-93e7-851d46c2143b" Title="StatusBarProgressIndicator Methods" Url="html/Methods_T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm">
           <HelpTOCNode Title="HideAsync Method " Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
           <HelpTOCNode Title="ShowAsync Method " Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ShowAsync.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9be259cd-d023-4d81-85f8-6504e7b8ddfb" Title="InTheHand.UI.Xaml" Url="html/N_InTheHand_UI_Xaml.htm">
-      <HelpTOCNode Id="77fe195d-272e-44c8-ad01-fe007c9319f6" Title="DispatcherTimer Class" Url="html/T_InTheHand_UI_Xaml_DispatcherTimer.htm">
+    <HelpTOCNode Id="44726ab4-a01b-459e-a105-bc46b8046022" Title="InTheHand.UI.Xaml" Url="html/N_InTheHand_UI_Xaml.htm">
+      <HelpTOCNode Id="f27fcf91-0e88-4a09-b00d-8c861381f8fc" Title="DispatcherTimer Class" Url="html/T_InTheHand_UI_Xaml_DispatcherTimer.htm">
         <HelpTOCNode Title="DispatcherTimer Constructor " Url="html/M_InTheHand_UI_Xaml_DispatcherTimer__ctor.htm" />
-        <HelpTOCNode Id="d35f0da5-8534-4796-862b-5add43636eca" Title="DispatcherTimer Properties" Url="html/Properties_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
+        <HelpTOCNode Id="2f02f439-7fbc-4ca4-a046-2bb641db7533" Title="DispatcherTimer Properties" Url="html/Properties_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
           <HelpTOCNode Title="Interval Property " Url="html/P_InTheHand_UI_Xaml_DispatcherTimer_Interval.htm" />
           <HelpTOCNode Title="IsEnabled Property " Url="html/P_InTheHand_UI_Xaml_DispatcherTimer_IsEnabled.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9450072e-62c7-4405-9842-91a28befd376" Title="DispatcherTimer Methods" Url="html/Methods_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
+        <HelpTOCNode Id="93d72206-39fc-454e-bafb-110651b41dc9" Title="DispatcherTimer Methods" Url="html/Methods_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
           <HelpTOCNode Title="Start Method " Url="html/M_InTheHand_UI_Xaml_DispatcherTimer_Start.htm" />
           <HelpTOCNode Title="Stop Method " Url="html/M_InTheHand_UI_Xaml_DispatcherTimer_Stop.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="61b12c3e-25f1-4eff-ad39-b3f4161871e1" Title="DispatcherTimer Events" Url="html/Events_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
+        <HelpTOCNode Id="8c60805a-1485-4175-8716-a8530abaccf2" Title="DispatcherTimer Events" Url="html/Events_T_InTheHand_UI_Xaml_DispatcherTimer.htm">
           <HelpTOCNode Title="Tick Event" Url="html/E_InTheHand_UI_Xaml_DispatcherTimer_Tick.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4be14eb5-dc7c-43c1-84ae-43afd83986eb" Title="System" Url="html/N_System.htm">
-      <HelpTOCNode Id="3c91874c-a1e1-4734-8acb-380f271d8779" Title="OperatingSystem Class" Url="html/T_System_OperatingSystem.htm">
+    <HelpTOCNode Id="2dce6431-2085-4b99-954b-4057fed06102" Title="System" Url="html/N_System.htm">
+      <HelpTOCNode Id="e467ce13-7509-4e49-aa6f-b85be97115bf" Title="OperatingSystem Class" Url="html/T_System_OperatingSystem.htm">
         <HelpTOCNode Title="OperatingSystem Constructor " Url="html/M_System_OperatingSystem__ctor.htm" />
-        <HelpTOCNode Id="971283c8-f244-41f2-936c-50bf1f6d8519" Title="OperatingSystem Properties" Url="html/Properties_T_System_OperatingSystem.htm">
+        <HelpTOCNode Id="63a5d53e-bc5f-49c7-aefe-ddcd2a568514" Title="OperatingSystem Properties" Url="html/Properties_T_System_OperatingSystem.htm">
           <HelpTOCNode Title="Platform Property " Url="html/P_System_OperatingSystem_Platform.htm" />
           <HelpTOCNode Title="Version Property " Url="html/P_System_OperatingSystem_Version.htm" />
         </HelpTOCNode>
@@ -1115,21 +1121,21 @@
       </HelpTOCNode>
       <HelpTOCNode Title="PlatformID Enumeration" Url="html/T_System_PlatformID.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fecb22af-83a9-48b3-af68-f7ff9362253a" Title="System.Collections.Generic" Url="html/N_System_Collections_Generic.htm">
-      <HelpTOCNode Id="8b812b94-45d3-4351-bc41-b47c2e42ab1a" Title="InTheHandListExtensions Class" Url="html/T_System_Collections_Generic_InTheHandListExtensions.htm">
-        <HelpTOCNode Id="12f2777a-d77c-43a5-9927-cfec633e5c95" Title="InTheHandListExtensions Methods" Url="html/Methods_T_System_Collections_Generic_InTheHandListExtensions.htm">
+    <HelpTOCNode Id="9d062bcb-f30a-4c46-94dd-a866d766cc81" Title="System.Collections.Generic" Url="html/N_System_Collections_Generic.htm">
+      <HelpTOCNode Id="b3bbcf76-6c58-42bc-be4d-101f32939857" Title="InTheHandListExtensions Class" Url="html/T_System_Collections_Generic_InTheHandListExtensions.htm">
+        <HelpTOCNode Id="0a064331-46a0-463b-84ef-0b5cfa5e9327" Title="InTheHandListExtensions Methods" Url="html/Methods_T_System_Collections_Generic_InTheHandListExtensions.htm">
           <HelpTOCNode Title="AsReadOnly(T) Method " Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="20d57ef8-5107-4224-963a-b03f0cb0e985" Title="System.IO" Url="html/N_System_IO.htm">
-      <HelpTOCNode Id="14dc65c5-72e4-42b3-83aa-3d4a271b7cfe" Title="InTheHandRuntimeStorageExtensions Class" Url="html/T_System_IO_InTheHandRuntimeStorageExtensions.htm">
-        <HelpTOCNode Id="3eab9531-1c9e-438b-981f-eb73d8e62e75" Title="InTheHandRuntimeStorageExtensions Methods" Url="html/Methods_T_System_IO_InTheHandRuntimeStorageExtensions.htm">
-          <HelpTOCNode Id="0df5e109-0a9f-4935-9ada-d00a6e6c722d" Title="OpenStreamForReadAsync Method " Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForReadAsync.htm">
+    <HelpTOCNode Id="9cb71402-e783-4204-b3b6-296b8ff221c3" Title="System.IO" Url="html/N_System_IO.htm">
+      <HelpTOCNode Id="9923404e-11d2-446b-9911-147b2f763c1b" Title="InTheHandRuntimeStorageExtensions Class" Url="html/T_System_IO_InTheHandRuntimeStorageExtensions.htm">
+        <HelpTOCNode Id="0ee58296-755f-477d-8d10-c22a999c1d4d" Title="InTheHandRuntimeStorageExtensions Methods" Url="html/Methods_T_System_IO_InTheHandRuntimeStorageExtensions.htm">
+          <HelpTOCNode Id="8294b29d-325e-4675-9c03-22a8ccc787e8" Title="OpenStreamForReadAsync Method " Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForReadAsync.htm">
             <HelpTOCNode Title="OpenStreamForReadAsync Method (IStorageFile)" Url="html/M_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForReadAsync.htm" />
             <HelpTOCNode Title="OpenStreamForReadAsync Method (IStorageFolder, String)" Url="html/M_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForReadAsync_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="cd3f538d-d602-4ec3-92da-eb013c128a60" Title="OpenStreamForWriteAsync Method " Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForWriteAsync.htm">
+          <HelpTOCNode Id="9bb059b1-1a72-4bb0-b5ab-994ef8db3671" Title="OpenStreamForWriteAsync Method " Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForWriteAsync.htm">
             <HelpTOCNode Title="OpenStreamForWriteAsync Method (IStorageFile)" Url="html/M_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForWriteAsync.htm" />
             <HelpTOCNode Title="OpenStreamForWriteAsync Method (IStorageFolder, String, CreationCollisionOption)" Url="html/M_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForWriteAsync_1.htm" />
           </HelpTOCNode>

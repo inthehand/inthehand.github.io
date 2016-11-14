@@ -43,6 +43,7 @@
   <HelpKINode Title="Adequate enumeration member" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
   <HelpKINode Title="Altitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Altitude.htm" />
   <HelpKINode Title="AltitudeAccuracy property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_AltitudeAccuracy.htm" />
+  <HelpKINode Title="Always enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
   <HelpKINode Title="AnalyticsInfo class">
     <HelpKINode Title="AnalyticsInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm" />
     <HelpKINode Title="about AnalyticsInfo class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm" />
@@ -103,6 +104,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Storage_ApplicationDataContainer.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Storage_ApplicationDataContainer.htm" />
   </HelpKINode>
+  <HelpKINode Title="ApplicationDataContainer.CreateContainer method" Url="html/M_InTheHand_Storage_ApplicationDataContainer_CreateContainer.htm" />
   <HelpKINode Title="ApplicationDataContainer.Locality property" Url="html/P_InTheHand_Storage_ApplicationDataContainer_Locality.htm" />
   <HelpKINode Title="ApplicationDataContainer.Name property" Url="html/P_InTheHand_Storage_ApplicationDataContainer_Name.htm" />
   <HelpKINode Title="ApplicationDataContainer.Values property" Url="html/P_InTheHand_Storage_ApplicationDataContainer_Values.htm" />
@@ -126,6 +128,7 @@
   <HelpKINode Title="ApplicationDataContainerSettings.Remove method" Url="html/Overload_InTheHand_Storage_ApplicationDataContainerSettings_Remove.htm" />
   <HelpKINode Title="ApplicationDataContainerSettings.TryGetValue method" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
   <HelpKINode Title="ApplicationDataContainerSettings.Values property" Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Values.htm" />
+  <HelpKINode Title="ApplicationDataCreateDisposition enumeration" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
   <HelpKINode Title="ApplicationDataLocality enumeration" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="ApplicationLanguages class">
     <HelpKINode Title="ApplicationLanguages Class" Url="html/T_InTheHand_Globalization_ApplicationLanguages.htm" />
@@ -297,6 +300,7 @@
   <HelpKINode Title="Count property" Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Count.htm" />
   <HelpKINode Title="CreateBadgeNotification method" Url="html/M_InTheHand_UI_Notifications_BadgeNotificationCreator_CreateBadgeNotification.htm" />
   <HelpKINode Title="CreateBadgeUpdaterForApplication method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdateManager_CreateBadgeUpdaterForApplication.htm" />
+  <HelpKINode Title="CreateContainer method" Url="html/M_InTheHand_Storage_ApplicationDataContainer_CreateContainer.htm" />
   <HelpKINode Title="CreateFileAsync method">
     <HelpKINode Title="IStorageFolder.CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_IStorageFolder_CreateFileAsync.htm" />
     <HelpKINode Title="StorageFolder.CreateFileAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_CreateFileAsync.htm" />
@@ -562,6 +566,7 @@
   </HelpKINode>
   <HelpKINode Title="Environment.OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
   <HelpKINode Title="Equals method" Url="html/M_InTheHand_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
+  <HelpKINode Title="Existing enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
   <HelpKINode Title="Exited enumeration member">
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
@@ -972,6 +977,7 @@
   <HelpKINode Title="InTheHand.Storage.ApplicationData class" Url="html/T_InTheHand_Storage_ApplicationData.htm" />
   <HelpKINode Title="InTheHand.Storage.ApplicationDataContainer class" Url="html/T_InTheHand_Storage_ApplicationDataContainer.htm" />
   <HelpKINode Title="InTheHand.Storage.ApplicationDataContainerSettings class" Url="html/T_InTheHand_Storage_ApplicationDataContainerSettings.htm" />
+  <HelpKINode Title="InTheHand.Storage.ApplicationDataCreateDisposition enumeration" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
   <HelpKINode Title="InTheHand.Storage.ApplicationDataLocality enumeration" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="InTheHand.Storage.CreationCollisionOption enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
   <HelpKINode Title="InTheHand.Storage.FileAttributes enumeration" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
@@ -1459,6 +1465,7 @@
   <HelpKINode Title="PowerSupplyStatus property" Url="html/P_InTheHand_System_Power_PowerManager_PowerSupplyStatus.htm" />
   <HelpKINode Title="ProcessorArchitecture enumeration" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="ProgressIndicator property" Url="html/P_InTheHand_UI_ViewManagement_StatusBar_ProgressIndicator.htm" />
+  <HelpKINode Title="ProgressValue property" Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ProgressValue.htm" />
   <HelpKINode Title="Properties property">
     <HelpKINode Title="DataPackage.Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackage_Properties.htm" />
     <HelpKINode Title="DataPackageView.Properties Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_Properties.htm" />
@@ -1645,8 +1652,10 @@
     <HelpKINode Title="StatusBarProgressIndicator Class" Url="html/T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm" />
     <HelpKINode Title="about StatusBarProgressIndicator class" Url="html/T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_UI_ViewManagement_StatusBarProgressIndicator.htm" />
   </HelpKINode>
   <HelpKINode Title="StatusBarProgressIndicator.HideAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
+  <HelpKINode Title="StatusBarProgressIndicator.ProgressValue property" Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ProgressValue.htm" />
   <HelpKINode Title="StatusBarProgressIndicator.ShowAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ShowAsync.htm" />
   <HelpKINode Title="StatusChanged event">
     <HelpKINode Title="GeofenceMonitor.StatusChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_StatusChanged.htm" />
