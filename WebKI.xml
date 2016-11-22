@@ -151,6 +151,7 @@
     <HelpKINode Title="StorageFile.Attributes Property " Url="html/P_InTheHand_Storage_StorageFile_Attributes.htm" />
     <HelpKINode Title="StorageFolder.Attributes Property " Url="html/P_InTheHand_Storage_StorageFolder_Attributes.htm" />
   </HelpKINode>
+  <HelpKINode Title="AuthenticateAsync method" Url="html/Overload_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_AuthenticateAsync.htm" />
   <HelpKINode Title="Available enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="AvailableFormats property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_AvailableFormats.htm" />
   <HelpKINode Title="BadgeNotification class">
@@ -566,6 +567,7 @@
   </HelpKINode>
   <HelpKINode Title="Environment.OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
   <HelpKINode Title="Equals method" Url="html/M_InTheHand_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
+  <HelpKINode Title="ErrorHttp enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="Existing enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
   <HelpKINode Title="Exited enumeration member">
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
@@ -725,6 +727,7 @@
     <HelpKINode Title="StorageFolder.GetBasicPropertiesAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_GetBasicPropertiesAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="GetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
+  <HelpKINode Title="GetCurrentApplicationCallbackUri method" Url="html/M_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_GetCurrentApplicationCallbackUri.htm" />
   <HelpKINode Title="GetCurrentReading method">
     <HelpKINode Title="Accelerometer.GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Accelerometer_GetCurrentReading.htm" />
     <HelpKINode Title="Gyrometer.GetCurrentReading Method " Url="html/M_InTheHand_Devices_Sensors_Gyrometer_GetCurrentReading.htm" />
@@ -971,6 +974,11 @@
   <HelpKINode Title="InTheHand.Phone.Devices.Notification.VibrationDevice class" Url="html/T_InTheHand_Phone_Devices_Notification_VibrationDevice.htm" />
   <HelpKINode Title="InTheHand.Phone.System namespace" Url="html/N_InTheHand_Phone_System.htm" />
   <HelpKINode Title="InTheHand.Phone.System.SystemProtection class" Url="html/T_InTheHand_Phone_System_SystemProtection.htm" />
+  <HelpKINode Title="InTheHand.Security.Authentication.Web namespace" Url="html/N_InTheHand_Security_Authentication_Web.htm" />
+  <HelpKINode Title="InTheHand.Security.Authentication.Web.WebAuthenticationBroker class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationBroker.htm" />
+  <HelpKINode Title="InTheHand.Security.Authentication.Web.WebAuthenticationOptions enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationOptions.htm" />
+  <HelpKINode Title="InTheHand.Security.Authentication.Web.WebAuthenticationResult class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationResult.htm" />
+  <HelpKINode Title="InTheHand.Security.Authentication.Web.WebAuthenticationStatus enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="InTheHand.Security.ExchangeActivesyncProvisioning namespace" Url="html/N_InTheHand_Security_ExchangeActivesyncProvisioning.htm" />
   <HelpKINode Title="InTheHand.Security.ExchangeActivesyncProvisioning.EasClientDeviceInformation class" Url="html/T_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation.htm" />
   <HelpKINode Title="InTheHand.Storage namespace" Url="html/N_InTheHand_Storage.htm" />
@@ -1287,6 +1295,7 @@
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
     <HelpKINode Title="NetworkConnectivityLevel Enumeration" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
     <HelpKINode Title="StorageItemTypes Enumeration" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
+    <HelpKINode Title="WebAuthenticationOptions Enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationOptions.htm" />
   </HelpKINode>
   <HelpKINode Title="Normal enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
   <HelpKINode Title="NotAvailable enumeration member">
@@ -1344,6 +1353,7 @@
   <HelpKINode Title="PackageId.Architecture property" Url="html/P_InTheHand_ApplicationModel_PackageId_Architecture.htm" />
   <HelpKINode Title="PackageId.FullName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
   <HelpKINode Title="PackageId.Name property" Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
+  <HelpKINode Title="PackageId.ProductId property" Url="html/P_InTheHand_ApplicationModel_PackageId_ProductId.htm" />
   <HelpKINode Title="PackageId.Publisher property" Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
   <HelpKINode Title="PackageId.Version property" Url="html/P_InTheHand_ApplicationModel_PackageId_Version.htm" />
   <HelpKINode Title="PackageVersion structure">
@@ -1464,6 +1474,7 @@
   <HelpKINode Title="PowerSupplyStatus enumeration" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
   <HelpKINode Title="PowerSupplyStatus property" Url="html/P_InTheHand_System_Power_PowerManager_PowerSupplyStatus.htm" />
   <HelpKINode Title="ProcessorArchitecture enumeration" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
+  <HelpKINode Title="ProductId property" Url="html/P_InTheHand_ApplicationModel_PackageId_ProductId.htm" />
   <HelpKINode Title="ProgressIndicator property" Url="html/P_InTheHand_UI_ViewManagement_StatusBar_ProgressIndicator.htm" />
   <HelpKINode Title="ProgressValue property" Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ProgressValue.htm" />
   <HelpKINode Title="Properties property">
@@ -1549,6 +1560,9 @@
   <HelpKINode Title="ResourceLoader.GetForCurrentView method" Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetForCurrentView.htm" />
   <HelpKINode Title="ResourceLoader.GetForViewIndependentUse method" Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetForViewIndependentUse.htm" />
   <HelpKINode Title="ResourceLoader.GetString method" Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetString.htm" />
+  <HelpKINode Title="ResponseData property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseData.htm" />
+  <HelpKINode Title="ResponseErrorDetail property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseErrorDetail.htm" />
+  <HelpKINode Title="ResponseStatus property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseStatus.htm" />
   <HelpKINode Title="Revision field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Revision.htm" />
   <HelpKINode Title="Right enumeration member" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
   <HelpKINode Title="Roaming enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
@@ -1726,6 +1740,7 @@
   <HelpKINode Title="StorageFolderExtensions.GetFolderSizeAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetFolderSizeAsync.htm" />
   <HelpKINode Title="StorageItemTypes enumeration" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
   <HelpKINode Title="Subject property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Subject.htm" />
+  <HelpKINode Title="Success enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="SuppressPopup property">
     <HelpKINode Title="ScheduledToastNotification.SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
     <HelpKINode Title="ToastNotification.SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_SuppressPopup.htm" />
@@ -1843,6 +1858,7 @@
   <HelpKINode Title="Update method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Update.htm" />
   <HelpKINode Title="Uri enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="UriForResults enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
+  <HelpKINode Title="UserCancel enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="Utf16BE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf16LE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf8 enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
@@ -1866,6 +1882,24 @@
   <HelpKINode Title="VibrationDevice.Vibrate method" Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_Vibrate.htm" />
   <HelpKINode Title="Video enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
   <HelpKINode Title="VideosLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_VideosLibrary.htm" />
+  <HelpKINode Title="WebAuthenticationBroker class">
+    <HelpKINode Title="WebAuthenticationBroker Class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationBroker.htm" />
+    <HelpKINode Title="about WebAuthenticationBroker class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationBroker.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Security_Authentication_Web_WebAuthenticationBroker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebAuthenticationBroker.AuthenticateAsync method" Url="html/Overload_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_AuthenticateAsync.htm" />
+  <HelpKINode Title="WebAuthenticationBroker.GetCurrentApplicationCallbackUri method" Url="html/M_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_GetCurrentApplicationCallbackUri.htm" />
+  <HelpKINode Title="WebAuthenticationOptions enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationOptions.htm" />
+  <HelpKINode Title="WebAuthenticationResult class">
+    <HelpKINode Title="WebAuthenticationResult Class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationResult.htm" />
+    <HelpKINode Title="about WebAuthenticationResult class" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationResult.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Security_Authentication_Web_WebAuthenticationResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Security_Authentication_Web_WebAuthenticationResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebAuthenticationResult.ResponseData property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseData.htm" />
+  <HelpKINode Title="WebAuthenticationResult.ResponseErrorDetail property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseErrorDetail.htm" />
+  <HelpKINode Title="WebAuthenticationResult.ResponseStatus property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseStatus.htm" />
+  <HelpKINode Title="WebAuthenticationStatus enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="WebLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
   <HelpKINode Title="Width property" Url="html/P_InTheHand_Foundation_Rect_Width.htm" />
   <HelpKINode Title="WiFi enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
