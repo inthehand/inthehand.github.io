@@ -433,6 +433,7 @@
     <HelpKINode Title="StorageDeleteOption Enumeration" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
   </HelpKINode>
   <HelpKINode Title="DefaultCommandIndex property" Url="html/P_InTheHand_UI_Popups_MessageDialog_DefaultCommandIndex.htm" />
+  <HelpKINode Title="DefaultFileExtension property" Url="html/P_InTheHand_Storage_Pickers_FileSavePicker_DefaultFileExtension.htm" />
   <HelpKINode Title="DeleteAllItems method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_DeleteAllItems.htm" />
   <HelpKINode Title="DeleteAsync method">
     <HelpKINode Title="IStorageItem.DeleteAsync Method " Url="html/Overload_InTheHand_Storage_IStorageItem_DeleteAsync.htm" />
@@ -591,11 +592,42 @@
   <HelpKINode Title="FileIO.WriteLinesAsync method" Url="html/Overload_InTheHand_Storage_FileIO_WriteLinesAsync.htm" />
   <HelpKINode Title="FileIO.WriteTextAsync method" Url="html/Overload_InTheHand_Storage_FileIO_WriteTextAsync.htm" />
   <HelpKINode Title="FileName property" Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_FileName.htm" />
+  <HelpKINode Title="FileOpenPicker class">
+    <HelpKINode Title="FileOpenPicker Class" Url="html/T_InTheHand_Storage_Pickers_FileOpenPicker.htm" />
+    <HelpKINode Title="about FileOpenPicker class" Url="html/T_InTheHand_Storage_Pickers_FileOpenPicker.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Storage_Pickers_FileOpenPicker__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Storage_Pickers_FileOpenPicker.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Storage_Pickers_FileOpenPicker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileOpenPicker.FileOpenPicker constructor" Url="html/M_InTheHand_Storage_Pickers_FileOpenPicker__ctor.htm" />
+  <HelpKINode Title="FileOpenPicker.FileTypeFilter property" Url="html/P_InTheHand_Storage_Pickers_FileOpenPicker_FileTypeFilter.htm" />
+  <HelpKINode Title="FileOpenPicker.PickSingleFileAsync method" Url="html/M_InTheHand_Storage_Pickers_FileOpenPicker_PickSingleFileAsync.htm" />
+  <HelpKINode Title="FileSavePicker class">
+    <HelpKINode Title="FileSavePicker Class" Url="html/T_InTheHand_Storage_Pickers_FileSavePicker.htm" />
+    <HelpKINode Title="about FileSavePicker class" Url="html/T_InTheHand_Storage_Pickers_FileSavePicker.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Storage_Pickers_FileSavePicker__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Storage_Pickers_FileSavePicker.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Storage_Pickers_FileSavePicker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSavePicker.DefaultFileExtension property" Url="html/P_InTheHand_Storage_Pickers_FileSavePicker_DefaultFileExtension.htm" />
+  <HelpKINode Title="FileSavePicker.FileSavePicker constructor" Url="html/M_InTheHand_Storage_Pickers_FileSavePicker__ctor.htm" />
+  <HelpKINode Title="FileSavePicker.FileTypeChoices property" Url="html/P_InTheHand_Storage_Pickers_FileSavePicker_FileTypeChoices.htm" />
+  <HelpKINode Title="FileSavePicker.PickSaveFileAsync method" Url="html/M_InTheHand_Storage_Pickers_FileSavePicker_PickSaveFileAsync.htm" />
   <HelpKINode Title="FileType property">
     <HelpKINode Title="IStorageFile.FileType Property " Url="html/P_InTheHand_Storage_IStorageFile_FileType.htm" />
     <HelpKINode Title="StorageFile.FileType Property " Url="html/P_InTheHand_Storage_StorageFile_FileType.htm" />
   </HelpKINode>
+  <HelpKINode Title="FileTypeChoices property" Url="html/P_InTheHand_Storage_Pickers_FileSavePicker_FileTypeChoices.htm" />
+  <HelpKINode Title="FileTypeFilter property" Url="html/P_InTheHand_Storage_Pickers_FileOpenPicker_FileTypeFilter.htm" />
   <HelpKINode Title="Folder enumeration member" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
+  <HelpKINode Title="FolderPicker class">
+    <HelpKINode Title="FolderPicker Class" Url="html/T_InTheHand_Storage_Pickers_FolderPicker.htm" />
+    <HelpKINode Title="about FolderPicker class" Url="html/T_InTheHand_Storage_Pickers_FolderPicker.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Storage_Pickers_FolderPicker__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Storage_Pickers_FolderPicker.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FolderPicker.FolderPicker constructor" Url="html/M_InTheHand_Storage_Pickers_FolderPicker__ctor.htm" />
+  <HelpKINode Title="FolderPicker.PickSingleFolderAsync method" Url="html/M_InTheHand_Storage_Pickers_FolderPicker_PickSingleFolderAsync.htm" />
   <HelpKINode Title="FormatId property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest_FormatId.htm" />
   <HelpKINode Title="FriendlyName property" Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_FriendlyName.htm" />
   <HelpKINode Title="FromIdAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
@@ -1000,6 +1032,10 @@
   <HelpKINode Title="InTheHand.Storage.KnownFolders class" Url="html/T_InTheHand_Storage_KnownFolders.htm" />
   <HelpKINode Title="InTheHand.Storage.NameCollisionOption enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
   <HelpKINode Title="InTheHand.Storage.PathIO class" Url="html/T_InTheHand_Storage_PathIO.htm" />
+  <HelpKINode Title="InTheHand.Storage.Pickers namespace" Url="html/N_InTheHand_Storage_Pickers.htm" />
+  <HelpKINode Title="InTheHand.Storage.Pickers.FileOpenPicker class" Url="html/T_InTheHand_Storage_Pickers_FileOpenPicker.htm" />
+  <HelpKINode Title="InTheHand.Storage.Pickers.FileSavePicker class" Url="html/T_InTheHand_Storage_Pickers_FileSavePicker.htm" />
+  <HelpKINode Title="InTheHand.Storage.Pickers.FolderPicker class" Url="html/T_InTheHand_Storage_Pickers_FolderPicker.htm" />
   <HelpKINode Title="InTheHand.Storage.StorageDeleteOption enumeration" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
   <HelpKINode Title="InTheHand.Storage.StorageFile class" Url="html/T_InTheHand_Storage_StorageFile.htm" />
   <HelpKINode Title="InTheHand.Storage.StorageFolder class" Url="html/T_InTheHand_Storage_StorageFolder.htm" />
@@ -1416,6 +1452,9 @@
   <HelpKINode Title="PhoneLine.FromIdAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
   <HelpKINode Title="Photo enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
   <HelpKINode Title="PhotoOrVideo enumeration member" Url="html/T_InTheHand_Media_Capture_CameraCaptureUIMode.htm" />
+  <HelpKINode Title="PickSaveFileAsync method" Url="html/M_InTheHand_Storage_Pickers_FileSavePicker_PickSaveFileAsync.htm" />
+  <HelpKINode Title="PickSingleFileAsync method" Url="html/M_InTheHand_Storage_Pickers_FileOpenPicker_PickSingleFileAsync.htm" />
+  <HelpKINode Title="PickSingleFolderAsync method" Url="html/M_InTheHand_Storage_Pickers_FolderPicker_PickSingleFolderAsync.htm" />
   <HelpKINode Title="PicturesLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_PicturesLibrary.htm" />
   <HelpKINode Title="Placement enumeration" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
   <HelpKINode Title="Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
