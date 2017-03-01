@@ -41,9 +41,28 @@
   <HelpKINode Title="Address property" Url="html/P_InTheHand_ApplicationModel_Email_EmailRecipient_Address.htm" />
   <HelpKINode Title="AddToSchedule method" Url="html/M_InTheHand_UI_Notifications_ToastNotifier_AddToSchedule.htm" />
   <HelpKINode Title="Adequate enumeration member" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
-  <HelpKINode Title="Altitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Altitude.htm" />
+  <HelpKINode Title="AerobicHeartRateLowerLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicHeartRateLowerLimit.htm" />
+  <HelpKINode Title="AerobicHeartRateUpperLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicHeartRateUpperLimit.htm" />
+  <HelpKINode Title="AerobicThreshold field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicThreshold.htm" />
+  <HelpKINode Title="Age field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Age.htm" />
+  <HelpKINode Title="Aggregate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Aggregate.htm" />
+  <HelpKINode Title="AlertCategoryId field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertCategoryId.htm" />
+  <HelpKINode Title="AlertCategoryIdBitMask field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertCategoryIdBitMask.htm" />
+  <HelpKINode Title="AlertLevel field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertLevel.htm" />
+  <HelpKINode Title="AlertNotification field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_AlertNotification.htm" />
+  <HelpKINode Title="AlertNotificationControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertNotificationControlPoint.htm" />
+  <HelpKINode Title="AlertStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertStatus.htm" />
+  <HelpKINode Title="Allowed enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
+  <HelpKINode Title="Altitude field">
+    <HelpKINode Title="BasicGeoposition.Altitude Field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Altitude.htm" />
+    <HelpKINode Title="GattCharacteristicUuids.Altitude Field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Altitude.htm" />
+  </HelpKINode>
   <HelpKINode Title="AltitudeAccuracy property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_AltitudeAccuracy.htm" />
   <HelpKINode Title="Always enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
+  <HelpKINode Title="AnaerobicHeartRateLowerLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicHeartRateLowerLimit.htm" />
+  <HelpKINode Title="AnaerobicHeartRateUpperLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicHeartRateUpperLimit.htm" />
+  <HelpKINode Title="AnaerobicThreshold field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicThreshold.htm" />
+  <HelpKINode Title="Analog field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Analog.htm" />
   <HelpKINode Title="AnalyticsInfo class">
     <HelpKINode Title="AnalyticsInfo Class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm" />
     <HelpKINode Title="about AnalyticsInfo class" Url="html/T_InTheHand_System_Profile_AnalyticsInfo.htm" />
@@ -59,6 +78,7 @@
   </HelpKINode>
   <HelpKINode Title="AnalyticsVersionInfo.DeviceFamily property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
   <HelpKINode Title="AnalyticsVersionInfo.DeviceFamilyVersion property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
+  <HelpKINode Title="Android property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Android.htm" />
   <HelpKINode Title="AngularVelocityX property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityX.htm" />
   <HelpKINode Title="AngularVelocityY property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityY.htm" />
   <HelpKINode Title="AngularVelocityZ property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_AngularVelocityZ.htm" />
@@ -75,6 +95,9 @@
   <HelpKINode Title="ApiInformation.IsReadOnlyPropertyPresent method" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsReadOnlyPropertyPresent.htm" />
   <HelpKINode Title="ApiInformation.IsTypePresent method" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsTypePresent.htm" />
   <HelpKINode Title="ApiInformation.IsWriteablePropertyPresent method" Url="html/M_InTheHand_Foundation_Metadata_ApiInformation_IsWriteablePropertyPresent.htm" />
+  <HelpKINode Title="ApparentWindDirection field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_ApparentWindDirection.htm" />
+  <HelpKINode Title="ApparentWindSpeed field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_ApparentWindSpeed.htm" />
+  <HelpKINode Title="Appearance field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Appearance.htm" />
   <HelpKINode Title="AppendLinesAsync method">
     <HelpKINode Title="FileIO.AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_AppendLinesAsync.htm" />
     <HelpKINode Title="PathIO.AppendLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_AppendLinesAsync.htm" />
@@ -143,6 +166,8 @@
   <HelpKINode Title="AppUnavailable enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="Architecture property" Url="html/P_InTheHand_ApplicationModel_PackageId_Architecture.htm" />
   <HelpKINode Title="Archive enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
+  <HelpKINode Title="AreTransportControlsEnabled property" Url="html/P_InTheHand_Forms_MediaElement_AreTransportControlsEnabled.htm" />
+  <HelpKINode Title="AreTransportControlsEnabledProperty field" Url="html/F_InTheHand_Forms_MediaElement_AreTransportControlsEnabledProperty.htm" />
   <HelpKINode Title="Arm enumeration member" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
   <HelpKINode Title="AsReadOnly(Of T) method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
   <HelpKINode Title="AsReadOnly&lt;T&gt; method" Url="html/M_System_Collections_Generic_InTheHandListExtensions_AsReadOnly__1.htm" />
@@ -152,8 +177,13 @@
     <HelpKINode Title="StorageFolder.Attributes Property " Url="html/P_InTheHand_Storage_StorageFolder_Attributes.htm" />
   </HelpKINode>
   <HelpKINode Title="AuthenticateAsync method" Url="html/Overload_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_AuthenticateAsync.htm" />
+  <HelpKINode Title="AuthenticatedSignedWrites enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="AutomationIO field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_AutomationIO.htm" />
+  <HelpKINode Title="AutoPlay property" Url="html/P_InTheHand_Forms_MediaElement_AutoPlay.htm" />
+  <HelpKINode Title="AutoPlayProperty field" Url="html/F_InTheHand_Forms_MediaElement_AutoPlayProperty.htm" />
   <HelpKINode Title="Available enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
   <HelpKINode Title="AvailableFormats property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackageView_AvailableFormats.htm" />
+  <HelpKINode Title="Back enumeration member" Url="html/T_InTheHand_Forms_NavigationMode.htm" />
   <HelpKINode Title="BadgeNotification class">
     <HelpKINode Title="BadgeNotification Class" Url="html/T_InTheHand_UI_Notifications_BadgeNotification.htm" />
     <HelpKINode Title="about BadgeNotification class" Url="html/T_InTheHand_UI_Notifications_BadgeNotification.htm" />
@@ -178,6 +208,7 @@
   </HelpKINode>
   <HelpKINode Title="BadgeUpdater.Clear method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Clear.htm" />
   <HelpKINode Title="BadgeUpdater.Update method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Update.htm" />
+  <HelpKINode Title="BarometricPressureTrend field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BarometricPressureTrend.htm" />
   <HelpKINode Title="BasicGeoposition structure">
     <HelpKINode Title="BasicGeoposition Structure" Url="html/T_InTheHand_Devices_Geolocation_BasicGeoposition.htm" />
     <HelpKINode Title="about BasicGeoposition structure" Url="html/T_InTheHand_Devices_Geolocation_BasicGeoposition.htm" />
@@ -201,14 +232,52 @@
   </HelpKINode>
   <HelpKINode Title="BasicProperties.DateModified property" Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_DateModified.htm" />
   <HelpKINode Title="BasicProperties.Size property" Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_Size.htm" />
+  <HelpKINode Title="Battery field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_Battery.htm" />
+  <HelpKINode Title="BatteryLevel field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BatteryLevel.htm" />
   <HelpKINode Title="BatteryStatus enumeration" Url="html/T_InTheHand_System_Power_BatteryStatus.htm" />
   <HelpKINode Title="BatteryStatus property" Url="html/P_InTheHand_System_Power_PowerManager_BatteryStatus.htm" />
   <HelpKINode Title="Bcc property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Bcc.htm" />
   <HelpKINode Title="Below enumeration member" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
+  <HelpKINode Title="BloodPressure field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BloodPressure.htm" />
+  <HelpKINode Title="BloodPressureFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BloodPressureFeature.htm" />
+  <HelpKINode Title="BloodPressureMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BloodPressureMeasurement.htm" />
+  <HelpKINode Title="Bluetooth enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
+  <HelpKINode Title="BluetoothAddress property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_BluetoothAddress.htm" />
+  <HelpKINode Title="BluetoothConnectionStatus enumeration" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothConnectionStatus.htm" />
+  <HelpKINode Title="BluetoothLEDevice class">
+    <HelpKINode Title="BluetoothLEDevice Class" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+    <HelpKINode Title="about BluetoothLEDevice class" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BluetoothLEDevice.BluetoothAddress property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_BluetoothAddress.htm" />
+  <HelpKINode Title="BluetoothLEDevice.BluetoothLEDevice constructor" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice__ctor.htm" />
+  <HelpKINode Title="BluetoothLEDevice.ConnectionStatus property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_ConnectionStatus.htm" />
+  <HelpKINode Title="BluetoothLEDevice.ConnectionStatusChanged event" Url="html/E_InTheHand_Devices_Bluetooth_BluetoothLEDevice_ConnectionStatusChanged.htm" />
+  <HelpKINode Title="BluetoothLEDevice.DeviceId property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_DeviceId.htm" />
+  <HelpKINode Title="BluetoothLEDevice.FromBluetoothAddressAsync method" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_FromBluetoothAddressAsync.htm" />
+  <HelpKINode Title="BluetoothLEDevice.FromIdAsync method" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_FromIdAsync.htm" />
+  <HelpKINode Title="BluetoothLEDevice.GattServices property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_GattServices.htm" />
+  <HelpKINode Title="BluetoothLEDevice.GetDeviceSelector method" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_GetDeviceSelector.htm" />
+  <HelpKINode Title="BluetoothLEDevice.NameChanged event" Url="html/E_InTheHand_Devices_Bluetooth_BluetoothLEDevice_NameChanged.htm" />
   <HelpKINode Title="Body property">
     <HelpKINode Title="ChatMessage.Body Property " Url="html/P_InTheHand_ApplicationModel_Chat_ChatMessage_Body.htm" />
     <HelpKINode Title="EmailMessage.Body Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Body.htm" />
   </HelpKINode>
+  <HelpKINode Title="BodyComposition field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BodyComposition.htm" />
+  <HelpKINode Title="BodyCompositionFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodyCompositionFeature.htm" />
+  <HelpKINode Title="BodyCompositionMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodyCompositionMeasurement.htm" />
+  <HelpKINode Title="BodySensorLocation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodySensorLocation.htm" />
+  <HelpKINode Title="BondManagement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BondManagement.htm" />
+  <HelpKINode Title="BondManagementControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BondManagementControlPoint.htm" />
+  <HelpKINode Title="BondManagementFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BondManagementFeature.htm" />
+  <HelpKINode Title="BootKeyboardInputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootKeyboardInputReport.htm" />
+  <HelpKINode Title="BootKeyboardOutputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootKeyboardOutputReport.htm" />
+  <HelpKINode Title="BootMouseInputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootMouseInputReport.htm" />
+  <HelpKINode Title="Broadcast enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="Buffering enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="Build field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Build.htm" />
   <HelpKINode Title="CameraCaptureUI class">
     <HelpKINode Title="CameraCaptureUI Class" Url="html/T_InTheHand_Media_Capture_CameraCaptureUI.htm" />
@@ -226,6 +295,19 @@
   <HelpKINode Title="CC property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_CC.htm" />
   <HelpKINode Title="Cellular enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
   <HelpKINode Title="Center property" Url="html/P_InTheHand_Devices_Geolocation_Geocircle_Center.htm" />
+  <HelpKINode Title="CentralAddresResolution field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CentralAddresResolution.htm" />
+  <HelpKINode Title="CgmFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmFeature.htm" />
+  <HelpKINode Title="CgmMeasurment field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmMeasurment.htm" />
+  <HelpKINode Title="CgmSessionRunTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSessionRunTime.htm" />
+  <HelpKINode Title="CgmSessionStartTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSessionStartTime.htm" />
+  <HelpKINode Title="CgmSpecificOpsControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSpecificOpsControlPoint.htm" />
+  <HelpKINode Title="CgmStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmStatus.htm" />
+  <HelpKINode Title="CharacteristicAggregateFormat field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicAggregateFormat.htm" />
+  <HelpKINode Title="CharacteristicExtendedProperties field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicExtendedProperties.htm" />
+  <HelpKINode Title="CharacteristicPresentationFormat field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicPresentationFormat.htm" />
+  <HelpKINode Title="CharacteristicProperties property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_CharacteristicProperties.htm" />
+  <HelpKINode Title="CharacteristicUserDescription field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicUserDescription.htm" />
+  <HelpKINode Title="CharacteristicValue property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs_CharacteristicValue.htm" />
   <HelpKINode Title="Charging enumeration member" Url="html/T_InTheHand_System_Power_BatteryStatus.htm" />
   <HelpKINode Title="ChatMessage class">
     <HelpKINode Title="ChatMessage Class" Url="html/T_InTheHand_ApplicationModel_Chat_ChatMessage.htm" />
@@ -244,12 +326,27 @@
   </HelpKINode>
   <HelpKINode Title="ChatMessageManager.ShowComposeSmsMessageAsync method" Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowComposeSmsMessageAsync.htm" />
   <HelpKINode Title="ChatMessageManager.ShowSmsSettings method" Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
+  <HelpKINode Title="CheckSwitch class">
+    <HelpKINode Title="CheckSwitch Class" Url="html/T_InTheHand_Forms_CheckSwitch.htm" />
+    <HelpKINode Title="about CheckSwitch class" Url="html/T_InTheHand_Forms_CheckSwitch.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Forms_CheckSwitch__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Forms_CheckSwitch.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_InTheHand_Forms_CheckSwitch.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_CheckSwitch.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_CheckSwitch.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CheckSwitch.CheckSwitch constructor" Url="html/M_InTheHand_Forms_CheckSwitch__ctor.htm" />
+  <HelpKINode Title="CheckSwitch.Text property" Url="html/P_InTheHand_Forms_CheckSwitch_Text.htm" />
+  <HelpKINode Title="CheckSwitch.TextColor property" Url="html/P_InTheHand_Forms_CheckSwitch_TextColor.htm" />
+  <HelpKINode Title="CheckSwitch.TextColorProperty field" Url="html/F_InTheHand_Forms_CheckSwitch_TextColorProperty.htm" />
+  <HelpKINode Title="CheckSwitch.TextProperty field" Url="html/F_InTheHand_Forms_CheckSwitch_TextProperty.htm" />
   <HelpKINode Title="Clear method">
     <HelpKINode Title="ApplicationDataContainerSettings.Clear Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Clear.htm" />
     <HelpKINode Title="BadgeUpdater.Clear Method " Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Clear.htm" />
     <HelpKINode Title="Clipboard.Clear Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_Clear.htm" />
   </HelpKINode>
   <HelpKINode Title="ClearAsync method" Url="html/Overload_InTheHand_Storage_ApplicationData_ClearAsync.htm" />
+  <HelpKINode Title="ClientCharacteristicConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ClientCharacteristicConfiguration.htm" />
   <HelpKINode Title="Clipboard class">
     <HelpKINode Title="Clipboard Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm" />
     <HelpKINode Title="about Clipboard class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_Clipboard.htm" />
@@ -260,6 +357,7 @@
   <HelpKINode Title="Clipboard.ContentChanged event" Url="html/E_InTheHand_ApplicationModel_DataTransfer_Clipboard_ContentChanged.htm" />
   <HelpKINode Title="Clipboard.GetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
   <HelpKINode Title="Clipboard.SetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
+  <HelpKINode Title="Closed enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="CollectionChange enumeration" Url="html/T_InTheHand_Foundation_Collections_CollectionChange.htm" />
   <HelpKINode Title="CollectionChange property" Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_CollectionChange.htm" />
   <HelpKINode Title="Commands property">
@@ -267,6 +365,7 @@
     <HelpKINode Title="PopupMenu.Commands Property " Url="html/P_InTheHand_UI_Popups_PopupMenu_Commands.htm" />
   </HelpKINode>
   <HelpKINode Title="CommandsRequested event" Url="html/E_InTheHand_UI_ApplicationSettings_SettingsPane_CommandsRequested.htm" />
+  <HelpKINode Title="Connected enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothConnectionStatus.htm" />
   <HelpKINode Title="ConnectionProfile class">
     <HelpKINode Title="ConnectionProfile Class" Url="html/T_InTheHand_Networking_Connectivity_ConnectionProfile.htm" />
     <HelpKINode Title="about ConnectionProfile class" Url="html/T_InTheHand_Networking_Connectivity_ConnectionProfile.htm" />
@@ -275,6 +374,8 @@
   </HelpKINode>
   <HelpKINode Title="ConnectionProfile.ConnectionProfile constructor" Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile__ctor.htm" />
   <HelpKINode Title="ConnectionProfile.GetNetworkConnectivityLevel method" Url="html/M_InTheHand_Networking_Connectivity_ConnectionProfile_GetNetworkConnectivityLevel.htm" />
+  <HelpKINode Title="ConnectionStatus property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_ConnectionStatus.htm" />
+  <HelpKINode Title="ConnectionStatusChanged event" Url="html/E_InTheHand_Devices_Bluetooth_BluetoothLEDevice_ConnectionStatusChanged.htm" />
   <HelpKINode Title="ConstrainedInternetAccess enumeration member" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
   <HelpKINode Title="Contains method">
     <HelpKINode Title="ApplicationDataContainerSettings.Contains Method " Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_Contains.htm" />
@@ -287,6 +388,7 @@
     <HelpKINode Title="IStorageFile.ContentType Property " Url="html/P_InTheHand_Storage_IStorageFile_ContentType.htm" />
     <HelpKINode Title="StorageFile.ContentType Property " Url="html/P_InTheHand_Storage_StorageFile_ContentType.htm" />
   </HelpKINode>
+  <HelpKINode Title="ContinuousGlucoseMonitoring field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ContinuousGlucoseMonitoring.htm" />
   <HelpKINode Title="ConvertToText method" Url="html/M_InTheHand_Data_Html_HtmlUtilities_ConvertToText.htm" />
   <HelpKINode Title="Coordinate property" Url="html/P_InTheHand_Devices_Geolocation_Geoposition_Coordinate.htm" />
   <HelpKINode Title="CopyAndReplaceAsync method">
@@ -314,6 +416,8 @@
   <HelpKINode Title="CreateToastNotification method" Url="html/M_InTheHand_UI_Notifications_ToastNotificationCreator_CreateToastNotification.htm" />
   <HelpKINode Title="CreateToastNotifierForApplication method" Url="html/M_InTheHand_UI_Notifications_ToastNotificationManager_CreateToastNotifierForApplication.htm" />
   <HelpKINode Title="CreationCollisionOption enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
+  <HelpKINode Title="CscFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CscFeature.htm" />
+  <HelpKINode Title="CscMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CscMeasurement.htm" />
   <HelpKINode Title="Current property">
     <HelpKINode Title="ApplicationData.Current Property " Url="html/P_InTheHand_Storage_ApplicationData_Current.htm" />
     <HelpKINode Title="GeofenceMonitor.Current Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_Current.htm" />
@@ -329,6 +433,15 @@
   <HelpKINode Title="CurrentApp.RequestDetailsAsync method" Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestDetailsAsync.htm" />
   <HelpKINode Title="CurrentApp.RequestReviewAsync method" Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestReviewAsync.htm" />
   <HelpKINode Title="CurrentOrientation property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_CurrentOrientation.htm" />
+  <HelpKINode Title="CurrentState property" Url="html/P_InTheHand_Forms_MediaElement_CurrentState.htm" />
+  <HelpKINode Title="CurrentStateChanged event" Url="html/E_InTheHand_Forms_MediaElement_CurrentStateChanged.htm" />
+  <HelpKINode Title="CurrentStateProperty field" Url="html/F_InTheHand_Forms_MediaElement_CurrentStateProperty.htm" />
+  <HelpKINode Title="CurrentTime field">
+    <HelpKINode Title="GattCharacteristicUuids.CurrentTime Field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CurrentTime.htm" />
+    <HelpKINode Title="GattServiceUuids.CurrentTime Field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CurrentTime.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CyclingPower field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CyclingPower.htm" />
+  <HelpKINode Title="CyclingSpeedAndCadence field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CyclingSpeedAndCadence.htm" />
   <HelpKINode Title="Data property">
     <HelpKINode Title="DataRequest.Data Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataRequest_Data.htm" />
     <HelpKINode Title="EmailAttachment.Data Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_Data.htm" />
@@ -441,6 +554,8 @@
     <HelpKINode Title="StorageFolder.DeleteAsync Method " Url="html/Overload_InTheHand_Storage_StorageFolder_DeleteAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="DeliveryTime property" Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_DeliveryTime.htm" />
+  <HelpKINode Title="DeniedBySystem enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
+  <HelpKINode Title="DeniedByUser enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
   <HelpKINode Title="Description property">
     <HelpKINode Title="DataPackagePropertySet.Description Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet_Description.htm" />
     <HelpKINode Title="DataPackagePropertySetView.Description Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView_Description.htm" />
@@ -457,14 +572,29 @@
   <HelpKINode Title="DeviceFamily property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamily.htm" />
   <HelpKINode Title="DeviceFamilyVersion property" Url="html/P_InTheHand_System_Profile_AnalyticsVersionInfo_DeviceFamilyVersion.htm" />
   <HelpKINode Title="DeviceForm property" Url="html/P_InTheHand_System_Profile_AnalyticsInfo_DeviceForm.htm" />
+  <HelpKINode Title="DeviceId property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_DeviceId.htm" />
+  <HelpKINode Title="DeviceInformation class">
+    <HelpKINode Title="DeviceInformation Class" Url="html/T_InTheHand_Devices_Enumeration_DeviceInformation.htm" />
+    <HelpKINode Title="about DeviceInformation class" Url="html/T_InTheHand_Devices_Enumeration_DeviceInformation.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Enumeration_DeviceInformation__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Enumeration_DeviceInformation.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Enumeration_DeviceInformation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeviceInformation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_DeviceInformation.htm" />
+  <HelpKINode Title="DeviceInformation.DeviceInformation constructor" Url="html/M_InTheHand_Devices_Enumeration_DeviceInformation__ctor.htm" />
+  <HelpKINode Title="DeviceInformation.FindAllAsync method" Url="html/Overload_InTheHand_Devices_Enumeration_DeviceInformation_FindAllAsync.htm" />
+  <HelpKINode Title="DeviceInformation.Id property" Url="html/P_InTheHand_Devices_Enumeration_DeviceInformation_Id.htm" />
+  <HelpKINode Title="DeviceInformation.Name property" Url="html/P_InTheHand_Devices_Enumeration_DeviceInformation_Name.htm" />
   <HelpKINode Title="Dial method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_Dial.htm" />
   <HelpKINode Title="Directory enumeration member" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
   <HelpKINode Title="Disabled enumeration member">
     <HelpKINode Title="EnergySaverStatus Enumeration" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
+    <HelpKINode Title="RadioState Enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
   </HelpKINode>
   <HelpKINode Title="Discharging enumeration member" Url="html/T_InTheHand_System_Power_BatteryStatus.htm" />
+  <HelpKINode Title="Disconnected enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothConnectionStatus.htm" />
   <HelpKINode Title="DispatcherTimer class">
     <HelpKINode Title="DispatcherTimer Class" Url="html/T_InTheHand_UI_Xaml_DispatcherTimer.htm" />
     <HelpKINode Title="about DispatcherTimer class" Url="html/T_InTheHand_UI_Xaml_DispatcherTimer.htm" />
@@ -567,6 +697,11 @@
     <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Environment.htm" />
   </HelpKINode>
   <HelpKINode Title="Environment.OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
+  <HelpKINode Title="EnvironmentalSensing field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_EnvironmentalSensing.htm" />
+  <HelpKINode Title="EnvironmentalSensingConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingConfiguration.htm" />
+  <HelpKINode Title="EnvironmentalSensingMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingMeasurement.htm" />
+  <HelpKINode Title="EnvironmentalSensingReportReference field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingReportReference.htm" />
+  <HelpKINode Title="EnvironmentalSensingTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingTriggerSetting.htm" />
   <HelpKINode Title="Equals method" Url="html/M_InTheHand_Devices_Geolocation_Geofencing_Geofence_Equals.htm" />
   <HelpKINode Title="ErrorHttp enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="Existing enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataCreateDisposition.htm" />
@@ -574,6 +709,7 @@
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
   </HelpKINode>
+  <HelpKINode Title="ExtendedProperties enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="FailIfExists enumeration member">
     <HelpKINode Title="CreationCollisionOption Enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
     <HelpKINode Title="NameCollisionOption Enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
@@ -619,6 +755,8 @@
   </HelpKINode>
   <HelpKINode Title="FileTypeChoices property" Url="html/P_InTheHand_Storage_Pickers_FileSavePicker_FileTypeChoices.htm" />
   <HelpKINode Title="FileTypeFilter property" Url="html/P_InTheHand_Storage_Pickers_FileOpenPicker_FileTypeFilter.htm" />
+  <HelpKINode Title="FindAllAsync method" Url="html/Overload_InTheHand_Devices_Enumeration_DeviceInformation_FindAllAsync.htm" />
+  <HelpKINode Title="FM enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
   <HelpKINode Title="Folder enumeration member" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
   <HelpKINode Title="FolderPicker class">
     <HelpKINode Title="FolderPicker Class" Url="html/T_InTheHand_Storage_Pickers_FolderPicker.htm" />
@@ -630,14 +768,190 @@
   <HelpKINode Title="FolderPicker.PickSingleFolderAsync method" Url="html/M_InTheHand_Storage_Pickers_FolderPicker_PickSingleFolderAsync.htm" />
   <HelpKINode Title="FormatId property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest_FormatId.htm" />
   <HelpKINode Title="FriendlyName property" Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_FriendlyName.htm" />
-  <HelpKINode Title="FromIdAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
+  <HelpKINode Title="FromBluetoothAddressAsync method" Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_FromBluetoothAddressAsync.htm" />
+  <HelpKINode Title="FromIdAsync method">
+    <HelpKINode Title="BluetoothLEDevice.FromIdAsync Method " Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_FromIdAsync.htm" />
+    <HelpKINode Title="GattDeviceService.FromIdAsync Method " Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_FromIdAsync.htm" />
+    <HelpKINode Title="PhoneLine.FromIdAsync Method " Url="html/M_InTheHand_ApplicationModel_Calls_PhoneLine_FromIdAsync.htm" />
+    <HelpKINode Title="Radio.FromIdAsync Method " Url="html/M_InTheHand_Devices_Radios_Radio_FromIdAsync.htm" />
+  </HelpKINode>
   <HelpKINode Title="FromUnixTimeMilliseconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeMilliseconds.htm" />
   <HelpKINode Title="FromUnixTimeSeconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_FromUnixTimeSeconds.htm" />
   <HelpKINode Title="FullName property" Url="html/P_InTheHand_ApplicationModel_PackageId_FullName.htm" />
+  <HelpKINode Title="GattCharacteristic class">
+    <HelpKINode Title="GattCharacteristic Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+    <HelpKINode Title="about GattCharacteristic class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattCharacteristic.CharacteristicProperties property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_CharacteristicProperties.htm" />
+  <HelpKINode Title="GattCharacteristic.GattCharacteristic constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic__ctor.htm" />
+  <HelpKINode Title="GattCharacteristic.GetAllDescriptors method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_GetAllDescriptors.htm" />
+  <HelpKINode Title="GattCharacteristic.GetDescriptors method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_GetDescriptors.htm" />
+  <HelpKINode Title="GattCharacteristic.ReadValueAsync method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_ReadValueAsync.htm" />
+  <HelpKINode Title="GattCharacteristic.UserDescription property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_UserDescription.htm" />
+  <HelpKINode Title="GattCharacteristic.Uuid property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_Uuid.htm" />
+  <HelpKINode Title="GattCharacteristic.ValueChanged event" Url="html/E_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_ValueChanged.htm" />
+  <HelpKINode Title="GattCharacteristic.WriteValueAsync method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_WriteValueAsync.htm" />
+  <HelpKINode Title="GattCharacteristicProperties enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="GattCharacteristicUuids class">
+    <HelpKINode Title="GattCharacteristicUuids Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids.htm" />
+    <HelpKINode Title="about GattCharacteristicUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattCharacteristicUuids.AerobicHeartRateLowerLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicHeartRateLowerLimit.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AerobicHeartRateUpperLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicHeartRateUpperLimit.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AerobicThreshold field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AerobicThreshold.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.Age field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Age.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.Aggregate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Aggregate.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AlertCategoryId field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertCategoryId.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AlertCategoryIdBitMask field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertCategoryIdBitMask.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AlertLevel field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertLevel.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AlertNotificationControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertNotificationControlPoint.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AlertStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AlertStatus.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.Altitude field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Altitude.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AnaerobicHeartRateLowerLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicHeartRateLowerLimit.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AnaerobicHeartRateUpperLimit field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicHeartRateUpperLimit.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.AnaerobicThreshold field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_AnaerobicThreshold.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.Analog field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Analog.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.ApparentWindDirection field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_ApparentWindDirection.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.ApparentWindSpeed field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_ApparentWindSpeed.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.Appearance field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_Appearance.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BarometricPressureTrend field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BarometricPressureTrend.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BatteryLevel field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BatteryLevel.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BloodPressureFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BloodPressureFeature.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BloodPressureMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BloodPressureMeasurement.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BodyCompositionFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodyCompositionFeature.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BodyCompositionMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodyCompositionMeasurement.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BodySensorLocation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BodySensorLocation.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BondManagementControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BondManagementControlPoint.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BondManagementFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BondManagementFeature.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BootKeyboardInputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootKeyboardInputReport.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BootKeyboardOutputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootKeyboardOutputReport.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.BootMouseInputReport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_BootMouseInputReport.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CentralAddresResolution field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CentralAddresResolution.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmFeature.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmMeasurment field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmMeasurment.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmSessionRunTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSessionRunTime.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmSessionStartTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSessionStartTime.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmSpecificOpsControlPoint field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmSpecificOpsControlPoint.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CgmStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CgmStatus.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CscFeature field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CscFeature.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CscMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CscMeasurement.htm" />
+  <HelpKINode Title="GattCharacteristicUuids.CurrentTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids_CurrentTime.htm" />
+  <HelpKINode Title="GattCommunicationStatus enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCommunicationStatus.htm" />
+  <HelpKINode Title="GattDescriptor class">
+    <HelpKINode Title="GattDescriptor Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor.htm" />
+    <HelpKINode Title="about GattDescriptor class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattDescriptor.GattDescriptor constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor__ctor.htm" />
+  <HelpKINode Title="GattDescriptor.ReadValueAsync method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor_ReadValueAsync.htm" />
+  <HelpKINode Title="GattDescriptor.Uuid property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor_Uuid.htm" />
+  <HelpKINode Title="GattDescriptorUuids class">
+    <HelpKINode Title="GattDescriptorUuids Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids.htm" />
+    <HelpKINode Title="about GattDescriptorUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattDescriptorUuids.CharacteristicAggregateFormat field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicAggregateFormat.htm" />
+  <HelpKINode Title="GattDescriptorUuids.CharacteristicExtendedProperties field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicExtendedProperties.htm" />
+  <HelpKINode Title="GattDescriptorUuids.CharacteristicPresentationFormat field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicPresentationFormat.htm" />
+  <HelpKINode Title="GattDescriptorUuids.CharacteristicUserDescription field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_CharacteristicUserDescription.htm" />
+  <HelpKINode Title="GattDescriptorUuids.ClientCharacteristicConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ClientCharacteristicConfiguration.htm" />
+  <HelpKINode Title="GattDescriptorUuids.EnvironmentalSensingConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingConfiguration.htm" />
+  <HelpKINode Title="GattDescriptorUuids.EnvironmentalSensingMeasurement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingMeasurement.htm" />
+  <HelpKINode Title="GattDescriptorUuids.EnvironmentalSensingReportReference field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingReportReference.htm" />
+  <HelpKINode Title="GattDescriptorUuids.EnvironmentalSensingTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_EnvironmentalSensingTriggerSetting.htm" />
+  <HelpKINode Title="GattDescriptorUuids.NumberOfDigitals field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_NumberOfDigitals.htm" />
+  <HelpKINode Title="GattDescriptorUuids.ReportReference field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ReportReference.htm" />
+  <HelpKINode Title="GattDescriptorUuids.ServerCharacteristicConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ServerCharacteristicConfiguration.htm" />
+  <HelpKINode Title="GattDescriptorUuids.TimeTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_TimeTriggerSetting.htm" />
+  <HelpKINode Title="GattDescriptorUuids.ValidRange field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ValidRange.htm" />
+  <HelpKINode Title="GattDescriptorUuids.ValueTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ValueTriggerSetting.htm" />
+  <HelpKINode Title="GattDeviceService class">
+    <HelpKINode Title="GattDeviceService Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService.htm" />
+    <HelpKINode Title="about GattDeviceService class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattDeviceService.FromIdAsync method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_FromIdAsync.htm" />
+  <HelpKINode Title="GattDeviceService.GattDeviceService constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService__ctor.htm" />
+  <HelpKINode Title="GattDeviceService.GetAllCharacteristics method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetAllCharacteristics.htm" />
+  <HelpKINode Title="GattDeviceService.GetCharacteristics method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetCharacteristics.htm" />
+  <HelpKINode Title="GattDeviceService.GetDeviceSelectorFromShortId method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetDeviceSelectorFromShortId.htm" />
+  <HelpKINode Title="GattDeviceService.GetDeviceSelectorFromUuid method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetDeviceSelectorFromUuid.htm" />
+  <HelpKINode Title="GattDeviceService.Uuid property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_Uuid.htm" />
+  <HelpKINode Title="GattReadResult class">
+    <HelpKINode Title="GattReadResult Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult.htm" />
+    <HelpKINode Title="about GattReadResult class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattReadResult.GattReadResult constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult__ctor.htm" />
+  <HelpKINode Title="GattReadResult.Value property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult_Value.htm" />
+  <HelpKINode Title="GattServices property" Url="html/P_InTheHand_Devices_Bluetooth_BluetoothLEDevice_GattServices.htm" />
+  <HelpKINode Title="GattServiceUuids class">
+    <HelpKINode Title="GattServiceUuids Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids.htm" />
+    <HelpKINode Title="about GattServiceUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattServiceUuids.AlertNotification field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_AlertNotification.htm" />
+  <HelpKINode Title="GattServiceUuids.AutomationIO field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_AutomationIO.htm" />
+  <HelpKINode Title="GattServiceUuids.Battery field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_Battery.htm" />
+  <HelpKINode Title="GattServiceUuids.BloodPressure field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BloodPressure.htm" />
+  <HelpKINode Title="GattServiceUuids.BodyComposition field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BodyComposition.htm" />
+  <HelpKINode Title="GattServiceUuids.BondManagement field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_BondManagement.htm" />
+  <HelpKINode Title="GattServiceUuids.ContinuousGlucoseMonitoring field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ContinuousGlucoseMonitoring.htm" />
+  <HelpKINode Title="GattServiceUuids.CurrentTime field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CurrentTime.htm" />
+  <HelpKINode Title="GattServiceUuids.CyclingPower field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CyclingPower.htm" />
+  <HelpKINode Title="GattServiceUuids.CyclingSpeedAndCadence field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_CyclingSpeedAndCadence.htm" />
+  <HelpKINode Title="GattServiceUuids.DeviceInformation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_DeviceInformation.htm" />
+  <HelpKINode Title="GattServiceUuids.EnvironmentalSensing field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_EnvironmentalSensing.htm" />
+  <HelpKINode Title="GattServiceUuids.GenericAccess field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_GenericAccess.htm" />
+  <HelpKINode Title="GattServiceUuids.GenericAttribute field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_GenericAttribute.htm" />
+  <HelpKINode Title="GattServiceUuids.Glucose field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_Glucose.htm" />
+  <HelpKINode Title="GattServiceUuids.HealthThermometer field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HealthThermometer.htm" />
+  <HelpKINode Title="GattServiceUuids.HeartRate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HeartRate.htm" />
+  <HelpKINode Title="GattServiceUuids.HttpProxy field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HttpProxy.htm" />
+  <HelpKINode Title="GattServiceUuids.HumanInterfaceDevice field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HumanInterfaceDevice.htm" />
+  <HelpKINode Title="GattServiceUuids.ImmediateAlert field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ImmediateAlert.htm" />
+  <HelpKINode Title="GattServiceUuids.IndoorPositioning field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_IndoorPositioning.htm" />
+  <HelpKINode Title="GattServiceUuids.InternetProtocolSupport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_InternetProtocolSupport.htm" />
+  <HelpKINode Title="GattServiceUuids.LinkLoss field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_LinkLoss.htm" />
+  <HelpKINode Title="GattServiceUuids.LocationAndNavigation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_LocationAndNavigation.htm" />
+  <HelpKINode Title="GattServiceUuids.NextDstChange field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_NextDstChange.htm" />
+  <HelpKINode Title="GattServiceUuids.ObjectTransfer field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ObjectTransfer.htm" />
+  <HelpKINode Title="GattServiceUuids.PhoneAlertStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_PhoneAlertStatus.htm" />
+  <HelpKINode Title="GattServiceUuids.PulseOximeter field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_PulseOximeter.htm" />
+  <HelpKINode Title="GattServiceUuids.ReferenceTimeUpdate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ReferenceTimeUpdate.htm" />
+  <HelpKINode Title="GattServiceUuids.RunningSpeedAndCadence field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_RunningSpeedAndCadence.htm" />
+  <HelpKINode Title="GattServiceUuids.ScanParameters field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ScanParameters.htm" />
+  <HelpKINode Title="GattServiceUuids.TransportDiscovery field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_TransportDiscovery.htm" />
+  <HelpKINode Title="GattServiceUuids.TxPower field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_TxPower.htm" />
+  <HelpKINode Title="GattServiceUuids.UserData field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_UserData.htm" />
+  <HelpKINode Title="GattServiceUuids.WeightScale field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_WeightScale.htm" />
+  <HelpKINode Title="GattValueChangedEventArgs class">
+    <HelpKINode Title="GattValueChangedEventArgs Class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs.htm" />
+    <HelpKINode Title="about GattValueChangedEventArgs class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GattValueChangedEventArgs.CharacteristicValue property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs_CharacteristicValue.htm" />
+  <HelpKINode Title="GattValueChangedEventArgs.GattValueChangedEventArgs constructor" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs__ctor.htm" />
+  <HelpKINode Title="GattValueChangedEventArgs.Timestamp property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs_Timestamp.htm" />
   <HelpKINode Title="GenerateUniqueName enumeration member">
     <HelpKINode Title="CreationCollisionOption Enumeration" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
     <HelpKINode Title="NameCollisionOption Enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
   </HelpKINode>
+  <HelpKINode Title="GenericAccess field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_GenericAccess.htm" />
+  <HelpKINode Title="GenericAttribute field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_GenericAttribute.htm" />
   <HelpKINode Title="Geocircle class">
     <HelpKINode Title="Geocircle Class" Url="html/T_InTheHand_Devices_Geolocation_Geocircle.htm" />
     <HelpKINode Title="about Geocircle class" Url="html/T_InTheHand_Devices_Geolocation_Geocircle.htm" />
@@ -752,12 +1066,15 @@
     <HelpKINode Title="Geocircle.GeoshapeType Property " Url="html/P_InTheHand_Devices_Geolocation_Geocircle_GeoshapeType.htm" />
     <HelpKINode Title="IGeoshape.GeoshapeType Property " Url="html/P_InTheHand_Devices_Geolocation_IGeoshape_GeoshapeType.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetAllCharacteristics method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetAllCharacteristics.htm" />
+  <HelpKINode Title="GetAllDescriptors method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_GetAllDescriptors.htm" />
   <HelpKINode Title="GetApplicationLinkAsync method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetApplicationLinkAsync.htm" />
   <HelpKINode Title="GetBasicPropertiesAsync method">
     <HelpKINode Title="IStorageItem.GetBasicPropertiesAsync Method " Url="html/M_InTheHand_Storage_IStorageItem_GetBasicPropertiesAsync.htm" />
     <HelpKINode Title="StorageFile.GetBasicPropertiesAsync Method " Url="html/M_InTheHand_Storage_StorageFile_GetBasicPropertiesAsync.htm" />
     <HelpKINode Title="StorageFolder.GetBasicPropertiesAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_GetBasicPropertiesAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetCharacteristics method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetCharacteristics.htm" />
   <HelpKINode Title="GetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_GetContent.htm" />
   <HelpKINode Title="GetCurrentApplicationCallbackUri method" Url="html/M_InTheHand_Security_Authentication_Web_WebAuthenticationBroker_GetCurrentApplicationCallbackUri.htm" />
   <HelpKINode Title="GetCurrentReading method">
@@ -771,6 +1088,13 @@
     <HelpKINode Title="VibrationDevice.GetDefault Method " Url="html/M_InTheHand_Phone_Devices_Notification_VibrationDevice_GetDefault.htm" />
   </HelpKINode>
   <HelpKINode Title="GetDefaultLineAsync method" Url="html/M_InTheHand_ApplicationModel_Calls_PhoneCallStore_GetDefaultLineAsync.htm" />
+  <HelpKINode Title="GetDescriptors method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_GetDescriptors.htm" />
+  <HelpKINode Title="GetDeviceSelector method">
+    <HelpKINode Title="BluetoothLEDevice.GetDeviceSelector Method " Url="html/M_InTheHand_Devices_Bluetooth_BluetoothLEDevice_GetDeviceSelector.htm" />
+    <HelpKINode Title="Radio.GetDeviceSelector Method " Url="html/M_InTheHand_Devices_Radios_Radio_GetDeviceSelector.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetDeviceSelectorFromShortId method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetDeviceSelectorFromShortId.htm" />
+  <HelpKINode Title="GetDeviceSelectorFromUuid method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_GetDeviceSelectorFromUuid.htm" />
   <HelpKINode Title="GetDistanceTo method">
     <HelpKINode Title="BasicGeopositionExtensions.GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_BasicGeopositionExtensions_GetDistanceTo.htm" />
     <HelpKINode Title="GeocoordinateExtensions.GetDistanceTo Method " Url="html/M_InTheHand_Devices_Geolocation_GeocoordinateExtensions_GetDistanceTo.htm" />
@@ -814,10 +1138,12 @@
     <HelpKINode Title="StorageFile.GetParentAsync Method " Url="html/M_InTheHand_Storage_StorageFile_GetParentAsync.htm" />
     <HelpKINode Title="StorageFolder.GetParentAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_GetParentAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetRadiosAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_GetRadiosAsync.htm" />
   <HelpKINode Title="GetString method" Url="html/M_InTheHand_ApplicationModel_Resources_ResourceLoader_GetString.htm" />
   <HelpKINode Title="GetTextAsync method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetTextAsync.htm" />
   <HelpKINode Title="GetView method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_GetView.htm" />
   <HelpKINode Title="GetWebLinkAsync method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackageView_GetWebLinkAsync.htm" />
+  <HelpKINode Title="Glucose field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_Glucose.htm" />
   <HelpKINode Title="Group property">
     <HelpKINode Title="ScheduledToastNotification.Group Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_Group.htm" />
     <HelpKINode Title="ToastNotification.Group Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_Group.htm" />
@@ -855,6 +1181,8 @@
   </HelpKINode>
   <HelpKINode Title="GyrometerReadingChangedEventArgs.Reading property" Url="html/P_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs_Reading.htm" />
   <HelpKINode Title="Heading property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Heading.htm" />
+  <HelpKINode Title="HealthThermometer field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HealthThermometer.htm" />
+  <HelpKINode Title="HeartRate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HeartRate.htm" />
   <HelpKINode Title="Height property" Url="html/P_InTheHand_Foundation_Rect_Height.htm" />
   <HelpKINode Title="Hide method" Url="html/M_InTheHand_UI_Notifications_ToastNotifier_Hide.htm" />
   <HelpKINode Title="HideAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
@@ -865,7 +1193,10 @@
     <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Data_Html_HtmlUtilities.htm" />
   </HelpKINode>
   <HelpKINode Title="HtmlUtilities.ConvertToText method" Url="html/M_InTheHand_Data_Html_HtmlUtilities_ConvertToText.htm" />
+  <HelpKINode Title="HttpProxy field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HttpProxy.htm" />
+  <HelpKINode Title="HumanInterfaceDevice field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_HumanInterfaceDevice.htm" />
   <HelpKINode Title="Id property">
+    <HelpKINode Title="DeviceInformation.Id Property " Url="html/P_InTheHand_Devices_Enumeration_DeviceInformation_Id.htm" />
     <HelpKINode Title="EasClientDeviceInformation.Id Property " Url="html/P_InTheHand_Security_ExchangeActivesyncProvisioning_EasClientDeviceInformation_Id.htm" />
     <HelpKINode Title="Geofence.Id Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_Geofence_Id.htm" />
     <HelpKINode Title="IUICommand.Id Property " Url="html/P_InTheHand_UI_Popups_IUICommand_Id.htm" />
@@ -894,7 +1225,10 @@
   </HelpKINode>
   <HelpKINode Title="IMapChangedEventArgs&lt;K&gt;.CollectionChange property" Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_CollectionChange.htm" />
   <HelpKINode Title="IMapChangedEventArgs&lt;K&gt;.Key property" Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_Key.htm" />
+  <HelpKINode Title="ImmediateAlert field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ImmediateAlert.htm" />
   <HelpKINode Title="Inadequate enumeration member" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
+  <HelpKINode Title="Indicate enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="IndoorPositioning field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_IndoorPositioning.htm" />
   <HelpKINode Title="Initializing enumeration member">
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
@@ -902,6 +1236,7 @@
   <HelpKINode Title="InstalledDate property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledDate.htm" />
   <HelpKINode Title="InstalledLocation property" Url="html/P_InTheHand_ApplicationModel_Package_InstalledLocation.htm" />
   <HelpKINode Title="InternetAccess enumeration member" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
+  <HelpKINode Title="InternetProtocolSupport field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_InternetProtocolSupport.htm" />
   <HelpKINode Title="Interval property" Url="html/P_InTheHand_UI_Xaml_DispatcherTimer_Interval.htm" />
   <HelpKINode Title="InTheHand namespace" Url="html/N_InTheHand.htm" />
   <HelpKINode Title="InTheHand.ApplicationModel namespace" Url="html/N_InTheHand_ApplicationModel.htm" />
@@ -942,6 +1277,22 @@
   <HelpKINode Title="InTheHand.Data.Html namespace" Url="html/N_InTheHand_Data_Html.htm" />
   <HelpKINode Title="InTheHand.Data.Html.HtmlUtilities class" Url="html/T_InTheHand_Data_Html_HtmlUtilities.htm" />
   <HelpKINode Title="InTheHand.DateTimeOffsetHelper class" Url="html/T_InTheHand_DateTimeOffsetHelper.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth namespace" Url="html/N_InTheHand_Devices_Bluetooth.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.BluetoothConnectionStatus enumeration" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothConnectionStatus.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.BluetoothLEDevice class" Url="html/T_InTheHand_Devices_Bluetooth_BluetoothLEDevice.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile namespace" Url="html/N_InTheHand_Devices_Bluetooth_GenericAttributeProfile.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattCharacteristic class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattCharacteristicProperties enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattCharacteristicUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicUuids.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattCommunicationStatus enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCommunicationStatus.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattDescriptor class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattDescriptorUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattDeviceService class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattReadResult class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattServiceUuids class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids.htm" />
+  <HelpKINode Title="InTheHand.Devices.Bluetooth.GenericAttributeProfile.GattValueChangedEventArgs class" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs.htm" />
+  <HelpKINode Title="InTheHand.Devices.Enumeration namespace" Url="html/N_InTheHand_Devices_Enumeration.htm" />
+  <HelpKINode Title="InTheHand.Devices.Enumeration.DeviceInformation class" Url="html/T_InTheHand_Devices_Enumeration_DeviceInformation.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation namespace" Url="html/N_InTheHand_Devices_Geolocation.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.BasicGeoposition structure" Url="html/T_InTheHand_Devices_Geolocation_BasicGeoposition.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.BasicGeopositionExtensions class" Url="html/T_InTheHand_Devices_Geolocation_BasicGeopositionExtensions.htm" />
@@ -965,6 +1316,11 @@
   <HelpKINode Title="InTheHand.Devices.Geolocation.PositionSource enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.PositionStatus enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
   <HelpKINode Title="InTheHand.Devices.Geolocation.StatusChangedEventArgs class" Url="html/T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm" />
+  <HelpKINode Title="InTheHand.Devices.Radios namespace" Url="html/N_InTheHand_Devices_Radios.htm" />
+  <HelpKINode Title="InTheHand.Devices.Radios.Radio class" Url="html/T_InTheHand_Devices_Radios_Radio.htm" />
+  <HelpKINode Title="InTheHand.Devices.Radios.RadioAccessStatus enumeration" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
+  <HelpKINode Title="InTheHand.Devices.Radios.RadioKind enumeration" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
+  <HelpKINode Title="InTheHand.Devices.Radios.RadioState enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
   <HelpKINode Title="InTheHand.Devices.Sensors namespace" Url="html/N_InTheHand_Devices_Sensors.htm" />
   <HelpKINode Title="InTheHand.Devices.Sensors.Accelerometer class" Url="html/T_InTheHand_Devices_Sensors_Accelerometer.htm" />
   <HelpKINode Title="InTheHand.Devices.Sensors.AccelerometerReading class" Url="html/T_InTheHand_Devices_Sensors_AccelerometerReading.htm" />
@@ -973,6 +1329,16 @@
   <HelpKINode Title="InTheHand.Devices.Sensors.GyrometerReading class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReading.htm" />
   <HelpKINode Title="InTheHand.Devices.Sensors.GyrometerReadingChangedEventArgs class" Url="html/T_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs.htm" />
   <HelpKINode Title="InTheHand.Environment class" Url="html/T_InTheHand_Environment.htm" />
+  <HelpKINode Title="InTheHand.Forms namespace" Url="html/N_InTheHand_Forms.htm" />
+  <HelpKINode Title="InTheHand.Forms.CheckSwitch class" Url="html/T_InTheHand_Forms_CheckSwitch.htm" />
+  <HelpKINode Title="InTheHand.Forms.IPageNavigation interface" Url="html/T_InTheHand_Forms_IPageNavigation.htm" />
+  <HelpKINode Title="InTheHand.Forms.MediaElement class" Url="html/T_InTheHand_Forms_MediaElement.htm" />
+  <HelpKINode Title="InTheHand.Forms.MediaElementState enumeration" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
+  <HelpKINode Title="InTheHand.Forms.NavigationEventArgs2 class" Url="html/T_InTheHand_Forms_NavigationEventArgs2.htm" />
+  <HelpKINode Title="InTheHand.Forms.NavigationMode enumeration" Url="html/T_InTheHand_Forms_NavigationMode.htm" />
+  <HelpKINode Title="InTheHand.Forms.NavigationPage2 class" Url="html/T_InTheHand_Forms_NavigationPage2.htm" />
+  <HelpKINode Title="InTheHand.Forms.OnPlatform2(Of T) class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
+  <HelpKINode Title="InTheHand.Forms.OnPlatform2&lt;T&gt; class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
   <HelpKINode Title="InTheHand.Foundation namespace" Url="html/N_InTheHand_Foundation.htm" />
   <HelpKINode Title="InTheHand.Foundation.Collections namespace" Url="html/N_InTheHand_Foundation_Collections.htm" />
   <HelpKINode Title="InTheHand.Foundation.Collections.CollectionChange enumeration" Url="html/T_InTheHand_Foundation_Collections_CollectionChange.htm" />
@@ -1117,7 +1483,15 @@
     <HelpKINode Title="events" Url="html/Events_T_InTheHand_Foundation_Collections_IObservableMap_2.htm" />
   </HelpKINode>
   <HelpKINode Title="IObservableMap&lt;K, V&gt;.MapChanged event" Url="html/E_InTheHand_Foundation_Collections_IObservableMap_2_MapChanged.htm" />
+  <HelpKINode Title="iOS property" Url="html/P_InTheHand_Forms_OnPlatform2_1_iOS.htm" />
   <HelpKINode Title="IPAddress enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
+  <HelpKINode Title="IPageNavigation interface">
+    <HelpKINode Title="IPageNavigation Interface" Url="html/T_InTheHand_Forms_IPageNavigation.htm" />
+    <HelpKINode Title="about IPageNavigation interface" Url="html/T_InTheHand_Forms_IPageNavigation.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_IPageNavigation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPageNavigation.OnNavigatedFrom method" Url="html/M_InTheHand_Forms_IPageNavigation_OnNavigatedFrom.htm" />
+  <HelpKINode Title="IPageNavigation.OnNavigatedTo method" Url="html/M_InTheHand_Forms_IPageNavigation_OnNavigatedTo.htm" />
   <HelpKINode Title="IPropertySet interface">
     <HelpKINode Title="IPropertySet Interface" Url="html/T_InTheHand_Foundation_Collections_IPropertySet.htm" />
     <HelpKINode Title="about IPropertySet interface" Url="html/T_InTheHand_Foundation_Collections_IPropertySet.htm" />
@@ -1212,6 +1586,7 @@
   <HelpKINode Title="IUICommand.Label property" Url="html/P_InTheHand_UI_Popups_IUICommand_Label.htm" />
   <HelpKINode Title="Key property" Url="html/P_InTheHand_Foundation_Collections_IMapChangedEventArgs_1_Key.htm" />
   <HelpKINode Title="Keys property" Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Keys.htm" />
+  <HelpKINode Title="Kind property" Url="html/P_InTheHand_Devices_Radios_Radio_Kind.htm" />
   <HelpKINode Title="KnownFolders class">
     <HelpKINode Title="KnownFolders Class" Url="html/T_InTheHand_Storage_KnownFolders.htm" />
     <HelpKINode Title="about KnownFolders class" Url="html/T_InTheHand_Storage_KnownFolders.htm" />
@@ -1254,12 +1629,14 @@
   <HelpKINode Title="LaunchQuerySupportType enumeration" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="LaunchUriAsync method" Url="html/M_InTheHand_System_Launcher_LaunchUriAsync.htm" />
   <HelpKINode Title="Left enumeration member" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
+  <HelpKINode Title="LinkLoss field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_LinkLoss.htm" />
   <HelpKINode Title="Local enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="LocalAccess enumeration member" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
   <HelpKINode Title="LocalCache enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="LocalFolder property" Url="html/P_InTheHand_Storage_ApplicationData_LocalFolder.htm" />
   <HelpKINode Title="Locality property" Url="html/P_InTheHand_Storage_ApplicationDataContainer_Locality.htm" />
   <HelpKINode Title="LocalSettings property" Url="html/P_InTheHand_Storage_ApplicationData_LocalSettings.htm" />
+  <HelpKINode Title="LocationAndNavigation field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_LocationAndNavigation.htm" />
   <HelpKINode Title="LocationStatus property" Url="html/P_InTheHand_Devices_Geolocation_Geolocator_LocationStatus.htm" />
   <HelpKINode Title="Logo property" Url="html/P_InTheHand_ApplicationModel_Package_Logo.htm" />
   <HelpKINode Title="Longitude field" Url="html/F_InTheHand_Devices_Geolocation_BasicGeoposition_Longitude.htm" />
@@ -1272,6 +1649,36 @@
   </HelpKINode>
   <HelpKINode Title="MapChangedEventHandler(Of K, V) delegate" Url="html/T_InTheHand_Foundation_Collections_MapChangedEventHandler_2.htm" />
   <HelpKINode Title="MapChangedEventHandler&lt;K, V&gt; delegate" Url="html/T_InTheHand_Foundation_Collections_MapChangedEventHandler_2.htm" />
+  <HelpKINode Title="MediaElement class">
+    <HelpKINode Title="MediaElement Class" Url="html/T_InTheHand_Forms_MediaElement.htm" />
+    <HelpKINode Title="about MediaElement class" Url="html/T_InTheHand_Forms_MediaElement.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Forms_MediaElement__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Forms_MediaElement.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_InTheHand_Forms_MediaElement.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_MediaElement.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_MediaElement.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MediaElement.AreTransportControlsEnabled property" Url="html/P_InTheHand_Forms_MediaElement_AreTransportControlsEnabled.htm" />
+  <HelpKINode Title="MediaElement.AreTransportControlsEnabledProperty field" Url="html/F_InTheHand_Forms_MediaElement_AreTransportControlsEnabledProperty.htm" />
+  <HelpKINode Title="MediaElement.AutoPlay property" Url="html/P_InTheHand_Forms_MediaElement_AutoPlay.htm" />
+  <HelpKINode Title="MediaElement.AutoPlayProperty field" Url="html/F_InTheHand_Forms_MediaElement_AutoPlayProperty.htm" />
+  <HelpKINode Title="MediaElement.CurrentState property" Url="html/P_InTheHand_Forms_MediaElement_CurrentState.htm" />
+  <HelpKINode Title="MediaElement.CurrentStateChanged event" Url="html/E_InTheHand_Forms_MediaElement_CurrentStateChanged.htm" />
+  <HelpKINode Title="MediaElement.CurrentStateProperty field" Url="html/F_InTheHand_Forms_MediaElement_CurrentStateProperty.htm" />
+  <HelpKINode Title="MediaElement.MediaElement constructor" Url="html/M_InTheHand_Forms_MediaElement__ctor.htm" />
+  <HelpKINode Title="MediaElement.MediaEnded event" Url="html/E_InTheHand_Forms_MediaElement_MediaEnded.htm" />
+  <HelpKINode Title="MediaElement.MediaOpened event" Url="html/E_InTheHand_Forms_MediaElement_MediaOpened.htm" />
+  <HelpKINode Title="MediaElement.Pause method" Url="html/M_InTheHand_Forms_MediaElement_Pause.htm" />
+  <HelpKINode Title="MediaElement.Play method" Url="html/M_InTheHand_Forms_MediaElement_Play.htm" />
+  <HelpKINode Title="MediaElement.Position property" Url="html/P_InTheHand_Forms_MediaElement_Position.htm" />
+  <HelpKINode Title="MediaElement.PositionProperty field" Url="html/F_InTheHand_Forms_MediaElement_PositionProperty.htm" />
+  <HelpKINode Title="MediaElement.SeekCompleted event" Url="html/E_InTheHand_Forms_MediaElement_SeekCompleted.htm" />
+  <HelpKINode Title="MediaElement.Source property" Url="html/P_InTheHand_Forms_MediaElement_Source.htm" />
+  <HelpKINode Title="MediaElement.SourceProperty field" Url="html/F_InTheHand_Forms_MediaElement_SourceProperty.htm" />
+  <HelpKINode Title="MediaElement.Stop method" Url="html/M_InTheHand_Forms_MediaElement_Stop.htm" />
+  <HelpKINode Title="MediaElementState enumeration" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
+  <HelpKINode Title="MediaEnded event" Url="html/E_InTheHand_Forms_MediaElement_MediaEnded.htm" />
+  <HelpKINode Title="MediaOpened event" Url="html/E_InTheHand_Forms_MediaElement_MediaOpened.htm" />
   <HelpKINode Title="MessageDialog class">
     <HelpKINode Title="MessageDialog Class" Url="html/T_InTheHand_UI_Popups_MessageDialog.htm" />
     <HelpKINode Title="about MessageDialog class" Url="html/T_InTheHand_UI_Popups_MessageDialog.htm" />
@@ -1288,6 +1695,7 @@
   <HelpKINode Title="MessageDialog.Title property" Url="html/P_InTheHand_UI_Popups_MessageDialog_Title.htm" />
   <HelpKINode Title="MimeType property" Url="html/P_InTheHand_ApplicationModel_Email_EmailAttachment_MimeType.htm" />
   <HelpKINode Title="Minor field" Url="html/F_InTheHand_ApplicationModel_PackageVersion_Minor.htm" />
+  <HelpKINode Title="MobileBroadband enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
   <HelpKINode Title="MonitoredGeofenceStates enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
   <HelpKINode Title="MoveAndReplaceAsync method">
     <HelpKINode Title="IStorageFile.MoveAndReplaceAsync Method " Url="html/M_InTheHand_Storage_IStorageFile_MoveAndReplaceAsync.htm" />
@@ -1301,13 +1709,35 @@
   <HelpKINode Title="MusicLibrary property" Url="html/P_InTheHand_Storage_KnownFolders_MusicLibrary.htm" />
   <HelpKINode Title="Name property">
     <HelpKINode Title="ApplicationDataContainer.Name Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Name.htm" />
+    <HelpKINode Title="DeviceInformation.Name Property " Url="html/P_InTheHand_Devices_Enumeration_DeviceInformation_Name.htm" />
     <HelpKINode Title="EmailRecipient.Name Property " Url="html/P_InTheHand_ApplicationModel_Email_EmailRecipient_Name.htm" />
     <HelpKINode Title="IStorageItem.Name Property " Url="html/P_InTheHand_Storage_IStorageItem_Name.htm" />
     <HelpKINode Title="PackageId.Name Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Name.htm" />
+    <HelpKINode Title="Radio.Name Property " Url="html/P_InTheHand_Devices_Radios_Radio_Name.htm" />
     <HelpKINode Title="StorageFile.Name Property " Url="html/P_InTheHand_Storage_StorageFile_Name.htm" />
     <HelpKINode Title="StorageFolder.Name Property " Url="html/P_InTheHand_Storage_StorageFolder_Name.htm" />
   </HelpKINode>
+  <HelpKINode Title="NameChanged event" Url="html/E_InTheHand_Devices_Bluetooth_BluetoothLEDevice_NameChanged.htm" />
   <HelpKINode Title="NameCollisionOption enumeration" Url="html/T_InTheHand_Storage_NameCollisionOption.htm" />
+  <HelpKINode Title="NavigationEventArgs2 class">
+    <HelpKINode Title="NavigationEventArgs2 Class" Url="html/T_InTheHand_Forms_NavigationEventArgs2.htm" />
+    <HelpKINode Title="about NavigationEventArgs2 class" Url="html/T_InTheHand_Forms_NavigationEventArgs2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_NavigationEventArgs2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_NavigationEventArgs2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigationEventArgs2.NavigationMode property" Url="html/P_InTheHand_Forms_NavigationEventArgs2_NavigationMode.htm" />
+  <HelpKINode Title="NavigationEventArgs2.Page property" Url="html/P_InTheHand_Forms_NavigationEventArgs2_Page.htm" />
+  <HelpKINode Title="NavigationMode enumeration" Url="html/T_InTheHand_Forms_NavigationMode.htm" />
+  <HelpKINode Title="NavigationMode property" Url="html/P_InTheHand_Forms_NavigationEventArgs2_NavigationMode.htm" />
+  <HelpKINode Title="NavigationPage2 class">
+    <HelpKINode Title="NavigationPage2 Class" Url="html/T_InTheHand_Forms_NavigationPage2.htm" />
+    <HelpKINode Title="about NavigationPage2 class" Url="html/T_InTheHand_Forms_NavigationPage2.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_InTheHand_Forms_NavigationPage2__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_InTheHand_Forms_NavigationPage2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_NavigationPage2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_NavigationPage2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigationPage2.NavigationPage2 constructor" Url="html/Overload_InTheHand_Forms_NavigationPage2__ctor.htm" />
   <HelpKINode Title="NetworkConnectivityLevel enumeration" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
   <HelpKINode Title="NetworkInformation class">
     <HelpKINode Title="NetworkInformation Class" Url="html/T_InTheHand_Networking_Connectivity_NetworkInformation.htm" />
@@ -1320,13 +1750,16 @@
   <HelpKINode Title="NetworkStatusChanged event" Url="html/E_InTheHand_Networking_Connectivity_NetworkInformation_NetworkStatusChanged.htm" />
   <HelpKINode Title="NetworkStatusChangedEventHandler delegate" Url="html/T_InTheHand_Networking_Connectivity_NetworkStatusChangedEventHandler.htm" />
   <HelpKINode Title="Neutral enumeration member" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
+  <HelpKINode Title="New enumeration member" Url="html/T_InTheHand_Forms_NavigationMode.htm" />
   <HelpKINode Title="NewState property" Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceStateChangeReport_NewState.htm" />
+  <HelpKINode Title="NextDstChange field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_NextDstChange.htm" />
   <HelpKINode Title="NoData enumeration member">
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="None enumeration member">
     <HelpKINode Title="DisplayOrientations Enumeration" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
+    <HelpKINode Title="GattCharacteristicProperties Enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
     <HelpKINode Title="GeofenceState Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceState.htm" />
     <HelpKINode Title="MonitoredGeofenceStates Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_MonitoredGeofenceStates.htm" />
     <HelpKINode Title="NetworkConnectivityLevel Enumeration" Url="html/T_InTheHand_Networking_Connectivity_NetworkConnectivityLevel.htm" />
@@ -1338,6 +1771,7 @@
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
   </HelpKINode>
+  <HelpKINode Title="Notify enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="NotInitialized enumeration member">
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
@@ -1347,10 +1781,53 @@
     <HelpKINode Title="PowerSupplyStatus Enumeration" Url="html/T_InTheHand_System_Power_PowerSupplyStatus.htm" />
   </HelpKINode>
   <HelpKINode Title="NotSupported enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
+  <HelpKINode Title="NumberOfDigitals field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_NumberOfDigitals.htm" />
   <HelpKINode Title="Obfuscated enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
-  <HelpKINode Title="Off enumeration member" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
-  <HelpKINode Title="On enumeration member" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
+  <HelpKINode Title="ObjectTransfer field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ObjectTransfer.htm" />
+  <HelpKINode Title="Off enumeration member">
+    <HelpKINode Title="EnergySaverStatus Enumeration" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
+    <HelpKINode Title="RadioState Enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
+  </HelpKINode>
+  <HelpKINode Title="On enumeration member">
+    <HelpKINode Title="EnergySaverStatus Enumeration" Url="html/T_InTheHand_System_Power_EnergySaverStatus.htm" />
+    <HelpKINode Title="RadioState Enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnNavigatedFrom method" Url="html/M_InTheHand_Forms_IPageNavigation_OnNavigatedFrom.htm" />
+  <HelpKINode Title="OnNavigatedTo method" Url="html/M_InTheHand_Forms_IPageNavigation_OnNavigatedTo.htm" />
+  <HelpKINode Title="OnPlatform2(Of T) class">
+    <HelpKINode Title="OnPlatform2(T) Class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="about OnPlatform2(Of T) class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Forms_OnPlatform2_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_InTheHand_Forms_OnPlatform2_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnPlatform2(Of T) to T conversion" Url="html/M_InTheHand_Forms_OnPlatform2_1_op_Implicit.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).Android property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Android.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).iOS property" Url="html/P_InTheHand_Forms_OnPlatform2_1_iOS.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).OnPlatform2 constructor" Url="html/M_InTheHand_Forms_OnPlatform2_1__ctor.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).Other property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Other.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).Tizen property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Tizen.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).Windows property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Windows.htm" />
+  <HelpKINode Title="OnPlatform2(Of T).WinPhone property" Url="html/P_InTheHand_Forms_OnPlatform2_1_WinPhone.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt; class">
+    <HelpKINode Title="OnPlatform2(T) Class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="about OnPlatform2&lt;T&gt; class" Url="html/T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_InTheHand_Forms_OnPlatform2_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Forms_OnPlatform2_1.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_InTheHand_Forms_OnPlatform2_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnPlatform2&lt;T&gt; to T conversion" Url="html/M_InTheHand_Forms_OnPlatform2_1_op_Implicit.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.Android property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Android.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.iOS property" Url="html/P_InTheHand_Forms_OnPlatform2_1_iOS.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.OnPlatform2 constructor" Url="html/M_InTheHand_Forms_OnPlatform2_1__ctor.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.Other property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Other.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.Tizen property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Tizen.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.Windows property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Windows.htm" />
+  <HelpKINode Title="OnPlatform2&lt;T&gt;.WinPhone property" Url="html/P_InTheHand_Forms_OnPlatform2_1_WinPhone.htm" />
   <HelpKINode Title="OpenIfExists enumeration member" Url="html/T_InTheHand_Storage_CreationCollisionOption.htm" />
+  <HelpKINode Title="Opening enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="OpenStreamForReadAsync method" Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForReadAsync.htm" />
   <HelpKINode Title="OpenStreamForWriteAsync method" Url="html/Overload_System_IO_InTheHandRuntimeStorageExtensions_OpenStreamForWriteAsync.htm" />
   <HelpKINode Title="OperatingSystem class">
@@ -1365,6 +1842,8 @@
   <HelpKINode Title="OperatingSystem.Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
   <HelpKINode Title="OperatingSystem.Version property" Url="html/P_System_OperatingSystem_Version.htm" />
   <HelpKINode Title="OSVersion property" Url="html/P_InTheHand_Environment_OSVersion.htm" />
+  <HelpKINode Title="Other enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
+  <HelpKINode Title="Other property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Other.htm" />
   <HelpKINode Title="Package class">
     <HelpKINode Title="Package Class" Url="html/T_InTheHand_ApplicationModel_Package.htm" />
     <HelpKINode Title="about Package class" Url="html/T_InTheHand_ApplicationModel_Package.htm" />
@@ -1411,6 +1890,7 @@
   <HelpKINode Title="PackageVersionExtensions.ToPackageVersion method" Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToPackageVersion.htm" />
   <HelpKINode Title="PackageVersionExtensions.ToString method" Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToString.htm" />
   <HelpKINode Title="PackageVersionExtensions.ToVersion method" Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToVersion.htm" />
+  <HelpKINode Title="Page property" Url="html/P_InTheHand_Forms_NavigationEventArgs2_Page.htm" />
   <HelpKINode Title="Path property">
     <HelpKINode Title="IStorageItem.Path Property " Url="html/P_InTheHand_Storage_IStorageItem_Path.htm" />
     <HelpKINode Title="StorageFile.Path Property " Url="html/P_InTheHand_Storage_StorageFile_Path.htm" />
@@ -1427,7 +1907,10 @@
   <HelpKINode Title="PathIO.ReadTextAsync method" Url="html/Overload_InTheHand_Storage_PathIO_ReadTextAsync.htm" />
   <HelpKINode Title="PathIO.WriteLinesAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm" />
   <HelpKINode Title="PathIO.WriteTextAsync method" Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm" />
+  <HelpKINode Title="Pause method" Url="html/M_InTheHand_Forms_MediaElement_Pause.htm" />
+  <HelpKINode Title="Paused enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="PermanentDelete enumeration member" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
+  <HelpKINode Title="PhoneAlertStatus field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_PhoneAlertStatus.htm" />
   <HelpKINode Title="PhoneCallManager class">
     <HelpKINode Title="PhoneCallManager Class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm" />
     <HelpKINode Title="about PhoneCallManager class" Url="html/T_InTheHand_ApplicationModel_Calls_PhoneCallManager.htm" />
@@ -1459,6 +1942,8 @@
   <HelpKINode Title="Placement enumeration" Url="html/T_InTheHand_UI_Popups_Placement.htm" />
   <HelpKINode Title="Platform property" Url="html/P_System_OperatingSystem_Platform.htm" />
   <HelpKINode Title="PlatformID enumeration" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="Play method" Url="html/M_InTheHand_Forms_MediaElement_Play.htm" />
+  <HelpKINode Title="Playing enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="Point property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Point.htm" />
   <HelpKINode Title="Point structure">
     <HelpKINode Title="Point Structure" Url="html/T_InTheHand_Foundation_Point.htm" />
@@ -1483,6 +1968,7 @@
   <HelpKINode Title="PortraitFlipped enumeration member" Url="html/T_InTheHand_Graphics_Display_DisplayOrientations.htm" />
   <HelpKINode Title="Position property">
     <HelpKINode Title="Geopoint.Position Property " Url="html/P_InTheHand_Devices_Geolocation_Geopoint_Position.htm" />
+    <HelpKINode Title="MediaElement.Position Property " Url="html/P_InTheHand_Forms_MediaElement_Position.htm" />
     <HelpKINode Title="PositionChangedEventArgs.Position Property " Url="html/P_InTheHand_Devices_Geolocation_PositionChangedEventArgs_Position.htm" />
   </HelpKINode>
   <HelpKINode Title="PositionAccuracy enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionAccuracy.htm" />
@@ -1494,6 +1980,7 @@
     <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_PositionChangedEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="PositionChangedEventArgs.Position property" Url="html/P_InTheHand_Devices_Geolocation_PositionChangedEventArgs_Position.htm" />
+  <HelpKINode Title="PositionProperty field" Url="html/F_InTheHand_Forms_MediaElement_PositionProperty.htm" />
   <HelpKINode Title="PositionSource enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
   <HelpKINode Title="PositionSource property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_PositionSource.htm" />
   <HelpKINode Title="PositionSourceTimestamp property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_PositionSourceTimestamp.htm" />
@@ -1522,11 +2009,30 @@
   </HelpKINode>
   <HelpKINode Title="Publisher property" Url="html/P_InTheHand_ApplicationModel_PackageId_Publisher.htm" />
   <HelpKINode Title="PublisherDisplayName property" Url="html/P_InTheHand_ApplicationModel_Package_PublisherDisplayName.htm" />
+  <HelpKINode Title="PulseOximeter field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_PulseOximeter.htm" />
   <HelpKINode Title="QueryUriSupportAsync method" Url="html/M_InTheHand_System_Launcher_QueryUriSupportAsync.htm" />
+  <HelpKINode Title="Radio class">
+    <HelpKINode Title="Radio Class" Url="html/T_InTheHand_Devices_Radios_Radio.htm" />
+    <HelpKINode Title="about Radio class" Url="html/T_InTheHand_Devices_Radios_Radio.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_InTheHand_Devices_Radios_Radio.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Radios_Radio.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Radio.FromIdAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_FromIdAsync.htm" />
+  <HelpKINode Title="Radio.GetDeviceSelector method" Url="html/M_InTheHand_Devices_Radios_Radio_GetDeviceSelector.htm" />
+  <HelpKINode Title="Radio.GetRadiosAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_GetRadiosAsync.htm" />
+  <HelpKINode Title="Radio.Kind property" Url="html/P_InTheHand_Devices_Radios_Radio_Kind.htm" />
+  <HelpKINode Title="Radio.Name property" Url="html/P_InTheHand_Devices_Radios_Radio_Name.htm" />
+  <HelpKINode Title="Radio.RequestAccessAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_RequestAccessAsync.htm" />
+  <HelpKINode Title="Radio.SetStateAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_SetStateAsync.htm" />
+  <HelpKINode Title="Radio.State property" Url="html/P_InTheHand_Devices_Radios_Radio_State.htm" />
+  <HelpKINode Title="RadioAccessStatus enumeration" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
+  <HelpKINode Title="RadioKind enumeration" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
+  <HelpKINode Title="RadioState enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
   <HelpKINode Title="Radius property" Url="html/P_InTheHand_Devices_Geolocation_Geocircle_Radius.htm" />
   <HelpKINode Title="RawDpiX property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiX.htm" />
   <HelpKINode Title="RawDpiY property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawDpiY.htm" />
   <HelpKINode Title="RawPixelsPerViewPixel property" Url="html/P_InTheHand_Graphics_Display_DisplayInformation_RawPixelsPerViewPixel.htm" />
+  <HelpKINode Title="Read enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="Reading property">
     <HelpKINode Title="AccelerometerReadingChangedEventArgs.Reading Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReadingChangedEventArgs_Reading.htm" />
     <HelpKINode Title="GyrometerReadingChangedEventArgs.Reading Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReadingChangedEventArgs_Reading.htm" />
@@ -1545,6 +2051,10 @@
     <HelpKINode Title="FileIO.ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_ReadTextAsync.htm" />
     <HelpKINode Title="PathIO.ReadTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_ReadTextAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="ReadValueAsync method">
+    <HelpKINode Title="GattCharacteristic.ReadValueAsync Method " Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_ReadValueAsync.htm" />
+    <HelpKINode Title="GattDescriptor.ReadValueAsync Method " Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor_ReadValueAsync.htm" />
+  </HelpKINode>
   <HelpKINode Title="Ready enumeration member">
     <HelpKINode Title="GeofenceMonitorStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitorStatus.htm" />
     <HelpKINode Title="PositionStatus Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionStatus.htm" />
@@ -1562,6 +2072,8 @@
   <HelpKINode Title="Rect.Width property" Url="html/P_InTheHand_Foundation_Rect_Width.htm" />
   <HelpKINode Title="Rect.X property" Url="html/P_InTheHand_Foundation_Rect_X.htm" />
   <HelpKINode Title="Rect.Y property" Url="html/P_InTheHand_Foundation_Rect_Y.htm" />
+  <HelpKINode Title="ReferenceTimeUpdate field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ReferenceTimeUpdate.htm" />
+  <HelpKINode Title="ReliableWrites enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="RemainingChargePercent property" Url="html/P_InTheHand_System_Power_PowerManager_RemainingChargePercent.htm" />
   <HelpKINode Title="RemainingChargePercentChanged event" Url="html/E_InTheHand_System_Power_PowerManager_RemainingChargePercentChanged.htm" />
   <HelpKINode Title="RemainingDischargeTime property" Url="html/P_InTheHand_System_Power_PowerManager_RemainingDischargeTime.htm" />
@@ -1581,10 +2093,12 @@
     <HelpKINode Title="Geolocator.ReportInterval Property " Url="html/P_InTheHand_Devices_Geolocation_Geolocator_ReportInterval.htm" />
     <HelpKINode Title="Gyrometer.ReportInterval Property " Url="html/P_InTheHand_Devices_Sensors_Gyrometer_ReportInterval.htm" />
   </HelpKINode>
+  <HelpKINode Title="ReportReference field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ReportReference.htm" />
   <HelpKINode Title="Request property">
     <HelpKINode Title="DataRequestedEventArgs.Request Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataRequestedEventArgs_Request.htm" />
     <HelpKINode Title="SettingsPaneCommandsRequestedEventArgs.Request Property " Url="html/P_InTheHand_UI_ApplicationSettings_SettingsPaneCommandsRequestedEventArgs_Request.htm" />
   </HelpKINode>
+  <HelpKINode Title="RequestAccessAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_RequestAccessAsync.htm" />
   <HelpKINode Title="RequestActive method" Url="html/M_InTheHand_System_Display_DisplayRequest_RequestActive.htm" />
   <HelpKINode Title="RequestDetailsAsync method" Url="html/M_InTheHand_ApplicationModel_Store_CurrentApp_RequestDetailsAsync.htm" />
   <HelpKINode Title="RequestRelease method" Url="html/M_InTheHand_System_Display_DisplayRequest_RequestRelease.htm" />
@@ -1607,7 +2121,9 @@
   <HelpKINode Title="Roaming enumeration member" Url="html/T_InTheHand_Storage_ApplicationDataLocality.htm" />
   <HelpKINode Title="RoamingFolder property" Url="html/P_InTheHand_Storage_ApplicationData_RoamingFolder.htm" />
   <HelpKINode Title="RoamingSettings property" Url="html/P_InTheHand_Storage_ApplicationData_RoamingSettings.htm" />
+  <HelpKINode Title="RunningSpeedAndCadence field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_RunningSpeedAndCadence.htm" />
   <HelpKINode Title="Satellite enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
+  <HelpKINode Title="ScanParameters field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_ScanParameters.htm" />
   <HelpKINode Title="ScheduledToastNotification class">
     <HelpKINode Title="ScheduledToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ScheduledToastNotification.htm" />
     <HelpKINode Title="about ScheduledToastNotification class" Url="html/T_InTheHand_UI_Notifications_ScheduledToastNotification.htm" />
@@ -1619,6 +2135,8 @@
   <HelpKINode Title="ScheduledToastNotification.SuppressPopup property" Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
   <HelpKINode Title="ScheduledToastNotification.Tag property" Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_Tag.htm" />
   <HelpKINode Title="ScreenLocked property" Url="html/P_InTheHand_Phone_System_SystemProtection_ScreenLocked.htm" />
+  <HelpKINode Title="SeekCompleted event" Url="html/E_InTheHand_Forms_MediaElement_SeekCompleted.htm" />
+  <HelpKINode Title="ServerCharacteristicConfiguration field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ServerCharacteristicConfiguration.htm" />
   <HelpKINode Title="SetApplicationLink method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetApplicationLink.htm" />
   <HelpKINode Title="SetContent method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_Clipboard_SetContent.htm" />
   <HelpKINode Title="SetData method">
@@ -1626,6 +2144,7 @@
     <HelpKINode Title="DataProviderRequest.SetData Method " Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataProviderRequest_SetData.htm" />
   </HelpKINode>
   <HelpKINode Title="SetDataProvider method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetDataProvider.htm" />
+  <HelpKINode Title="SetStateAsync method" Url="html/M_InTheHand_Devices_Radios_Radio_SetStateAsync.htm" />
   <HelpKINode Title="SetText method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataPackage_SetText.htm" />
   <HelpKINode Title="SettingsCommand class">
     <HelpKINode Title="SettingsCommand Class" Url="html/T_InTheHand_UI_ApplicationSettings_SettingsCommand.htm" />
@@ -1679,6 +2198,8 @@
   <HelpKINode Title="ShowShareUI method" Url="html/M_InTheHand_ApplicationModel_DataTransfer_DataTransferManager_ShowShareUI.htm" />
   <HelpKINode Title="ShowSmsSettings method" Url="html/M_InTheHand_ApplicationModel_Chat_ChatMessageManager_ShowSmsSettings.htm" />
   <HelpKINode Title="Size property" Url="html/P_InTheHand_Storage_FileProperties_BasicProperties_Size.htm" />
+  <HelpKINode Title="Source property" Url="html/P_InTheHand_Forms_MediaElement_Source.htm" />
+  <HelpKINode Title="SourceProperty field" Url="html/F_InTheHand_Forms_MediaElement_SourceProperty.htm" />
   <HelpKINode Title="Speed property" Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Speed.htm" />
   <HelpKINode Title="StandardDataFormats class">
     <HelpKINode Title="StandardDataFormats Class" Url="html/T_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats.htm" />
@@ -1689,6 +2210,7 @@
   <HelpKINode Title="StandardDataFormats.Text property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
   <HelpKINode Title="StandardDataFormats.WebLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
   <HelpKINode Title="Start method" Url="html/M_InTheHand_UI_Xaml_DispatcherTimer_Start.htm" />
+  <HelpKINode Title="State property" Url="html/P_InTheHand_Devices_Radios_Radio_State.htm" />
   <HelpKINode Title="Status property">
     <HelpKINode Title="GeofenceMonitor.Status Property " Url="html/P_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_Status.htm" />
     <HelpKINode Title="StatusChangedEventArgs.Status Property " Url="html/P_InTheHand_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
@@ -1710,6 +2232,7 @@
   <HelpKINode Title="StatusBarProgressIndicator.HideAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_HideAsync.htm" />
   <HelpKINode Title="StatusBarProgressIndicator.ProgressValue property" Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ProgressValue.htm" />
   <HelpKINode Title="StatusBarProgressIndicator.ShowAsync method" Url="html/M_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_ShowAsync.htm" />
+  <HelpKINode Title="StatusBarProgressIndicator.Text property" Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_Text.htm" />
   <HelpKINode Title="StatusChanged event">
     <HelpKINode Title="GeofenceMonitor.StatusChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geofencing_GeofenceMonitor_StatusChanged.htm" />
     <HelpKINode Title="Geolocator.StatusChanged Event" Url="html/E_InTheHand_Devices_Geolocation_Geolocator_StatusChanged.htm" />
@@ -1721,7 +2244,11 @@
     <HelpKINode Title="properties" Url="html/Properties_T_InTheHand_Devices_Geolocation_StatusChangedEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="StatusChangedEventArgs.Status property" Url="html/P_InTheHand_Devices_Geolocation_StatusChangedEventArgs_Status.htm" />
-  <HelpKINode Title="Stop method" Url="html/M_InTheHand_UI_Xaml_DispatcherTimer_Stop.htm" />
+  <HelpKINode Title="Stop method">
+    <HelpKINode Title="DispatcherTimer.Stop Method " Url="html/M_InTheHand_UI_Xaml_DispatcherTimer_Stop.htm" />
+    <HelpKINode Title="MediaElement.Stop Method " Url="html/M_InTheHand_Forms_MediaElement_Stop.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Stopped enumeration member" Url="html/T_InTheHand_Forms_MediaElementState.htm" />
   <HelpKINode Title="StorageDeleteOption enumeration" Url="html/T_InTheHand_Storage_StorageDeleteOption.htm" />
   <HelpKINode Title="StorageFile class">
     <HelpKINode Title="StorageFile Class" Url="html/T_InTheHand_Storage_StorageFile.htm" />
@@ -1779,7 +2306,10 @@
   <HelpKINode Title="StorageFolderExtensions.GetFolderSizeAsync method" Url="html/M_InTheHand_Storage_StorageFolderExtensions_GetFolderSizeAsync.htm" />
   <HelpKINode Title="StorageItemTypes enumeration" Url="html/T_InTheHand_Storage_StorageItemTypes.htm" />
   <HelpKINode Title="Subject property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_Subject.htm" />
-  <HelpKINode Title="Success enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
+  <HelpKINode Title="Success enumeration member">
+    <HelpKINode Title="GattCommunicationStatus Enumeration" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCommunicationStatus.htm" />
+    <HelpKINode Title="WebAuthenticationStatus Enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
+  </HelpKINode>
   <HelpKINode Title="SuppressPopup property">
     <HelpKINode Title="ScheduledToastNotification.SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ScheduledToastNotification_SuppressPopup.htm" />
     <HelpKINode Title="ToastNotification.SuppressPopup Property " Url="html/P_InTheHand_UI_Notifications_ToastNotification_SuppressPopup.htm" />
@@ -1816,18 +2346,28 @@
     <HelpKINode Title="FileAttributes Enumeration" Url="html/T_InTheHand_Storage_FileAttributes.htm" />
   </HelpKINode>
   <HelpKINode Title="TemporaryFolder property" Url="html/P_InTheHand_Storage_ApplicationData_TemporaryFolder.htm" />
-  <HelpKINode Title="Text property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
+  <HelpKINode Title="Text property">
+    <HelpKINode Title="CheckSwitch.Text Property " Url="html/P_InTheHand_Forms_CheckSwitch_Text.htm" />
+    <HelpKINode Title="StandardDataFormats.Text Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_Text.htm" />
+    <HelpKINode Title="StatusBarProgressIndicator.Text Property " Url="html/P_InTheHand_UI_ViewManagement_StatusBarProgressIndicator_Text.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextColor property" Url="html/P_InTheHand_Forms_CheckSwitch_TextColor.htm" />
+  <HelpKINode Title="TextColorProperty field" Url="html/F_InTheHand_Forms_CheckSwitch_TextColorProperty.htm" />
+  <HelpKINode Title="TextProperty field" Url="html/F_InTheHand_Forms_CheckSwitch_TextProperty.htm" />
   <HelpKINode Title="Tick event" Url="html/E_InTheHand_UI_Xaml_DispatcherTimer_Tick.htm" />
   <HelpKINode Title="Timestamp property">
     <HelpKINode Title="AccelerometerReading.Timestamp Property " Url="html/P_InTheHand_Devices_Sensors_AccelerometerReading_Timestamp.htm" />
+    <HelpKINode Title="GattValueChangedEventArgs.Timestamp Property " Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattValueChangedEventArgs_Timestamp.htm" />
     <HelpKINode Title="Geocoordinate.Timestamp Property " Url="html/P_InTheHand_Devices_Geolocation_Geocoordinate_Timestamp.htm" />
     <HelpKINode Title="GyrometerReading.Timestamp Property " Url="html/P_InTheHand_Devices_Sensors_GyrometerReading_Timestamp.htm" />
   </HelpKINode>
+  <HelpKINode Title="TimeTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_TimeTriggerSetting.htm" />
   <HelpKINode Title="Title property">
     <HelpKINode Title="DataPackagePropertySet.Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySet_Title.htm" />
     <HelpKINode Title="DataPackagePropertySetView.Title Property " Url="html/P_InTheHand_ApplicationModel_DataTransfer_DataPackagePropertySetView_Title.htm" />
     <HelpKINode Title="MessageDialog.Title Property " Url="html/P_InTheHand_UI_Popups_MessageDialog_Title.htm" />
   </HelpKINode>
+  <HelpKINode Title="Tizen property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Tizen.htm" />
   <HelpKINode Title="To property" Url="html/P_InTheHand_ApplicationModel_Email_EmailMessage_To.htm" />
   <HelpKINode Title="ToastNotification class">
     <HelpKINode Title="ToastNotification Class" Url="html/T_InTheHand_UI_Notifications_ToastNotification.htm" />
@@ -1868,11 +2408,13 @@
   <HelpKINode Title="ToUnixTimeMilliseconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeMilliseconds.htm" />
   <HelpKINode Title="ToUnixTimeSeconds method" Url="html/M_InTheHand_DateTimeOffsetHelper_ToUnixTimeSeconds.htm" />
   <HelpKINode Title="ToVersion method" Url="html/M_InTheHand_ApplicationModel_PackageVersionExtensions_ToVersion.htm" />
+  <HelpKINode Title="TransportDiscovery field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_TransportDiscovery.htm" />
   <HelpKINode Title="TryGetItemAsync method">
     <HelpKINode Title="IStorageFolder2.TryGetItemAsync Method " Url="html/M_InTheHand_Storage_IStorageFolder2_TryGetItemAsync.htm" />
     <HelpKINode Title="StorageFolder.TryGetItemAsync Method " Url="html/M_InTheHand_Storage_StorageFolder_TryGetItemAsync.htm" />
   </HelpKINode>
   <HelpKINode Title="TryGetValue method" Url="html/M_InTheHand_Storage_ApplicationDataContainerSettings_TryGetValue.htm" />
+  <HelpKINode Title="TxPower field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_TxPower.htm" />
   <HelpKINode Title="TypedEventHandler(Of TSender, TResult) delegate" Url="html/T_InTheHand_Foundation_TypedEventHandler_2.htm" />
   <HelpKINode Title="TypedEventHandler&lt;TSender, TResult&gt; delegate" Url="html/T_InTheHand_Foundation_TypedEventHandler_2.htm" />
   <HelpKINode Title="UICommand class">
@@ -1893,18 +2435,32 @@
     <HelpKINode Title="LaunchQuerySupportStatus Enumeration" Url="html/T_InTheHand_System_LaunchQuerySupportStatus.htm" />
     <HelpKINode Title="PositionSource Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
     <HelpKINode Title="ProcessorArchitecture Enumeration" Url="html/T_InTheHand_System_ProcessorArchitecture.htm" />
+    <HelpKINode Title="RadioState Enumeration" Url="html/T_InTheHand_Devices_Radios_RadioState.htm" />
   </HelpKINode>
+  <HelpKINode Title="Unreachable enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCommunicationStatus.htm" />
+  <HelpKINode Title="Unspecified enumeration member" Url="html/T_InTheHand_Devices_Radios_RadioAccessStatus.htm" />
   <HelpKINode Title="Update method" Url="html/M_InTheHand_UI_Notifications_BadgeUpdater_Update.htm" />
   <HelpKINode Title="Uri enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="UriForResults enumeration member" Url="html/T_InTheHand_System_LaunchQuerySupportType.htm" />
   <HelpKINode Title="UserCancel enumeration member" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
+  <HelpKINode Title="UserData field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_UserData.htm" />
+  <HelpKINode Title="UserDescription property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_UserDescription.htm" />
   <HelpKINode Title="Utf16BE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf16LE enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
   <HelpKINode Title="Utf8 enumeration member" Url="html/T_InTheHand_Storage_Streams_UnicodeEncoding.htm" />
+  <HelpKINode Title="Uuid property">
+    <HelpKINode Title="GattCharacteristic.Uuid Property " Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_Uuid.htm" />
+    <HelpKINode Title="GattDescriptor.Uuid Property " Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptor_Uuid.htm" />
+    <HelpKINode Title="GattDeviceService.Uuid Property " Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDeviceService_Uuid.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ValidRange field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ValidRange.htm" />
+  <HelpKINode Title="Value property" Url="html/P_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattReadResult_Value.htm" />
+  <HelpKINode Title="ValueChanged event" Url="html/E_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_ValueChanged.htm" />
   <HelpKINode Title="Values property">
     <HelpKINode Title="ApplicationDataContainer.Values Property " Url="html/P_InTheHand_Storage_ApplicationDataContainer_Values.htm" />
     <HelpKINode Title="ApplicationDataContainerSettings.Values Property " Url="html/P_InTheHand_Storage_ApplicationDataContainerSettings_Values.htm" />
   </HelpKINode>
+  <HelpKINode Title="ValueTriggerSetting field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattDescriptorUuids_ValueTriggerSetting.htm" />
   <HelpKINode Title="Version property">
     <HelpKINode Title="OperatingSystem.Version Property " Url="html/P_System_OperatingSystem_Version.htm" />
     <HelpKINode Title="PackageId.Version Property " Url="html/P_InTheHand_ApplicationModel_PackageId_Version.htm" />
@@ -1940,12 +2496,20 @@
   <HelpKINode Title="WebAuthenticationResult.ResponseStatus property" Url="html/P_InTheHand_Security_Authentication_Web_WebAuthenticationResult_ResponseStatus.htm" />
   <HelpKINode Title="WebAuthenticationStatus enumeration" Url="html/T_InTheHand_Security_Authentication_Web_WebAuthenticationStatus.htm" />
   <HelpKINode Title="WebLink property" Url="html/P_InTheHand_ApplicationModel_DataTransfer_StandardDataFormats_WebLink.htm" />
+  <HelpKINode Title="WeightScale field" Url="html/F_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattServiceUuids_WeightScale.htm" />
   <HelpKINode Title="Width property" Url="html/P_InTheHand_Foundation_Rect_Width.htm" />
-  <HelpKINode Title="WiFi enumeration member" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
+  <HelpKINode Title="WiFi enumeration member">
+    <HelpKINode Title="PositionSource Enumeration" Url="html/T_InTheHand_Devices_Geolocation_PositionSource.htm" />
+    <HelpKINode Title="RadioKind Enumeration" Url="html/T_InTheHand_Devices_Radios_RadioKind.htm" />
+  </HelpKINode>
   <HelpKINode Title="Win32NT enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Win32S enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="Win32Windows enumeration member" Url="html/T_System_PlatformID.htm" />
   <HelpKINode Title="WinCE enumeration member" Url="html/T_System_PlatformID.htm" />
+  <HelpKINode Title="Windows property" Url="html/P_InTheHand_Forms_OnPlatform2_1_Windows.htm" />
+  <HelpKINode Title="WinPhone property" Url="html/P_InTheHand_Forms_OnPlatform2_1_WinPhone.htm" />
+  <HelpKINode Title="Write enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
+  <HelpKINode Title="WriteableAuxiliaries enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="WriteLinesAsync method">
     <HelpKINode Title="FileIO.WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteLinesAsync.htm" />
     <HelpKINode Title="PathIO.WriteLinesAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteLinesAsync.htm" />
@@ -1954,6 +2518,8 @@
     <HelpKINode Title="FileIO.WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_FileIO_WriteTextAsync.htm" />
     <HelpKINode Title="PathIO.WriteTextAsync Method " Url="html/Overload_InTheHand_Storage_PathIO_WriteTextAsync.htm" />
   </HelpKINode>
+  <HelpKINode Title="WriteValueAsync method" Url="html/M_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristic_WriteValueAsync.htm" />
+  <HelpKINode Title="WriteWithoutResponse enumeration member" Url="html/T_InTheHand_Devices_Bluetooth_GenericAttributeProfile_GattCharacteristicProperties.htm" />
   <HelpKINode Title="X property">
     <HelpKINode Title="Point.X Property " Url="html/P_InTheHand_Foundation_Point_X.htm" />
     <HelpKINode Title="Rect.X Property " Url="html/P_InTheHand_Foundation_Rect_X.htm" />
