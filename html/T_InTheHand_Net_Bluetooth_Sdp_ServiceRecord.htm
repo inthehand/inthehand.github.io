@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html ><html lang="en-US"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="../icons/favicon.ico" /><link rel="stylesheet" href="../css/bulma.css" /><link rel="stylesheet" href="../css/font-awesome.min.css" /><link rel="stylesheet" href="../css/presentationStyle.css" /><link rel="stylesheet" href="../css/vs.min.css" /><script src="../scripts/jquery-3.5.1.min.js"></script><script src="../scripts/clipboard.min.js"></script><script src="../scripts/highlight.min.js"></script><script src="../scripts/presentationStyle.js"></script><title>ServiceRecord Class</title><meta name="Title" content="ServiceRecord" /><meta name="Help.Id" content="T:InTheHand.Net.Bluetooth.Sdp.ServiceRecord" /><meta name="Help.ContentType" content="Reference" /><meta name="container" content="InTheHand.Net.Bluetooth.Sdp" /><meta name="guid" content="T_InTheHand_Net_Bluetooth_Sdp_ServiceRecord" /><meta name="Description" content="Holds an SDP service record." /><meta name="tocFile" content="../toc/IDEA.xml" /></head><body><div class="fixedLayout"><div id="Header" class="fixedHeader"><div class="pageHeader level mb-0 py-2 px-4"><div id="TitleContainer" class="level-left"><div id="DocumentationTitle" class="level-item">32feet.NET - Personal Area Networking for .NET</div></div><div id="LangFilterSearchContainer" class="level-right"><div class="level-item"><div class="dropdown is-hoverable"><div class="dropdown-trigger"><button class="button" aria-haspopup="true" aria-controls="dropdown-menu"><span id="CurrentLanguage"></span><span class="icon is-small"><i class="fa fa-angle-down" aria-hidden="true"></i></span></button></div><div class="dropdown-menu" role="menu"><div id="LanguageSelections" class="dropdown-content"><a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a><a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a><a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a><a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a></div></div></div></div><div class="level-item"><form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;"><div class="field"><div class="control has-icons-left"><input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" /><span class="icon is-small is-left"><i class="fa fa-search"></i></span><button id="SearchButton" type="submit" class="is-hidden"></button></div></div></form></div></div></div></div><div class="fixedContent"><nav class="breadcrumb my-1 px-2 border-bottom" role="navigation"><ul id="TopicBreadcrumbs" /></nav><div class="columns pl-5 pr-5 fixedContent"><div id="ShowHideTOCColumn" class="column is-hidden-tablet"><a id="ShowHideTOC">Show/Hide TOC</a></div><div id="TOCColumn" class="column is-hidden-mobile"><nav class="toc"><ul id="TableOfContents" class="toc-menu" /></nav></div><div id="TopicContent" class="column content is-7"><h1>Service<wbr />Record Class</h1><div class="summary">
+            Holds an SDP service record.
+            </div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Definition</h2><div id="IDBSection"><strong>Namespace:</strong> <a href="N_InTheHand_Net_Bluetooth_Sdp.htm">InTheHand.Net.Bluetooth.Sdp</a><br /><strong>Assembly:</strong> InTheHand.Net.Bluetooth (in InTheHand.Net.Bluetooth.dll) Version: 4.0.30+1af847c156a3fd10c1014acf1a38df1d0ca2ade4<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">sealed</span> <span class="keyword">class</span> <span class="identifier">ServiceRecord</span> : <span class="identifier">IEnumerable</span>&lt;<span class="identifier">ServiceAttribute</span>&gt;, 
+	<span class="identifier">IEnumerable</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">NotInheritable</span> <span class="keyword">Class</span> <span class="identifier">ServiceRecord</span>
+	<span class="keyword">Implements</span> <span class="identifier">IEnumerable</span>(<span class="keyword">Of</span> <span class="identifier">ServiceAttribute</span>), <span class="identifier">IEnumerable</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">ServiceRecord</span> <span class="keyword">sealed</span> : <span class="identifier">IEnumerable</span>&lt;<span class="identifier">ServiceAttribute</span>^&gt;, 
+	<span class="identifier">IEnumerable</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="identifier">SealedAttribute</span>&gt;]
+<span class="keyword">type</span> <span class="identifier">ServiceRecord</span> = 
+    <span class="keyword">class</span>
+        <span class="keyword">interface</span> <span class="identifier">IEnumerable</span>&lt;<span class="identifier">ServiceAttribute</span>&gt;
+        <span class="keyword">interface</span> <span class="identifier">IEnumerable</span>
+    <span class="keyword">end</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">ServiceRecord</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://docs.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a><span id="LST5B0CEE00_0" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><a href="T_InTheHand_Net_Bluetooth_Sdp_ServiceAttribute.htm">ServiceAttribute</a><span id="LST5B0CEE00_1" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>, <a href="https://docs.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a></dd></dl></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Remarks</h2><div id="IDBCSection"><p>A Service Record is the top-level container in the Service Discovery
+            protocol/database.  It contains a list of Service Attributes each identified 
+            by a numerical identifier (its <span class="noLink">ServiceAttributeId</span>),
+            and with its data held in a <span class="noLink">ServiceElement</span>.
+            <span class="noLink">ServiceElement</span> has methods to access the
+            various types of data it contains.
+            </p><p>The content of the record for a particular service class is defined in the
+            profile’s specification along with the IDs it uses. The IDs for the 
+            common standard services have beed defined here, as e.g. 
+            <a href="T_InTheHand_Net_Bluetooth_AttributeIds_ObexAttributeId.htm">ObexAttributeId</a>,
+            <a href="T_InTheHand_Net_Bluetooth_AttributeIds_BasicPrintingProfileAttributeId.htm">BasicPrintingProfileAttributeId</a>,
+            etc. The Service Discovery profile itself defines IDs, some that can be used 
+            in any record <a href="T_InTheHand_Net_Bluetooth_AttributeIds_UniversalAttributeId.htm">UniversalAttributeId</a>, 
+            and others
+            <a href="T_InTheHand_Net_Bluetooth_AttributeIds_ServiceDiscoveryServerAttributeId.htm">ServiceDiscoveryServerAttributeId</a>,
+            and <a href="T_InTheHand_Net_Bluetooth_AttributeIds_BrowseGroupDescriptorAttributeId.htm">BrowseGroupDescriptorAttributeId</a>.
+            </p><p>Note that except for the attributes in the “Universal” category 
+            the IDs are <i>not</i> unique, for instance the ID is 0x0200 for both 
+            <a href="F_InTheHand_Net_Bluetooth_AttributeIds_ServiceDiscoveryServerAttributeId_VersionNumberList.htm">VersionNumberList</a>
+            and <a href="F_InTheHand_Net_Bluetooth_AttributeIds_BrowseGroupDescriptorAttributeId_GroupId.htm">GroupId</a>
+            from <a href="T_InTheHand_Net_Bluetooth_AttributeIds_ServiceDiscoveryServerAttributeId.htm">ServiceDiscoveryServerAttributeId</a>
+            and <a href="T_InTheHand_Net_Bluetooth_AttributeIds_BrowseGroupDescriptorAttributeId.htm">BrowseGroupDescriptorAttributeId</a>
+            respectively.
+            </p><p><span class="noLink">ServiceRecord</span> provides the normal 
+            collection-type methods properties e.g. 
+            <span class="noLink">Count</span>, 
+            <span class="noLink">Contains(ServiceAttributeId)</span>,
+            <span class="noLink">GetAttributeById(ServiceAttributeId)</span>,
+            <span class="noLink">Item</span>
+            and <span class="noLink">GetEnumerator<span id="LST5B0CEE00_2" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>.  So, to 
+            access a particular attribute’s content get the 
+            <span class="noLink">ServiceAttribute</span> using one of those methods 
+            and then read the data from the <span class="noLink">ServiceElement</span>. 
+            See the example below.
+            </p><p> 
+            </p><p>The SDP specification defines the content of <span class="code">TextString</span> element
+            type very loosely and they are thus very difficult to handle when reading 
+            from a record.
+            The encoding of the string content is
+            not set in the specification, and thus implementors are free to use any 
+            encoding they fancy, for instance ASCII, UTF-8, 
+            UTF-16, Windows-1252, etc — all of which have been seen in record 
+            from real devices.  It would have been much more sensible to mandate UTF-8 
+            as the other part of the Bluetooth protocol suite do e.g. the PIN is always
+            stored as a UTF-8 encoded string.
+            </p><p>Not only that but some of the attributes defined in the SDP specification
+            can be included in more than one ‘natural language’ version,
+            and the definition of the language and the string’s encoding
+            is not included in the element, but is 
+            instead defined in a separate element and the ID of the string attribute
+            modified.  Yikes!
+            </p><p>  This makes it near impossible to decode the bytes in
+            a string element at parse time and create the string object then.  Therefore
+            the parser creates an element containing the raw bytes from the string which
+            hopefully the user will know how to decode, passing the required encoding 
+            information to one of methods on the element i.e.
+            <span class="noLink">GetValueAsString(LanguageBaseItem)</span>,
+            which takes a multi-language-base item from the same record (see e.g.
+            <span class="noLink">GetPrimaryLanguageBaseItem<span id="LST5B0CEE00_3" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>),
+            <span class="noLink">GetValueAsString(Encoding)</span>
+            which takes a .NET <a href="https://docs.microsoft.com/dotnet/api/system.text.encoding" target="_blank" rel="noopener noreferrer">Encoding</a> object,
+            or <span class="noLink">GetValueAsStringUtf8<span id="LST5B0CEE00_4" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>,
+            or <span class="noLink">GetMultiLanguageStringAttributeById(ServiceAttributeId, LanguageBaseItem)</span>
+            on the record which again takes a multi-language-base item.
+            </p><p> 
+            </p><p>A Service Record can be created from the source byte array by using the 
+            <span class="noLink">CreateServiceRecordFromBytes(<span id="LST5B0CEE00_5" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST5B0CEE00_6" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
+            method or the 
+            <span class="noLink">Parse(<span id="LST5B0CEE00_7" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST5B0CEE00_8" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, Int32)</span>
+            on <span class="noLink">ServiceRecordParser</span>.  A record
+            can also be created from a list of <span class="noLink">ServiceAttribute</span>
+            passed to the constructor 
+            <span class="noLink">#ctor(IList<span id="LST5B0CEE00_9" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>ServiceAttribute<span id="LST5B0CEE00_10" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</span>.
+            </p><p> 
+            </p><p>From the SDP specification:
+            </p><ul><li><strong>2.2 ServiceRecord </strong> – “…
+            a list of service attributes.”</li><li><strong>2.3 ServiceAttribute</strong> – “…
+            two components: an attribute id and an attribute value.”</li><li><strong>2.4 Attribute ID</strong> – “…
+            a 16-bit unsigned integer”,
+            “…represented as a data element.”</li><li><strong>2.5 Attribute Value</strong> – “…
+            a variable length field whose meaning is determined by the attribute ID…”,
+            “…represented by a data element.”</li><li><strong>3.1 Data Element</strong> – “…
+            a typed data representation.
+            It consists of two fields: a header field and a data field.
+            The header field, in turn, is composed of two parts: a type descriptor and a size descriptor.
+            ”</li><li><strong>3.2 Data Element Type Descriptor </strong> – “…
+            a 5-bit type descriptor.”</li><li><strong>3.3 Data Element Size Descriptor </strong> – “…
+            The data element size descriptor is represented as a
+            3-bit size index followed by 0, 8, 16, or 32 bits.”</li></ul></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Example</h2><div id="IDCCSection"><div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-C#">ServiceRecord record = ...
+ServiceAttribute attr = record.GetAttributeById(UniversalAttributeId.ServiceRecordHandle);
+ServiceElement element = attr.Value;
+if(element.ElementType != ElementType.UInt32) {
+  throw new FooException("Invalid record content for ServiceRecordHandle");
+}
+UInt32 handle = (UInt32)element.Value;</code></pre></div></div>
+            or
+            <div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-VB.NET">Dim bppRecord As ServiceRecord = ...
+Dim attr As ServiceAttribute = bppRecord.GetAttributeById(BasicPrintingProfileAttributeId.PrinterName)
+Dim element As ServiceElement = attr.Value;
+' Spec say it is in UTF-8
+Dim printerName As String = element.GetValueAsStringUtf8()</code></pre></div></div></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Constructors</h2><div id="IDAAFASection"><table id="ConstructorList" class="table is-hoverable"><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord__ctor.htm">ServiceRecord<span id="LST5B0CEE00_11" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a></td><td>
+            Initializes a new instance of the 
+            <span class="noLink">ServiceRecord</span> class 
+            containing no <span class="noLink">ServiceAttribute</span>s.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord__ctor_2.htm">ServiceRecord(IList<span id="LST5B0CEE00_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>ServiceAttribute<span id="LST5B0CEE00_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>)</a></td><td>
+            Initializes a new instance of the 
+            <span class="noLink">ServiceRecord</span> class 
+            with the specified set of <span class="noLink">ServiceAttribute</span>s.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord__ctor_1.htm">ServiceRecord(<span id="LST5B0CEE00_14" data-languageSpecificText="cpp=array&lt;"></span>ServiceAttribute<span id="LST5B0CEE00_15" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a></td><td>
+            Initializes a new instance of the 
+            <span class="noLink">ServiceRecord</span> class 
+            with the specified set of <span class="noLink">ServiceAttribute</span>s.
+            </td></tr></table></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Properties</h2><div id="IDQFASection"><table id="PropertyList" class="table is-hoverable"><tr><td><a href="P_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_AttributeIds.htm">AttributeIds</a></td><td>
+            Get a list of the numerical IDs of the Attributes in the record 
+            as an <a href="https://docs.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_blank" rel="noopener noreferrer">IList<span id="LST5B0CEE00_16" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LST5B0CEE00_17" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>
+            of <span class="noLink">ServiceAttributeId</span>.
+            </td></tr><tr><td><a href="P_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_Count.htm">Count</a></td><td>
+            Gets the count of attributes in the record.
+            </td></tr><tr><td><a href="P_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_Item.htm">Item</a></td><td>
+            Gets the attribute at the specified index.
+            </td></tr><tr><td><a href="P_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_SourceBytes.htm">SourceBytes</a></td><td>
+            Get the raw byte array from which the record was parsed.
+            </td></tr></table></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Methods</h2><div id="IDCFASection"><table id="MethodList" class="table is-hoverable"><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_Contains.htm">Contains(ServiceAttributeId)</a></td><td>
+            Determines whether a service attribute with the specified ID is in the List.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_Contains_1.htm">Contains(ServiceAttributeId, LanguageBaseItem)</a></td><td>
+            Determines whether a TextString service attribute with the specified ID 
+            and natural language 
+            is in the List.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_CreateLanguageBasedAttributeId.htm">CreateLanguageBasedAttributeId</a></td><td>
+            Create the attribute id resulting for adding the language base attribute id.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_CreateServiceRecordFromBytes.htm">CreateServiceRecordFromBytes</a></td><td>
+            Create a <span class="noLink">ServiceRecord</span> by parsing
+            the given array of <a href="https://docs.microsoft.com/dotnet/api/system.byte" target="_blank" rel="noopener noreferrer">Byte</a>.
+            </td></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.object.equals#System_Object_Equals_System_Object_" target="_blank" rel="noopener noreferrer">Equals</a></td><td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetAttributeById.htm">GetAttributeById(ServiceAttributeId)</a></td><td>
+            Returns the attribute with the given ID.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetAttributeById_1.htm">GetAttributeById(ServiceAttributeId, LanguageBaseItem)</a></td><td>
+            Returns the attribute with the given ID and natural language.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetAttributeByIndex.htm">GetAttributeByIndex</a></td><td>
+            Gets the attribute at the specified index.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetEnumerator.htm">GetEnumerator</a></td><td>
+            Gets an enumerator that can be used to navigate through the record's 
+            list of <span class="noLink">ServiceAttribute</span>s.
+            </td></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.object.gethashcode#System_Object_GetHashCode" target="_blank" rel="noopener noreferrer">GetHashCode</a></td><td>Serves as the default hash function.<br />(Inherited from <a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetLanguageBaseList.htm">GetLanguageBaseList</a></td><td>
+            Gets the list of LanguageBaseAttributeId items in the service record.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetMultiLanguageStringAttributeById.htm">GetMultiLanguageStringAttributeById</a></td><td>
+            Gets a <a href="https://docs.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a> containing the value of the 
+            <span class="noLink">TextString</span>
+            service attribute with the specified ID,
+            using the specified natural language.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetPrimaryLanguageBaseItem.htm">GetPrimaryLanguageBaseItem</a></td><td>
+            Gets the primary LanguageBaseAttributeId item in the service record.
+            </td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_GetPrimaryMultiLanguageStringAttributeById.htm">GetPrimaryMultiLanguageStringAttributeById</a></td><td>
+            Gets a <a href="https://docs.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a> containing the value of the 
+            <span class="noLink">TextString</span>
+            service attribute with the specified ID,
+            using the primary natural language.
+            </td></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.object.gettype#System_Object_GetType" target="_blank" rel="noopener noreferrer">GetType</a></td><td>Gets the <a href="https://docs.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td></tr><tr><td><a href="M_InTheHand_Net_Bluetooth_Sdp_ServiceRecord_ToByteArray.htm">ToByteArray</a></td><td>
+            Return the byte array representing the service record.
+            </td></tr><tr><td><a href="https://docs.microsoft.com/dotnet/api/system.object.tostring#System_Object_ToString" target="_blank" rel="noopener noreferrer">ToString</a></td><td>Returns a string that represents the current object.<br />(Inherited from <a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td></tr></table></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>See Also</h2><div id="seeAlsoSection"><h4>Reference</h4><div><a href="N_InTheHand_Net_Bluetooth_Sdp.htm">InTheHand.Net.Bluetooth.Sdp Namespace</a></div></div></div><div id="InThisArticleColumn" class="column is-hidden-mobile"><nav class="menu sticky is-hidden"><p class="menu-label"><strong>In This Article</strong></p><ul id="InThisArticleMenu" class="menu-list"><li><a class="quickLink">Definition</a></li><li><a class="quickLink">Remarks</a></li><li><a class="quickLink">Example</a></li><li><a class="quickLink">Constructors</a></li><li><a class="quickLink">Properties</a></li><li><a class="quickLink">Methods</a></li><li><a class="quickLink">See Also</a></li></ul></nav></div></div></div><footer id="PageFooter" class="footer border-top py-3 fixedFooter"><div class="columns"><div class="column"><p><a href="https://inthehand.com" target="_blank" rel="noopener noreferrer">Copyright © 2003-2022 In The Hand Ltd. All Rights Reserved.</a></p><div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:feedback%40inthehand.com?Subject=32feet.NET%20-%20Personal%20Area%20Networking%20for%20.NET">feedback@inthehand.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div><div class="column"> 
+				</div></div></footer></div><script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script></body></html>
